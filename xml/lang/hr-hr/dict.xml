@@ -1,0 +1,782 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<!-- 'Loading' website data -->
+	<item v="loading"><translate><![CDATA[LOADING]]></translate></item>
+<!-- new --><item v="disclaimer"><translate><![CDATA[© 2006 Panasonic Marketing Europe GmbH]]></translate></item>
+<!-- new --><item v="select_language"><translate><![CDATA[Odaberite jezik]]></translate></item>
+
+	<!-- SECTION: HOME PAGE -->
+	
+	<item v="home_title"><translate><![CDATA[Istražite Lumix razlike.]]></translate></item>
+	<item v="home_subtitle"><translate><![CDATA[Lumix digitalne kamere omogućavaju ljepše slike. Eksperimentirajte sa fotografijom, saznajte novu perspektivu - Lumix čini svoje. 
+Slijedite naše priče i iskusite Lumix razliku!]]></translate></item>
+
+	<!-- panels -->
+	<item v="section0_title"><translate><![CDATA[Lumix Nagrada]]></translate></item>
+	<item v="section0_subtitle"><translate><![CDATA[Iz svojih slika dobijte nagradu za fotografiju.]]></translate></item>
+	
+	<item v="section1_title"><translate><![CDATA[Opseg proizvoda]]></translate></item>
+	<item v="section1_subtitle"><translate><![CDATA[Pogledajte opseg i glavne Lumix osobine.]]></translate></item>
+	
+	<item v="section2_subtitle"><translate><![CDATA[Odlazi u London sa svoja 2 prijatelja]]></translate></item>
+
+	<item v="section3_subtitle"><translate><![CDATA[Posjećuje Barcelonu sa svojom djevojkom]]></translate></item>
+	
+	<item v="section4_subtitle"><translate><![CDATA[Na testu Formule jedan u Jerezu]]></translate></item>
+
+	<!-- FEATURING THE [CAMERA NAME] -->
+	<item v="featuring"><translate><![CDATA[Sa]]></translate></item>
+	<item v="the"><translate><![CDATA[]]></translate></item>
+	
+	<!-- FLOATING MAIN MENU -->
+	
+	<item v="menu_overview"><translate><![CDATA[Ukratko]]></translate></item>
+	<item v="menu_scene"><translate><![CDATA[Scena]]></translate></item>
+	<item v="menu_lumix_award"><translate><![CDATA[Lumix opseg proizvoda]]></translate></item>
+	<item v="menu_product_range"><translate><![CDATA[2006 Lumix opseg proizvoda]]></translate></item>
+	<!-- menu items -->
+	<item v="menu_0"><translate><![CDATA[HOME]]></translate></item>
+	<item v="menu_1"><translate><![CDATA[Slijedite Annin put u London]]></translate></item>
+	<item v="menu_2"><translate><![CDATA[Slijedite Pietroa u posjetu Barceloni]]></translate></item>
+	<item v="menu_3"><translate><![CDATA[Slijedite Thomasa na F1 testu]]></translate></item>
+	<item v="menu_4"><translate><![CDATA[Lumix opseg proizvoda]]></translate></item>
+	<item v="menu_5"><translate><![CDATA[Uđite u Lumix nagradu]]></translate></item>
+	
+	<!-- PRODUCT INFO -->
+	<!-- Launch product info panel-->
+	<item v="find_out_more_DMC-FX01"><translate><![CDATA[Saznajte više o DMC-FX01]]></translate></item>
+	<item v="find_out_more_DMC-FZ7"><translate><![CDATA[Saznajte više o DMC-FZ7]]></translate></item>
+	<item v="find_out_more_DMC-TZ1"><translate><![CDATA[Saznajte više o DMC-TZ1]]></translate></item>
+	
+	<!-- Camera types -->
+	<item v="cam_type_0"><translate><![CDATA[Zabavno i lako]]></translate></item>
+	<item v="cam_type_1"><translate><![CDATA[Stilski i kompaktno]]></translate></item>
+	<item v="cam_type_2"><translate><![CDATA[Svjetski putnik]]></translate></item>
+	<item v="cam_type_3"><translate><![CDATA[Polu-profesionalno]]></translate></item>
+	<item v="cam_type_4"><translate><![CDATA[Profesionalno]]></translate></item>
+	<item v="cam_type_5"><translate><![CDATA[Profesionalno SLR]]></translate></item>
+	
+	<!-- Camera specifications. In main.xml, specify id for each spec that applies to a camera -->
+	<item v="spec_0"><translate><![CDATA[optički zoom]]></translate></item>
+	<item v="spec_1"><translate><![CDATA[Optički stabilizator slike]]></translate></item>
+	<item v="spec_2"><translate><![CDATA[Leica leće]]></translate></item>
+	<item v="spec_3"><translate><![CDATA[Venus Engine]]></translate></item>
+	<item v="spec_4"><translate><![CDATA[mega piksela]]></translate></item>
+	<item v="spec_5"><translate><![CDATA[Ručna funkcija]]></translate></item>
+	<item v="spec_6"><translate><![CDATA[LCD širokog kuta]]></translate></item>
+	<item v="spec_7"><translate><![CDATA[široki kut]]></translate></item>
+	<item v="spec_8"><translate><![CDATA[SLR]]></translate></item>
+	<item v="spec_9"><translate><![CDATA[Veliki LCD]]></translate></item>
+	<item v="spec_10"><translate><![CDATA[16:9 CCD]]></translate></item>
+	
+	<!-- SECTION: LUMIX AWARD -->
+	
+	<item v="lumix_award_title"><translate><![CDATA[2006 Lumix Nagrada]]></translate></item>
+	<item v="lumix_award_subtitle"><translate><![CDATA[Lumix nagrada se sada nalazi u petoj godini i poziva sve da sudjeluju u europskom natjecanju u digitalnoj fotografiji.]]></translate></item>
+	<item v="previous_winners"><translate><![CDATA[Prijašnji pobjednici]]></translate></item>
+	<item v="enter_award"><translate><![CDATA[Uđite u Lumix nagradu]]></translate></item>
+	
+	<!-- Image navigation -->
+	<item v="close"><translate><![CDATA[Zatvaranje]]></translate></item>
+	<item v="prev_image"><translate><![CDATA[Prijašnje
+IMAGE]]></translate></item>
+	<item v="next_image"><translate><![CDATA[Dalje
+IMAGE]]></translate></item>
+	
+	
+	<!-- SECTION: PRODUCT RANGE -->
+	<item v="featured"><translate><![CDATA[Osobine]]></translate></item>
+	<item v="product_range_title"><translate><![CDATA[2006 Lumix opseg proizvoda]]></translate></item>
+	<item v="product_range_subtitle"><translate><![CDATA[Lumix opseg nudi pravu kameru za vas. Saznajte više o njenim ključnim tehnologijama ovdje.]]></translate></item>
+	
+	<!-- Camera features -->
+	<item v="leica_lens"><translate><![CDATA[Leica Lenće DC]]></translate></item>
+	
+	<!-- Camera info menu -->
+	<item v="want_to_buy"><translate><![CDATA[Kupite ovu kameru]]></translate></item>
+	<item v="tech_specs"><translate><![CDATA[Detaljne specifikacije]]></translate></item>
+	
+	<!-- Camera navigation -->
+	<item v="close_camera"><translate><![CDATA[Zatvaranje
+Kamera]]></translate></item>
+	<item v="prev_camera"><translate><![CDATA[Prijašnja 
+Kamera]]></translate></item>
+	<item v="next_camera"><translate><![CDATA[Sljedeća 
+Kamera]]></translate></item>
+
+	<!-- menu -->
+	<item v="see_in_action_DMC-FX01"><translate><![CDATA[POGLEDAJTE FX01 U AKCIJI]]></translate></item>
+	<item v="see_in_action_DMC-FZ7"><translate><![CDATA[POGLEDAJTE FZ7 U AKCIJI]]></translate></item>
+	<item v="see_in_action_DMC-TZ1"><translate><![CDATA[POGLEDAJTE TZ1 U AKCIJI]]></translate></item>
+	<item v="buy_this_camera"><translate><![CDATA[Kupite ovu kameru]]></translate></item>
+	<item v="more_info"><translate><![CDATA[Detaljne specifikacije]]></translate></item>
+	
+	<!-- Technologies -->
+<!-- new --><item v="key_technologies"><translate><![CDATA[LUMIX KLJUČNE TEHNOLOGIJE]]></translate></item>
+	
+	<item v="enter_award"><translate><![CDATA[Uđite u Lumix nagradu]]></translate></item>
+	
+	
+	<!-- Video stories -->
+	<!-- Anna -->
+	<item v="anna_ch1_title"><translate><![CDATA[Sastanak u Aninom stanu]]></translate></item>
+	<item v="anna_ch2_title"><translate><![CDATA[Budite spremni]]></translate></item>
+	<item v="anna_ch3_title"><translate><![CDATA[Zabava sa šminkom]]></translate></item>
+	<item v="anna_ch4_title"><translate><![CDATA[Taxi vožnja u klub]]></translate></item>
+	<item v="anna_ch5_title"><translate><![CDATA[Odskakivač]]></translate></item>
+	<item v="anna_ch6_title"><translate><![CDATA[Zastor]]></translate></item>
+	<item v="anna_ch7_title"><translate><![CDATA[Ragovor sa konobarom]]></translate></item>
+	<item v="anna_ch8_title"><translate><![CDATA[Razgovor na kauču]]></translate></item>
+	<item v="anna_ch9_title"><translate><![CDATA[Na plesnom podiju]]></translate></item>
+	
+	<!-- Pietro -->
+	<item v="pietro_ch1_title"><translate><![CDATA[U predgrađu Barcelone]]></translate></item>
+	<item v="pietro_ch2_title"><translate><![CDATA[Odlazak u centar]]></translate></item>
+	<item v="pietro_ch3_title"><translate><![CDATA[Efekt slike]]></translate></item>
+	<item v="pietro_ch4_title"><translate><![CDATA[Izvan kafića]]></translate></item>
+	<item v="pietro_ch5_title"><translate><![CDATA[U hotelu]]></translate></item>
+	<item v="pietro_ch6_title"><translate><![CDATA[Na plaži]]></translate></item>
+	<item v="pietro_ch7_title"><translate><![CDATA[Prolazak moderne arhitekture]]></translate></item>
+	<item v="pietro_ch8_title"><translate><![CDATA[Posjet Sagrada obitelji]]></translate></item>
+	<item v="pietro_ch9_title"><translate><![CDATA[Restoran sa pogledom]]></translate></item>
+	
+	<!-- Tim -->
+	<item v="thomas_ch1_title"><translate><![CDATA[Dolazak na Jerez utrku]]></translate></item>
+	<item v="thomas_ch2_title"><translate><![CDATA[Na startu]]></translate></item>
+	<item v="thomas_ch3_title"><translate><![CDATA[Unutar garaže]]></translate></item>
+	<item v="thomas_ch4_title"><translate><![CDATA[Na vrhu travnjaka]]></translate></item>
+	<item v="thomas_ch5_title"><translate><![CDATA[Na kraju staze]]></translate></item>
+	<item v="thomas_ch6_title"><translate><![CDATA[Na cesti-drugi put]]></translate></item>
+	<item v="thomas_ch7_title"><translate><![CDATA[Grandstand pogled]]></translate></item>
+	<item v="thomas_ch8_title"><translate><![CDATA[Torre Tio Pepe]]></translate></item>
+	<item v="thomas_ch9_title"><translate><![CDATA[Stadionski trik]]></translate></item>
+	
+	<!-- video navigation -->
+	<item v="play"><translate><![CDATA[Reprodukcija]]></translate></item>
+	<item v="pause"><translate><![CDATA[Pauza]]></translate></item>
+	<item v="close_scene"><translate><![CDATA[Zatvaranje scene]]></translate></item>
+	<item v="prev_scene"><translate><![CDATA[Prijašnja scena]]></translate></item>
+	<item v="next_scene"><translate><![CDATA[Sljedeća scena]]></translate></item>
+
+
+	
+	<!-- TABS -->
+	<item v="more_info_image"><translate><![CDATA[More info about this image]]></translate></item>
+	
+	<!-- Hotspot rollover text -->
+	<!-- Photo hint and tips -->
+	<item v="phototip1_roll"><translate><![CDATA[LEARN MORE ABOUT LENS FLARE AND THE EFFECTS OF BACKLIGHT
+FROM A STRONG LIGHT SOURCE]]></translate></item>
+	<item v="phototip2_roll"><translate><![CDATA[Here is photo tip 2]]></translate></item>
+	<item v="phototip3_roll"><translate><![CDATA[Here is photo tip 3]]></translate></item>
+	<!-- picture -->
+	<item v="picture_roll"><translate><![CDATA[Lumix slika]]></translate></item>
+
+	<!-- Camera settings -->
+	<!-- modes -->
+	<item v="portrait_mode"><translate><![CDATA[Portret mode]]></translate></item>
+	<item v="simple_mode"><translate><![CDATA[Jednostavan mode]]></translate></item>
+	<item v="macro_mode"><translate><![CDATA[Macro mode]]></translate></item>
+	<item v="high_sens_mode"><translate><![CDATA[Visoka osjetljivost]]></translate></item>
+	<item v="night_port_mode"><translate><![CDATA[Noćni portret]]></translate></item>
+	<item v="beach_mode"><translate><![CDATA[Mode plaže]]></translate></item>
+	<item v="sports_mode"><translate><![CDATA[Sportski mode]]></translate></item>
+	<item v="manual_mode"><translate><![CDATA[Ručni mode]]></translate></item>
+	<item v="scenery_mode"><translate><![CDATA[Scenery mode]]></translate></item>
+	
+	<!-- Other settings -->
+	<item v="on"><translate><![CDATA[Uključeno]]></translate></item>
+	<item v="off"><translate><![CDATA[Isključeno]]></translate></item>
+	<!-- camera flash -->
+	<item v="flash"><translate><![CDATA[FLASH]]></translate></item>
+	
+	<item v="wide_angle"><translate><![CDATA[Široki kut]]></translate></item>
+	<item v="auto_red_eye"><translate><![CDATA[Automatske redukcije crvenog oka]]></translate></item>
+	
+	<item v="zoom"><translate><![CDATA[zoom]]></translate></item>
+	<item v="optical_zoom"><translate><![CDATA[optički zoom]]></translate></item>
+	<item v="extra_optical_zoom"><translate><![CDATA[Extra optički zoom]]></translate></item>
+	
+	<item v="spot_metering"><translate><![CDATA[SPOT Mjerenje]]></translate></item>
+	<item v="backlight_compensation"><translate><![CDATA[pozadinske kompenzacije svjetlosti]]></translate></item>
+	
+	
+	
+	
+	<!-- hotspot types -->
+	<item v="hotspot_type0"><translate><![CDATA[Osobina 
+proizvoda]]></translate></item>
+	<item v="hotspot_type1"><translate><![CDATA[Tip 
+slike]]></translate></item>
+	<item v="hotspot_type2"><translate><![CDATA[Lumix 
+slika]]></translate></item>
+
+	<!-- new -->
+	<!-- as displayed in end of video summary -->
+	<item v="hotspot_summary_type0"><translate><![CDATA[Osobina proizvoda]]></translate></item>
+	<item v="hotspot_summary_type1"><translate><![CDATA[Tip slike]]></translate></item>
+	<item v="hotspot_summary_type2"><translate><![CDATA[Lumix slika]]></translate></item>
+	
+	<item v="prev_scene_summary"><translate><![CDATA[Prijašnja scena]]></translate></item>
+	<item v="next_scene_summary"><translate><![CDATA[Sljedeća scena]]></translate></item>
+	<!-- /new -->
+	
+	<!-- Pop up animation text -->
+	<item v="secs"><translate><![CDATA[Sekunde]]></translate></item><!-- an abreviation of "SECONDS" -->
+	<item v="ready"><translate><![CDATA[Spremno]]></translate></item>
+
+<!-- new start -->	
+<!-- Camera dimensions - Width, Height, Depth -->
+	<item v="width_abbr"><translate><![CDATA[W]]></translate></item>
+	<item v="height_abbr"><translate><![CDATA[H]]></translate></item>
+	<item v="depth_abbr"><translate><![CDATA[D]]></translate></item>
+	
+	<item v="large_screen_display"><translate><![CDATA[2.5 Veliki ekran]]></translate></item>
+	<!-- Camera screen size ratio -->
+	<item v="normal_format"><translate><![CDATA[normalni mode]]></translate></item>
+	<item v="wide_format"><translate><![CDATA[široki mode]]></translate></item>
+	
+	<item v="window"><translate><![CDATA[prozor]]></translate></item>
+	<item v="calendar_view"><translate><![CDATA[Kalendarski pogled]]></translate></item>
+	
+	<item v="normal_mode"><translate><![CDATA[Normalni mode]]></translate></item>
+	<item v="wide_mode"><translate><![CDATA[široki mode]]></translate></item>
+	
+	<item v="normal_lens"><translate><![CDATA[Normalno Lenće]]></translate></item>
+	<item v="wide_lens"><translate><![CDATA[Široki kut Lenće]]></translate></item>
+	<!-- a camera feature -->
+	<item v="power_lcd"><translate><![CDATA[LCD gumb napajanja]]></translate></item>
+	<item v="button"><translate><![CDATA[gumb]]></translate></item>
+	
+	<item v="viewfinder_aligned"><translate><![CDATA[Združeni viewfinder i LCD]]></translate></item>
+	<item v="slow_shutter"><translate><![CDATA[Sporo okidanje]]></translate></item>
+	<item v="joystick"><translate><![CDATA[Joystick]]></translate></item>
+<!-- new end -->
+
+
+	<!-- Pop up titles -->
+	<item v="popUp_title_feature"><translate><![CDATA[Osobina proizvoda]]></translate></item>
+	<item v="popUp_title_tip"><translate><![CDATA[Tip slike]]></translate></item>
+	<item v="popUp_title_picture"><translate><![CDATA[Lumix slika]]></translate></item>
+	
+	
+	<!-- Pop ups -->
+	<!-- Including hotspot roll over text -->
+	<item v="popUp_hotspot_text_0"><translate><![CDATA[Dodaci]]></translate></item>
+	<item v="popUp_subtitle_0"><translate><![CDATA[Stilski dizajn]]></translate></item>
+	<item v="popUp_body_text_0"><translate><![CDATA[Sa svojim stilskim i kompaktnim dizajnom FX01 je pravi dodatak u svakoj prigodi.]]></translate></item>
+	<item v="popUp_caption_0_0"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_1"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_2"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_3"><translate><![CDATA[]]></translate></item>
+	
+	<item v="popUp_hotspot_text_1"><translate><![CDATA[Lako korištenje]]></translate></item>
+	<item v="popUp_subtitle_1"><translate><![CDATA[Jendostavan mode]]></translate></item>
+	<item v="popUp_body_text_1"><translate><![CDATA[Sve opcije se izvršavaju automatski, te je lako snimiti slike i ako nikada niste koristili digitalnu kameru. Samo usmjerite kameru i pritisnite gumb za okidanje.]]></translate></item>
+
+	<item v="popUp_hotspot_text_2"><translate><![CDATA[Perfektan portret]]></translate></item>
+	<item v="popUp_subtitle_2"><translate><![CDATA[Portret mode]]></translate></item>
+	<item v="popUp_body_text_2"><translate><![CDATA[Ovaj mode vam omogućava prekrasne portrete sa prirodnim tonovima kože. Omogućava da vaši prijatelji i vi izgledate savršeno svaki put.]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_3"><translate><![CDATA[Spremni da se obučete]]></translate></item>
+	<item v="popUp_subtitle_3"><translate><![CDATA[Brzi početak]]></translate></item>
+	<item v="popUp_body_text_3"><translate><![CDATA[Nekada trebate vašu kameru da bude spremna za trenutak. FX01 je spremna za  1.6 sekundu nakon što je uključite.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_4"><translate><![CDATA[Gore-dolje]]></translate></item>
+	<item v="popUp_subtitle_4"><translate><![CDATA[Auto kut LCD-a]]></translate></item>
+	<item v="popUp_body_text_4"><translate><![CDATA[Horizontalno ili vertikalno, što je bolje? Nakon što ste slikali, slika na LCD-u je uvijek u pravom smjeru bez obzira kako držite kameru.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_5"><translate><![CDATA[Trenutak mode]]></translate></item>
+	<item v="popUp_subtitle_5"><translate><![CDATA[O.I.S u prostoriji]]></translate></item>
+	<item v="popUp_body_text_5"><translate><![CDATA[U nekim situacijama korištenje flasha može biti loš pristup. Sa O.I.S tehnologijom (“optička stabilizacija lsike”) možete koristiti sporiju brzinu okidanja te snimati slike bez flasha.]]></translate></item>
+	<item v="popUp_caption_5_0"><translate><![CDATA[Bez O.I.S.]]></translate></item>
+	<item v="popUp_caption_5_1"><translate><![CDATA[Sa O.I.S.]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_6"><translate><![CDATA[Veličina je važna]]></translate></item>
+	<item v="popUp_subtitle_6"><translate><![CDATA[Malo i kompaktno]]></translate></item>
+	<item v="popUp_body_text_6"><translate><![CDATA[Sa svojim stilskim i kompaktnim dizajnom FX01 stane u svaku torbicu, te ide gdje idete i vi.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_7"><translate><![CDATA[Snimite bliske slike]]></translate></item>
+	<item v="popUp_subtitle_7"><translate><![CDATA[O.I.S blizina]]></translate></item>
+	<item v="popUp_body_text_7"><translate><![CDATA[Za snimanje oštrih, čistih slika je potrebna potpuno mirna kamera. O.I.S tehnologija 
+( “optički stabilizator slike”) omogućava vam da snimate slike koje su oštre i čiste.]]></translate></item>
+	<item v="popUp_caption_7_0"><translate><![CDATA[O.I.S. Isključeno]]></translate></item>
+	<item v="popUp_caption_7_1"><translate><![CDATA[O.I.S. Uključeno]]></translate></item>
+	
+	<item v="popUp_hotspot_text_8"><translate><![CDATA[Podijelite okolo]]></translate></item>
+	<item v="popUp_subtitle_8"><translate><![CDATA[Veliki LCD]]></translate></item>
+	<item v="popUp_body_text_8"><translate><![CDATA[Dijeljenje vaših slika je zabavni dio. Veliki LCD velike rezolucije vam omogućava da uživate u slikama odmah nakon slikanja.]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_9"><translate><![CDATA[Snimite vašu najbolju stranu]]></translate></item>
+	<item v="popUp_subtitle_9"><translate><![CDATA[Mode auto portreta]]></translate></item>
+	<item v="popUp_body_text_9"><translate><![CDATA[Auto portret ne može biti jednostavniji. Usmjerite kameru prema sebi i LED će indicirati kada ste u fokusu. Potom samo stisnite gumb okidanja.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_10"><translate><![CDATA[Široki kut]]></translate></item>
+	<item v="popUp_subtitle_10"><translate><![CDATA[Leće širokog kuta]]></translate></item>
+	<item v="popUp_body_text_10"><translate><![CDATA[Pokušaj da svi stanu u kadar je nekada jako teško. Sa 28mm široko kutnim lećama možete sve prijatelje staviti u kadar tako da nitko neće biti razočaran.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_11"><translate><![CDATA[Pogledajte u širokom formatu]]></translate></item>
+	<item v="popUp_subtitle_11"><translate><![CDATA[Rezolucija]]></translate></item>
+	<item v="popUp_body_text_11"><translate><![CDATA[Možete slikati slike u 16:9 formatu. Korisno za određene subjekte!]]></translate></item>
+	
+	<item v="popUp_hotspot_text_12"><translate><![CDATA[Budite u fokusu]]></translate></item>
+	<item v="popUp_subtitle_12"><translate><![CDATA[Brzi auto fokus]]></translate></item>
+	<item v="popUp_body_text_12"><translate><![CDATA[Sa 1-point visoko brzinskim auto fokusom možete slikati brzo, lako i točno svaki put.]]></translate></item>
+
+	<item v="popUp_hotspot_text_13"><translate><![CDATA[Koristi se za skakače]]></translate></item>
+	<item v="popUp_subtitle_13"><translate><![CDATA[Jednostavan mode]]></translate></item>
+	<item v="popUp_body_text_13"><translate><![CDATA[Sve opcije su podešene automatski, te je lako snimiti odlične slike čak i ako date nekome drugome kameru. Samo naciljajte i slikajte.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_14"><translate><![CDATA[Budite kreativni]]></translate></item>
+	<item v="popUp_subtitle_14"><translate><![CDATA[Različiti pogled]]></translate></item>
+	<item v="popUp_body_text_14"><translate><![CDATA[Nalaženje drugih scena daju vašim fotografijama osobnost. Budite razigrani, kreativni i otkačeni u isto vrijeme.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_15"><translate><![CDATA[Vrijeme zabave]]></translate></item>
+	<item v="popUp_subtitle_15"><translate><![CDATA[Mode zabave]]></translate></item>
+	<item v="popUp_body_text_15"><translate><![CDATA[Kada ste raspoloženi za zabavu, ne želite da vam tehnologija smeta. Uključite mode zabave i zabavljajte se cijelu noć.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_16"><translate><![CDATA[Dizač zastora]]></translate></item>
+	<item v="popUp_subtitle_16"><translate><![CDATA[Flash red-eye redukcija]]></translate></item>
+	<item v="popUp_body_text_16"><translate><![CDATA[Kada koristite Flash često možete izazvati efekt crvenih očiju. Kada je flash podešen na auto, dobijate 2 flasha za rješavanje ovog problema.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_17"><translate><![CDATA[Život kroz leće]]></translate></item>
+	<item v="popUp_subtitle_17"><translate><![CDATA[Leica DC leće]]></translate></item>
+	<item v="popUp_body_text_17"><translate><![CDATA[Svjetski poznate Leica DC leće korištene u FX01 proizvode slike sa nevjerovatnom dubinom i oštrinom.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_18"><translate><![CDATA[Ne budite flashirani]]></translate></item>
+	<item v="popUp_subtitle_18"><translate><![CDATA[O.I.S u prostoriji]]></translate></item>
+	<item v="popUp_body_text_18"><translate><![CDATA[U nekim situacijama korištenje flasha može biti loš pristup. Sa O.I.S tehnologijom (“optička stabilizacija lsike”) možete koristiti sporiju brzinu okidanja te snimati slike bez flasha.]]></translate></item>	
+	<item v="popUp_caption_18_0"><translate><![CDATA[FLASH Isključeno]]></translate></item>
+	<item v="popUp_caption_18_1"><translate><![CDATA[FLASH Uključeno]]></translate></item>
+
+	<item v="popUp_hotspot_text_19"><translate><![CDATA[Podijelite okolo]]></translate></item>
+	<item v="popUp_subtitle_19"><translate><![CDATA[Veliki LCD]]></translate></item>
+	<item v="popUp_body_text_19"><translate><![CDATA[Dijeljenje vaših slika je zabavni dio. Veliki LCD velike rezolucije vam omogućava da uživate u slikama odmah nakon slikanja.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_20"><translate><![CDATA[Široki kut]]></translate></item>
+	<item v="popUp_subtitle_20"><translate><![CDATA[Leće širokog kuta]]></translate></item>
+	<item v="popUp_body_text_20"><translate><![CDATA[Pokušaj da svi stanu u kadar je nekada jako teško. Sa 28mm široko kutnim lećama možete sve prijatelje staviti u kadar tako da nitko neće biti razočaran.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_21"><translate><![CDATA[Zoom zoom]]></translate></item>
+	<item v="popUp_subtitle_21"><translate><![CDATA[3.6x zoom]]></translate></item>
+	<item v="popUp_body_text_21"><translate><![CDATA[Nekada želite biti bliže akciji. Sa 3.6x zoomom možete uhvatiti vaše prijatelje na najbližoj udaljenosti.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_22"><translate><![CDATA[Reprodukcija]]></translate></item>
+	<item v="popUp_subtitle_22"><translate><![CDATA[Mode reprodukcije]]></translate></item>
+	<item v="popUp_body_text_22"><translate><![CDATA[Gledanje vaših snimaka je zabavno i lako. Odaberite slide show, 1, 9, ili 25 prozorski zaslon, ili kalendarski pogled koji vam prikazuje i datum kada su slike snimljene.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_23"><translate><![CDATA[Odlična forma]]></translate></item>
+	<item v="popUp_subtitle_23"><translate><![CDATA[Kompaktan dizajn]]></translate></item>
+	<item v="popUp_body_text_23"><translate><![CDATA[Mali kompaktni dizajn FX01 znači da može stati i u najuže traperice.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_24"><translate><![CDATA[Ostanite na sceni]]></translate></item>
+	<item v="popUp_subtitle_24"><translate><![CDATA[O.I.S.]]></translate></item>
+	<item v="popUp_body_text_24"><translate><![CDATA[Možete biti dio dešavanja i ako snimate sa kamerom. Trešnje ruku su eliminirane sa O.I.S tehnologijom ( “optički stabilizator slike”)
+Ovo vam osigurava da će vaše snimke biti mirne kada vi ne možete.]]></translate></item>	
+	<item v="popUp_caption_24_0"><translate><![CDATA[O.I.S. Isključeno]]></translate></item>
+	<item v="popUp_caption_24_1"><translate><![CDATA[O.I.S. Uključeno]]></translate></item>
+	
+
+	<item v="popUp_hotspot_text_25"><translate><![CDATA[Podijelite okolo]]></translate></item>
+	<item v="popUp_subtitle_25"><translate><![CDATA[Veliki LCD]]></translate></item>
+	<item v="popUp_body_text_25"><translate><![CDATA[Dijeljenje vaših slika je zabavni dio. Veliki LCD velike rezolucije vam omogućava da uživate u slikama odmah nakon slikanja.]]></translate></item>	
+
+
+
+<!-- new onwards 17-03-06 --><!-- BARCELONA -->
+
+	<item v="popUp_hotspot_text_26"><translate><![CDATA[Putujte lagano]]></translate></item>
+	<item v="popUp_subtitle_26"><translate><![CDATA[Kompaktni dizajn]]></translate></item>
+	<item v="popUp_body_text_26"><translate><![CDATA[Sa svojim stilskim i kompaktnim dizajnom TZ1 može lagano stati u svačiji džep.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_27"><translate><![CDATA[Odlični zumirani snimci]]></translate></item>
+	<item v="popUp_subtitle_27"><translate><![CDATA[O.I.S. veliki zum]]></translate></item>
+	<item v="popUp_body_text_27"><translate><![CDATA[Snimanje sa velikim zumom ne zamućuje sliku. Sa O.I.S tehnologijom (to je “optički stabilizator slike) možete bezbrižno slikati.]]></translate></item>	
+<!-- new --><item v="popUp_caption_27_0"><translate><![CDATA[O.I.S. Uključeno]]></translate></item>
+<!-- new --><item v="popUp_caption_27_1"><translate><![CDATA[O.I.S. Isključeno]]></translate></item>
+	
+	<item v="popUp_hotspot_text_28"><translate><![CDATA[Mali veliki ZOOM]]></translate></item>
+	<item v="popUp_subtitle_28"><translate><![CDATA[Veliki ZOOM]]></translate></item>
+	<item v="popUp_body_text_28"><translate><![CDATA[Snažni 10x optički zum, ekvivalentan velikim 35 do 250mm lećama je zapakiran na nevjerovatan način u ovu kompaktnu kameru.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_28_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_1"><translate><![CDATA[3X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_2"><translate><![CDATA[6X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_3"><translate><![CDATA[10X ZOOM]]></translate></item>
+	
+	<item v="popUp_hotspot_text_29"><translate><![CDATA[Izradite datum]]></translate></item>
+	<item v="popUp_subtitle_29"><translate><![CDATA[Opcije putnog datuma]]></translate></item>
+	<item v="popUp_body_text_29"><translate><![CDATA[Možete podesiti dan odlaska na vaš put sa TZ1, i potom prikazati na slikama kojeg je dana slikana pojedina fotografija.Odlično za organizaciju vaših putnih slika.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_29_0"><translate><![CDATA[1. Dan]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_1"><translate><![CDATA[2. Dan]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_2"><translate><![CDATA[]]></translate></item>
+
+
+
+
+	<item v="popUp_hotspot_text_30"><translate><![CDATA[Dobijte kadar]]></translate></item>
+	<item v="popUp_subtitle_30"><translate><![CDATA[Drugačiji pogled]]></translate></item>
+	<item v="popUp_body_text_30"><translate><![CDATA[Nekada je jako bitno da vidite subjekt sa punim detaljima. Pomicanjem oko subjekta, možete otkriti brojne zanimljive detalje koje ste slikali.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_30_0"><translate><![CDATA[Pogled 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_1"><translate><![CDATA[Pogled 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_2"><translate><![CDATA[Pogled 3]]></translate></item>
+		
+	<item v="popUp_hotspot_text_31"><translate><![CDATA[U pokretu]]></translate></item>
+	<item v="popUp_subtitle_31"><translate><![CDATA[O.I.S trešnja ruku]]></translate></item>
+	<item v="popUp_body_text_31"><translate><![CDATA[Kada ste u pokretu, nije rijetko da imate drhtanje ruku i trešnje same kamere. O.I.S tehnologija (to je “optička stabilizacija slike”) kompenzira sve pokrete kamere giro-senzorima za pomicanje leća u drugim smjerovima – dajući vam pouzdano čiste snimke.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_31_0"><translate><![CDATA[O.I.S. Isključeno]]></translate></item>
+	<!-- new --><item v="popUp_caption_31_1"><translate><![CDATA[O.I.S. Uključeno]]></translate></item>
+
+	<item v="popUp_hotspot_text_32"><translate><![CDATA[Brzi početak]]></translate></item>
+	<item v="popUp_subtitle_32"><translate><![CDATA[Brzi početak]]></translate></item>
+	<item v="popUp_body_text_32"><translate><![CDATA[Nekada je potrebno da kamera bude spremna u trenu. TZ1 je spremna za slikanje nakon samo 0.95 sekundi nakon što je upalite.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_33"><translate><![CDATA[Budite refleksni]]></translate></item>
+	<item v="popUp_subtitle_33"><translate><![CDATA[Refleksije]]></translate></item>
+	<item v="popUp_body_text_33"><translate><![CDATA[Korištenje refleksija može napraviti zanimljive fotografije. Voda na ulici, prozori automobila i staklene fasada mogu dodati drugačiji osjećaj slikama.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_34"><translate><![CDATA[Precizni portreti]]></translate></item>
+	<item v="popUp_subtitle_34"><translate><![CDATA[Visoka osjetljivost]]></translate></item>
+	<item v="popUp_body_text_34"><translate><![CDATA[Može doći do ‘pokretnog zamućenja’ ako se subjekt pomiče tijekom snimanja. Korištenjem visoko osjetljivog senzora, ovo se može izbjeći. Povećava brzinu okidanja na maksimum,te time i postiže bistru sliku.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_34_0"><translate><![CDATA[Bez velike osjetljivosti]]></translate></item>
+	<!-- new --><item v="popUp_caption_34_1"><translate><![CDATA[Sa velikom osjetljivošću]]></translate></item>
+	
+	<item v="popUp_hotspot_text_35"><translate><![CDATA[Leica DC Leće]]></translate></item>
+	<item v="popUp_subtitle_35"><translate><![CDATA[Leica DC leće]]></translate></item>
+	<item v="popUp_body_text_35"><translate><![CDATA[Svjetski renovirane Leica DC leće korištene u TZ1 proizvodima proizvode nevjerovatno čiste i kristalne snimke.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_36"><translate><![CDATA[Budite fokusirani]]></translate></item>
+	<item v="popUp_subtitle_36"><translate><![CDATA[AF assist svijetlo]]></translate></item>
+	<item v="popUp_body_text_36"><translate><![CDATA[Slaba osvjetljenost obično znači i loš auto fokus. Sa auto fokus svjetlom, točnost fokusiranja je poboljšana.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_37"><translate><![CDATA[Ispričavate me?]]></translate></item>
+	<item v="popUp_subtitle_37"><translate><![CDATA[Jednostavan mode]]></translate></item>
+	<item v="popUp_body_text_37"><translate><![CDATA[U jednostavnom modeu, sve opcije se podešavaju automatski, te je laganije slikati slike čak i ako nikada niste koristili kameru ranije. Samo usmjerite i pritisnite gumb za slikanje.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_38"><translate><![CDATA[Veliki LCD]]></translate></item>
+	<item v="popUp_subtitle_38"><translate><![CDATA[Veliki LCD]]></translate></item>
+	<item v="popUp_body_text_38"><translate><![CDATA[Veliki LCD omogućava uživanje u vašim fotografijama odmah nakon što ste ih slikali. Sa svojim 2.5" i 207,000 piksela, visoko rezolutni LCD monitor vam omogućava pregledavanje slika i teksta na zaslonu.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_39"><translate><![CDATA[Plavi sat]]></translate></item>
+	<item v="popUp_subtitle_39"><translate><![CDATA[Korištenje svjetla]]></translate></item>
+	<item v="popUp_body_text_39"><translate><![CDATA[Pada sumrak, i kvaliteta svjetla je sve slabija. Ova pojava se obično naziva ‘plavi sat’. Snimanje slika u ovom dijelu dana vam daje nevjerovatno bogatstvo boja.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_40"><translate><![CDATA[Brzi fokus]]></translate></item>
+	<item v="popUp_subtitle_40"><translate><![CDATA[Brzi auto fokus]]></translate></item>
+	<item v="popUp_body_text_40"><translate><![CDATA[Izaberite između nekoliko Auto Fokus modeova; spot, 1-point 3-point i 9-point ovisno o sceni koju snimate. Možete snimati brzo, lako i točno svaki put.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_40_0"><translate><![CDATA[9-točka]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_1"><translate><![CDATA[3-točka]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_2"><translate><![CDATA[1-točka]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_3"><translate><![CDATA[1-Spot]]></translate></item>
+	
+	<item v="popUp_hotspot_text_41"><translate><![CDATA[Noćni ljubavnici]]></translate></item>
+	<item v="popUp_subtitle_41"><translate><![CDATA[Noćni portret]]></translate></item>
+	<item v="popUp_body_text_41"><translate><![CDATA[koristeći Flash po noći može eliminirati pravu svjetlost u prostoriji. Sporija brzina okidanja omogućena sa O.I.S. tehnologijom kombiniranom sa Flashom omogućava da kamera uzme više svjetla. U noćnom portretu možete snimiti pravi ugođaj u prostoriji.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_42"><translate><![CDATA[Svjetli LCD]]></translate></item>
+	<item v="popUp_subtitle_42"><translate><![CDATA[Svjetli LCD]]></translate></item>
+	<item v="popUp_body_text_42"><translate><![CDATA[Može biti teško vidjeti display za vrijeme sunčanog dana, jednostavno pritisnite Power LCD gumb i zaslon postaje za oko 40% svjetliji.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_43"><translate><![CDATA[Život na plaži]]></translate></item>
+	<item v="popUp_subtitle_43"><translate><![CDATA[Mode plaže]]></translate></item>
+	<item v="popUp_body_text_43"><translate><![CDATA[Svjetlost sunca je uvijek dobrodošla na plaži, ali često zna značiti da su vaši snimci mračni. Sa modeom plaže možete snimati slike bez bojazni o potamnjenosti slike.]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_0"><translate><![CDATA[Bez modea plaže]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_1"><translate><![CDATA[Sa modeom plaže]]></translate></item>
+
+	<item v="popUp_hotspot_text_44"><translate><![CDATA[Slikajte trenutak]]></translate></item>
+	<item v="popUp_subtitle_44"><translate><![CDATA[Mega burst]]></translate></item>
+	<item v="popUp_body_text_44"><translate><![CDATA[Možete snimiti do 5 konstantnih snimaka, 3 sličice po sekundi u standardnom modeu. TZ1 ima neograničeno snimanje trenutaka, sve dok SD Memorijska kartica nije puna.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_44_0"><translate><![CDATA[Sličica 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_1"><translate><![CDATA[Sličica 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_2"><translate><![CDATA[Sličica 3]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_3"><translate><![CDATA[Sličica 4]]></translate></item>
+	
+
+
+	<item v="popUp_hotspot_text_45"><translate><![CDATA[Apstraktno razmišljanje]]></translate></item>
+	<item v="popUp_subtitle_45"><translate><![CDATA[Drugačiji pogled]]></translate></item>
+	<item v="popUp_body_text_45"><translate><![CDATA[Sagledavanje stvariju drugačije može vas navesti na zanimljive rezultate. Eksperimentirajte sa vašim snimcima, sastavite zajedno kolaž različitih elemenata istog subjekta.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_45_0"><translate><![CDATA[Pogled 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_1"><translate><![CDATA[Pogled 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_2"><translate><![CDATA[Pogled 3]]></translate></item>
+
+	<item v="popUp_hotspot_text_46"><translate><![CDATA[Pozadina protiv prednjeg dijela]]></translate></item>
+	<item v="popUp_subtitle_46"><translate><![CDATA[Kompozicija]]></translate></item>
+	<item v="popUp_body_text_46"><translate><![CDATA[Kontrapozicija pozadinskih i prednjih elemenata slike može završiti zanimljivim kompozicijama.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_47"><translate><![CDATA[Apstraktni zoom]]></translate></item>
+	<item v="popUp_subtitle_47"><translate><![CDATA[Apstraktno]]></translate></item>
+	<item v="popUp_body_text_47"><translate><![CDATA[Koristeći veliki zoom omogućavamo vam da mijenjate udaljenost objekata i utječete na izgled fotogragije.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_48"><translate><![CDATA[Kasno noćno svijetlo]]></translate></item>
+	<item v="popUp_subtitle_48"><translate><![CDATA[Kasno svijetlo]]></translate></item>
+	<item v="popUp_body_text_48"><translate><![CDATA[Za tijekom bistrog dana, kasnonoćno svijetlo daje vašim fotografijama nevjerovatnu dubinu plavih boja.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_49"><translate><![CDATA[Vidjeti svijetlo]]></translate></item>
+	<item v="popUp_subtitle_49"><translate><![CDATA[Mjerenje]]></translate></item>
+	<item v="popUp_body_text_49"><translate><![CDATA[Možete koristiti dodatni izvor svijetla kod fotografiranja. Koristeći mjerenje refleksije svjetlosti možete postići i drugačije fotografije.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_50"><translate><![CDATA[Putujte lagano]]></translate></item>
+	<item v="popUp_subtitle_50"><translate><![CDATA[Kompaktni dizajn]]></translate></item>
+	<item v="popUp_body_text_50"><translate><![CDATA[Sa svojim stilskim i kompaktnim dizajnom TZ1 može svakome stati u džep i krenuti na putovanje.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_51"><translate><![CDATA[Mali-veliki zoom]]></translate></item>
+	<item v="popUp_subtitle_51"><translate><![CDATA[10x optički zoom]]></translate></item>
+	<item v="popUp_body_text_51"><translate><![CDATA[Snažan 10x optički zoom, ekvivalentan 35 do 350mm lećama na 35mm kamerama je upakiran u ovaj proizvod.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_51_0"><translate><![CDATA[1 X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_1"><translate><![CDATA[2 X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_2"><translate><![CDATA[5 X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_3"><translate><![CDATA[10 X ZOOM]]></translate></item>
+	
+	<item v="popUp_hotspot_text_52"><translate><![CDATA[Odlični zumirani snimci]]></translate></item>
+	<item v="popUp_subtitle_52"><translate><![CDATA[O.I.S. veliki zum]]></translate></item>
+	<item v="popUp_body_text_52"><translate><![CDATA[Snimanje sa velikim zumom ne zamućuje sliku. Sa O.I.S tehnologijom (to je “optički stabilizator slike) možete bezbrižno slikati.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_52_0"><translate><![CDATA[O.I.S. Isključeno]]></translate></item>
+	<!-- new --><item v="popUp_caption_52_1"><translate><![CDATA[O.I.S. Uključeno]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_53"><translate><![CDATA[Podesite na širok ekran]]></translate></item>
+	<item v="popUp_subtitle_53"><translate><![CDATA[Rezolucije]]></translate></item>
+	<item v="popUp_body_text_53"><translate><![CDATA[Možete snimati slike u širokom 16:9 formatu. Tada umetnite SD Memorijsku karticu u TV opremljen sa SD kartičnim utorom za gledanje slika u, širokom ekranu.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_54"><translate><![CDATA[Perfektan izraz]]></translate></item>
+	<item v="popUp_subtitle_54"><translate><![CDATA[Flash red-eye redukcija]]></translate></item>
+	<item v="popUp_body_text_54"><translate><![CDATA[Kada koristite Flash možete dobiti crvene oči. Sa Flashom podešenim na auto red-eye redukciju dobivate 2 brza flasha za rješavanje problema.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_54_0"><translate><![CDATA[Bez automatske redukcije crvenog oka]]></translate></item>
+	<!-- new --><item v="popUp_caption_54_1"><translate><![CDATA[Sa automatskom redukcijom crvenog oka]]></translate></item>
+
+	<item v="popUp_hotspot_text_55"><translate><![CDATA[Poredano po datumu]]></translate></item>
+	<item v="popUp_subtitle_55"><translate><![CDATA[Kalendarski prikaz]]></translate></item>
+	<item v="popUp_body_text_55"><translate><![CDATA[TZ1 može poredati slike po datumu kojeg ste ih snimili. Ovo može bit od velike pomoći kada imate velik broj slika.]]></translate></item>	
+
+
+
+
+
+	<!-- F1 -->
+
+	<item v="popUp_hotspot_text_56"><translate><![CDATA[Kreativan fokus]]></translate></item>
+	<item v="popUp_subtitle_56"><translate><![CDATA[Dubina polja]]></translate></item>
+	<item v="popUp_body_text_56"><translate><![CDATA[Dubina polja je prostor najvećeg fokusa iza i ispred subjekta. Sa 12x zoomom malo područje dubine je lako postići. Ovo je jedan od najvažnijih elemenata u oštrom fokusu.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_57"><translate><![CDATA[Inteligentan dizajn]]></translate></item>
+	<item v="popUp_subtitle_57"><translate><![CDATA[Dizajn]]></translate></item>
+	<item v="popUp_body_text_57"><translate><![CDATA[Dizajn pruža savršenu kontrolu samih gumbiju uz lijep izgled. Te, elektronički viewfinder i LCD su postavljenu u istu liniju prikaza da bi se izbjegle razlike kod snimanja.]]></translate></item>	
+<!-- new 22-03-2006 --><item v="popUp_caption_57_0"><translate><![CDATA[Kontrole]]></translate></item>
+	
+	<item v="popUp_hotspot_text_58"><translate><![CDATA[Oštri bliski snimci]]></translate></item>
+	<item v="popUp_subtitle_58"><translate><![CDATA[O.I.S macro]]></translate></item>
+	<item v="popUp_body_text_58"><translate><![CDATA[Uzimanje oštrih slika, zahtjeva potpuno mirnu kameru. Sa O.I.S ( “optička stabilizacija slike”) tehnologijom, možete uzeti slike bez potrebe za postoljem da dobijete kristalno čiste slike.]]></translate></item>	
+<!-- new --><item v="popUp_caption_58_0"><translate><![CDATA[O.I.S. Uključeno]]></translate></item>
+<!-- new --><item v="popUp_caption_58_1"><translate><![CDATA[O.I.S. Isključeno]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_59"><translate><![CDATA[Snažno pozadinsko svjetlo]]></translate></item>
+	<item v="popUp_subtitle_59"><translate><![CDATA[Pozadinska kompenzacija]]></translate></item>
+	<item v="popUp_body_text_59"><translate><![CDATA[Jako pozadinsko svjetlo kao što je sunčevo svjetlo može izazvati loše slike. Ovaj problem može biti riješen pritiskom na gornji gumb kursora u jednostavnom modeu.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_60"><translate><![CDATA[Lako korištenje različitih modeova]]></translate></item>
+	<item v="popUp_subtitle_60"><translate><![CDATA[Mode dial]]></translate></item>
+	<item v="popUp_body_text_60"><translate><![CDATA[Mode dial vam omogućava fleksibilno snimanje koje je podešeno sceni . Možete odabrati između Program AE, Aperture priority AE, Shutter priority AE, Manual, Simple, Macro, Motion Image, Scene modes kao i reprodukciju.]]></translate></item>	
+<!-- new --><item v="popUp_caption_60_0"><translate><![CDATA[Mode dial]]></translate></item>
+
+	<item v="popUp_hotspot_text_61"><translate><![CDATA[Oštri bliski snimci]]></translate></item>
+	<item v="popUp_subtitle_61"><translate><![CDATA[O.I.S. macro]]></translate></item>
+	<item v="popUp_body_text_61"><translate><![CDATA[Uzimanje oštrih slika, zahtjeva potpuno mirnu kameru. Sa O.I.S ( “optička stabilizacija slike”) tehnologijom, možete uzeti slike bez potrebe za postoljem da dobijete kristalno čiste slike.]]></translate></item>	
+<!-- new --><item v="popUp_caption_61_0"><translate><![CDATA[O.I.S. Uključeno]]></translate></item>
+<!-- new --><item v="popUp_caption_61_1"><translate><![CDATA[O.I.S. Isključeno]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_62"><translate><![CDATA[Bijeli balans]]></translate></item>
+	<item v="popUp_subtitle_62"><translate><![CDATA[Bijeli balans]]></translate></item>
+	<item v="popUp_body_text_62"><translate><![CDATA[Različiti izvori svjetlosti imaju i drugačiju temperaturu, što uzrokuje da slika bude obojana neprirodno. Svjetlo u garaži bi dovelo do slikanja zelenih slika, te mode bijelog balansa eliminira tu nepravilnost.]]></translate></item>	
+<!-- new --><item v="popUp_caption_62_0"><translate><![CDATA[Bijeli balans]]></translate></item>
+<!-- new --><item v="popUp_caption_62_1"><translate><![CDATA[]]></translate></item>
+
+	<item v="popUp_hotspot_text_63"><translate><![CDATA[Malo svjetla]]></translate></item>
+	<item v="popUp_subtitle_63"><translate><![CDATA[O.I.S u prostoriji]]></translate></item>
+	<item v="popUp_body_text_63"><translate><![CDATA[Korištenje flasha u nekom prostoru može dovesti do izobličenja slike i uklanjanja pozadine. Koristeći sporiju brzinu okidanja koja je omogućena zbog O.I.S-a (“optička stabilizacija slike”) tehnologije, možete snimiti realne boje bez korištenja flasha.]]></translate></item>	
+<!-- new --><item v="popUp_caption_63_0"><translate><![CDATA[FLASH Isključeno]]></translate></item>
+<!-- new --><item v="popUp_caption_63_1"><translate><![CDATA[FLASH Uključeno]]></translate></item>
+
+	<item v="popUp_hotspot_text_64"><translate><![CDATA[Slikajte trenutak]]></translate></item>
+	<item v="popUp_subtitle_64"><translate><![CDATA[Slikajte trenutak]]></translate></item>
+	<item v="popUp_body_text_64"><translate><![CDATA[Možete snimiti do 13 konstantnih snimaka, 3 sličice po sekundi u standardnom modeu. FZ/ ima neograničeno snimanje trenutaka, sve dok SD Memorijska kartica nije puna.
+mode.]]></translate></item>	
+<!-- new --><item v="popUp_caption_64_0"><translate><![CDATA[Sličica 1]]></translate></item>
+<!-- new --><item v="popUp_caption_64_1"><translate><![CDATA[Sličica 2]]></translate></item>
+<!-- new --><item v="popUp_caption_64_2"><translate><![CDATA[Sličica 3]]></translate></item>
+<!-- new --><item v="popUp_caption_64_3"><translate><![CDATA[Sličica 4]]></translate></item>
+
+	<item v="popUp_hotspot_text_65"><translate><![CDATA[LCD velikog kuta]]></translate></item>
+	<item v="popUp_subtitle_65"><translate><![CDATA[LCD velikog kuta]]></translate></item>
+	<item v="popUp_body_text_65"><translate><![CDATA[Funkcija snimanja velikog kuta, koja vam omogućava lakše provjeravanje LCD-a kada držite kameru iznad glave.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_66"><translate><![CDATA[Brza brzina okidanja]]></translate></item>
+	<item v="popUp_subtitle_66"><translate><![CDATA[Brza brzina okidanja]]></translate></item>
+	<item v="popUp_body_text_66"><translate><![CDATA[Kod fotografiranja brzih objekata, kao što je Formula 1, koji se gibaju preko 200mph, trebate veliku brzinu okidanja koja će prikazati sliku bez zamućenja.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_67"><translate><![CDATA[Podešavanje]]></translate></item>
+	<item v="popUp_subtitle_67"><translate><![CDATA[Mode podešavanja]]></translate></item>
+	<item v="popUp_body_text_67"><translate><![CDATA[Sa opcijom podešavanja možete postaviti kameru da slijedi subjekt kao što je auto. Pozadina postaje zamućena, dok objekt ostaje fokusiran. Mode podešavanja postavlja nisku brzinu okidanja da bi objekt dobio na pokretu.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_68"><translate><![CDATA[Veliki zoom]]></translate></item>
+	<item v="popUp_subtitle_68"><translate><![CDATA[Veliki zoom]]></translate></item>
+	<item v="popUp_body_text_68"><translate><![CDATA[FZ7 se odlikuje Leica DC lećama sa nevjerovatnim 12x optičkim zoomom, ekvivalentan sa 36 do 432mm lećama na 35mm filmskim kamerama. Film kamera sa optičkim zoomom ovako moćnim bi bila izuzetno teška, i velika te je nebi mogli nositi u jednoj ruci.]]></translate></item>	
+<!-- new --><item v="popUp_caption_68_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_68_1"><translate><![CDATA[6X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_68_2"><translate><![CDATA[12X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_68_3"><translate><![CDATA[16.5X EXTRA ZOOM]]></translate></item>
+
+	<item v="popUp_hotspot_text_69"><translate><![CDATA[Oslobađanje brzog okidanja]]></translate></item>
+	<item v="popUp_subtitle_69"><translate><![CDATA[Oslobađanje brzog okidanja]]></translate></item>
+	<item v="popUp_body_text_69"><translate><![CDATA[FZ7 ima super-brzi odgovor okidanja sa vremenom od 0.008 sekundi. Možete slikati brzo, ugodno i točno svaki put.]]></translate></item>	
+<!-- new --><item v="popUp_caption_69_0"><translate><![CDATA[0.0008 Sekunde]]></translate></item>
+<!-- new --><item v="popUp_caption_69_1"><translate><![CDATA[0.0016 Sekunde]]></translate></item>
+<!-- new --><item v="popUp_caption_69_2"><translate><![CDATA[0.0024 Sekunde]]></translate></item>
+<!-- new --><item v="popUp_caption_69_3"><translate><![CDATA[0.0032 Sekunde]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_70"><translate><![CDATA[Refleksije]]></translate></item>
+	<item v="popUp_subtitle_70"><translate><![CDATA[Kreativnost]]></translate></item>
+	<item v="popUp_body_text_70"><translate><![CDATA[Korištenje refleksija može rezultirati zanimljivim slikama. Voda na cesti, auto prozori i staklene fasade mogu biti slikane sa drugačijim dojmom nego do sada.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_71"><translate><![CDATA[Ručni fokus]]></translate></item>
+	<item v="popUp_subtitle_71"><translate><![CDATA[Ručni fokus]]></translate></item>
+	<item v="popUp_body_text_71"><translate><![CDATA[Joystick na pozadini kamere daje vam brzo, lako i točno ručno fokusiranje. Možete koristiti i funkciju asistenta ručnog fokusa, koja vam omogućuje da popravite fokus povećanjem centra LCD slike.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_72"><translate><![CDATA[Joystick lakih operacija]]></translate></item>
+	<item v="popUp_subtitle_72"><translate><![CDATA[Joystick spora brzina okidanja]]></translate></item>
+	<item v="popUp_body_text_72"><translate><![CDATA[Možete podesiti svjetlost, brzinu okidanja i fokus sa joystickom kod slikanja sa LCD monitorom.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_73"><translate><![CDATA[Leica DC Leće]]></translate></item>
+	<item v="popUp_subtitle_73"><translate><![CDATA[Leica DC Leće]]></translate></item>
+	<item v="popUp_body_text_73"><translate><![CDATA[Izvedba samih leća je izuzetno bitna za kvalitetu same slike. Leica Kamera AG izrađuje svjetski poznate leće od 1913. Njihove leće proizvode slike sa nevjerovatnom oštrinom i dubinom boja.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_74"><translate><![CDATA[Sportski mode]]></translate></item>
+	<item v="popUp_subtitle_74"><translate><![CDATA[Sportski mode]]></translate></item>
+	<item v="popUp_body_text_74"><translate><![CDATA[U ovome modeu, brzina okidanja je puno veća, te tako možete trenutno slikati fotografiju nakon što stisnete gumb za slikanje i ne propustite važan trenutak.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_75"><translate><![CDATA[Apstraktno razmišljanje]]></translate></item>
+	<item v="popUp_subtitle_75"><translate><![CDATA[Kreativnost]]></translate></item>
+	<item v="popUp_body_text_75"><translate><![CDATA[Sagledavanje stvariju drugačije može vas navesti na zanimljive rezultate. Eksperimentirajte sa vašim snimcima, sastavite zajedno kolaž različitih elemenata istog subjekta.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_76"><translate><![CDATA[Svjetli LCD]]></translate></item>
+	<item v="popUp_subtitle_76"><translate><![CDATA[Svjetli LCD]]></translate></item>
+	<item v="popUp_body_text_76"><translate><![CDATA[FZ7 se odlikuje 2.5” visoko rezolucijskim LCD-om, jednostavno pritisnite Power LCD gumb i zaslon postaje za oko 40% svjetliji.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_77"><translate><![CDATA[Auto izloženost]]></translate></item>
+	<item v="popUp_subtitle_77"><translate><![CDATA[Programski auto mode izlaganja]]></translate></item>
+	<item v="popUp_body_text_77"><translate><![CDATA[Programski AE mode određuje optimalnu brzinu okidanja. Možete koristiti Programski Shift za održavanje izloženosti na istoj razini kada mijenjate brzinu okidanja.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_78"><translate><![CDATA[Drugačiji pogled]]></translate></item>
+	<item v="popUp_subtitle_78"><translate><![CDATA[Kreativnost]]></translate></item>
+	<item v="popUp_body_text_78"><translate><![CDATA[Nekada je potrebno sagledati stvari iz drugačijeg kuta. Mogućnosti ove kamere vam omogućavaju punu plaetu kreativnosti.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_79"><translate><![CDATA[Veliki zoom]]></translate></item>
+	<item v="popUp_subtitle_79"><translate><![CDATA[Veliki zoom]]></translate></item>
+	<item v="popUp_body_text_79"><translate><![CDATA[Na 3 mega-piksela sa zoomom leća mogu biti podešene na 16.5x Extra optičku zoom funkciju bez izobličenja, koristeći centralni dio CCD-a.]]></translate></item>	
+<!-- new --><item v="popUp_caption_79_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_79_1"><translate><![CDATA[6X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_79_2"><translate><![CDATA[12X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_79_3"><translate><![CDATA[16.5X ZOOM]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_80"><translate><![CDATA[Veliki LCD]]></translate></item>
+	<item v="popUp_subtitle_80"><translate><![CDATA[Veliki LCD]]></translate></item>
+	<item v="popUp_body_text_80"><translate><![CDATA[Veliki LCD vam omogućava da provjerite fokus, podesite snimak, te da koristite korisne funkcije kao što su 25-slikovni prikaz i kalendarski pogled, bez naprezanja očiju.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_81"><translate><![CDATA[Reprodukcija]]></translate></item>
+	<item v="popUp_subtitle_81"><translate><![CDATA[Mode reprodukcije]]></translate></item>
+	<item v="popUp_body_text_81"><translate><![CDATA[Gledanje vaših snimaka je zabavno i lagano. Odaberite slide show, 1, 9, ili 25 slikovni prikaz ili kalendarski pogled koji prikazuje slike sa pripadajućim datumom.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_82"><translate><![CDATA[Veliki zoom]]></translate></item>
+	<item v="popUp_subtitle_82"><translate><![CDATA[16.5x Extra optički zoom]]></translate></item>
+	<item v="popUp_body_text_82"><translate><![CDATA[FZ7 se odlikuje Leica DC lećama sa 12x optičkim zoomom, ekvivalentno sa 36 do 432mm lećama na 35mm filmskim kamerama. Filmska kamera sa optičkim zoomom ovako snažnim bi bila prevelika i preteška za nositi u rukama.]]></translate></item>	
+<!-- new --><item v="popUp_caption_82_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_82_1"><translate><![CDATA[6X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_82_2"><translate><![CDATA[12X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_82_3"><translate><![CDATA[16.5X ZOOM]]></translate></item>
+	
+	<item v="popUp_hotspot_text_83"><translate><![CDATA[Brzi auto fokus]]></translate></item>
+	<item v="popUp_subtitle_83"><translate><![CDATA[Brzi auto fokus]]></translate></item>
+	<item v="popUp_body_text_83"><translate><![CDATA[FZ7 daje vam odabir nekoliko auto fokus modeova - spot, 1-point (normalno ili visoko-brzinski), 3-point visoko brzinski, i 9-point. Možete koristiti Auto Focus Lampu za lakše fokusiranje kada je svjetlost malena.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_84"><translate><![CDATA[Teren]]></translate></item>
+	<item v="popUp_subtitle_84"><translate><![CDATA[Scenery mode]]></translate></item>
+	<item v="popUp_body_text_84"><translate><![CDATA[U scenery modeu kamera se fokusira na daljne objekte. Ovo vam omogućava slikanje daljnih pejsaža.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_85"><translate><![CDATA[Sunce]]></translate></item>
+	<item v="popUp_subtitle_85"><translate><![CDATA[Ručni mode]]></translate></item>
+	<item v="popUp_body_text_85"><translate><![CDATA[Za ovo slikanje mode je podešen na ručno zbog visokih vrijednosti osvjetljenja koje će doći direktno na leće. Sa O.I.S uključenim, zoomiranje prema drvetu će učiniti sliku odličnu.]]></translate></item>	
+<!-- new --><item v="popUp_caption_85_0"><translate><![CDATA[]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_86"><translate><![CDATA[Joystick lakih operacija]]></translate></item>
+	<item v="popUp_subtitle_86"><translate><![CDATA[Joystick lakih operacija]]></translate></item>
+	<item v="popUp_body_text_86"><translate><![CDATA[Pritisnite i držite joystick, pomoću kojeg možete odmah promijeniti bijeli balans, ISO osjetljivost, veličinu slike, i kvalitetu slike – bez potrebe da ulazite u meni.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_87"><translate><![CDATA[Leće]]></translate></item>
+	<item v="popUp_subtitle_87"><translate><![CDATA[Dodaci]]></translate></item>
+	<item v="popUp_body_text_87"><translate><![CDATA[U vrlo žarkim uvjetima snimanja možete koristiti ovaj dodatak kao sprječavanje dolaska prevelike svjetlosti na same leće.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_88"><translate><![CDATA[Veliki Zoom]]></translate></item>
+	<item v="popUp_subtitle_88"><translate><![CDATA[OIS zoom]]></translate></item>
+	<item v="popUp_body_text_88"><translate><![CDATA[FZ7 sadrži Leica DC leće sa nevjerovatnim 12x optičkim zoomom, ekvivalentno 36 do 432mm lećama na 35mm filmskim kamerama. Filmska kamera sa optičkim zoomom tako moćna, bi bila toliko teška da je nebi mogli nositi sa jednom rukom.]]></translate></item>	
+<!-- new --><item v="popUp_caption_88_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_88_1"><translate><![CDATA[6X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_88_2"><translate><![CDATA[12X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_88_3"><translate><![CDATA[16.5X ZOOM]]></translate></item>
+
+	<item v="popUp_hotspot_text_89"><translate><![CDATA[Kasno-podnevno svjetlo]]></translate></item>
+	<item v="popUp_subtitle_89"><translate><![CDATA[Kreativnost]]></translate></item>
+	<item v="popUp_body_text_89"><translate><![CDATA[Ova slika je slikana u kasno poslojepodne sa suncem direktno iza auta. Zbog velike količine svjetla, auto se na slici čini kao sjajna silueta.]]></translate></item>			
+
+
+
+	<!-- Key technology pop ups -->
+	<item v="popUp_tech_subtitle_0"><translate><![CDATA[Optički stabilizator slike]]></translate></item>
+	<item v="popUp_tech_body_text_0"><translate><![CDATA[MEGA O.I. S. uklanja efekt trešnje ruku, dajući vam nevjerovatno oštru, jasnu snimku čak i u situacijama u kojima je zamućivanje normalni problem. Lumix sa naprednim sistemom MEGA O.I.S.-a postavlja nevjerovatan standard u digitlanim kamerama. Povećavajući odlike i količine piksela koje ne mogu biti izmjereni sa običnim specifikacijama.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_1"><translate><![CDATA[Leica DC Lenće]]></translate></item>
+	<item v="popUp_tech_body_text_1"><translate><![CDATA[Svaki od ovih naprednih sistema leća uključuje nekoliko asferičnih leća za kopmenzaciju sferićnih izobličenja. Te u svakom sistemu, napredni sistem je ugrađen u sve leće koje onemoguavaju zamagljivanje same leće.
+
+*Leica je registrirani zaštitni znak Leica Microsystems IR GmbH.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_2"><translate><![CDATA[Venus Engine Plus, II i III]]></translate></item>
+	<item v="popUp_tech_body_text_2"><translate><![CDATA[Sve Venus Engine tehnologije procesiranja slika povećavaju brzinu, te povećanje i dijagonale za 50% za prekrasne slike. Venus Engine II i III povećava vertikalnu rezoluciju za dodatnih 10% i povećava točnost boja koje mogu biti izobličenje kod zumiranih slika. Venus Engine Plus i III je povećao i preciznost slika.]]></translate></item>			
+
+
+</root>

@@ -1,0 +1,786 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<!-- 'Loading' website data -->
+	<item v="loading"><translate><![CDATA[LOADING]]></translate></item>
+<!-- new --><item v="disclaimer"><translate><![CDATA[© 2006 Panasonic Marketing Europe GmbH]]></translate></item>
+<!-- new --><item v="select_language"><translate><![CDATA[Seleccione a linguagem]]></translate></item>
+
+	<!-- SECTION: HOME PAGE -->
+	
+	<item v="home_title"><translate><![CDATA[Explore a Diferença
+na Lumix.]]></translate></item>
+	<item v="home_subtitle"><translate><![CDATA[As Câmaras Digitais Lumix tornam mais fácil tirar fotografias. Experimente com a sua fotografia, obtenha uma boa prespectiva e deixe a sua Lumix fazer o seu trabalho. Siga as nossas histórias e veja a Diferença Lumix!]]></translate></item>
+
+	<!-- panels -->
+	<item v="section0_title"><translate><![CDATA[Prémios Lumix ]]></translate></item>
+	<item v="section0_subtitle"><translate><![CDATA[Coloque as suas fotografias no concurso de fotografia digital. ]]></translate></item>
+	
+	<item v="section1_title"><translate><![CDATA[Gama de Produtos]]></translate></item>
+	<item v="section1_subtitle"><translate><![CDATA[Veja a nossa gama e os benefícios Lumix]]></translate></item>
+	
+	<item v="section2_subtitle"><translate><![CDATA[Visita a Londres com os seus dois amigos]]></translate></item>
+
+	<item v="section3_subtitle"><translate><![CDATA[Visita a Barcelona com a sua namorada]]></translate></item>
+	
+	<item v="section4_subtitle"><translate><![CDATA[Nos testes da Fórmula 1 no Jerez]]></translate></item>
+
+	<!-- FEATURING THE [CAMERA NAME] -->
+	<item v="featuring"><translate><![CDATA[Características]]></translate></item>
+	<item v="the"><translate><![CDATA[da]]></translate></item>
+	
+	<!-- FLOATING MAIN MENU -->
+	
+	<item v="menu_overview"><translate><![CDATA[Visualização]]></translate></item>
+	<item v="menu_scene"><translate><![CDATA[cena]]></translate></item>
+	<item v="menu_lumix_award"><translate><![CDATA[Entre nos Prémios Lumix]]></translate></item>
+	<item v="menu_product_range"><translate><![CDATA[Gama de Produtos Lumix]]></translate></item>
+	<!-- menu items -->
+	<item v="menu_0"><translate><![CDATA[Início]]></translate></item>
+	<item v="menu_1"><translate><![CDATA[Seguindo Anna a 
+visitar Londres]]></translate></item>
+	<item v="menu_2"><translate><![CDATA[Seguindo Pietro a visitar Barcelona]]></translate></item>
+	<item v="menu_3"><translate><![CDATA[Seguindo Thomas nos testes da F1]]></translate></item>
+	<item v="menu_4"><translate><![CDATA[Gama de produtos Lumix]]></translate></item>
+	<item v="menu_5"><translate><![CDATA[Entre nos Prémios Lumix]]></translate></item>
+	
+	<!-- PRODUCT INFO -->
+	<!-- Launch product info panel-->
+	<item v="find_out_more_DMC-FX01"><translate><![CDATA[Saiba mais sobre a DMC-FX01]]></translate></item>
+	<item v="find_out_more_DMC-FZ7"><translate><![CDATA[Saiba mais sobre a DMC-FZ7]]></translate></item>
+	<item v="find_out_more_DMC-TZ1"><translate><![CDATA[Saiba mais sobre a DMC-TZ1]]></translate></item>
+	
+	<!-- Camera types -->
+	<item v="cam_type_0"><translate><![CDATA[Divertido e Fácil]]></translate></item>
+	<item v="cam_type_1"><translate><![CDATA[Compacta e Sofisticada]]></translate></item>
+	<item v="cam_type_2"><translate><![CDATA[Para Viagens]]></translate></item>
+	<item v="cam_type_3"><translate><![CDATA[Semi-profissional]]></translate></item>
+	<item v="cam_type_4"><translate><![CDATA[Profissional]]></translate></item>
+	<item v="cam_type_5"><translate><![CDATA[Profissional SLR]]></translate></item>
+	
+	<!-- Camera specifications. In main.xml, specify id for each spec that applies to a camera -->
+	<item v="spec_0"><translate><![CDATA[Zoom Óptico]]></translate></item>
+	<item v="spec_1"><translate><![CDATA[Estabilizador Óptico de Imagem]]></translate></item>
+	<item v="spec_2"><translate><![CDATA[Lentes Leica]]></translate></item>
+	<item v="spec_3"><translate><![CDATA[VENUS ENGINE]]></translate></item>
+	<item v="spec_4"><translate><![CDATA[MEGA PIXELS]]></translate></item>
+	<item v="spec_5"><translate><![CDATA[Funções Manuais]]></translate></item>
+	<item v="spec_6"><translate><![CDATA[LCD de Ângulo Elevado]]></translate></item>
+	<item v="spec_7"><translate><![CDATA[Ângulo Wide ]]></translate></item>
+	<item v="spec_8"><translate><![CDATA[SLR]]></translate></item>
+	<item v="spec_9"><translate><![CDATA[Largo LCD]]></translate></item>
+	<item v="spec_10"><translate><![CDATA[16:9 CCD]]></translate></item>
+	
+	<!-- SECTION: LUMIX AWARD -->
+	
+	<item v="lumix_award_title"><translate><![CDATA[Prémios Lumix 2006]]></translate></item>
+	<item v="lumix_award_subtitle"><translate><![CDATA[Julgando o melhor em Fotografia Digital.
+
+Os Prémios Lumix estão agora no seu 5º Ano e convidam toda as pessoas a participar na Competição Europeia de Fotografia Digital.]]></translate></item>
+	<item v="previous_winners"><translate><![CDATA[Vencedores Anteriores]]></translate></item>
+	<item v="enter_award"><translate><![CDATA[Entre nos Prémios Lumix]]></translate></item>
+	
+	<!-- Image navigation -->
+	<item v="close"><translate><![CDATA[Fechar]]></translate></item>
+	<item v="prev_image"><translate><![CDATA[Imagem 
+Anterior]]></translate></item>
+	<item v="next_image"><translate><![CDATA[Próxima 
+imagem]]></translate></item>
+	
+	
+	<!-- SECTION: PRODUCT RANGE -->
+	<item v="featured"><translate><![CDATA[veja na ação]]></translate></item>
+	<item v="product_range_title"><translate><![CDATA[Gama de produtos Lumix 2006]]></translate></item>
+	<item v="product_range_subtitle"><translate><![CDATA[A nossa gama Lumix oferece a Câmara exacta para as suas necessidades. Descubra mais sobre as suas características e tecnologias.]]></translate></item>
+	
+	<!-- Camera features -->
+	<item v="leica_lens"><translate><![CDATA[Lentes Leica]]></translate></item>
+	
+	<!-- Camera info menu -->
+	<item v="want_to_buy"><translate><![CDATA[Compre esta câmara]]></translate></item>
+	<item v="tech_specs"><translate><![CDATA[Espeficicações Detalhadas]]></translate></item>
+	
+	<!-- Camera navigation -->
+	<item v="close_camera"><translate><![CDATA[Fechar 
+Anterior]]></translate></item>
+	<item v="prev_camera"><translate><![CDATA[Câmara
+Câmara]]></translate></item>
+	<item v="next_camera"><translate><![CDATA[Próxima 
+Câmara]]></translate></item>
+
+	<!-- menu -->
+	<item v="see_in_action_DMC-FX01"><translate><![CDATA[Saiba mais sobre a DMC-FX01]]></translate></item>
+	<item v="see_in_action_DMC-FZ7"><translate><![CDATA[Saiba mais sobre a DMC-FZ7]]></translate></item>
+	<item v="see_in_action_DMC-TZ1"><translate><![CDATA[Saiba mais sobre a DMC-TZ1]]></translate></item>
+	<item v="buy_this_camera"><translate><![CDATA[Compre esta câmara]]></translate></item>
+	<item v="more_info"><translate><![CDATA[Espeficicações Detalhadas]]></translate></item>
+	
+	<!-- Technologies -->
+<!-- new --><item v="key_technologies"><translate><![CDATA[Tecnologias Lumix]]></translate></item>
+	
+	<item v="enter_award"><translate><![CDATA[Entre nos Prémios Lumix]]></translate></item>
+	
+	
+	<!-- Video stories -->
+	<!-- Anna -->
+	<item v="anna_ch1_title"><translate><![CDATA[No apartamento de Anna]]></translate></item>
+	<item v="anna_ch2_title"><translate><![CDATA[Prepare-se]]></translate></item>
+	<item v="anna_ch3_title"><translate><![CDATA[Divertido com a maquiagem]]></translate></item>
+	<item v="anna_ch4_title"><translate><![CDATA[De Táxi para o Club]]></translate></item>
+	<item v="anna_ch5_title"><translate><![CDATA[O Leão]]></translate></item>
+	<item v="anna_ch6_title"><translate><![CDATA[A Curtina]]></translate></item>
+	<item v="anna_ch7_title"><translate><![CDATA[Bricando com o barman]]></translate></item>
+	<item v="anna_ch8_title"><translate><![CDATA[Conversar no sofá]]></translate></item>
+	<item v="anna_ch9_title"><translate><![CDATA[Na pista de dança]]></translate></item>
+	
+	<!-- Pietro -->
+	<item v="pietro_ch1_title"><translate><![CDATA[Na Períferia de Barcelona]]></translate></item>
+	<item v="pietro_ch2_title"><translate><![CDATA[O Centro]]></translate></item>
+	<item v="pietro_ch3_title"><translate><![CDATA[Na Placa Real]]></translate></item>
+	<item v="pietro_ch4_title"><translate><![CDATA[No exterior do café]]></translate></item>
+	<item v="pietro_ch5_title"><translate><![CDATA[No Hotel]]></translate></item>
+	<item v="pietro_ch6_title"><translate><![CDATA[Na Praia]]></translate></item>
+	<item v="pietro_ch7_title"><translate><![CDATA[Arquitectura Moderna]]></translate></item>
+	<item v="pietro_ch8_title"><translate><![CDATA[Visitando a Sagrada Família]]></translate></item>
+	<item v="pietro_ch9_title"><translate><![CDATA[Restaurante com vista]]></translate></item>
+	
+	<!-- Tim -->
+	<item v="thomas_ch1_title"><translate><![CDATA[Chegada ao Circuito do Jerez]]></translate></item>
+	<item v="thomas_ch2_title"><translate><![CDATA[Na Alameda]]></translate></item>
+	<item v="thomas_ch3_title"><translate><![CDATA[Dentro da Garagem]]></translate></item>
+	<item v="thomas_ch4_title"><translate><![CDATA[No telhado da paddock]]></translate></item>
+	<item v="thomas_ch5_title"><translate><![CDATA[No fim da Alameda]]></translate></item>
+	<item v="thomas_ch6_title"><translate><![CDATA[De volta à pista 2]]></translate></item>
+	<item v="thomas_ch7_title"><translate><![CDATA[Vista]]></translate></item>
+	<item v="thomas_ch8_title"><translate><![CDATA[Torre Tio Pepe]]></translate></item>
+	<item v="thomas_ch9_title"><translate><![CDATA[Estádio Chicane]]></translate></item>
+	
+	<!-- video navigation -->
+	<item v="play"><translate><![CDATA[Reproduzir]]></translate></item>
+	<item v="pause"><translate><![CDATA[Pausa]]></translate></item>
+	<item v="close_scene"><translate><![CDATA[Fechar
+CENA]]></translate></item>
+	<item v="prev_scene"><translate><![CDATA[CENA
+Anterior]]></translate></item>
+	<item v="next_scene"><translate><![CDATA[Próxima 
+CENA]]></translate></item>
+
+
+	
+	<!-- TABS -->
+	<item v="more_info_image"><translate><![CDATA[mais infomation sobre esta imagem]]></translate></item>
+	
+	<!-- Hotspot rollover text -->
+	<!-- Photo hint and tips -->
+	<item v="phototip1_roll"><translate><![CDATA[LEARN MORE ABOUT LENS FLARE AND THE EFFECTS OF BACKLIGHT
+FROM A STRONG LIGHT SOURCE]]></translate></item>
+	<item v="phototip2_roll"><translate><![CDATA[Here is photo tip 2]]></translate></item>
+	<item v="phototip3_roll"><translate><![CDATA[Here is photo tip 3]]></translate></item>
+	<!-- picture -->
+	<item v="picture_roll"><translate><![CDATA[Imagem Lumix]]></translate></item>
+
+	<!-- Camera settings -->
+	<!-- modes -->
+	<item v="portrait_mode"><translate><![CDATA[Modo retrato]]></translate></item>
+	<item v="simple_mode"><translate><![CDATA[Modo Simples]]></translate></item>
+	<item v="macro_mode"><translate><![CDATA[MODO MACRO]]></translate></item>
+	<item v="high_sens_mode"><translate><![CDATA[MODO Sensibilidade Elevada]]></translate></item>
+	<item v="night_port_mode"><translate><![CDATA[Modo retrato nocturno]]></translate></item>
+	<item v="beach_mode"><translate><![CDATA[Modo de Praia]]></translate></item>
+	<item v="sports_mode"><translate><![CDATA[Modo desporto]]></translate></item>
+	<item v="manual_mode"><translate><![CDATA[Modo Manual]]></translate></item>
+	<item v="scenery_mode"><translate><![CDATA[Modo Cenário]]></translate></item>
+	
+	<!-- Other settings -->
+	<item v="on"><translate><![CDATA[ON]]></translate></item>
+	<item v="off"><translate><![CDATA[OFF]]></translate></item>
+	<!-- camera flash -->
+	<item v="flash"><translate><![CDATA[FLASH]]></translate></item>
+	
+	<item v="wide_angle"><translate><![CDATA[Ângulo wide]]></translate></item>
+	<item v="auto_red_eye"><translate><![CDATA[Redutor automático olhos vermelhos]]></translate></item>
+	
+	<item v="zoom"><translate><![CDATA[ZOOM]]></translate></item>
+	<item v="optical_zoom"><translate><![CDATA[zoom óptico]]></translate></item>
+	<item v="extra_optical_zoom"><translate><![CDATA[extra zoom óptico]]></translate></item>
+	
+	<item v="spot_metering"><translate><![CDATA[medição do ponto]]></translate></item>
+	<item v="backlight_compensation"><translate><![CDATA[Compensação contraluz]]></translate></item>
+	
+	
+	
+	
+	<!-- hotspot types -->
+	<item v="hotspot_type0"><translate><![CDATA[Caracter.
+do Produto]]></translate></item>
+	<item v="hotspot_type1"><translate><![CDATA[Ideia
+Fotografia]]></translate></item>
+	<item v="hotspot_type2"><translate><![CDATA[Imagem
+Lumix]]></translate></item>
+
+	<!-- new -->
+	<!-- as displayed in end of video summary -->
+	<item v="hotspot_summary_type0"><translate><![CDATA[Característica do Produto]]></translate></item>
+	<item v="hotspot_summary_type1"><translate><![CDATA[Ideia Fotografia]]></translate></item>
+	<item v="hotspot_summary_type2"><translate><![CDATA[Imagem Lumix]]></translate></item>
+	
+	<item v="prev_scene_summary"><translate><![CDATA[CENA Anterior]]></translate></item>
+	<item v="next_scene_summary"><translate><![CDATA[Próxima CENA]]></translate></item>
+	<!-- /new -->
+	
+	<!-- Pop up animation text -->
+	<item v="secs"><translate><![CDATA[SEG.]]></translate></item><!-- an abreviation of "SECONDS" -->
+	<item v="ready"><translate><![CDATA[PRONTO]]></translate></item>
+
+<!-- new start -->	
+<!-- Camera dimensions - Width, Height, Depth -->
+	<item v="width_abbr"><translate><![CDATA[L]]></translate></item>
+	<item v="height_abbr"><translate><![CDATA[A]]></translate></item>
+	<item v="depth_abbr"><translate><![CDATA[P]]></translate></item>
+	
+	<item v="large_screen_display"><translate><![CDATA[Largo LCD]]></translate></item>
+	<!-- Camera screen size ratio -->
+	<item v="normal_format"><translate><![CDATA[formato NORMAL]]></translate></item>
+	<item v="wide_format"><translate><![CDATA[formato LARGAMENTE]]></translate></item>
+	
+	<item v="window"><translate><![CDATA[janela]]></translate></item>
+	<item v="calendar_view"><translate><![CDATA[Vista de Calendário]]></translate></item>
+	
+	<item v="normal_mode"><translate><![CDATA[Modo normal]]></translate></item>
+	<item v="wide_mode"><translate><![CDATA[MODO LARGAMENTE]]></translate></item>
+	
+	<item v="normal_lens"><translate><![CDATA[LENTE NORMAL]]></translate></item>
+	<item v="wide_lens"><translate><![CDATA[LENTE GRANDE-ANGULAR DE 28MM]]></translate></item>
+	<!-- a camera feature -->
+	<item v="power_lcd"><translate><![CDATA[POWER LCD]]></translate></item>
+	<item v="button"><translate><![CDATA[BOTÃO]]></translate></item>
+	
+	<item v="viewfinder_aligned"><translate><![CDATA[LCD e Visor alinhados mesmo ângulo]]></translate></item>
+	<item v="slow_shutter"><translate><![CDATA[Velocidade do obturador lenta]]></translate></item>
+	<item v="joystick"><translate><![CDATA[JOYSTICK]]></translate></item>
+<!-- new end -->
+
+
+	<!-- Pop up titles -->
+	<item v="popUp_title_feature"><translate><![CDATA[Característica do Produto]]></translate></item>
+	<item v="popUp_title_tip"><translate><![CDATA[Ideia Fotografia]]></translate></item>
+	<item v="popUp_title_picture"><translate><![CDATA[Imagem Lumix]]></translate></item>
+	
+	
+	<!-- Pop ups -->
+	<!-- Including hotspot roll over text -->
+	<item v="popUp_hotspot_text_0"><translate><![CDATA[Acessório]]></translate></item>
+	<item v="popUp_subtitle_0"><translate><![CDATA[Design elegante]]></translate></item>
+	<item v="popUp_body_text_0"><translate><![CDATA[Com o seu design compacto e elegante a FX01 é o acessório ideal para a ocasião.]]></translate></item>
+	<item v="popUp_caption_0_0"><translate><![CDATA[PRATA]]></translate></item>
+	<item v="popUp_caption_0_1"><translate><![CDATA[COR-DE-ROSA]]></translate></item>
+	<item v="popUp_caption_0_2"><translate><![CDATA[PRETO]]></translate></item>
+	<item v="popUp_caption_0_3"><translate><![CDATA[BRANCO]]></translate></item>
+	
+	<item v="popUp_hotspot_text_1"><translate><![CDATA[Fácil de usar]]></translate></item>
+	<item v="popUp_subtitle_1"><translate><![CDATA[Modo simples]]></translate></item>
+	<item v="popUp_body_text_1"><translate><![CDATA[Num modo simples, todos os ajustes são feitos automaticamente tornando fácil tirar boas fotografias, mesmo nunca ter usado uma câmara anteriormente. Apenas pressione o botão.]]></translate></item>
+
+	<item v="popUp_hotspot_text_2"><translate><![CDATA[O retrato perfeito]]></translate></item>
+	<item v="popUp_subtitle_2"><translate><![CDATA[Modo retrato]]></translate></item>
+	<item v="popUp_body_text_2"><translate><![CDATA[Este modo ajuda-o a tirar bonitos retratos com uma tonalidade de tom da pele natural. Torna-o a si e aos seus amigos parecerem sempre be.]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_3"><translate><![CDATA[Pronto para usar]]></translate></item>
+	<item v="popUp_subtitle_3"><translate><![CDATA[Quick start]]></translate></item>
+	<item v="popUp_body_text_3"><translate><![CDATA[Por vezes, precisa que a sua câmara esteja pronta num instante. A FX01 está pronta para começar a fotografar em 1.6 segundo após ligá-la.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_4"><translate><![CDATA[Ao contrário]]></translate></item>
+	<item v="popUp_subtitle_4"><translate><![CDATA[LCD com ângilo automático]]></translate></item>
+	<item v="popUp_body_text_4"><translate><![CDATA[Horizontal ou vertical, qual o melhor? Depois de tirar a fotografia, a imagem no LCD aparece sempre correctamente, independentemente do lado em que segurou na câmara.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_5"><translate><![CDATA[Momemtos Fashion]]></translate></item>
+	<item v="popUp_subtitle_5"><translate><![CDATA[O.I.S]]></translate></item>
+	<item v="popUp_body_text_5"><translate><![CDATA[A utilização de um flash em espaços interiores pode descolorir o primeiro plano com luz artificial e escurecer o segundo plano.  A tecnologia O.I.S. (Estabilizador Óptico de Imagem) permite-lhe tirar excelentes fotografias sem flash.]]></translate></item>
+	<item v="popUp_caption_5_0"><translate><![CDATA[OIS OFF]]></translate></item>
+	<item v="popUp_caption_5_1"><translate><![CDATA[OIS ON]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_6"><translate><![CDATA[O tamanho interessa]]></translate></item>
+	<item v="popUp_subtitle_6"><translate><![CDATA[Pequena e compacta]]></translate></item>
+	<item v="popUp_body_text_6"><translate><![CDATA[Com o seu design compacto e elegante a FX01 cabe em qualquer bolsa e acompanha a qualquer lado.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_7"><translate><![CDATA[Mantenha-se perto]]></translate></item>
+	<item v="popUp_subtitle_7"><translate><![CDATA[O.I.S. CLOSE-UPS]]></translate></item>
+	<item v="popUp_body_text_7"><translate><![CDATA[Tirar fotografias em grande plano, nítidas e vivas requer uma câmara ccompletamente imóvel. A tecnologia O.I.S. (Estabilizador Óptico de Imagem) pode capturar imagens estáveis e nítidas, tão perto quanto quiser.]]></translate></item>
+	<item v="popUp_caption_7_0"><translate><![CDATA[O.I.S. OFF]]></translate></item>
+	<item v="popUp_caption_7_1"><translate><![CDATA[O.I.S. ON]]></translate></item>
+	
+	<item v="popUp_hotspot_text_8"><translate><![CDATA[Partilhe as suas imagens]]></translate></item>
+	<item v="popUp_subtitle_8"><translate><![CDATA[Grande LCD]]></translate></item>
+	<item v="popUp_body_text_8"><translate><![CDATA[Mostrar as suas fotografias é a parte mais divertida. O grande LCD de alta resolução torna mais fácil ver as suas fotos logo após tirá-las.]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_9"><translate><![CDATA[Capture o seu melhor lado ]]></translate></item>
+	<item v="popUp_subtitle_9"><translate><![CDATA[Modo Auto-retrato]]></translate></item>
+	<item v="popUp_body_text_9"><translate><![CDATA[Um auto-retrato pode não ser fácil. Aponte a câmara em direcção a si e a luz vermelha LED indicará quando está focado. Então faça um beicinho e tire a fotografia.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_10"><translate><![CDATA[Ângulo wide]]></translate></item>
+	<item v="popUp_subtitle_10"><translate><![CDATA[lente grande-angular de 28mm ]]></translate></item>
+	<item v="popUp_body_text_10"><translate><![CDATA[Conseguir apanhar toda a gente na fotografia, por vezes é quase inpossível. Com uma lente grande-angular de 28mm apanhará todos os seus amigos e ninguém ficará decepcionado.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_11"><translate><![CDATA[Veja a vista em modo panorâmico]]></translate></item>
+	<item v="popUp_subtitle_11"><translate><![CDATA[Rácios de aspectos]]></translate></item>
+	<item v="popUp_body_text_11"><translate><![CDATA[Pode tirar fotografias em formato 16:9. Útil para certos objectos.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_12"><translate><![CDATA[Foque]]></translate></item>
+	<item v="popUp_subtitle_12"><translate><![CDATA[Rápida focagem automática]]></translate></item>
+	<item v="popUp_body_text_12"><translate><![CDATA[Coma focagem automática de elevada velocidade de 1 ponto, pode tirar fotografias rápidas, fáceis e em qualquer altura.]]></translate></item>
+
+	<item v="popUp_hotspot_text_13"><translate><![CDATA[Usado por leões]]></translate></item>
+	<item v="popUp_subtitle_13"><translate><![CDATA[Modo Simples]]></translate></item>
+	<item v="popUp_body_text_13"><translate><![CDATA[Todos os ajustes são feitos automaticamente tornando mais fácil tirar boas fotografias, mesmo nunca ter usado uma câmara anteriormente. Apenas pressione o botão]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_14"><translate><![CDATA[Seja criativo]]></translate></item>
+	<item v="popUp_subtitle_14"><translate><![CDATA[Vista diferente]]></translate></item>
+	<item v="popUp_body_text_14"><translate><![CDATA[Procurando  posições raras, por vezes faz toda a diferença ao tirar a fotografia. Seja brincalhão, criativo ao mesmo tempo.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_15"><translate><![CDATA[Festa]]></translate></item>
+	<item v="popUp_subtitle_15"><translate><![CDATA[Modo Festa]]></translate></item>
+	<item v="popUp_body_text_15"><translate><![CDATA[Quando está na parte mais divertida da festa você não quer a tecnologia se meta no seu caminho. Troque para o modo festa e a câmara faz todos os ajustes correctos para a noite.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_16"><translate><![CDATA[A Curtina]]></translate></item>
+	<item v="popUp_subtitle_16"><translate><![CDATA[Flash com Redução olhos-vermelhos]]></translate></item>
+	<item v="popUp_body_text_16"><translate><![CDATA[Quando usa o flash é normal obter os olhos vermelhos. Com o flash seleccionado para redução automática olhos-vermelhos, terá 2 flahes rápidos para resolver o problema.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_17"><translate><![CDATA[A vida através das lentes]]></translate></item>
+	<item v="popUp_subtitle_17"><translate><![CDATA[Lentes Leica DC]]></translate></item>
+	<item v="popUp_body_text_17"><translate><![CDATA[As mundialmente famosas as Lentes Leica DC equipadas na TZ1, dando às imagens uma cor expressiva e uma profundidade notável.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_18"><translate><![CDATA[Não fique espalhafatoso]]></translate></item>
+	<item v="popUp_subtitle_18"><translate><![CDATA[O.I.S.]]></translate></item>
+	<item v="popUp_body_text_18"><translate><![CDATA[Em algumas circunstâncias usar o flash pode ser errado. Com a tecnologia O.I.S. (Estabilizador Óptico de Imagem), pode usar o obturador de baixa velocidade e tirar as suas fotografias sem flash.]]></translate></item>	
+	<item v="popUp_caption_18_0"><translate><![CDATA[FLASH OFF]]></translate></item>
+	<item v="popUp_caption_18_1"><translate><![CDATA[FLASH ON]]></translate></item>
+
+	<item v="popUp_hotspot_text_19"><translate><![CDATA[Partilhe as suas imagens]]></translate></item>
+	<item v="popUp_subtitle_19"><translate><![CDATA[Grande LCD]]></translate></item>
+	<item v="popUp_body_text_19"><translate><![CDATA[Mostrar as suas fotografias é a parte mais divertida. O grande LCD de alta resolução torna mais fácil ver as suas fotos logo após tirá-las.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_20"><translate><![CDATA[Ângulo wide]]></translate></item>
+	<item v="popUp_subtitle_20"><translate><![CDATA[lente grande-angular de 28mm]]></translate></item>
+	<item v="popUp_body_text_20"><translate><![CDATA[Conseguir apanhar toda a gente na fotografia, por vezes é quase inpossível. Com uma lente grande-angular de 28mm apanhará todos os seus amigos e ninguém ficará decepcionado.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_21"><translate><![CDATA[Zoom zoom]]></translate></item>
+	<item v="popUp_subtitle_21"><translate><![CDATA[zoom 3.6x]]></translate></item>
+	<item v="popUp_body_text_21"><translate><![CDATA[Por vezes voçe quer estar perto da acção. Com um zoom de 3.6x consegue apanhar os seus amigos em todos os tipos de fraude.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_22"><translate><![CDATA[Reprodução]]></translate></item>
+	<item v="popUp_subtitle_22"><translate><![CDATA[Modo Reprodução]]></translate></item>
+	<item v="popUp_body_text_22"><translate><![CDATA[Fácil e Divertido. Pode visualizar as suas imagens sequencialmente, num ecrã com 1, 9 ou 25 janelas ou numa vista de calendário que mostra miniaturas de todas as imagens capturadas numa determinada data.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_23"><translate><![CDATA[Bom encaixe.]]></translate></item>
+	<item v="popUp_subtitle_23"><translate><![CDATA[Design compacto]]></translate></item>
+	<item v="popUp_body_text_23"><translate><![CDATA[O design compacto da FX01 significa que encaixa nuns jeans super justinhos.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_24"><translate><![CDATA[Permaneça ao local.]]></translate></item>
+	<item v="popUp_subtitle_24"><translate><![CDATA[O.I.S.]]></translate></item>
+	<item v="popUp_body_text_24"><translate><![CDATA[Você ainda pode fazer parte da ação enquanto captura tudo na câmara. A preocupação do tremer das mãos é eliminada com a nossa tecnologia O.I.S. (Estabilizador Óptico de Imagem). Isto assegura que as suas imagens sejam fixas, quando você não pode ser.]]></translate></item>	
+	<item v="popUp_caption_24_0"><translate><![CDATA[O.I.S. OFF]]></translate></item>
+	<item v="popUp_caption_24_1"><translate><![CDATA[O.I.S. ON]]></translate></item>
+	
+
+	<item v="popUp_hotspot_text_25"><translate><![CDATA[Partilhe as suas imagens]]></translate></item>
+	<item v="popUp_subtitle_25"><translate><![CDATA[Grande LCD]]></translate></item>
+	<item v="popUp_body_text_25"><translate><![CDATA[Mostrar as suas fotografias é a parte mais divertida. O grande LCD de alta resolução torna mais fácil ver as suas fotos logo após tirá-las.]]></translate></item>	
+
+
+
+<!-- new onwards 17-03-06 --><!-- BARCELONA -->
+
+	<item v="popUp_hotspot_text_26"><translate><![CDATA[Viagem leve.]]></translate></item>
+	<item v="popUp_subtitle_26"><translate><![CDATA[Design compacto]]></translate></item>
+	<item v="popUp_body_text_26"><translate><![CDATA[Com o seu design compacto e cheio de estilo, a TZ1 cabe facilmente no seu bolso permitindo-lhe viajar sempre muito leve.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_27"><translate><![CDATA[Excelentes imagens com zoom]]></translate></item>
+	<item v="popUp_subtitle_27"><translate><![CDATA[Zoom elevado com O.I.S.]]></translate></item>
+	<item v="popUp_body_text_27"><translate><![CDATA[A captura de imagens com zoom acentua qualquer movimento da câmara. Com a tecnologia O.I.S. (Estabilizador Óptico de Imagem), pode capturar imagens estáveis e nítidas com zoom elevado.]]></translate></item>	
+<!-- new --><item v="popUp_caption_27_0"><translate><![CDATA[O.I.S. ON]]></translate></item>
+<!-- new --><item v="popUp_caption_27_1"><translate><![CDATA[O.I.S. OFF]]></translate></item>
+	
+	<item v="popUp_hotspot_text_28"><translate><![CDATA[Pequeno grande Zoom]]></translate></item>
+	<item v="popUp_subtitle_28"><translate><![CDATA[Zoom Elevado]]></translate></item>
+	<item v="popUp_body_text_28"><translate><![CDATA[Um potente zoom óptico 10x equivalente a uma lente grande de 35 a 350mm de uma câmara de 35mm, está “embalado” numa pequena compacta câmara.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_28_0"><translate><![CDATA[ZOOM 1X]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_1"><translate><![CDATA[ZOOM 3X]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_2"><translate><![CDATA[ZOOM 6X]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_3"><translate><![CDATA[ZOOM 10X]]></translate></item>
+	
+	<item v="popUp_hotspot_text_29"><translate><![CDATA[Marque um encontro]]></translate></item>
+	<item v="popUp_subtitle_29"><translate><![CDATA[Programação Data Viagem]]></translate></item>
+	<item v="popUp_body_text_29"><translate><![CDATA[Pode programar/colocar o dia de partida da sua viagem com a TZ1, e então mostre o dia de que cada fotografia foi tirada nessa viagem. Ideal para organizar as suas fotografias de viagem.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_29_0"><translate><![CDATA[1. dia]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_1"><translate><![CDATA[2. dia]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_2"><translate><![CDATA[WORLD TIME SETTING]]></translate></item>
+
+
+
+
+	<item v="popUp_hotspot_text_30"><translate><![CDATA[Pontos de Vista]]></translate></item>
+	<item v="popUp_subtitle_30"><translate><![CDATA[Diferentes vistas]]></translate></item>
+	<item v="popUp_body_text_30"><translate><![CDATA[Por vezes, a nossa vista paga para vermos um objecto com mais detalhe. Movendo-se ao redor do objecto e investigando diferentes pontos de vistas pode descobrir fotografias realmente interessantes.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_30_0"><translate><![CDATA[VISTA 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_1"><translate><![CDATA[VISTA 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_2"><translate><![CDATA[VISTA 3]]></translate></item>
+		
+	<item v="popUp_hotspot_text_31"><translate><![CDATA[Em movimento]]></translate></item>
+	<item v="popUp_subtitle_31"><translate><![CDATA[O.I.S.]]></translate></item>
+	<item v="popUp_body_text_31"><translate><![CDATA[Quando está em movimento não é surpresa a sua câmara tremer e tirar fotografias tremidas. A tecnologia O.I.S. (Estabilizador Óptico de Imagem) compensa qualquer movimento utilizando giro-sensores que mudam as lentes para direcção contrária – proporcinando-lhe imagens nítidas e distintas.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_31_0"><translate><![CDATA[O.I.S. OFF]]></translate></item>
+	<!-- new --><item v="popUp_caption_31_1"><translate><![CDATA[O.I.S. ON]]></translate></item>
+
+	<item v="popUp_hotspot_text_32"><translate><![CDATA[Quick start]]></translate></item>
+	<item v="popUp_subtitle_32"><translate><![CDATA[Quick start]]></translate></item>
+	<item v="popUp_body_text_32"><translate><![CDATA[Por vezes, precisa que a sua câmara esteja pronta num instante. A TZ1 está pronta para começar a fotografar em 0.95 segundo após ligá-la.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_33"><translate><![CDATA[Tenha Reflexos]]></translate></item>
+	<item v="popUp_subtitle_33"><translate><![CDATA[Reflections]]></translate></item>
+	<item v="popUp_body_text_33"><translate><![CDATA[Usar os reflexos podemos fazer composições interessantes. A água na rua, as janelas do carro e as fachadas de vidro podem, num todo, criar um diferente sentimento na fotografia.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_34"><translate><![CDATA[Retratos]]></translate></item>
+	<item v="popUp_subtitle_34"><translate><![CDATA[Sensibilidade Elevada]]></translate></item>
+	<item v="popUp_body_text_34"><translate><![CDATA[As imagens podem ficar tremidas se o seu objecto se mover enquanto tirar a fotografia. Este estremecimento do movimento pode ser reduzido utilizando a definição do modo de Sensibilidade Elevada. Aumenta de forma eficaz a velocidade do obturador até ao máximo, criando imagens distintas e nítidas.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_34_0"><translate><![CDATA[COM Sensibilidade Elevada]]></translate></item>
+	<!-- new --><item v="popUp_caption_34_1"><translate><![CDATA[SEM Sensibilidade Elevada]]></translate></item>
+	
+	<item v="popUp_hotspot_text_35"><translate><![CDATA[Lentes Leica DC]]></translate></item>
+	<item v="popUp_subtitle_35"><translate><![CDATA[Lentes Leica DC]]></translate></item>
+	<item v="popUp_body_text_35"><translate><![CDATA[As mundialmente famosas as Lentes Leica DC equipadas na TZ1, dando às imagens uma cor expressiva e uma profundidade notável.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_36"><translate><![CDATA[Focagem]]></translate></item>
+	<item v="popUp_subtitle_36"><translate><![CDATA[AF assist light]]></translate></item>
+	<item v="popUp_body_text_36"><translate><![CDATA[Condições de pouca luz pode frequentemente querer dizer focagem automática incorrecta. Com o assistente de ajuda de focagem automática, a focagem é melhorada.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_37"><translate><![CDATA[Desculpe?]]></translate></item>
+	<item v="popUp_subtitle_37"><translate><![CDATA[Modo Simples]]></translate></item>
+	<item v="popUp_body_text_37"><translate><![CDATA[Num modo simples, todos os ajustes são feitos automaticamente tornando fácil tirar boas fotografias, mesmo nunca ter usado uma câmara anteriormente. Apenas pressione o botão.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_38"><translate><![CDATA[LCD de Grandes Dimensões]]></translate></item>
+	<item v="popUp_subtitle_38"><translate><![CDATA[Grande LCD]]></translate></item>
+	<item v="popUp_body_text_38"><translate><![CDATA[Um grande LCD torna mais fácil visualizar as suas imagens logo após de tirar fotografias. Com as suas 2.5” e 207,000 pixels, o monitor LCD de elevada resolução também tornam mais fácil ver os textos e as pequenas imagens em miniatura.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_39"><translate><![CDATA[A hora azul]]></translate></item>
+	<item v="popUp_subtitle_39"><translate><![CDATA[Usando a luz]]></translate></item>
+	<item v="popUp_body_text_39"><translate><![CDATA[Com o anoitecer cai, ao fim de um dia claro, a luz fica com uma qualidade diferente. Isto é frequentemente referido como o ‘hora azul'. Tirar fotografias nesta luz dá uma riqueza rara de cor para suas fotografias.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_40"><translate><![CDATA[Focagem Rápida]]></translate></item>
+	<item v="popUp_subtitle_40"><translate><![CDATA[Rápida focagem automática]]></translate></item>
+	<item v="popUp_body_text_40"><translate><![CDATA[Escolha diversos modos de Focagem automática: spot, distância de 1, 3 ou 9 pontos do objecto que quer tirar. Pode fotografar rapidamente, fácil e em qualquer altura.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_40_0"><translate><![CDATA[9-pontos]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_1"><translate><![CDATA[3-pontos]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_2"><translate><![CDATA[1-pontos]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_3"><translate><![CDATA[1-spot]]></translate></item>
+	
+	<item v="popUp_hotspot_text_41"><translate><![CDATA[Amante da Noite]]></translate></item>
+	<item v="popUp_subtitle_41"><translate><![CDATA[Modo retrato nocturno]]></translate></item>
+	<item v="popUp_body_text_41"><translate><![CDATA[A utilização do flash à noite pode retirar algum do ambiente da fotografia. As velocidades do obturador mais baixas, possíveis devido à tecnologia O.I.S. (Estabilizador óptico de Imagem) permitem que a câmara capte mais luz.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_42"><translate><![CDATA[Na Praia]]></translate></item>
+	<item v="popUp_subtitle_42"><translate><![CDATA[LCD Brilhante]]></translate></item>
+	<item v="popUp_body_text_42"><translate><![CDATA[Pode ser difícil ver o display num dia de muito sol, simplesmente pressione o botão de LCD (Power) e a display torna-se 40% mais brilhante, apróximadamente.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_43"><translate><![CDATA[Vida de Praia]]></translate></item>
+	<item v="popUp_subtitle_43"><translate><![CDATA[Modo de Praia]]></translate></item>
+	<item v="popUp_body_text_43"><translate><![CDATA[O sol brilhante é sempre bem vindo na praia mas, por vezes as suas fotografias ficam escuras. Com o modo de praia seleccionado pode tirar fotografias brilhantes sem preocupar-se com algo excepto, o seu bronzeado.]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_0"><translate><![CDATA[SEM MODO PRAIA]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_1"><translate><![CDATA[COM MODO PRAIA]]></translate></item>
+
+	<item v="popUp_hotspot_text_44"><translate><![CDATA[Não deixe fugir aquele movimento]]></translate></item>
+	<item v="popUp_subtitle_44"><translate><![CDATA[Mega burst]]></translate></item>
+	<item v="popUp_body_text_44"><translate><![CDATA[Pode tirar até 5 fotografias consecutivas, 3 fotogramas por segundo no modo standard. A TZ1 vem equipada com Disparo Consecutivo ilimitado até que o cartão SD fique cheio.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_44_0"><translate><![CDATA[Imagem 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_1"><translate><![CDATA[Imagem 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_2"><translate><![CDATA[Imagem 3]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_3"><translate><![CDATA[Imagem 4]]></translate></item>
+	
+
+
+	<item v="popUp_hotspot_text_45"><translate><![CDATA[Objectos Abstractos]]></translate></item>
+	<item v="popUp_subtitle_45"><translate><![CDATA[: Vista diferen]]></translate></item>
+	<item v="popUp_body_text_45"><translate><![CDATA[Olhar para os objectos de forma diferente podem obter alguns resultados inesperados. Experimente fotografar faça uma colagem de elementos diferentes do mesmo assunto.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_45_0"><translate><![CDATA[VISTA 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_1"><translate><![CDATA[VISTA 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_2"><translate><![CDATA[VISTA 3]]></translate></item>
+
+	<item v="popUp_hotspot_text_46"><translate><![CDATA[Primeiro Plano contra o Fundo]]></translate></item>
+	<item v="popUp_subtitle_46"><translate><![CDATA[Composição]]></translate></item>
+	<item v="popUp_body_text_46"><translate><![CDATA[Sobrepor os elementos de primeiro plano com o fundo podem criar composições interessantes.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_47"><translate><![CDATA[Zoom abstracto]]></translate></item>
+	<item v="popUp_subtitle_47"><translate><![CDATA[Abstracto]]></translate></item>
+	<item v="popUp_body_text_47"><translate><![CDATA[Utilizando o zoom elevado permite-lhe recortar as suas fotografias da câmara e criar detalhes abstractos.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_48"><translate><![CDATA[Luz de final de tarde]]></translate></item>
+	<item v="popUp_subtitle_48"><translate><![CDATA[Luz da tarde]]></translate></item>
+	<item v="popUp_body_text_48"><translate><![CDATA[Num dia claro, a luz do final de tarde tem uma profundidade de qualidade azul que pode dar calor, mais cor às suas fotografias.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_49"><translate><![CDATA[Vendo a luz]]></translate></item>
+	<item v="popUp_subtitle_49"><translate><![CDATA[Medição]]></translate></item>
+	<item v="popUp_body_text_49"><translate><![CDATA[Pode usar uma fonte de luz específica em sua vantagem. Utilizando a medição do ponto para medir a luz a reflectir fora do escritório, um diferente tipo de fotografia pode ser alcançado.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_50"><translate><![CDATA[Viage leve]]></translate></item>
+	<item v="popUp_subtitle_50"><translate><![CDATA[Design compacto]]></translate></item>
+	<item v="popUp_body_text_50"><translate><![CDATA[Com o seu design compacto e cheio de estilo, a TZ1 cabe facilmente no seu bolso permitindo-lhe viajar sempre muito leve.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_51"><translate><![CDATA[Pequeno grande Zoom]]></translate></item>
+	<item v="popUp_subtitle_51"><translate><![CDATA[Zoom Elevado]]></translate></item>
+	<item v="popUp_body_text_51"><translate><![CDATA[Um potente zoom óptico 10x equivalente a uma lente grande de 35 a 350mm de uma câmara de 35mm, está “embalado” numa pequena compacta câmara.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_51_0"><translate><![CDATA[ZOOM 1X]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_1"><translate><![CDATA[ZOOM 2X]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_2"><translate><![CDATA[ZOOM 5X]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_3"><translate><![CDATA[ZOOM 10X]]></translate></item>
+	
+	<item v="popUp_hotspot_text_52"><translate><![CDATA[Excelentes imagens com zoom]]></translate></item>
+	<item v="popUp_subtitle_52"><translate><![CDATA[Zoom elevado com O.I.S.]]></translate></item>
+	<item v="popUp_body_text_52"><translate><![CDATA[A captura de imagens com zoom acentua qualquer movimento da câmara. Com a tecnologia O.I.S. (Estabilizador Óptico de Imagem), pode capturar imagens estáveis e nítidas com zoom elevado.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_52_0"><translate><![CDATA[O.I.S. OFF]]></translate></item>
+	<!-- new --><item v="popUp_caption_52_1"><translate><![CDATA[O.I.S. ON]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_53"><translate><![CDATA[Veja a vista em modo panorâmico]]></translate></item>
+	<item v="popUp_subtitle_53"><translate><![CDATA[Rácios de Aspectoss]]></translate></item>
+	<item v="popUp_body_text_53"><translate><![CDATA[Veja a vista em modo panorâmico
+Pode tirar fotografias em formato 16:9. De seguida, coloque o seu cartão SD no seu plasma e deslumbre-se com a vista.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_54"><translate><![CDATA[Expressão Perfeitan]]></translate></item>
+	<item v="popUp_subtitle_54"><translate><![CDATA[Flash com Redução olhos-vermelhosn]]></translate></item>
+	<item v="popUp_body_text_54"><translate><![CDATA[Quando usa o flash é normal obter os olhos vermelhos. Com o flash seleccionado para redução automática olhos-vermelhos, terá 2 flahes rápidos para resolver o problema.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_54_0"><translate><![CDATA[Sem Redutor automático olhos vermelhos]]></translate></item>
+	<!-- new --><item v="popUp_caption_54_1"><translate><![CDATA[Com Redutor automático olhos vermelhos]]></translate></item>
+
+	<item v="popUp_hotspot_text_55"><translate><![CDATA[Ordem de Datas]]></translate></item>
+	<item v="popUp_subtitle_55"><translate><![CDATA[Exposição do Calendário]]></translate></item>
+	<item v="popUp_body_text_55"><translate><![CDATA[A TZ1 pode organizar as imagens que você tirou pela ordem em que que você as tirou. Isto pode ser uma grande ajuda quando tem um grande número de imagens para organizar.]]></translate></item>	
+
+
+
+
+
+	<!-- F1 -->
+
+	<item v="popUp_hotspot_text_56"><translate><![CDATA[Focagem Creativa]></translate></item>
+	<item v="popUp_subtitle_56"><translate><![CDATA[Profundidade do campo]]></translate></item>
+	<item v="popUp_body_text_56"><translate><![CDATA[A profundidade de campo é a zona de nitidez do foco em frente, atrás e ao redor do objecto. Com um zoom de 12x uma pequena profundidade pequena de campo é fácil de alcançar. Isto pode ser usado como um artifício estilístico ponderado com um elemento em focagem nítida.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_57"><translate><![CDATA[Design inteligente]]></translate></item>
+	<item v="popUp_subtitle_57"><translate><![CDATA[Design]]></translate></item>
+	<item v="popUp_body_text_57"><translate><![CDATA[O design coloca todos os controlos onde você os necessita num corpo fácil de segurar. O visor eletrónico e o LCD também estão alinhados ao longo da mesma linha de visão de modo a reduzir diferenças nas imagens que você vê quando molda as fotografias.]]></translate></item>	
+<!-- new 22-03-2006 --><item v="popUp_caption_57_0"><translate><![CDATA[CONTROLS]]></translate></item>
+	
+	<item v="popUp_hotspot_text_58"><translate><![CDATA[Grandes Planos Nítidos]]></translate></item>
+	<item v="popUp_subtitle_58"><translate><![CDATA[O.I.S macro]]></translate></item>
+	<item v="popUp_body_text_58"><translate><![CDATA[Tirar fotografias em grande plano, nítidas e vivas requer uma câmara completamente imóvel. Com a tecnologia O.I.S. (Estabilizador Óptico de Imagem), pode capturar imagens estáveis e nítidas sem s necessidade de usar o tripé.]]></translate></item>	
+<!-- new --><item v="popUp_caption_58_0"><translate><![CDATA[O.I.S. ON]]></translate></item>
+<!-- new --><item v="popUp_caption_58_1"><translate><![CDATA[O.I.S. OFF]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_59"><translate><![CDATA[Forte contraluz.]]></translate></item>
+	<item v="popUp_subtitle_59"><translate><![CDATA[Compensação contraluz]]></translate></item>
+	<item v="popUp_body_text_59"><translate><![CDATA[Contraluz forte, tal como a luz do sol directa, pode criar condições desfavoráveis à fotografia. Este problema pode ser resolvido com a compensação de contraluz, pressionando o botão superior do cursor em Modo Simples.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_60"><translate><![CDATA[Fácil de usar o Selector de Modos]]></translate></item>
+	<item v="popUp_subtitle_60"><translate><![CDATA[Selector de Modos]]></translate></item>
+	<item v="popUp_body_text_60"><translate><![CDATA[O selector de modos permite um disparo flexível e adequado à cena. Pode optar entre os modos de Programas AE, Prioridade Abertura AE, Manual, Simples, Macro, Imagem em Movimento, Cena como também de reprodução.]]></translate></item>	
+<!-- new --><item v="popUp_caption_60_0"><translate><![CDATA[MODE DIAL]]></translate></item>
+
+	<item v="popUp_hotspot_text_61"><translate><![CDATA[Grandes Planos Nítidos]]></translate></item>
+	<item v="popUp_subtitle_61"><translate><![CDATA[O.I.S macro]]></translate></item>
+	<item v="popUp_body_text_61"><translate><![CDATA[Tirar fotografias em grande plano, nítidas e vivas requer uma câmara completamente imóvel. Com a tecnologia O.I.S. (Estabilizador Óptico de Imagem), pode capturar imagens estáveis e nítidas sem s necessidade de usar o tripé.]]></translate></item>	
+<!-- new --><item v="popUp_caption_61_0"><translate><![CDATA[O.I.S. ON]]></translate></item>
+<!-- new --><item v="popUp_caption_61_1"><translate><![CDATA[O.I.S. OFF]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_62"><translate><![CDATA[Equilíbrio de brancos.]]></translate></item>
+	<item v="popUp_subtitle_62"><translate><![CDATA[Balance de Brancos]]></translate></item>
+	<item v="popUp_body_text_62"><translate><![CDATA[Diferentes fontes de luz têm temperaturas diferentes de cor, que causam uma imagem com cor artificial. A luz acesa na garagem pode criar uma imagem muito verde. Então, ajustando para equilibrio de brancos automático, a câmara ajusta para a nova situação de luz.]]></translate></item>	
+<!-- new --><item v="popUp_caption_62_0"><translate><![CDATA[AUTO WHITE BALANCE]]></translate></item>
+<!-- new --><item v="popUp_caption_62_1"><translate><![CDATA[]]></translate></item>
+
+	<item v="popUp_hotspot_text_63"><translate><![CDATA[Pouca Luz]]></translate></item>
+	<item v="popUp_subtitle_63"><translate><![CDATA[O.I.S. indoors]]></translate></item>
+	<item v="popUp_body_text_63"><translate><![CDATA[A utilização de um flash em espaços interiores com baixa luminosidade pode descolorir o primeiro plano com luz artificial e escurecer o segundo plano. Utilizando as velocidades do obturador mais baixas possíveis devido à tecnologia O.I.S. (Estabilizador Óptico de Imagem), permitem-lhe capturar as verdadeiras condições de luz natural sem flash.]]></translate></item>	
+<!-- new --><item v="popUp_caption_63_0"><translate><![CDATA[FLASH OFF]]></translate></item>
+<!-- new --><item v="popUp_caption_63_1"><translate><![CDATA[FLASH ON]]></translate></item>
+
+	<item v="popUp_hotspot_text_64"><translate><![CDATA[Modo Burst]]></translate></item>
+	<item v="popUp_subtitle_64"><translate><![CDATA[Modo Burst]]></translate></item>
+	<item v="popUp_body_text_64"><translate><![CDATA[Pode tirar até 13 fotografias consecutivas de 3 fotogramas por segundo em modo normal. A FZ7 também vem equipada com o disparo Consecutivo Ilimitado, permitindo-lhe continuar a disparar até que o cartão SD fique cheio.]]></translate></item>	
+<!-- new --><item v="popUp_caption_64_0"><translate><![CDATA[Imagem 1]]></translate></item>
+<!-- new --><item v="popUp_caption_64_1"><translate><![CDATA[Imagem 2]]></translate></item>
+<!-- new --><item v="popUp_caption_64_2"><translate><![CDATA[Imagem 3]]></translate></item>
+<!-- new --><item v="popUp_caption_64_3"><translate><![CDATA[Imagem 4]]></translate></item>
+
+	<item v="popUp_hotspot_text_65"><translate><![CDATA[LCD de Ângulo Elevado]]></translate></item>
+	<item v="popUp_subtitle_65"><translate><![CDATA[LCD de Ângulo Elevado]]></translate></item>
+	<item v="popUp_body_text_65"><translate><![CDATA[A função de disparo de Ângulo Elevado permite uma visualização mais fácil do LCD quando está a segurar a câmara ao alto para fotografar sobre uma multidão de pessoas.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_66"><translate><![CDATA[Resposta do Obturador Rápida]]></translate></item>
+	<item v="popUp_subtitle_66"><translate><![CDATA[Resposta do Obturador Rápida]]></translate></item>
+	<item v="popUp_body_text_66"><translate><![CDATA[Quando se fotografa um objecto em movimento rápido, como um carro F1 que se  move  a mais de 200mph, necessita de uma  velocidade de obturação rápida capaz de congelar o movimento dianteiro do carro.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_67"><translate><![CDATA[Panning]]></translate></item>
+	<item v="popUp_subtitle_67"><translate><![CDATA[Modo Panning]]></translate></item>
+	<item v="popUp_body_text_67"><translate><![CDATA[Com o modo panning você move a câmara para seguir um objecto em movimento numa  direção, tal como um carro. O fundo torna-se uma mancha e o objecto permanece focalizado. O modo de panning põe uma velocidade de obturação lenta para alcançar um sentimento de velocidade.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_68"><translate><![CDATA[Zoom Elevado]]></translate></item>
+	<item v="popUp_subtitle_68"><translate><![CDATA[Zoom Elevado]]></translate></item>
+	<item v="popUp_body_text_68"><translate><![CDATA[A FZ7 vem equipada com Lentes Leica DC e com um notável Zoom Óptico 12x, equivalente a lentes de 36 a 432mm numa câmara de 35mm. Uma câmara com um zoom óptico desta capacidade seria tão grande e pesada que não seria possível segurá-la com uma mão.]]></translate></item>	
+<!-- new --><item v="popUp_caption_68_0"><translate><![CDATA[ZOOM 1X]]></translate></item>
+<!-- new --><item v="popUp_caption_68_1"><translate><![CDATA[ZOOM 6X]]></translate></item>
+<!-- new --><item v="popUp_caption_68_2"><translate><![CDATA[ZOOM 12X]]></translate></item>
+<!-- new --><item v="popUp_caption_68_3"><translate><![CDATA[EXTRA ZOOM 16.5X]]></translate></item>
+
+	<item v="popUp_hotspot_text_69"><translate><![CDATA[Libertação Rápida do Obturador]]></translate></item>
+	<item v="popUp_subtitle_69"><translate><![CDATA[Libertação Rápida do Obturador]]></translate></item>
+	<item v="popUp_body_text_69"><translate><![CDATA[A FZ7 tem uma resposta super rápida com um tempo de libertação do obturador mínimo de cerca de 0.008 segundos. Pode disparar mais rapidamente e confortavelmente.]]></translate></item>	
+<!-- new --><item v="popUp_caption_69_0"><translate><![CDATA[0.0008 SEG.]]></translate></item>
+<!-- new --><item v="popUp_caption_69_1"><translate><![CDATA[0.0016 SEG.]]></translate></item>
+<!-- new --><item v="popUp_caption_69_2"><translate><![CDATA[0.0024 SEG.]]></translate></item>
+<!-- new --><item v="popUp_caption_69_3"><translate><![CDATA[0.0032 SEG.]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_70"><translate><![CDATA[Reflexos]]></translate></item>
+	<item v="popUp_subtitle_70"><translate><![CDATA[Criatividade]]></translate></item>
+	<item v="popUp_body_text_70"><translate><![CDATA[Usar os reflexos podemos fazer composições interessantes. A água na rua, as janelas do carro e as fachadas de vidro podem, num todo, criar um diferente sentimento na fotografia.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_71"><translate><![CDATA[Focagem, Manual]]></translate></item>
+	<item v="popUp_subtitle_71"><translate><![CDATA[Funções Manuais]]></translate></item>
+	<item v="popUp_body_text_71"><translate><![CDATA[O joystick, na traseira da câmara dá-lhe rapidez, facilidade e uma focagem, manual exacta. Pode também pode usar a Função de Ajuda de Focagem Manual que o ajuda a ajustar foco perfeito por magnificar o centro da imagem do LCD.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_72"><translate><![CDATA[Joystick fácil de usar]]></translate></item>
+	<item v="popUp_subtitle_72"><translate><![CDATA[Joystick]]></translate></item>
+	<item v="popUp_body_text_72"><translate><![CDATA[Pode sellecionar a abertura, velocidade obturador e focagem com o joystick, enquanto molda a fotografia no monitor LCD.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_73"><translate><![CDATA[Lentes LEICA DC]]></translate></item>
+	<item v="popUp_subtitle_73"><translate><![CDATA[Lentes Leica DC]]></translate></item>
+	<item v="popUp_body_text_73"><translate><![CDATA[A performance das lentes é crucial para excelentes imagens. As Lentes Leica AG são mundialmente famosas desde 1913. Estas lentes produzem imagens com cor expressiva e uma profundidade notável.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_74"><translate><![CDATA[Modo desporto]]></translate></item>
+	<item v="popUp_subtitle_74"><translate><![CDATA[Modo desporto]]></translate></item>
+	<item v="popUp_body_text_74"><translate><![CDATA[Neste modo é utilizado uma velocidade do obturador mais rápido e a abertura ajustada para automático, de modo a que voçe se possa concentrar de premir o botão na altura certa.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_75"><translate><![CDATA[Abstracto]]></translate></item>
+	<item v="popUp_subtitle_75"><translate><![CDATA[Criatividade]]></translate></item>
+	<item v="popUp_body_text_75"><translate><![CDATA[Usar a capacidade do zoom elevado da FZ7 criou uma imagem abstrata das barreiras localizadas acerca da pista. Poderá cortar imagens e criar fotografias pouco usuais e interessantes.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_76"><translate><![CDATA[LCD brilhante]]></translate></item>
+	<item v="popUp_subtitle_76"><translate><![CDATA[LCD brilhante]]></translate></item>
+	<item v="popUp_body_text_76"><translate><![CDATA[A FZ7 vem equipada com im LCD alta resolução de 2.5”. Simplesmente toque no botão Power LCD e o display fica cerca de 40% mais brilhante para ver mais facilmente em dias de muito sol.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_77"><translate><![CDATA[Exposição Automática]]></translate></item>
+	<item v="popUp_subtitle_77"><translate><![CDATA[Modo de Exposição Programas Automáticos]]></translate></item>
+	<item v="popUp_body_text_77"><translate><![CDATA[O modo de Programa AE determina os ajustes de abertura ideal e velocidade de obturação para si. Pode usar o Programa de Mudança para manter a mesma exposição enquanto muda a velocidade de obturação e os ajustes de abertura.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_78"><translate><![CDATA[Diferentes vistas]]></translate></item>
+	<item v="popUp_subtitle_78"><translate><![CDATA[Criatividade]]></translate></item>
+	<item v="popUp_body_text_78"><translate><![CDATA[Por vezes é tempo perdido olhar coisas num meio diferente. A repetição dos assentos de tribuna esticando na distância criam uma perspectiva diferente.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_79"><translate><![CDATA[Zoom Elevado]]></translate></item>
+	<item v="popUp_subtitle_79"><translate><![CDATA[Zoom Elevado]]></translate></item>
+	<item v="popUp_body_text_79"><translate><![CDATA[Com 3 Mega-Pixels o zoom das lentes pode ser aumentado até Função Zoom Óptico Extra 16.5x com o mínimo de deterioração utilizando a parte central do CCD.]]></translate></item>	
+<!-- new --><item v="popUp_caption_79_0"><translate><![CDATA[ZOOM 1X]]></translate></item>
+<!-- new --><item v="popUp_caption_79_1"><translate><![CDATA[ZOOM 6X]]></translate></item>
+<!-- new --><item v="popUp_caption_79_2"><translate><![CDATA[ZOOM 12X]]></translate></item>
+<!-- new --><item v="popUp_caption_79_3"><translate><![CDATA[ZOOM 16.5X]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_80"><translate><![CDATA[LCD de grandes dimensões]]></translate></item>
+	<item v="popUp_subtitle_80"><translate><![CDATA[Grande LCD]]></translate></item>
+	<item v="popUp_body_text_80"><translate><![CDATA[Este grande ecrã permite-lhe enquadrar as imagens com maior conforto bem como tirar partido de funções como a visualização de 25 miniaturas.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_81"><translate><![CDATA[Reprodução]]></translate></item>
+	<item v="popUp_subtitle_81"><translate><![CDATA[Modo Reprodução]]></translate></item>
+	<item v="popUp_body_text_81"><translate><![CDATA[Fácil e Divertido. Pode visualizar as suas imagens sequencialmente, num ecrã com 1, 9 ou 25 janelas ou numa vista de calendário que mostra miniaturas de todas as imagens capturadas numa determinada data.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_82"><translate><![CDATA[Zoom Elevado]]></translate></item>
+	<item v="popUp_subtitle_82"><translate><![CDATA[16.5X OPTICAL ZOOM]]></translate></item>
+	<item v="popUp_body_text_82"><translate><![CDATA[A FZ7 vem equipada com Lentes Leica DC e com um notável Zoom Óptico 12x, equivalente a lentes de 36 a 432mm numa câmara de 35mm. Uma câmara com um zoom óptico desta capacidade seria tão grande e pesada que não seria possível segurá-la com uma mão.]]></translate></item>	
+<!-- new --><item v="popUp_caption_82_0"><translate><![CDATA[ZOOM 1X]]></translate></item>
+<!-- new --><item v="popUp_caption_82_1"><translate><![CDATA[ZOOM 6X]]></translate></item>
+<!-- new --><item v="popUp_caption_82_2"><translate><![CDATA[ZOOM 12X]]></translate></item>
+<!-- new --><item v="popUp_caption_82_3"><translate><![CDATA[ZOOM 16.5X]]></translate></item>
+	
+	<item v="popUp_hotspot_text_83"><translate><![CDATA[Rápida Focagem Automática]]></translate></item>
+	<item v="popUp_subtitle_83"><translate><![CDATA[Rápida Focagem Automática]]></translate></item>
+	<item v="popUp_body_text_83"><translate><![CDATA[A FZ7 permite-lhe escolher vários modos de focagem automática – spot, 1-ponto (normal ou elevada-velocidade), 3-pontos elevada-velocidade, e 9-pontos. Pode também utilizar Focagem Automática uma focagem mais fácil em baixa luz.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_84"><translate><![CDATA[Paisagem]]></translate></item>
+	<item v="popUp_subtitle_84"><translate><![CDATA[Modo Cenário]]></translate></item>
+	<item v="popUp_body_text_84"><translate><![CDATA[No Modo Cenário a câmara foca preferencialmente um objecto à distância. Isto permite-lhe tirar fotografias de paisagens alargadas.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_85"><translate><![CDATA[Pôr-do-Sol]]></translate></item>
+	<item v="popUp_subtitle_85"><translate><![CDATA[Modo Manual]]></translate></item>
+	<item v="popUp_body_text_85"><translate><![CDATA[Para este tipo de fotografia, o selector de Modos foi programado para Manual e um valor de abertura elevado programado de modo a compensar a luz directa nas lentes. Com o O.I.S. ligado e um Zoom certo consegue imagens magníficas. ]]></translate></item>	
+<!-- new --><item v="popUp_caption_85_0"><translate><![CDATA[]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_86"><translate><![CDATA[Joystick fácil de usar]]></translate></item>
+	<item v="popUp_subtitle_86"><translate><![CDATA[Joystick fácil de usar]]></translate></item>
+	<item v="popUp_body_text_86"><translate><![CDATA[Pressione e segure para baixo o joystick, e poderá num instante mudar o equilíbrio dos brancos, a sensibilidade ISO, o tamanho de imagem, qualidade de imagem – sem  necessidade de trocar o menú do ecrã.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_87"><translate><![CDATA[Parasol da Lente]]></translate></item>
+	<item v="popUp_subtitle_87"><translate><![CDATA[O Acessório]]></translate></item>
+	<item v="popUp_body_text_87"><translate><![CDATA[Em situações fotográficas de muita luminosidade pode ser benéfico usar o parasol da lente para prevenir demasiada luz sobre a lente.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_88"><translate><![CDATA[Zoom Elevado]]></translate></item>
+	<item v="popUp_subtitle_88"><translate><![CDATA[Zoom Elevado]]></translate></item>
+	<item v="popUp_body_text_88"><translate><![CDATA[A FZ7 vem equipada com Lentes Leica DC e com um notável Zoom Óptico 12x, equivalente a lentes de 36 a 432mm numa câmara de 35mm. Uma câmara com um zoom óptico desta capacidade seria tão grande e pesada que não seria possível segurá-la com uma mão.]]></translate></item>	
+<!-- new --><item v="popUp_caption_88_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_88_1"><translate><![CDATA[6X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_88_2"><translate><![CDATA[12X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_88_3"><translate><![CDATA[16.5X ZOOM]]></translate></item>
+
+	<item v="popUp_hotspot_text_89"><translate><![CDATA[Final de tarde luminosa]]></translate></item>
+	<item v="popUp_subtitle_89"><translate><![CDATA[A Criatividade]]></translate></item>
+	<item v="popUp_body_text_89"><translate><![CDATA[Esta imagem foi tirada  ao final da tarde com o sol directo atrás do carro. Devido à intensidade de luz a bater na lente o carro aparece como uma silhueta a brilhar na luz.]]></translate></item>			
+
+
+
+	<!-- Key technology pop ups -->
+	<item v="popUp_tech_subtitle_0"><translate><![CDATA[Estabilizador Óptico de Imagem]]></translate></item>
+	<item v="popUp_tech_body_text_0"><translate><![CDATA[O MEGA OIS compensa o tremer das mãos, permitindo-lhe tirar fotografias com grande nitídez, mesmo em ambientes adversos. Um novo padrão de imagem, que vai para além do número de pixels ou das especificações das lentes.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_1"><translate><![CDATA[Lentes Leica DC]]></translate></item>
+	<item v="popUp_tech_body_text_1"><translate><![CDATA[Cada um destes avançados sistemas de lentes incluem várias lentes asféricas para compensarem as aberrações asféricas. O processo de multi-revestimento aplicado às Lentes Leica ajuda ainda a reduzir os efeitos de brilho excessivo e fantasmas.
+
+*Leica is a registered trademark of Leica Microsystems IR GmbH.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_2"><translate><![CDATA[Venus Engine Plus, II e III]]></translate></item>
+	<item v="popUp_tech_body_text_2"><translate><![CDATA[Todas as tecnologias de processamento de imagem dos Motores Venus permitem uma elevada resposta de velocidade e um melhoramento da resolução diagonal de 50% para imagens mais nítidas.Venus Engine II e III aumentam a resolução vertical em mais de 10% e melhoram a cor correcta de aberração, o que ocorre frequentemente em fotografias com zoom elevado.]]></translate></item>			
+
+
+</root>

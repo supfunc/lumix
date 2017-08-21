@@ -1,0 +1,589 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<popUps>
+	<!-- Girls in London -->
+
+	<popUp id="0" template="d">
+		<anim url="angle_detect.swf" />
+		<images>
+			<thumb url="silver_smll.png"/>
+			<thumb url="pink_smll.png"/>
+			<thumb url="black_smll.png"/>
+			<thumb url="white_smll.png"/>
+			
+			<image url="silver_big.png"/>
+			<image url="pink_big.png"/>
+			<image url="black_big.png"/>
+			<image url="white_big.png"/>
+		</images>
+	</popUp>
+	
+	<popUp id="1" template="a">
+		<anim url="simple_mode.swf" />
+	</popUp>
+	
+	<popUp id="2" template="b">
+		<anim url="portrate_mode.swf" />
+	</popUp>
+	
+	
+	
+	<popUp id="3" template="b">
+		<anim url="quick_start.swf" />
+	</popUp>
+	
+	<popUp id="4" template="a">
+		<anim url="angle_detect.swf" />
+	</popUp>
+	
+	<popUp id="5" template="c">
+		<anim url="indoorsios.swf" />
+		<images>
+			<image url="indoor_thm01.jpg" />
+			<image url="indoor_thm02.jpg" />
+		</images>
+		
+	</popUp>
+	
+	
+	
+	<popUp id="6" template="a">
+		<anim url="small.swf" />
+	</popUp>
+	
+	<popUp id="7" template="c">
+		<anim url="ois_macro.swf" />
+		<images>
+			<image url="3.3_thm01.jpg"/>
+			<image url="3.3_thm02.jpg"/>
+		</images>
+	</popUp>
+	
+	<popUp id="8" template="b">
+		<anim url="bigLCDmakeup.swf" />
+	</popUp>
+	
+	
+	
+	<popUp id="9" template="a">
+		<anim url="self_portrait.swf" />
+	</popUp>
+	
+	<popUp id="10" template="b">
+		<anim url="wide.swf" />
+	</popUp>
+	
+	
+	
+	<popUp id="11" template="b">
+		<anim url="ratios.swf" />
+	</popUp>
+	
+	<popUp id="12" template="b">
+		<anim url="focus.swf" />
+	</popUp>
+	
+	<popUp id="13" template="a">
+		<anim url="simple_mode.swf" />
+	</popUp>
+	
+	
+	
+	<popUp id="14" template="b">
+		<anim url="creative.swf" />
+	</popUp>
+	
+	<popUp id="15" template="b">
+		<anim url="party_mode.swf" />
+	</popUp>
+	
+	<popUp id="16" template="b">
+		<anim url="red_eye.swf" />
+	</popUp>
+
+
+
+	<popUp id="17" template="a">
+		<anim url="leica.swf" />
+	</popUp>
+	
+	<popUp id="18" template="c">
+		<anim url="indoor_bar.swf" />
+		<images>
+			<image url="barman_thm1.jpg" />
+			<image url="barman_thm2.jpg" />
+		</images>
+	</popUp>
+	
+	<popUp id="19" template="b">
+		<anim url="bigLCD.swf" />
+	</popUp>
+	
+	
+	
+	<popUp id="20" template="b">
+		<anim url="wide.swf" />
+	</popUp>
+	
+	<popUp id="21" template="b">
+		<anim url="zoom_shots.swf" />
+	</popUp>
+	
+	<popUp id="22" template="b">
+		<anim url="playback.swf" />
+	</popUp>
+	
+	
+	
+	<popUp id="23" template="a">
+		<anim url="small.swf" />
+	</popUp>
+	
+	<popUp id="24" template="c">
+		<anim url="ois_shake.swf" />
+		<images>
+			<image url="9.3_thm01.jpg" />
+			<image url="9.3_thm02.jpg" />
+		</images>
+	</popUp>
+	
+	<popUp id="25" template="b">
+		<anim url="bigLCDance.swf" />
+	</popUp>
+	
+	
+	<!-- Barcelona -->
+	
+	<popUp id="26" template="b">
+		<anim url="2.1.1_compact.swf" />
+	</popUp>
+	
+
+	<popUp id="27" template="c">
+		<anim url="2.1.4_zoom_ois.swf" />
+		<images>
+			<image url="2.1.4_zoom_thumb_02.jpg" />
+			<image url="2.1.4_zoom_thumb_01.jpg" />
+		</images>
+	</popUp>
+	
+	<popUp id="28" template="c">
+		<anim url="2.1.3_zoom_high.swf" />
+		<images>
+			<image url="2.1.3_oiszoom_thumb_01.jpg" />
+			<image url="2.1.3_oiszoom_thumb_02.jpg" />
+			<image url="2.1.3_oiszoom_thumb_03.jpg" />
+			<image url="2.1.3_oiszoom_thumb_04.jpg" />
+		</images>
+	</popUp>
+	
+	<popUp id="29" template="c">
+		<anim url="2.1.2_travel_date.swf" />
+		<images>
+			<image url="2.1.2_date_thumb_01.jpg" />
+			<image url="2.1.2_date_thumb_02.jpg" />
+			<image url="2.1.2_date_thumb_03.jpg" />
+		</images>
+	</popUp>
+	
+	
+	
+	
+	
+	<popUp id="30" template="c">
+		<anim url="2.2.1_different_view_statue.swf" />
+		<images>
+			<image url="2.2.1_different_thumb_01.jpg" />
+			<image url="2.2.1_different_thumb_02.jpg" />
+			<image url="2.2.1_different_thumb_03.jpg" />
+		</images>
+	</popUp>
+	
+	<popUp id="31" template="c">
+		<anim url="2.2.3_ois_handshake.swf" />
+		<images>
+			<image url="2.2.3_handshake_thumb_01.jpg" />
+			<image url="2.2.3_handshake_thumb_02.jpg" />
+		</images>
+	</popUp>
+	
+	
+	<popUp id="32" template="b">
+		<anim url="2.2.2_quick_start.swf" />
+	</popUp>
+	
+	
+	
+	
+	<popUp id="33" template="b">
+		<anim url="2.3.1_reflections.swf" />
+	</popUp>
+	
+	<popUp id="34" template="c">
+		<anim url="2.3.3_high_sensitivity.swf" />
+		<images>
+			<image url="2.3.3_high_thumb_01.jpg" />
+			<image url="2.3.3_high_thumb_02.jpg" />
+		</images>
+	</popUp>
+	
+	<popUp id="35" template="b">
+		<anim url="2.3.2_leica_lens.swf" />
+	</popUp>
+	
+	
+	
+	
+	
+	<popUp id="36" template="b">
+		<anim url="2.4.2_auto_focus.swf" />
+	</popUp>
+	
+	<popUp id="37" template="b">
+		<anim url="2.4.3_simple_mode.swf" />
+	</popUp>
+	
+	<popUp id="38" template="b">
+		<anim url="2.4.1_bigLCD.swf" />
+	</popUp>
+	
+	
+	
+	
+	<popUp id="39" template="b">
+		<anim url="2.5.1_using_light.swf" />
+	</popUp>
+	
+	<popUp id="40" template="c">
+		<anim url="2.5.2_quick_focus.swf" />
+		<images>
+			<image url="2.5.2_quick_thumb_01.jpg" />
+			<image url="2.5.2_quick_thumb_02.jpg" />
+			<image url="2.5.2_quick_thumb_03.jpg" />
+			<image url="2.5.2_quick_thumb_04.jpg" />
+		</images>
+	</popUp>
+	
+	<popUp id="41" template="b">
+		<anim url="2.5.3_night_portrait.swf" />
+	</popUp>
+	
+	
+	
+	
+	<popUp id="42" template="b">
+		<anim url="2.6.1_power_lcd.swf" />
+	</popUp>
+	
+	<popUp id="43" template="c">
+		<anim url="2.6.3_beach_mode.swf" />
+		<images>
+			<image url="2.6.3_beach_thumb_01.jpg" />
+			<image url="2.6.3_beach_thumb_02.jpg" />
+		</images>
+	</popUp>
+	
+	<popUp id="44" template="c">
+		<anim url="2.6.2_mega_burst.swf" />
+		<images>
+			<image url="2.6.2_mega_thumb_01.jpg" />
+			<image url="2.6.2_mega_thumb_02.jpg" />
+			<image url="2.6.2_mega_thumb_03.jpg" />
+			<image url="2.6.2_mega_thumb_04.jpg" />
+		</images>
+	</popUp>
+	
+	
+	
+	
+	<popUp id="45" template="c">
+		<anim url="2.7.1_different_view.swf" />
+		<images>
+			<image url="2.7.1_different_thumb_01.jpg" />
+			<image url="2.7.1_different_thumb_02.jpg" />
+			<image url="2.7.1_different_thumb_03.jpg" />
+		</images>
+	</popUp>
+	
+	<popUp id="46" template="b">
+		<anim url="2.7.2_composition.swf" />
+	</popUp>
+	
+	<popUp id="47" template="b">
+		<anim url="2.7.3_abstract_zoom.swf" />
+	</popUp>
+	
+	<popUp id="48" template="b">
+		<anim url="2.7.4_late_night.swf" />
+	</popUp>
+	
+	<popUp id="49" template="b">
+		<anim url="2.7.5_metering.swf" />
+	</popUp>
+	
+	
+	
+	
+	<popUp id="50" template="b">
+		<anim url="2.8.1_compact.swf" />
+	</popUp>
+	
+	<popUp id="51" template="c">
+		<anim url="2.8.2_zoom_10x.swf" />
+		<images>
+			<image url="2.8.2_zoom_thumb_01.jpg" />
+			<image url="2.8.2_zoom_thumb_02.jpg" />
+			<image url="2.8.2_zoom_thumb_03.jpg" />
+			<image url="2.8.2_zoom_thumb_04.jpg" />
+		</images>
+	</popUp>
+	
+	<popUp id="52" template="c">
+		<anim url="2.8.3_ois_high_zoom.swf" />
+		<images>
+			<image url="2.8.3_ois_thumb_01.jpg" />
+			<image url="2.8.3_ois_thumb_02.jpg" />
+		</images>
+	</popUp>
+	
+	
+	
+	
+	<popUp id="53" template="b">
+		<anim url="2.9.1_aspect_ratios.swf" />
+	</popUp>
+	
+	<popUp id="54" template="b">
+		<anim url="2.9.3_red_eye.swf" />
+	</popUp>
+	
+	<popUp id="55" template="b">
+		<anim url="2.9.2_calendar.swf" />
+	</popUp>
+	
+	
+	
+	<!-- F1 -->
+	
+	<popUp id="56" template="b">
+		<anim url="3.1.3_creative_focus.swf" />
+	</popUp>
+	
+	<popUp id="57" template="c">
+		<anim url="3.1.1_intelegent_design.swf" />
+		<images>
+			<image url="3.1.1_intelligent_thumb_01.jpg"/>
+		</images>
+	</popUp>
+	
+	<popUp id="58" template="c">
+		<anim url="3.1.2_sharp_closeups.swf" />
+		<images>
+			<image url="3.1.2_sharp_thumb_01.jpg"/>
+			<image url="3.1.2_sharp_thumb_02.jpg"/>
+		</images>
+	</popUp>
+	
+	
+	
+	<popUp id="59" template="b">
+		<anim url="3.2.3_strong_backlight.swf" />
+	</popUp>
+	
+	<popUp id="60" template="c">
+		<anim url="3.2.1_easy_use.swf" />
+		<images>
+			<image url="3.2.1_easy_thumb_01.jpg"/>
+		</images>
+	</popUp>
+
+	<popUp id="61" template="c">
+		<anim url="3.2.4_sharp_closeups.swf" />
+		<images>
+			<image url="3.2.4_sharp_thumb_01.jpg"/>
+			<image url="3.2.4_sharp_thumb_02.jpg"/>
+		</images>
+	</popUp>
+	
+	
+	
+	<popUp id="62" template="c">
+		<anim url="3.3.1_white_bal.swf" />
+		<images>
+			<image url="3.3.1_white_thumb_01.jpg"/>
+			<image url="3.3.1_white_thumb_02.jpg"/>
+		</images>
+	</popUp>
+	
+	<popUp id="63" template="c">
+		<anim url="3.3.2_lowlight.swf" />
+		<images>
+			<image url="3.3.2_lowlight_thumb_01.jpg"/>
+			<image url="3.3.2_lowlight_thumb_02.jpg"/>
+		</images>
+	</popUp>
+	
+	<popUp id="64" template="c">
+		<anim url="3.3.3_burst_mode.swf" />
+		<images>
+			<image url="3.3.3_burst_thumb_01.jpg"/>
+			<image url="3.3.3_burst_thumb_02.jpg"/>
+			<image url="3.3.3_burst_thumb_03.jpg"/>
+			<image url="3.3.3_burst_thumb_04.jpg"/>
+		</images>
+	</popUp>
+
+	<popUp id="65" template="a">
+		<anim url="3.6.5_high_angle_lcd.swf" />
+	</popUp>
+	
+	
+	
+	<popUp id="66" template="b">
+		<anim url="3.4.2_shutter_speed.swf" />
+	</popUp>
+	
+	<popUp id="67" template="b">
+		<anim url="3.4.3_panning.swf" />
+	</popUp>
+	
+	<popUp id="68" template="c">
+		<anim url="3.4.7_high_zoom.swf" />
+		<images>
+			<image url="3.4.1_hizoom_thumb_01.jpg"/>
+			<image url="3.4.1_hizoom_thumb_02.jpg"/>
+			<image url="3.4.1_hizoom_thumb_03.jpg"/>
+			<image url="3.4.1_hizoom_thumb_04.jpg"/>
+		</images>
+	</popUp>
+	
+	<popUp id="69" template="a">
+		<anim url="3.4.4_quick_shutter.swf" />
+	</popUp>
+	
+	
+	
+	<popUp id="71" template="b">
+		<anim url="3.5.3_reflections.swf" />
+	</popUp>
+	
+	<popUp id="72" template="b">
+		<anim url="3.5.1_manual_focus.swf" />
+	</popUp>
+	
+	<popUp id="73" template="b">
+		<anim url="3.5.5_joystick.swf" />
+	</popUp>
+	
+	<popUp id="74" template="b">
+		<anim url="3.5.4_leica_lens.swf" />
+	</popUp>
+	
+	
+	
+	<popUp id="75" template="b">
+		<anim url="3.6.2_sports_mode.swf" />
+	</popUp>
+	
+	<popUp id="76" template="b">
+		<anim url="3.6.3_abstract_focus.swf" />
+	</popUp>
+	
+	<popUp id="77" template="b">
+		<anim url="3.6.1_power_lcd.swf" />
+	</popUp>
+	
+	<popUp id="78" template="b">
+		<anim url="3.6.4_auto_expose.swf" />
+	</popUp>
+	
+	
+	
+	<popUp id="74" template="b">
+		<anim url="3.7.4_seatsfla.swf" />
+	</popUp>
+	
+	<popUp id="79" template="c">
+		<anim url="3.9.1_high_zoom.swf" />
+		<images>
+			<image url="3.7.1_hizoom_thumb_01.jpg"/>
+			<image url="3.7.1_hizoom_thumb_02.jpg"/>
+			<image url="3.7.1_hizoom_thumb_03.jpg"/>
+			<image url="3.7.1_hizoom_thumb_04.jpg"/>
+		</images>
+	</popUp>
+	
+	<popUp id="80" template="b">
+		<anim url="3.7.2_large_lcd.swf" />
+	</popUp>
+	
+	<popUp id="81" template="b">
+		<anim url="3.7.3_playback.swf" />
+	</popUp>
+	
+	
+	
+	<popUp id="82" template="c">
+		<anim url="3.9.1_high_zoom.swf" />
+		<images>
+			<image url="3.7.1_hizoom_thumb_01.jpg"/>
+			<image url="3.7.1_hizoom_thumb_02.jpg"/>
+			<image url="3.7.1_hizoom_thumb_03.jpg"/>
+			<image url="3.7.1_hizoom_thumb_04.jpg"/>
+		</images>
+	</popUp>
+	
+	<popUp id="83" template="a">
+		<anim url="3.8.2_quick_autofocus.swf" />
+	</popUp>
+	
+	<popUp id="84" template="a">
+		<anim url="3.8.2_landscape.swf" />
+	</popUp>
+	
+	<popUp id="85" template="c">
+		<anim url="3.8.4_manual_mode.swf" />
+		<images>
+			<image url="3.8.3_sunset_thumb_01.jpg"/>
+		</images>
+	</popUp>
+	
+	
+	<popUp id="86" template="b">
+		<anim url="3.9.4_joystick.swf" />
+	</popUp>
+	
+	<popUp id="87" template="b">
+		<anim url="3.9.2_lens_hood.swf" />
+	</popUp>
+	
+	<popUp id="88" template="c">
+		<anim url="3.9.1_high_zoom.swf" />
+		<images>
+			<image url="3.9.1_hizoom_thumb_01.jpg"/>
+			<image url="3.9.1_hizoom_thumb_02.jpg"/>
+			<image url="3.9.1_hizoom_thumb_03.jpg"/>
+			<image url="3.9.1_hizoom_thumb_04.jpg"/>
+		</images>
+	</popUp>
+	
+	<popUp id="89" template="b">
+		<anim url="3.9.3_backlight.swf" />
+	</popUp>
+	
+	
+	
+	<!-- Technology pop ups -->
+	<technology>
+		<popUp id="0">
+			<anim url="ois.swf" />
+		</popUp>
+		
+		<popUp id="1">
+			<anim url="leica.swf" />
+		</popUp>
+		
+		<popUp id="2">
+			<anim url="venus.swf" />
+		</popUp>
+	<technology>
+</popUps>

@@ -1,0 +1,773 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<!-- 'Loading' website data -->
+	<item v="loading"><translate><![CDATA[LOADING]]></translate></item>
+<!-- new --><item v="disclaimer"><translate><![CDATA[© 2006 Panasonic Marketing Europe GmbH]]></translate></item>
+<!-- new --><item v="select_language"><translate><![CDATA[Zvoľte si jazyk]]></translate></item>
+
+	<!-- SECTION: HOME PAGE -->
+	
+	<item v="home_title"><translate><![CDATA[Objavte rozdiel značky Lumix!]]></translate></item>
+	<item v="home_subtitle"><translate><![CDATA[Digitálne fotoaparáty Lumix uľahčujú snímanie skvelých záberov. Experimentujte s fotografiou, nadobudnite novú perspektívu a nechajte Lumix pracovať za Vás. 
+Sledujte s nami príbehy a nájdite rozdiel v značke Lumix!]]></translate></item>
+
+	<!-- panels -->
+	<item v="section0_title"><translate><![CDATA[Súťaž Lumix Award]]></translate></item>
+	<item v="section0_subtitle"><translate><![CDATA[Prihláste svoje zábery do súťaže digitálnych fotosnímok]]></translate></item>
+	
+	<item v="section1_title"><translate><![CDATA[Prehľad modelov]]></translate></item>
+	<item v="section1_subtitle"><translate><![CDATA[Pozrite si modely a hlavné výhody modelov Lumix!]]></translate></item>
+	
+	<item v="section2_subtitle"><translate><![CDATA[S dvoma priateľmi v Londýne]]></translate></item>
+
+	<item v="section3_subtitle"><translate><![CDATA[V Barcelone s priateľkou]]></translate></item>
+	
+	<item v="section4_subtitle"><translate><![CDATA[Na teste Formula 1 v Jereze]]></translate></item>
+
+	<!-- FEATURING THE [CAMERA NAME] -->
+	<item v="featuring"><translate><![CDATA[Model:]]></translate></item>
+	<item v="the"><translate><![CDATA[]]></translate></item>
+	
+	<!-- FLOATING MAIN MENU -->
+	
+	<item v="menu_overview"><translate><![CDATA[Prehľad]]></translate></item>
+	<item v="menu_scene"><translate><![CDATA[Scéna]]></translate></item>
+	<item v="menu_lumix_award"><translate><![CDATA[Zúčastnite sa súťaže Lumix Award]]></translate></item>
+	<item v="menu_product_range"><translate><![CDATA[2006 Prehľad modelov Lumix]]></translate></item>
+	<!-- menu items -->
+	<item v="menu_0"><translate><![CDATA[Hlavná stránka]]></translate></item>
+	<item v="menu_1"><translate><![CDATA[Anna v Londýne]]></translate></item>
+	<item v="menu_2"><translate><![CDATA[Pietro pri návšteve Barcelony]]></translate></item>
+	<item v="menu_3"><translate><![CDATA[Thomas na teste F1]]></translate></item>
+	<item v="menu_4"><translate><![CDATA[Prehľad modelov Lumix]]></translate></item>
+	<item v="menu_5"><translate><![CDATA[Zúčastnite sa súťaže Lumix Award]]></translate></item>
+	
+	<!-- PRODUCT INFO -->
+	<!-- Launch product info panel-->
+	<item v="find_out_more_DMC-FX01"><translate><![CDATA[Viac o modeli DMC-FX01]]></translate></item>
+	<item v="find_out_more_DMC-FZ7"><translate><![CDATA[Viac o modeli DMC-FZ7]]></translate></item>
+	<item v="find_out_more_DMC-TZ1"><translate><![CDATA[Viac o modeli DMC-TZ1]]></translate></item>
+	
+	<!-- Camera types -->
+	<item v="cam_type_0"><translate><![CDATA[Zábava a šikovné ovládanie]]></translate></item>
+	<item v="cam_type_1"><translate><![CDATA[Elegantný a kompaktný typ]]></translate></item>
+	<item v="cam_type_2"><translate><![CDATA[Cestovný typ]]></translate></item>
+	<item v="cam_type_3"><translate><![CDATA[Poloprofesio-
+nálny typ]]></translate></item>
+	<item v="cam_type_4"><translate><![CDATA[Profesionálny typ]]></translate></item>
+	<item v="cam_type_5"><translate><![CDATA[Profesionálny typ SLR]]></translate></item>
+	
+	<!-- Camera specifications. In main.xml, specify id for each spec that applies to a camera -->
+	<item v="spec_0"><translate><![CDATA[Optický zoom]]></translate></item>
+	<item v="spec_1"><translate><![CDATA[Optická stabilizácia obrazu]]></translate></item>
+	<item v="spec_2"><translate><![CDATA[Objektív Leica]]></translate></item>
+	<item v="spec_3"><translate><![CDATA[Venus Engine]]></translate></item>
+	<item v="spec_4"><translate><![CDATA[MEGApixelov]]></translate></item>
+	<item v="spec_5"><translate><![CDATA[Manuálne ovládanie]]></translate></item>
+	<item v="spec_6"><translate><![CDATA[LCD monitor s režimom nadhľadu]]></translate></item>
+	<item v="spec_7"><translate><![CDATA[širokouhlý formát ]]></translate></item>
+	<item v="spec_8"><translate><![CDATA[SLR]]></translate></item>
+	<item v="spec_9"><translate><![CDATA[Veľký LCD monitor]]></translate></item>
+	<item v="spec_10"><translate><![CDATA[16:9 CCD]]></translate></item>
+	
+	<!-- SECTION: LUMIX AWARD -->
+	
+	<item v="lumix_award_title"><translate><![CDATA[Súťaž Lumix Award 2006]]></translate></item>
+	<item v="lumix_award_subtitle"><translate><![CDATA[Lumix Award prebieha už 5. rok a vyzýva všetkých na účasť v európskej súťaži o najlepšie digitálne fotografie.]]></translate></item>
+	<item v="previous_winners"><translate><![CDATA[Doterajší víťazi]]></translate></item>
+	<item v="enter_award"><translate><![CDATA[Zúčastnite sa súťaže Lumix Award]]></translate></item>
+	
+	<!-- Image navigation -->
+	<item v="close"><translate><![CDATA[Zatvoriť]]></translate></item>
+	<item v="prev_image"><translate><![CDATA[Predchádzajúca]]></translate></item>
+	<item v="next_image"><translate><![CDATA[Nasledujúca]]></translate></item>
+	
+	
+	<!-- SECTION: PRODUCT RANGE -->
+	<item v="featured"><translate><![CDATA[S ukážkami]]></translate></item>
+	<item v="product_range_title"><translate><![CDATA[2006 Prehľad modelov Lumix]]></translate></item>
+	<item v="product_range_subtitle"><translate><![CDATA[Rad Lumix ponúka tie správne fotoaparáty pre Vaše potreby. Zoznámte sa tu bližšie s ich charakteristikou a technológiami.]]></translate></item>
+	
+	<!-- Camera features -->
+	<item v="leica_lens"><translate><![CDATA[Objektív Leica]]></translate></item>
+	
+	<!-- Camera info menu -->
+	<item v="want_to_buy"><translate><![CDATA[Nákup tohto fotoaparátu]]></translate></item>
+	<item v="tech_specs"><translate><![CDATA[Podrobné parametre]]></translate></item>
+	
+	<!-- Camera navigation -->
+	<item v="close_camera"><translate><![CDATA[Zatvoriť Fotoaparát]]></translate></item>
+	<item v="prev_camera"><translate><![CDATA[Predchádzajúca Fotoaparát]]></translate></item>
+	<item v="next_camera"><translate><![CDATA[Nasledujúca Fotoaparát]]></translate></item>
+
+	<!-- menu -->
+	<item v="see_in_action_DMC-FX01"><translate><![CDATA[Viac o modeli DMC-FX01]]></translate></item>
+	<item v="see_in_action_DMC-FZ7"><translate><![CDATA[Viac o modeli DMC-FZ7]]></translate></item>
+	<item v="see_in_action_DMC-TZ1"><translate><![CDATA[Viac o modeli DMC-TZ1]]></translate></item>
+	<item v="buy_this_camera"><translate><![CDATA[Nákup tohto fotoaparátu]]></translate></item>
+	<item v="more_info"><translate><![CDATA[Podrobné parametre]]></translate></item>
+	
+	<!-- Technologies -->
+<!-- new --><item v="key_technologies"><translate><![CDATA[Základné technológie Lumix]]></translate></item>
+	
+	<item v="enter_award"><translate><![CDATA[Zúčastnite sa súťaže Lumix Award]]></translate></item>
+	
+	
+	<!-- Video stories -->
+	<!-- Anna -->
+	<item v="anna_ch1_title"><translate><![CDATA[Stretnutie u Anny]]></translate></item>
+	<item v="anna_ch2_title"><translate><![CDATA[Príprava]]></translate></item>
+	<item v="anna_ch3_title"><translate><![CDATA[Zábava s mejkapom]]></translate></item>
+	<item v="anna_ch4_title"><translate><![CDATA[Taxíkom do klubu]]></translate></item>
+	<item v="anna_ch5_title"><translate><![CDATA[Vyhadzovač]]></translate></item>
+	<item v="anna_ch6_title"><translate><![CDATA[Záves]]></translate></item>
+	<item v="anna_ch7_title"><translate><![CDATA[Flirtovanie s barmanom]]></translate></item>
+	<item v="anna_ch8_title"><translate><![CDATA[Debata na pohovke]]></translate></item>
+	<item v="anna_ch9_title"><translate><![CDATA[Na tanečnom parkete]]></translate></item>
+	
+	<!-- Pietro -->
+	<item v="pietro_ch1_title"><translate><![CDATA[Na okraji Barcelony]]></translate></item>
+	<item v="pietro_ch2_title"><translate><![CDATA[V ústrety stredu mesta]]></translate></item>
+	<item v="pietro_ch3_title"><translate><![CDATA[Na námestí Plaça Real]]></translate></item>
+	<item v="pietro_ch4_title"><translate><![CDATA[Vonku na káve]]></translate></item>
+	<item v="pietro_ch5_title"><translate><![CDATA[V hoteli]]></translate></item>
+	<item v="pietro_ch6_title"><translate><![CDATA[Na pláži]]></translate></item>
+	<item v="pietro_ch7_title"><translate><![CDATA[Popri modernej architektúre]]></translate></item>
+	<item v="pietro_ch8_title"><translate><![CDATA[Bazilika La Sagrada Familia]]></translate></item>
+	<item v="pietro_ch9_title"><translate><![CDATA[Reštaurácia s výhľadom ]]></translate></item>
+	
+	<!-- Tim -->
+	<item v="thomas_ch1_title"><translate><![CDATA[Príchod na okruh v Jereze]]></translate></item>
+	<item v="thomas_ch2_title"><translate><![CDATA[V odbočke ku boxu]]></translate></item>
+	<item v="thomas_ch3_title"><translate><![CDATA[V garáži]]></translate></item>
+	<item v="thomas_ch4_title"><translate><![CDATA[Na streche]]></translate></item>
+	<item v="thomas_ch5_title"><translate><![CDATA[Na konci odbočky ku boxu]]></translate></item>
+	<item v="thomas_ch6_title"><translate><![CDATA[Na druhej zákrute dráhy]]></translate></item>
+	<item v="thomas_ch7_title"><translate><![CDATA[Hlavná tribúna]]></translate></item>
+	<item v="thomas_ch8_title"><translate><![CDATA[Veža Torre Tío Pepe]]></translate></item>
+	<item v="thomas_ch9_title"><translate><![CDATA[Kľučkovanie na dráhe]]></translate></item>
+	
+	<!-- video navigation -->
+	<item v="play"><translate><![CDATA[Spustiť]]></translate></item>
+	<item v="pause"><translate><![CDATA[Prerušiť]]></translate></item>
+	<item v="close_scene"><translate><![CDATA[Zatvoriť scénu]]></translate></item>
+	<item v="prev_scene"><translate><![CDATA[Predchádzajúca scéna]]></translate></item>
+	<item v="next_scene"><translate><![CDATA[Nasledujúca scéna]]></translate></item>
+
+
+	
+	<!-- TABS -->
+	<item v="more_info_image"><translate><![CDATA[Ďalšie informácie]]></translate></item>
+	
+	<!-- Hotspot rollover text -->
+	<!-- Photo hint and tips -->
+	<item v="phototip1_roll"><translate><![CDATA[LEARN MORE ABOUT LENS FLARE AND THE EFFECTS OF BACKLIGHT
+FROM A STRONG LIGHT SOURCE]]></translate></item>
+	<item v="phototip2_roll"><translate><![CDATA[Here is photo tip 2]]></translate></item>
+	<item v="phototip3_roll"><translate><![CDATA[Here is photo tip 3]]></translate></item>
+	<!-- picture -->
+	<item v="picture_roll"><translate><![CDATA[Obraz Lumix]]></translate></item>
+
+	<!-- Camera settings -->
+	<!-- modes -->
+	<item v="portrait_mode"><translate><![CDATA[Režim portrétov]]></translate></item>
+	<item v="simple_mode"><translate><![CDATA[Zjednodušený režim]]></translate></item>
+	<item v="macro_mode"><translate><![CDATA[MAKROrežim]]></translate></item>
+	<item v="high_sens_mode"><translate><![CDATA[Režim vysokej citlivosti režim]]></translate></item>
+	<item v="night_port_mode"><translate><![CDATA[Režim nočných portrétov]]></translate></item>
+	<item v="beach_mode"><translate><![CDATA[Režim snímania na pláži]]></translate></item>
+	<item v="sports_mode"><translate><![CDATA[Režim ŠPORT]]></translate></item>
+	<item v="manual_mode"><translate><![CDATA[Manuálny režim]]></translate></item>
+	<item v="scenery_mode"><translate><![CDATA[Režim scenérií]]></translate></item>
+	
+	<!-- Other settings -->
+	<item v="on"><translate><![CDATA[ZAP]]></translate></item>
+	<item v="off"><translate><![CDATA[VYP]]></translate></item>
+	<!-- camera flash -->
+	<item v="flash"><translate><![CDATA[BLESK]]></translate></item>
+	
+	<item v="wide_angle"><translate><![CDATA[širokouhlý formát]]></translate></item>
+	<item v="auto_red_eye"><translate><![CDATA[tlmenia efektu červených očí]]></translate></item>
+	
+	<item v="zoom"><translate><![CDATA[zoom]]></translate></item>
+	<item v="optical_zoom"><translate><![CDATA[optický zoom]]></translate></item>
+	<item v="extra_optical_zoom"><translate><![CDATA[Extra optický zoom]]></translate></item>
+	
+	<item v="spot_metering"><translate><![CDATA[Bod záujmu expozimeter]]></translate></item>
+	<item v="backlight_compensation"><translate><![CDATA[Kompenzácia protisvetla]]></translate></item>
+	
+	
+	
+	
+	<!-- hotspot types -->
+	<item v="hotspot_type0"><translate><![CDATA[Funkcia]]></translate></item>
+	<item v="hotspot_type1"><translate><![CDATA[Tip]]></translate></item>
+	<item v="hotspot_type2"><translate><![CDATA[Obraz 
+Lumix]]></translate></item>
+
+	<!-- new -->
+	<!-- as displayed in end of video summary -->
+	<item v="hotspot_summary_type0"><translate><![CDATA[Funkcia]]></translate></item>
+	<item v="hotspot_summary_type1"><translate><![CDATA[Fototip]]></translate></item>
+	<item v="hotspot_summary_type2"><translate><![CDATA[Obraz Lumix]]></translate></item>
+	
+	<item v="prev_scene_summary"><translate><![CDATA[Predchádzajúca scéna]]></translate></item>
+	<item v="next_scene_summary"><translate><![CDATA[Nasledujúca scéna]]></translate></item>
+	<!-- /new -->
+	
+	<!-- Pop up animation text -->
+	<item v="secs"><translate><![CDATA[sek.]]></translate></item><!-- an abreviation of "SECONDS" -->
+	<item v="ready"><translate><![CDATA[Pripravený]]></translate></item>
+
+<!-- new start -->	
+<!-- Camera dimensions - Width, Height, Depth -->
+	<item v="width_abbr"><translate><![CDATA[W]]></translate></item>
+	<item v="height_abbr"><translate><![CDATA[H]]></translate></item>
+	<item v="depth_abbr"><translate><![CDATA[D]]></translate></item>
+	
+	<item v="large_screen_display"><translate><![CDATA[veľký monitor]]></translate></item>
+	<!-- Camera screen size ratio -->
+	<item v="normal_format"><translate><![CDATA[normálny režim]]></translate></item>
+	<item v="wide_format"><translate><![CDATA[širokouhlý režim]]></translate></item>
+	
+	<item v="window"><translate><![CDATA[obrázkov]]></translate></item>
+	<item v="calendar_view"><translate><![CDATA[Kalendárové zobrazenie]]></translate></item>
+	
+	<item v="normal_mode"><translate><![CDATA[normálny režim]]></translate></item>
+	<item v="wide_mode"><translate><![CDATA[širokouhlý režim]]></translate></item>
+	
+	<item v="normal_lens"><translate><![CDATA[normálny]]></translate></item>
+	<item v="wide_lens"><translate><![CDATA[širokouhlý formát]]></translate></item>
+	<!-- a camera feature -->
+	<item v="power_lcd"><translate><![CDATA[Tlačidlo]]></translate></item>
+	<item v="button"><translate><![CDATA[power lcd]]></translate></item>
+	
+	<item v="viewfinder_aligned"><translate><![CDATA[Výrazné zobrazovanie Power LCD]]></translate></item>
+	<item v="slow_shutter"><translate><![CDATA[Pomalá rýchlosť uzávierky]]></translate></item>
+	<item v="joystick"><translate><![CDATA[Krížový ovládač]]></translate></item>
+<!-- new end -->
+
+
+	<!-- Pop up titles -->
+	<item v="popUp_title_feature"><translate><![CDATA[Funkcia]]></translate></item>
+	<item v="popUp_title_tip"><translate><![CDATA[Fototip]]></translate></item>
+	<item v="popUp_title_picture"><translate><![CDATA[Obraz Lumix]]></translate></item>
+	
+	
+	<!-- Pop ups -->
+	<!-- Including hotspot roll over text -->
+	<item v="popUp_hotspot_text_0"><translate><![CDATA[Výbava]]></translate></item>
+	<item v="popUp_subtitle_0"><translate><![CDATA[Elegantný dizajn]]></translate></item>
+	<item v="popUp_body_text_0"><translate><![CDATA[Model FX01 je so svojím elegantným a kompaktným dizajnom tým správnym doplnkom pre akúkoľvek príležitosť.]]></translate></item>
+	<item v="popUp_caption_0_0"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_1"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_2"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_3"><translate><![CDATA[]]></translate></item>
+	
+	<item v="popUp_hotspot_text_1"><translate><![CDATA[Jednoduchosť]]></translate></item>
+	<item v="popUp_subtitle_1"><translate><![CDATA[Zjednodušený režim]]></translate></item>
+	<item v="popUp_body_text_1"><translate><![CDATA[Všetky nastavenia sa uskutočňujú automaticky, takže sa dajú ľahko nasnímať skvelé snímky, aj keď ste ešte nikdy nesnímali digitálnym fotoaparátom. Stačí nasmerovať a stlačiť spúšť.]]></translate></item>
+
+	<item v="popUp_hotspot_text_2"><translate><![CDATA[Perfektný portrét]]></translate></item>
+	<item v="popUp_subtitle_2"><translate><![CDATA[Režim portrétov]]></translate></item>
+	<item v="popUp_body_text_2"><translate><![CDATA[Tento režim pomáha nasnímať nádherné portréty s prirodzeným tónovaním pleti. Vy a Vaši priatelia na nich vždy budete vyzerať skvele!]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_3"><translate><![CDATA[Vhodný na nosenie]]></translate></item>
+	<item v="popUp_subtitle_3"><translate><![CDATA[Rýchle spúšťanie]]></translate></item>
+	<item v="popUp_body_text_3"><translate><![CDATA[Niekedy je potrebné, aby bol fotoaparát k dispozícii ihneď. Model FX01 je pripravený na snímanie už za 1,6 sekundy po zapnutí.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_4"><translate><![CDATA[Naopak]]></translate></item>
+	<item v="popUp_subtitle_4"><translate><![CDATA[Automatické natáčanie]]></translate></item>
+	<item v="popUp_body_text_4"><translate><![CDATA[Horizontálne alebo vertikálne – ktoré je lepšie? Po nasnímaní je obraz na LCD monitore vždy v správnej polohe nezávisle od toho, ako držíte fotoaparát.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_5"><translate><![CDATA[Chvíľka pre módu]]></translate></item>
+	<item v="popUp_subtitle_5"><translate><![CDATA[O.I.S. v interiéri]]></translate></item>
+	<item v="popUp_body_text_5"><translate><![CDATA[Ak sa použije blesk v interiéri, objekt v popredí sa môže javiť neprirodzene presvetlený a pozadie príliš tmavé. Technológia O.I.S. (optická stabilizácia obrazu) dovoľuje nasnímať skvelé snímky aj bez blesku.]]></translate></item>
+	<item v="popUp_caption_5_0"><translate><![CDATA[O.I.S. VYP]]></translate></item>
+	<item v="popUp_caption_5_1"><translate><![CDATA[O.I.S. ZAP]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_6"><translate><![CDATA[Otázka veľkosti]]></translate></item>
+	<item v="popUp_subtitle_6"><translate><![CDATA[Malý a kompaktný tvar]]></translate></item>
+	<item v="popUp_body_text_6"><translate><![CDATA[Svojím elegantným a kompaktným tvarom sa vmestí model FX01 do akejkoľvek tašky alebo kabelky, takže môže ísť všade s Vami.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_7"><translate><![CDATA[Priblíženie]]></translate></item>
+	<item v="popUp_subtitle_7"><translate><![CDATA[O.I.S. makropriblíženia]]></translate></item>
+	<item v="popUp_body_text_7"><translate><![CDATA[Snímanie sviežich a ostrých makrosnímok si vyžaduje úplnú nehybnosť fotoaparátu. Technológia O.I.S. (optická stabilizácia obrazu) dovoľuje nasnímať nerozostrené zábery z takej blízkosti, z akej si želáte.]]></translate></item>
+	<item v="popUp_caption_7_0"><translate><![CDATA[O.I.S. VYP]]></translate></item>
+	<item v="popUp_caption_7_1"><translate><![CDATA[O.I.S. ZAP]]></translate></item>
+	
+	<item v="popUp_hotspot_text_8"><translate><![CDATA[Podeľte sa naokolo]]></translate></item>
+	<item v="popUp_subtitle_8"><translate><![CDATA[Veľký LCD monitor]]></translate></item>
+	<item v="popUp_body_text_8"><translate><![CDATA[Spoločné prezeranie fotosnímok je veľká zábava. Veľký LCD monitor s jemným rozlíšením uľahčuje prezeranie fotosnímok priamo po nasnímaní.]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_9"><translate><![CDATA[Zachyťte si svoju najlepšiu stránku]]></translate></item>
+	<item v="popUp_subtitle_9"><translate><![CDATA[Režim autoportrétu]]></translate></item>
+	<item v="popUp_body_text_9"><translate><![CDATA[Autoportrét už nemôže byť jednoduchší! Nasmerujte fotoaparát na seba. Červená LED kontrolka Vás upovedomí, kedy je záber zaostrený. Potom len stlačte spúšť.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_10"><translate><![CDATA[Širokouhlý záber]]></translate></item>
+	<item v="popUp_subtitle_10"><translate><![CDATA[Širokouhlý objektív]]></translate></item>
+	<item v="popUp_body_text_10"><translate><![CDATA[Niekedy nemožno zahrnúť všetkých do jedného záberu. Ale s 28 mm širokouhlým objektívom obsiahnete viac svojich priateľov,  a tak nebude nikto sklamaný.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_11"><translate><![CDATA[Pozrite si to v širokouhlom formáte ]]></translate></item>
+	<item v="popUp_subtitle_11"><translate><![CDATA[Pomer strán]]></translate></item>
+	<item v="popUp_body_text_11"><translate><![CDATA[Záber si môžete snímať v širokouhlom formáte 16:9. Je to pre niektoré objekty veľmi užitočné!]]></translate></item>
+	
+	<item v="popUp_hotspot_text_12"><translate><![CDATA[Zaostrenie]]></translate></item>
+	<item v="popUp_subtitle_12"><translate><![CDATA[Rýchle automatické zaostrovanie]]></translate></item>
+	<item v="popUp_body_text_12"><translate><![CDATA[Vďaka 1-bodovému rýchlemu automatickému zaostrovaniu môžete vždy snímať rýchlo, ľahko a presne.]]></translate></item>
+
+	<item v="popUp_hotspot_text_13"><translate><![CDATA[V rukách vyhadzovačova]]></translate></item>
+	<item v="popUp_subtitle_13"><translate><![CDATA[Zjednodušený režim]]></translate></item>
+	<item v="popUp_body_text_13"><translate><![CDATA[Všetky nastavenia sa uskutočňujú automaticky, takže získate výborné snímky, aj keď fotoaparát dáte niekomu inému do ruky. Stačí povedať, aby nasmeroval a stlačil spúšť.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_14"><translate><![CDATA[Buďte kreatívni]]></translate></item>
+	<item v="popUp_subtitle_14"><translate><![CDATA[Odlišný pohľad]]></translate></item>
+	<item v="popUp_body_text_14"><translate><![CDATA[Neobyčajné prvky niekedy veľmi ozvláštnia záber. Pohrajte sa, tvorte a zároveň sa vybláznite.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_15"><translate><![CDATA[Večierok]]></translate></item>
+	<item v="popUp_subtitle_15"><translate><![CDATA[Režim večierok]]></translate></item>
+	<item v="popUp_body_text_15"><translate><![CDATA[Ak máte chuť na večierok, nie je vhodné, aby Vám technika pri tom robila potiaže. Tak prepnite na režim večierkov a fotoaparát urobí sám všetky nastavenia potrebné na nočné snímanie.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_16"><translate><![CDATA[Pomedzi záves]]></translate></item>
+	<item v="popUp_subtitle_16"><translate><![CDATA[Tlmeni efektu červených očí]]></translate></item>
+	<item v="popUp_body_text_16"><translate><![CDATA[Ak sa použije blesk, často sa nasnímajú červené oči. Ak sa blesk nastaví na režim tlmenia efektu červených očí, problém vyriešia 2 rýchle záblesky.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_17"><translate><![CDATA[Život cez objektív]]></translate></item>
+	<item v="popUp_subtitle_17"><translate><![CDATA[Objektív Leica DC]]></translate></item>
+	<item v="popUp_body_text_17"><translate><![CDATA[Svetoznámy objektív Leica DC, ktorým je vybavený model FX01, ponúka zábery s pôsobivými detailami a pozoruhodnou hĺbkou.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_18"><translate><![CDATA[Aby nebol záber preblýskaný]]></translate></item>
+	<item v="popUp_subtitle_18"><translate><![CDATA[O.I.S. v interiéri]]></translate></item>
+	<item v="popUp_body_text_18"><translate><![CDATA[Za určiých okolností je použitie blesku nevhodné. Vďaka technológii O.I.S. (optická stabilizácia obrazu) môžete využiť dlhší expozičný čas a nasnímať si záber bez blesku.]]></translate></item>	
+	<item v="popUp_caption_18_0"><translate><![CDATA[BLESK VYP]]></translate></item>
+	<item v="popUp_caption_18_1"><translate><![CDATA[BLESK ZAP]]></translate></item>
+
+	<item v="popUp_hotspot_text_19"><translate><![CDATA[Podeľte sa naokolo]]></translate></item>
+	<item v="popUp_subtitle_19"><translate><![CDATA[Veľký LCD monitor]]></translate></item>
+	<item v="popUp_body_text_19"><translate><![CDATA[Spoločné prezeranie fotosnímok je veľká zábava. Veľký LCD monitor s jemným rozlíšením uľahčuje prezeranie fotosnímok priamo po nasnímaní.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_20"><translate><![CDATA[Širokouhlý záber]]></translate></item>
+	<item v="popUp_subtitle_20"><translate><![CDATA[Širokouhlý objektív]]></translate></item>
+	<item v="popUp_body_text_20"><translate><![CDATA[Niekedy sa nedá zahrnúť všetkých do jedného záberu. Ale s 28 mm širokouhlým objektívom obsiahnete viac svojich priateľov, takže nebude nikto sklamaný.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_21"><translate><![CDATA[Zoom zoom]]></translate></item>
+	<item v="popUp_subtitle_21"><translate><![CDATA[3,6x zoom]]></translate></item>
+	<item v="popUp_body_text_21"><translate><![CDATA[Niekedy sa chcete priblížiť ešte viac k akcii.  3,6-násobným zoomom môžete zachytiť svojich priateľov s rôznymi trikmi.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_22"><translate><![CDATA[Prehliadanie]]></translate></item>
+	<item v="popUp_subtitle_22"><translate><![CDATA[Režim reprodukcie záznamov]]></translate></item>
+	<item v="popUp_body_text_22"><translate><![CDATA[Prehliadanie záberov je zábavné a jednoduché. Vyberte si prezentáciu Slide Show, prípadne 1-, 9- resp. 25-obrázkové alebo kalendárové zobrazovanie, v ktorom sa uvedú všetky zábery nasnímané vo vybraný dátum v minináhľadoch.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_23"><translate><![CDATA[Vhodný tvar]]></translate></item>
+	<item v="popUp_subtitle_23"><translate><![CDATA[Kompaktný dizajn]]></translate></item>
+	<item v="popUp_body_text_23"><translate><![CDATA[Malý a kompaktný dizajn modelu FX01 znamená, že sa vmestí aj do tých najobtiahnutejších džínsov.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_24"><translate><![CDATA[Zostaňte na scéne]]></translate></item>
+	<item v="popUp_subtitle_24"><translate><![CDATA[O.I.S. a chvenie rúk]]></translate></item>
+	<item v="popUp_body_text_24"><translate><![CDATA[Keď snímate fotoaparátom, môžete byť tiež súčasťou akcie. Chvenie rúk už nie je problém vďaka našej technológii O.I.S. (optická stabilizácia obrazu). Zaisťuje stabilitu snímok, aj keď snímajúci celkom stabilný nie je.]]></translate></item>	
+	<item v="popUp_caption_24_0"><translate><![CDATA[O.I.S. VYP]]></translate></item>
+	<item v="popUp_caption_24_1"><translate><![CDATA[O.I.S. ZAP]]></translate></item>
+	
+
+	<item v="popUp_hotspot_text_25"><translate><![CDATA[Podeľte sa naokolo]]></translate></item>
+	<item v="popUp_subtitle_25"><translate><![CDATA[Veľký LCD monitor]]></translate></item>
+	<item v="popUp_body_text_25"><translate><![CDATA[Spoločné prezeranie fotosnímok je veľká zábava. Veľký LCD monitor s jemným rozlíšením uľahčuje prezeranie fotosnímok priamo po nasnímaní.]]></translate></item>	
+
+
+
+<!-- new onwards 17-03-06 --><!-- BARCELONA -->
+
+	<item v="popUp_hotspot_text_26"><translate><![CDATA[Cestujte naľahko]]></translate></item>
+	<item v="popUp_subtitle_26"><translate><![CDATA[Kompaktný dizajn]]></translate></item>
+	<item v="popUp_body_text_26"><translate><![CDATA[Model TZ1 má elegantný a kompaktný tvar, vďaka ktorému sa šikovne vmestí do vrecka, takže s ním môžete vždy cestovať naľahko.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_27"><translate><![CDATA[Skvelé zábery so zoomom]]></translate></item>
+	<item v="popUp_subtitle_27"><translate><![CDATA[O.I.S. pre mohutný zoom]]></translate></item>
+	<item v="popUp_body_text_27"><translate><![CDATA[Snímanie záberov s mohutným zoomom je obzvlášť citlivé na akýkoľvek pohyb fotoaparátu. Technológia O.I.S. (optická stabilizácia obrazu) zaisťuje, že zábery snímané v ruke s mohutným zoomom nebudú rozostrené.]]></translate></item>	
+<!-- new --><item v="popUp_caption_27_0"><translate><![CDATA[O.I.S. ZAP]]></translate></item>
+<!-- new --><item v="popUp_caption_27_1"><translate><![CDATA[O.I.S. VYP]]></translate></item>
+	
+	<item v="popUp_hotspot_text_28"><translate><![CDATA[Malý veľký zoom]]></translate></item>
+	<item v="popUp_subtitle_28"><translate><![CDATA[Mohutný zoom]]></translate></item>
+	<item v="popUp_body_text_28"><translate><![CDATA[Mohutný 10-násobný optický zoom zodpovedajúci veľkému 35 až 350 mm objektívu 35 mm klasického fotoaparátu je pozoruhodne zakomponovaný do fotoaparátu veľmi kompaktnej veľkosti.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_28_0"><translate><![CDATA[1X zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_1"><translate><![CDATA[3X zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_2"><translate><![CDATA[6X zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_3"><translate><![CDATA[10X zoom]]></translate></item>
+	
+	<item v="popUp_hotspot_text_29"><translate><![CDATA[Zadajte si dátum]]></translate></item>
+	<item v="popUp_subtitle_29"><translate><![CDATA[Zadanie dátumu cesty]]></translate></item>
+	<item v="popUp_body_text_29"><translate><![CDATA[Na modeli TZ1 si môžete zadať deň odchodu a potom si zobrazovať zábery z výletu podľa dátumov, kedy boli nasnímané. Je to skvelá možnosť usporiadania snímok z ciest.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_29_0"><translate><![CDATA[1. Deň]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_1"><translate><![CDATA[2. Deň]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_2"><translate><![CDATA[]]></translate></item>
+
+
+
+
+	<item v="popUp_hotspot_text_30"><translate><![CDATA[Zaujímavý pohľad]]></translate></item>
+	<item v="popUp_subtitle_30"><translate><![CDATA[Rôzne pohľady]]></translate></item>
+	<item v="popUp_body_text_30"><translate><![CDATA[Niekedy je potebné, aby bol fotoaparát okamžite k dispozícii. Model TZ1 je pripravený na snímanie za 0,95 s po zapnutí.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_30_0"><translate><![CDATA[Pohľad 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_1"><translate><![CDATA[Pohľad 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_2"><translate><![CDATA[Pohľad 3]]></translate></item>
+		
+	<item v="popUp_hotspot_text_31"><translate><![CDATA[V pohybe]]></translate></item>
+	<item v="popUp_subtitle_31"><translate><![CDATA[O.I.S. a chvenie rúk]]></translate></item>
+	<item v="popUp_body_text_31"><translate><![CDATA[Ak ste v pohybe, neprekvapuje chvenie fotoaparátu, ani rozostrenie záberov. Technológia O.I.S. (optická stabilizácia obrazu) kompenzuje aj nepatrný pohyb gyrosenzormi, ktoré riadia posun objektívu v opačnom smere – vďaka čomu sa dosahuje čistý a ostrý obraz.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_31_0"><translate><![CDATA[O.I.S. VYP]]></translate></item>
+	<!-- new --><item v="popUp_caption_31_1"><translate><![CDATA[O.I.S. ZAP]]></translate></item>
+
+	<item v="popUp_hotspot_text_32"><translate><![CDATA[Rýchle spúšťanie]]></translate></item>
+	<item v="popUp_subtitle_32"><translate><![CDATA[Rýchle spúšťanie]]></translate></item>
+	<item v="popUp_body_text_32"><translate><![CDATA[Niekedy je potebné, aby bol fotoaparát okamžite k dispozícii. Model TZ1 je pripravený na snímanie za 0,95 s po zapnutí.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_33"><translate><![CDATA[Odlesky]]></translate></item>
+	<item v="popUp_subtitle_33"><translate><![CDATA[Odlesky]]></translate></item>
+	<item v="popUp_body_text_33"><translate><![CDATA[Odlesky dokážu vytvárať zaujímavé kompozície. Voda na ceste, okná áut a sklenené fasády budov môžu dodávať záberom odlišnú pôsobivosť.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_34"><translate><![CDATA[Precízne portréty]]></translate></item>
+	<item v="popUp_subtitle_34"><translate><![CDATA[Režim vysokej citlivosti]]></translate></item>
+	<item v="popUp_body_text_34"><translate><![CDATA[Ak sa objekt pri snímaní pohybuje, môže vzniknúť „rozostrenie súvisiace s pohybom”. Využitím režimu vysokej citlivosti sa dá takýto účinok tlmiť. Efektívne zvýši rýchlosť uzávierky na maximum a tak sa nasníma čistý a ostrý obraz.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_34_0"><translate><![CDATA[Bez režimu vysokej citlivosti]]></translate></item>
+	<!-- new --><item v="popUp_caption_34_1"><translate><![CDATA[Režim vysokej citlivosti Režim]]></translate></item>
+	
+	<item v="popUp_hotspot_text_35"><translate><![CDATA[Objektív Leica DC]]></translate></item>
+	<item v="popUp_subtitle_35"><translate><![CDATA[Objektív Leica DC]]></translate></item>
+	<item v="popUp_body_text_35"><translate><![CDATA[Svetoznámy objektív Leica DC, ktorým je vybavený model TZ1, sníma s pôsobivými detailami a pozoruhodnou hĺbkou.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_36"><translate><![CDATA[Zaostrime]]></translate></item>
+	<item v="popUp_subtitle_36"><translate><![CDATA[Pomocné prisvetlenie AF]]></translate></item>
+	<item v="popUp_body_text_36"><translate><![CDATA[Slabé osvetlenie často znamená nedostatočné automatické zaostrenie. Vďaka pomocnému prisvetleniu AF sa presnosť automatického zaostrovania zlepšuje.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_37"><translate><![CDATA[Dovolíte?]]></translate></item>
+	<item v="popUp_subtitle_37"><translate><![CDATA[Zjednodušený režim]]></translate></item>
+	<item v="popUp_body_text_37"><translate><![CDATA[V zjednodušenom režime sa uskutočňujú všetky nastavenia automaticky, takže je jednoduché nasnímať úžasné snímky, aj keď ste nikdy predtým fotoaparát nedržali v ruke. Stačí nasmerovať a stlačiť spúšť.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_38"><translate><![CDATA[Veľký LCD monitor]]></translate></item>
+	<item v="popUp_subtitle_38"><translate><![CDATA[Veľký LCD monitor]]></translate></item>
+	<item v="popUp_body_text_38"><translate><![CDATA[Veľký LCD monitor uľahčuje prácu so zábermi ihneď po nasnímaní. 2,5" LCD monitor s 207000 obrazovými bodmi zreteľne zobrazuje aj text a malé minináhľady.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_39"><translate><![CDATA[Modrá hodinka]]></translate></item>
+	<item v="popUp_subtitle_39"><translate><![CDATA[Využitie svetla]]></translate></item>
+	<item v="popUp_body_text_39"><translate><![CDATA[Keď po žiarivom a jasnom dni prichádza súmrak, svetlo nadobúda zvláštny charakter. Je to „modrá hodinka”. Snímanie pri takomto svetle dáva fotosnímkam výnimočnú obsažnosť farieb.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_40"><translate><![CDATA[Rýchle zaostrovanie]]></translate></item>
+	<item v="popUp_subtitle_40"><translate><![CDATA[Rýchle automatické zaostrovanie]]></translate></item>
+	<item v="popUp_body_text_40"><translate><![CDATA[Podľa snímanej scény si možno vyberať z niekoľkých režimov automatického zaostrovania: stredobod záujmu SPOT AF, 1-bodové, 3-bodové alebo 9-bodové zaostrovanie. Zakaždým môžete snímať rýchlo, ľahko a presne.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_40_0"><translate><![CDATA[9 bodov]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_1"><translate><![CDATA[3 body]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_2"><translate><![CDATA[1 bod]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_3"><translate><![CDATA[1 Bod záujmu]]></translate></item>
+	
+	<item v="popUp_hotspot_text_41"><translate><![CDATA[Milovník noci]]></translate></item>
+	<item v="popUp_subtitle_41"><translate><![CDATA[Režim nočných portrétov]]></translate></item>
+	<item v="popUp_body_text_41"><translate><![CDATA[Použitie blesku v noci môže eliminovať skutočné svetlo záberu. Pomalšia rýchlosť uzávierky, ktorú umožňuje technológia O.I.S., v kombinácii s bleskom dovoľuje preniknúť väčšiemu množstvu svetla. A tak pri nočnom portéte zachytíte aj správnu náladu.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_42"><translate><![CDATA[Žiarivý LCD monitor]]></translate></item>
+	<item v="popUp_subtitle_42"><translate><![CDATA[Žiarivý LCD monitor]]></translate></item>
+	<item v="popUp_body_text_42"><translate><![CDATA[Počas slnečného dňa je niekedy zreteľnosť záberu na monitore obtiažna. Vtedy stačí stlačiť tlačidlo výrazného zobrazovania Power LCD a intenzita jasu sa o 40% zvýši.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_43"><translate><![CDATA[Život na pláži]]></translate></item>
+	<item v="popUp_subtitle_43"><translate><![CDATA[Režim snímania na pláži]]></translate></item>
+	<item v="popUp_body_text_43"><translate><![CDATA[Keď je človek na pláži, žiarivé slnko je vždy žiadúce, avšak pri snímaní môže často spôsobovať stmavnutie záberov. V režime snímania na pláži sú však zábery svetlé a tak sa nemusíte obávať o iné než o to, aby ste sa na slnku nespálili.]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_0"><translate><![CDATA[Bez režimu snímania na pláži]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_1"><translate><![CDATA[Režim snímania na pláži]]></translate></item>
+
+	<item v="popUp_hotspot_text_44"><translate><![CDATA[Zachyťte si pohyb]]></translate></item>
+	<item v="popUp_subtitle_44"><translate><![CDATA[Režim BURST]]></translate></item>
+	<item v="popUp_body_text_44"><translate><![CDATA[Za sebou si môžete v štandardnom režime nasnímať 5 záberov rýchlosťou 3 snímky za sekundu. Model TZ1 ponúka aj neobmedzené sekvenčné snímanie až do zaplnenia kapacity pamäťovej SD karty.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_44_0"><translate><![CDATA[Snímka 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_1"><translate><![CDATA[Snímka 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_2"><translate><![CDATA[Snímka 3]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_3"><translate><![CDATA[Snímka 4]]></translate></item>
+	
+
+
+	<item v="popUp_hotspot_text_45"><translate><![CDATA[Abstraktné myslenie]]></translate></item>
+	<item v="popUp_subtitle_45"><translate><![CDATA[Rozdielny pohľad]]></translate></item>
+	<item v="popUp_body_text_45"><translate><![CDATA[Ak sa na veci pozriete inak, dovedie Vás to k prekvapujúcim výsledkom. Experimentujte so svojími snímkami a vytvorte si koláž rôznych prvkov toho istého objektu.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_45_0"><translate><![CDATA[Pohľad 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_1"><translate><![CDATA[Pohľad 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_2"><translate><![CDATA[Pohľad 3]]></translate></item>
+
+	<item v="popUp_hotspot_text_46"><translate><![CDATA[Objekt v popredí a pozadie]]></translate></item>
+	<item v="popUp_subtitle_46"><translate><![CDATA[Kompozícia]]></translate></item>
+	<item v="popUp_body_text_46"><translate><![CDATA[Preložením prvkov pozadia a predpolia sa dajú vytvárať zaujímavé kompozície.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_47"><translate><![CDATA[Abstrakt zoomu]]></translate></item>
+	<item v="popUp_subtitle_47"><translate><![CDATA[Abstrakt]]></translate></item>
+	<item v="popUp_body_text_47"><translate><![CDATA[Mohutný zoom môžete využiť na výrez záberov a vytváranie abstraktných detailov.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_48"><translate><![CDATA[Svetlo neskorého popoludnia]]></translate></item>
+	<item v="popUp_subtitle_48"><translate><![CDATA[Neskoré svetlo]]></translate></item>
+	<item v="popUp_body_text_48"><translate><![CDATA[Počas jasného dňa má neskoré popoludnie zvláštny hlboký modrý tón, ktorým možno dodať teplo nasnímaným záberom.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_49"><translate><![CDATA[Zachytenie svetla]]></translate></item>
+	<item v="popUp_subtitle_49"><translate><![CDATA[BOD ZÁUJMU]]></translate></item>
+	<item v="popUp_body_text_49"><translate><![CDATA[Určitý zdroj svetla môžete využiť ako výhodu. Na základe expozimetra, ktorým sa stanoví miera odrazeného svetla od budovy, si môžete nasnímať odlišný typ záberov.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_50"><translate><![CDATA[Ľahký cestovný typ]]></translate></item>
+	<item v="popUp_subtitle_50"><translate><![CDATA[Kompaktný dizajn]]></translate></item>
+	<item v="popUp_body_text_50"><translate><![CDATA[Model TZ1 má elegantný a kompaktný tvar, takže sa pohodlne vmestí do vrecka a dovoľuje cestovať naľahko.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_51"><translate><![CDATA[Malý veľký zoom]]></translate></item>
+	<item v="popUp_subtitle_51"><translate><![CDATA[10-násobný optický zoom ]]></translate></item>
+	<item v="popUp_body_text_51"><translate><![CDATA[Mohutný 10-násobný optický zoom zodpovedajúci veľkému 35 až 350 mm objektívu 35 mm klasického fotoaparátu je zakomponovaný do kompaktnej veľkosti.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_51_0"><translate><![CDATA[1 X zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_1"><translate><![CDATA[2 X zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_2"><translate><![CDATA[5 X zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_3"><translate><![CDATA[10 X zoom]]></translate></item>
+	
+	<item v="popUp_hotspot_text_52"><translate><![CDATA[Snímanie so zoomom]]></translate></item>
+	<item v="popUp_subtitle_52"><translate><![CDATA[O.I.S. a mohutný zoom]]></translate></item>
+	<item v="popUp_body_text_52"><translate><![CDATA[Snímanie s mohutným zoomom je citlivé na akýkoľvek pohyb fotoaparátu. Technológia O.I.S. (optická stabilizácia obrazu) zaistí nerozostrenie záberov so zoomom aj pri snímaní bez statívu.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_52_0"><translate><![CDATA[O.I.S. VYP]]></translate></item>
+	<!-- new --><item v="popUp_caption_52_1"><translate><![CDATA[O.I.S. ZAP]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_53"><translate><![CDATA[Pozrite si ho v širokouhlom formáte]]></translate></item>
+	<item v="popUp_subtitle_53"><translate><![CDATA[Pomer strán]]></translate></item>
+	<item v="popUp_body_text_53"><translate><![CDATA[Zábery môžete snímať v širokouhlom formáte 16:9. Ak potom pamäťovú SD kartu so zábermi vložíte do slotu pre SD kartu na televízore, môžete si ich prehliadať v perfektnom širokouhlom podaní.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_54"><translate><![CDATA[Perfektné podanie]]></translate></item>
+	<item v="popUp_subtitle_54"><translate><![CDATA[Blesk s tlmením efektu červených oč]]></translate></item>
+	<item v="popUp_body_text_54"><translate><![CDATA[Ak použijete blesk, často sa nasnímajú oči načervenalé. Ak sa nastaví režim automatického blesku s tlmením efektu červených očí, 2 rýchle záblesky takýto problem vyriešia.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_54_0"><translate><![CDATA[Bez tlmeni efektu červených očí]]></translate></item>
+	<!-- new --><item v="popUp_caption_54_1"><translate><![CDATA[S tlmením efektu červených očí ]]></translate></item>
+
+	<item v="popUp_hotspot_text_55"><translate><![CDATA[Zoraďovanie podľa času]]></translate></item>
+	<item v="popUp_subtitle_55"><translate><![CDATA[Kalendárové zobrazovanie]]></translate></item>
+	<item v="popUp_body_text_55"><translate><![CDATA[Model TZ1 môže zoradiť zábery podľa dní, kedy sa nasnímali. To môže byť veľmi užitočné, keď máte veľký počet záberov, ktoré je potrebné nejako zatriediť.]]></translate></item>	
+
+
+
+
+
+	<!-- F1 -->
+
+	<item v="popUp_hotspot_text_56"><translate><![CDATA[Kreatívne zaostrovanie]]></translate></item>
+	<item v="popUp_subtitle_56"><translate><![CDATA[Hĺbka ostrosti]]></translate></item>
+	<item v="popUp_body_text_56"><translate><![CDATA[Hĺbka ostrosti je zóna najvyššej ostrosti pred, za a okolo objektu. 12-násobným zoomom sa ľahko dosiahne malá hĺbka ostrosti. Tento prostriedok je zámerným štylistickým nástrojom so zaostrením na jeden prvok.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_57"><translate><![CDATA[Inteligentný dizajn]]></translate></item>
+	<item v="popUp_subtitle_57"><translate><![CDATA[Dizajn]]></translate></item>
+	<item v="popUp_body_text_57"><translate><![CDATA[Naša koncepcia osadzuje ovládacie prvky presne tam, kde sú potrebné pre pohodlné uchopenie do ruky. A elektronický hľadáčik a LCD monitor sú osadené do jednej línie, aby sa minimalizovali rozdiely v zobrazení a zachytenej snímke.]]></translate></item>	
+<!-- new 22-03-2006 --><item v="popUp_caption_57_0"><translate><![CDATA[Ovládacie prvky]]></translate></item>
+	
+	<item v="popUp_hotspot_text_58"><translate><![CDATA[Ostré makropriblíženia]]></translate></item>
+	<item v="popUp_subtitle_58"><translate><![CDATA[O.I.S. makropriblíženia]]></translate></item>
+	<item v="popUp_body_text_58"><translate><![CDATA[Snímanie sviežich a ostrých makrosnímok si vyžaduje úplnú nehybnosť fotoaparátu. Technológia O.I.S. (optická stabilizácia obrazu) dovoľuje nasnímať stabilné nerozostrené makrozábery bez statívu.]]></translate></item>	
+<!-- new --><item v="popUp_caption_58_0"><translate><![CDATA[O.I.S. ZAP]]></translate></item>
+<!-- new --><item v="popUp_caption_58_1"><translate><![CDATA[O.I.S. VYP]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_59"><translate><![CDATA[Silné protisvetlo]]></translate></item>
+	<item v="popUp_subtitle_59"><translate><![CDATA[Kompenzácia protisvetla]]></translate></item>
+	<item v="popUp_body_text_59"><translate><![CDATA[Silné protisvetlo, akým býva priame slnko, vytvára nepriaznivé podmienky pre snímanie. Tento problém sa rieši kompenzáciou protisvetla po stlačení vrchného kurzorového tlačidla v zjednodušenom režime.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_60"><translate><![CDATA[Praktický ovládač režimov]]></translate></item>
+	<item v="popUp_subtitle_60"><translate><![CDATA[Ovládač režimov]]></translate></item>
+	<item v="popUp_body_text_60"><translate><![CDATA[Ovládač režimov umožňuje flexibilné snímanie podľa podmienok scén. Na výber je Program AE, AE s predvoľbou clony, AE s predvoľbou exp. času, manuálna expozícia, zjednodušený režim, makrorežim, režim dynam. snímok, režimy scén ako aj možnosť prehliadania záberov.]]></translate></item>	
+<!-- new --><item v="popUp_caption_60_0"><translate><![CDATA[Ovládač režimov]]></translate></item>
+
+	<item v="popUp_hotspot_text_61"><translate><![CDATA[Ostré makropriblíženia]]></translate></item>
+	<item v="popUp_subtitle_61"><translate><![CDATA[O.I.S. makropriblíženia]]></translate></item>
+	<item v="popUp_body_text_61"><translate><![CDATA[Snímanie sviežich a ostrých makrosnímok si vyžaduje úplnú nehybnosť fotoaparátu. Technológia O.I.S. (optická stabilizácia obrazu) dovoľuje nasnímať stabilné nerozostrené makrozábery bez statívu.]]></translate></item>	
+<!-- new --><item v="popUp_caption_61_0"><translate><![CDATA[O.I.S. ZAP]]></translate></item>
+<!-- new --><item v="popUp_caption_61_1"><translate><![CDATA[O.I.S. VYP]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_62"><translate><![CDATA[Vyváženie bielej]]></translate></item>
+	<item v="popUp_subtitle_62"><translate><![CDATA[Vyváženie bielej]]></translate></item>
+	<item v="popUp_body_text_62"><translate><![CDATA[Rôzne svetelné zdroje majú rôznu teplotu farieb, v dôsledku čoho sa obraz môže neprirodzene sfarbovať. Žiarivkové osvetlenie v garáži vytvára nazelenalý obraz, takže sa fotoaparát automatickým vyvážením bielej prispôsobí novým svetelným podmienkam.]]></translate></item>	
+<!-- new --><item v="popUp_caption_62_0"><translate><![CDATA[AutomatickÉ vyváženie bielej]]></translate></item>
+<!-- new --><item v="popUp_caption_62_1"><translate><![CDATA[]]></translate></item>
+
+	<item v="popUp_hotspot_text_63"><translate><![CDATA[Slabé osvetlenie]]></translate></item>
+	<item v="popUp_subtitle_63"><translate><![CDATA[O.I.S. v interiéri]]></translate></item>
+	<item v="popUp_body_text_63"><translate><![CDATA[Ak sa použije blesk v interiéri, objekt v popredí sa môže javiť neprirodzene presvetlený a pozadie príliš tmavé. Vďaka technológii O.I.S. (optická stabilizácia obrazu) je k dispozícii dlhší expozičný čas, ktorý dovoľuje nasnímať skutočné prirodzené  snímky aj bez blesku.]]></translate></item>	
+<!-- new --><item v="popUp_caption_63_0"><translate><![CDATA[Blesk VYP]]></translate></item>
+<!-- new --><item v="popUp_caption_63_1"><translate><![CDATA[Blesk ZAP]]></translate></item>
+
+	<item v="popUp_hotspot_text_64"><translate><![CDATA[Režim BURST]]></translate></item>
+	<item v="popUp_subtitle_64"><translate><![CDATA[Režim BURST]]></translate></item>
+	<item v="popUp_body_text_64"><translate><![CDATA[Za sebou si môžete v štandardnom režime nasnímať 13 záberov rýchlosťou 3 snímky za sekundu. Model FZ7 ponúka aj neobmedzené sekvenčné snímanie až do zaplnenia kapacity pamäťovej SD karty.]]></translate></item>	
+<!-- new --><item v="popUp_caption_64_0"><translate><![CDATA[Snímka 1]]></translate></item>
+<!-- new --><item v="popUp_caption_64_1"><translate><![CDATA[Snímka 2]]></translate></item>
+<!-- new --><item v="popUp_caption_64_2"><translate><![CDATA[Snímka 3]]></translate></item>
+<!-- new --><item v="popUp_caption_64_3"><translate><![CDATA[Snímka 4]]></translate></item>
+
+	<item v="popUp_hotspot_text_65"><translate><![CDATA[LCD monitor s režimom nadhľadu]]></translate></item>
+	<item v="popUp_subtitle_65"><translate><![CDATA[LCD monitor s režimom nadhľadu]]></translate></item>
+	<item v="popUp_body_text_65"><translate><![CDATA[Funkcia snímania z nadhľadu pomáha sledovať záber na LCD monitore, keď máte fotoaparát nad hlavou a snímate ponad dav.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_66"><translate><![CDATA[Rýchla uzávierka]]></translate></item>
+	<item v="popUp_subtitle_66"><translate><![CDATA[Rýchla uzávierka]]></translate></item>
+	<item v="popUp_body_text_66"><translate><![CDATA[Pri fotografovaní rýchle sa pohybujúceho objektu – ako napríklad monopostu Formula 1 – ktorý sa pohybuje rýchlosťou viac než 300 km/h, je potrebná rýchla uzávierka, aby sa dal zachytiť jeho zmrazený pohyb.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_67"><translate><![CDATA[Panoramatické snímanie]]></translate></item>
+	<item v="popUp_subtitle_67"><translate><![CDATA[Panoramatický režim]]></translate></item>
+	<item v="popUp_body_text_67"><translate><![CDATA[Pri panoramatickom snímaní sa pohybuje fotoaparátom v súlade s pohybom snímaného objektu. Pozadie sa rozostrí, ale objekt zostáva zaostrený. Panoramatický režim využíva pomalú uzávierku, aby sa zachytil dojem pohybu.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_68"><translate><![CDATA[Mohutný zoom]]></translate></item>
+	<item v="popUp_subtitle_68"><translate><![CDATA[Mohutný zoom]]></translate></item>
+	<item v="popUp_body_text_68"><translate><![CDATA[Model FZ7 má objektív Leica DC s pozoruhodným 12-násobným optickým zoomom zodpovedajúcim 36 až 432 mm objektívu 35 mm klasického fotoaparátu. Klasický fotoaparát s optickým zoomom tejto mohutnosti by bol taký veľký a ťažký, že by sa ním nedalo pracovať jednou rukou.]]></translate></item>	
+<!-- new --><item v="popUp_caption_68_0"><translate><![CDATA[1X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_68_1"><translate><![CDATA[6X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_68_2"><translate><![CDATA[12X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_68_3"><translate><![CDATA[16,5X extrazoom]]></translate></item>
+
+	<item v="popUp_hotspot_text_69"><translate><![CDATA[Malé oneskorenie spúšte ]]></translate></item>
+	<item v="popUp_subtitle_69"><translate><![CDATA[Malé oneskorenie spúšte ]]></translate></item>
+	<item v="popUp_body_text_69"><translate><![CDATA[Model FZ7 má superrýchlu odozvu s oneskorením spúšte len 0,008 sekundy. Dá sa ním snímať rýchlo, pohodlne a presne.]]></translate></item>	
+<!-- new --><item v="popUp_caption_69_0"><translate><![CDATA[0.0008 sekundy]]></translate></item>
+<!-- new --><item v="popUp_caption_69_1"><translate><![CDATA[0.0016 sekundy]]></translate></item>
+<!-- new --><item v="popUp_caption_69_2"><translate><![CDATA[0.0024 sekundy]]></translate></item>
+<!-- new --><item v="popUp_caption_69_3"><translate><![CDATA[0.0032 sekundy]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_70"><translate><![CDATA[Odlesky]]></translate></item>
+	<item v="popUp_subtitle_70"><translate><![CDATA[Kreativita]]></translate></item>
+	<item v="popUp_body_text_70"><translate><![CDATA[Odlesky dokážu vytvárať zaujímavé kompozície. Voda na ceste, okná áut a sklenené fasády budov môžu dodávať záberom odlišnú pôsobivosť.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_71"><translate><![CDATA[Manuálne zaostrovanie]]></translate></item>
+	<item v="popUp_subtitle_71"><translate><![CDATA[Manuálne funkcie]]></translate></item>
+	<item v="popUp_body_text_71"><translate><![CDATA[Krížový ovládač na zadnej strane fotoaparátu ponúka rýchle, jednoduché a presné manuálne zaostrovanie. Možno použiť aj režim asistovaného manuálneho zaostrovania, ktorý pomáha nastaviť dokonalé zaostrenie zväčšením stredu LCD záberu.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_72"><translate><![CDATA[Krížový ovládač pre jednoduché ovládanie]]></translate></item>
+	<item v="popUp_subtitle_72"><translate><![CDATA[Pomalá uzávierka s krížovým ovládačom]]></translate></item>
+	<item v="popUp_body_text_72"><translate><![CDATA[Clonu, expozičný čas a zaostrenie môžete nastavovať v zábere LCD monitora krížovým ovládačom.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_73"><translate><![CDATA[Objektív Leica DC]]></translate></item>
+	<item v="popUp_subtitle_73"><translate><![CDATA[Objektív Leica DC]]></translate></item>
+	<item v="popUp_body_text_73"><translate><![CDATA[Možnosti objektívu sú pre dosiahnutie skvelých snímok najpodstatnejšie. Firma Leica Camera AG vyrába svetoznáme objektívy už od roku 1913. Tieto objektívy zachytávajú obraz s pozoruhodnými detailami a hĺbkou.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_74"><translate><![CDATA[Režim ŠPORT]]></translate></item>
+	<item v="popUp_subtitle_74"><translate><![CDATA[Režim ŠPORT]]></translate></item>
+	<item v="popUp_body_text_74"><translate><![CDATA[V tomto režime sa využíva rýchlejšia uzávierka a automatická clona, takže sa môžete sústrediť na záber a stlačenie spúšte v pravý čas.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_75"><translate><![CDATA[Abstrakt]]></translate></item>
+	<item v="popUp_subtitle_75"><translate><![CDATA[Kreativita]]></translate></item>
+	<item v="popUp_body_text_75"><translate><![CDATA[Využitím mohutného zoomu modelu FZ7 sa vytvára abstraktný obraz bariér, vytvorených z pneumatík pozdĺž dráhy. Takéto tesné orezávanie obrázkov prináša veľmi zaujímavé a neobyčajné výtvory.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_76"><translate><![CDATA[Žiarivý LCD monitor]]></translate></item>
+	<item v="popUp_subtitle_76"><translate><![CDATA[Žiarivý LCD monitor]]></translate></item>
+	<item v="popUp_body_text_76"><translate><![CDATA[Model FZ7 má 2,5” LCD monitor s veľkým rozlíšením a výrazným zobrazovaním Power LCD. Stačí stlačiť tlačidlo Power LCD a jas monitora sa zvýši o cca 40%, čo zlepší zobrazovanie počas slnečných dní.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_77"><translate><![CDATA[Automatická expozícia]]></translate></item>
+	<item v="popUp_subtitle_77"><translate><![CDATA[Program autom. expozície]]></translate></item>
+	<item v="popUp_body_text_77"><translate><![CDATA[Program AE určuje optimálne nastavenie clony a expozičného času za Vás. Ak si nastavené parametre chcete zachovať, môžete použiť Program Shift, a pozmeniť expozičný čas a clonu.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_78"><translate><![CDATA[Odlišný pohľad]]></translate></item>
+	<item v="popUp_subtitle_78"><translate><![CDATA[Kreativita]]></translate></item>
+	<item v="popUp_body_text_78"><translate><![CDATA[Niekedy sa naozaj oplatí prizrieť sa veciam odlišným spôsobom. Opakovanie miest hlavnej tribúny rozprestierajúce sa do diaľky vytvára úplne inú perspektívu.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_79"><translate><![CDATA[Mohutný zoom]]></translate></item>
+	<item v="popUp_subtitle_79"><translate><![CDATA[Mohutný zoom]]></translate></item>
+	<item v="popUp_body_text_79"><translate><![CDATA[Pri 3-MEGApixelovom zábere so zoomom možno transfokáciu zväčšiť na 16,5-násobný optický extrazoom s minimálnym skreslením tým, že sa zámerne využije stredná časť CCD snímača.]]></translate></item>	
+<!-- new --><item v="popUp_caption_79_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_79_1"><translate><![CDATA[6X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_79_2"><translate><![CDATA[12X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_79_3"><translate><![CDATA[16,5X ZOOM]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_80"><translate><![CDATA[Veľký LCD monitor]]></translate></item>
+	<item v="popUp_subtitle_80"><translate><![CDATA[Veľký LCD monitor]]></translate></item>
+	<item v="popUp_body_text_80"><translate><![CDATA[Veľký LCD monitor dovoľuje kontrolovať zaostrenie, kompozíciu a využívať 25-obrázkové minináhľady alebo kalendárové zobrazenie bez veľkej námahy zraku.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_81"><translate><![CDATA[Reprodukcia záznamov]]></translate></item>
+	<item v="popUp_subtitle_81"><translate><![CDATA[Režim reprodukcie]]></translate></item>
+	<item v="popUp_body_text_81"><translate><![CDATA[Prehliadanie záberov je zábavné a jednoduché. Na výber je prezentácia Slide Show alebo 1-, 9- resp. 25-obrázkové zobrazenie, prípadne kalendárové zobrazenie všetkých záberov nasnímaných vo vybraný deň.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_82"><translate><![CDATA[Mohutný zoom]]></translate></item>
+	<item v="popUp_subtitle_82"><translate><![CDATA[16,5X optický zoom]]></translate></item>
+	<item v="popUp_body_text_82"><translate><![CDATA[Model FZ7 má objektív Leica DC s pozoruhodným 12-násobným optickým zoomom zodpovedajúcim 36 až 432 mm objektívu klasického 35 mm fotoaparátu. Klasický fotoaparát s optickým zoomom tejto triedy by bol taký veľký a ťažký, že by sa nedal ovládať jednou rukou.]]></translate></item>	
+<!-- new --><item v="popUp_caption_82_0"><translate><![CDATA[1X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_82_1"><translate><![CDATA[6X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_82_2"><translate><![CDATA[12X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_82_3"><translate><![CDATA[16,5X zoom]]></translate></item>
+	
+	<item v="popUp_hotspot_text_83"><translate><![CDATA[Rýchle automatické zaostrovanie]]></translate></item>
+	<item v="popUp_subtitle_83"><translate><![CDATA[Rýchle automatické zaostrovanie]]></translate></item>
+	<item v="popUp_body_text_83"><translate><![CDATA[Model FZ7 ponúka na výber niekoľko režimov automatického zaostrovania AF – v stredobode záujmu SPOT, 1-bodové (normálne alebo rýchle), 3-bodové rýchle a 9-bodové. V slabom osvetlení zaostrovaniu napomáha pomocné prisvetlenie AF.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_84"><translate><![CDATA[Krajinka]]></translate></item>
+	<item v="popUp_subtitle_84"><translate><![CDATA[Režim scenérií]]></translate></item>
+	<item v="popUp_body_text_84"><translate><![CDATA[V režime scenérií sa zaostruje na vzdialený objekt. To dovoľuje nasnímať zábery rozľahlej krajiny.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_85"><translate><![CDATA[Západ slnka]]></translate></item>
+	<item v="popUp_subtitle_85"><translate><![CDATA[Manuálny režim]]></translate></item>
+	<item v="popUp_body_text_85"><translate><![CDATA[Pre takýto záber sa ovládač režimov nastavuje na manuálne ovládanie. Veľká clona má za cieľ kompenzovať priame slnečné svetlo prenikajúce do objektívu. Ak sa zapne O.I.S., nájazd priamo na strom zachová záber stabilným a vznikne skvelá snímka.]]></translate></item>	
+<!-- new --><item v="popUp_caption_85_0"><translate><![CDATA[]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_86"><translate><![CDATA[Krížový ovládač pre jednoduché ovládanie]]></translate></item>
+	<item v="popUp_subtitle_86"><translate><![CDATA[Krížový ovládač pre jednoduché ovládanie]]></translate></item>
+	<item v="popUp_body_text_86"><translate><![CDATA[Pridržte stlačený krížový ovládač a ihneď si môžete zmeniť vyváženie bielej, citlivosť ISO, veľkosť záberu a kvalitu obrazu – pričom nie je potrebné prepnúť na menu.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_87"><translate><![CDATA[Tienidlo]]></translate></item>
+	<item v="popUp_subtitle_87"><translate><![CDATA[Príslušenstvo]]></translate></item>
+	<item v="popUp_body_text_87"><translate><![CDATA[V prostredí s veľmi silným svetlom môže byť výhodné nasadenie tienidla, aby do objektívu neprenikalo priveľa svetla.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_88"><translate><![CDATA[Mohutný zoom]]></translate></item>
+	<item v="popUp_subtitle_88"><translate><![CDATA[O.I.S. zoom]]></translate></item>
+	<item v="popUp_body_text_88"><translate><![CDATA[Model FZ7 má objektív Leica DC s pozoruhodným 12-násobným optickým zoomom zodpovedajúcim 36 až 432 mm objektívu klasického 35 mm fotoaparátu. Klasický fotoaparát s optickým zoomom tejto triedy by bol taký veľký a ťažký, že by sa nedal ovládať jednou rukou.]]></translate></item>	
+<!-- new --><item v="popUp_caption_88_0"><translate><![CDATA[1X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_88_1"><translate><![CDATA[6X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_88_2"><translate><![CDATA[12X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_88_3"><translate><![CDATA[16,5X zoom]]></translate></item>
+
+	<item v="popUp_hotspot_text_89"><translate><![CDATA[Svetlo neskorého popoludnia]]></translate></item>
+	<item v="popUp_subtitle_89"><translate><![CDATA[Kreativita]]></translate></item>
+	<item v="popUp_body_text_89"><translate><![CDATA[Tento záber zachytáva neskoré popoludnie. Slnko je priamo za monopostom. Vzhľadom na množstvo svetla prenikajúce do objektívu sa monopost javí ako silueta, pričom povrch dráhy sála v trblietavom svetle.]]></translate></item>			
+
+
+
+	<!-- Key technology pop ups -->
+	<item v="popUp_tech_subtitle_0"><translate><![CDATA[Optická stabilizácia obrazu]]></translate></item>
+	<item v="popUp_tech_body_text_0"><translate><![CDATA[MEGA O.I. S. potláča účinky chvenia rúk a tak zaisťuje čisté a ostré snímky aj v situáciách, kedy je rozostrenie typickým problémom. Lumix s vyspelou technológiou tlmenia chvenia rúk MEGA O.I.S. je brilantným novým štandardom digitálnych fotoaparátov. Vystúpte na vyššiu priečku kvality obrazu, ktorá sa už nemeria len počtom pixelov alebo parametrami objektívu!]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_1"><translate><![CDATA[Objektív Leica DC]]></translate></item>
+	<item v="popUp_tech_body_text_1"><translate><![CDATA[Oba tieto špičkové objektívy obsahujú niekoľko asférických šošoviek, ktorými sa kompenzujú sférické aberácie. V oboch sa používa špičková viacvrstvová povrchová úprava šošoviek, ktorou sa predchádza presvetleniu a vytváraniu „duchov” v obraze.
+
+*Leica je registrovanou obchodnou značkou spoločnosti Leica Microsystems IR GmbH.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_2"><translate><![CDATA[Venus Engine Plus, II a III]]></translate></item>
+	<item v="popUp_tech_body_text_2"><translate><![CDATA[Technológie všetkých procesorov Venus Engine zaisťujú rýchlejšiu odozvu a o 50% väčšie diagonálne rozlíšenie nádherných záberov. Vďaka procesorom Venus Engine II a III sa o 10% zlepšilo aj vertikálne rozlíšenie a zdokonalila korekcia aberácií farieb, ku ktorým často dochádza pri mohutnom zoome. Procesory Venus Engine Plus a III sa vyznačujú aj vyššou účinnosťou.]]></translate></item>			
+
+
+</root>

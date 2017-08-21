@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<links>
+	<camera name="DMC-LZ5" url="http://www.panasonic.cz/vyrobek.aspx?id=BBA_3046&pohled=vyrobky"/>
+	<camera name="DMC-LZ3" url="http://www.panasonic.cz/vyrobek.aspx?id=BBA_3048&pohled=vyrobky"/>
+	<camera name="DMC-LS2" url="http://www.panasonic.cz/vyrobek.aspx?id=BBA_3049&pohled=vyrobky"/>
+	<camera name="DMC-FX01" url=""/>
+	<camera name="DMC-FX07" url="http://www.panasonic.cz/vyrobek.aspx?id=BBA_3546&pohled=vyrobky"/>
+	<camera name="DMC-FX50" url="http://www.panasonic.cz/vyrobek.aspx?id=BBA_3540&pohled=vyrobky"/>
+	<camera name="DMC-LX2" url="http://www.panasonic.cz/vyrobek.aspx?id=BBA_3542&pohled=vyrobky"/>
+	<camera name="DMC-FZ50" url="http://www.panasonic.cz/vyrobek.aspx?id=BBA_3540&pohled=vyrobky"/>
+	<camera name="DMC-FZ7" url="http://www.panasonic.cz/vyrobek.aspx?id=BBA_3054&pohled=vyrobky"/>
+	<camera name="DMC-TZ1" url="http://www.panasonic.cz/vyrobek.aspx?id=BBA_3071&pohled=vyrobky"/>
+	<camera name="DMC-L1" url="http://www.panasonic.cz/vyrobek.aspx?id=BBA_3553&pohled=vyrobky"/>
+	<camera name="DMC-FX3" url="http://www.panasonic.cz/vyrobek.aspx?id=BBA_3551&pohled=vyrobky"/>
+	
+	<lumixAward url="http://www.lumixaward.com"/>
+</links>

@@ -1,0 +1,780 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<!-- 'Loading' website data -->
+	<item v="loading"><translate><![CDATA[LOADING]]></translate></item>
+<!-- new --><item v="disclaimer"><translate><![CDATA[© 2006 Panasonic Marketing Europe GmbH]]></translate></item>
+<!-- new --><item v="select_language"><translate><![CDATA[Kies uw taal]]></translate></item>
+
+	<!-- SECTION: HOME PAGE -->
+	
+	<item v="home_title"><translate><![CDATA[Ontdek “the Lumix Difference”.]]></translate></item>
+	<item v="home_subtitle"><translate><![CDATA[Het digitaal vastleggen van unieke momenten wordt nu wel heel eenvoudig. Experimenteer met fotografie en creëer een nieuw perspectief met Panasonic Lumix camera's. 
+Bekijk de unieke momenten en ontdek het Lumix verschil!]]></translate></item>
+
+	<!-- panels -->
+	<item v="section0_title"><translate><![CDATA[LUMIX AWARD]]></translate></item>
+	<item v="section0_subtitle"><translate><![CDATA[Stuur je foto's in voor de digitale fotografie wedstrijd.]]></translate></item>
+	
+	<item v="section1_title"><translate><![CDATA[Product- assortiment]]></translate></item>
+	<item v="section1_subtitle"><translate><![CDATA[Bekijk het assortiment en de belangrijkste Lumix voordelen.]]></translate></item>
+	
+	<item v="section2_subtitle"><translate><![CDATA[Op stap in Londen met haar twee vriendinnen]]></translate></item>
+
+	<item v="section3_subtitle"><translate><![CDATA[Op bezoek in Barcelona met zijn vriendin]]></translate></item>
+	
+	<item v="section4_subtitle"><translate><![CDATA[Bij een Formule 1 testsessie in Jerez]]></translate></item>
+
+	<!-- FEATURING THE [CAMERA NAME] -->
+	<item v="featuring"><translate><![CDATA[In de hoofdrol]]></translate></item>
+	<item v="the"><translate><![CDATA[DE]]></translate></item>
+	
+	<!-- FLOATING MAIN MENU -->
+	
+	<item v="menu_overview"><translate><![CDATA[Overzicht]]></translate></item>
+	<item v="menu_scene"><translate><![CDATA[Scène]]></translate></item>
+	<item v="menu_lumix_award"><translate><![CDATA[Doe mee met de Lumix Award]]></translate></item>
+	<item v="menu_product_range"><translate><![CDATA[2006 LUMIX
+producten]]></translate></item>
+	<!-- menu items -->
+	<item v="menu_0"><translate><![CDATA[Start]]></translate></item>
+	<item v="menu_1"><translate><![CDATA[Volg Anna's momenten 
+in Londen]]></translate></item>
+	<item v="menu_2"><translate><![CDATA[Volg Pietro in Barcelona 
+met zijn vriendin]]></translate></item>
+	<item v="menu_3"><translate><![CDATA[Volg Thomas tijdens de Formule1 testsessie]]></translate></item>
+	<item v="menu_4"><translate><![CDATA[Lumix producten]]></translate></item>
+	<item v="menu_5"><translate><![CDATA[Doe mee met de Lumix Award]]></translate></item>
+	
+	<!-- PRODUCT INFO -->
+	<!-- Launch product info panel-->
+	<item v="find_out_more_DMC-FX01"><translate><![CDATA[Meer informatie over de DMC-FX01]]></translate></item>
+	<item v="find_out_more_DMC-FZ7"><translate><![CDATA[Meer informatie over de DMC-FZ7]]></translate></item>
+	<item v="find_out_more_DMC-TZ1"><translate><![CDATA[Meer informatie over de DMC-TZ1]]></translate></item>
+	
+	<!-- Camera types -->
+	<item v="cam_type_0"><translate><![CDATA[Fun en gemak]]></translate></item>
+	<item v="cam_type_1"><translate><![CDATA[Stijlvol Compact]]></translate></item>
+	<item v="cam_type_2"><translate><![CDATA[Traveller Zoom]]></translate></item>
+	<item v="cam_type_3"><translate><![CDATA[Super Zoom]]></translate></item>
+	<item v="cam_type_4"><translate><![CDATA[Professioneel]]></translate></item>
+	<item v="cam_type_5"><translate><![CDATA[Professioneel SLR]]></translate></item>
+	
+	<!-- Camera specifications. In main.xml, specify id for each spec that applies to a camera -->
+	<item v="spec_0"><translate><![CDATA[optische zoom]]></translate></item>
+	<item v="spec_1"><translate><![CDATA[OPTICAL IMAGE STABILISER]]></translate></item>
+	<item v="spec_2"><translate><![CDATA[LEICA LENS]]></translate></item>
+	<item v="spec_3"><translate><![CDATA[VENUS ENGINE]]></translate></item>
+	<item v="spec_4"><translate><![CDATA[MEGAPIXELS]]></translate></item>
+	<item v="spec_5"><translate><![CDATA[manuele functies]]></translate></item>
+	<item v="spec_6"><translate><![CDATA[HIGH ANGLE LCD]]></translate></item>
+	<item v="spec_7"><translate><![CDATA[Groothoek]]></translate></item>
+	<item v="spec_8"><translate><![CDATA[SLR]]></translate></item>
+	<item v="spec_9"><translate><![CDATA[Groot LCD-scherm]]></translate></item>
+	<item v="spec_10"><translate><![CDATA[16:9 CCD]]></translate></item>
+	
+	<!-- SECTION: LUMIX AWARD -->
+	
+	<item v="lumix_award_title"><translate><![CDATA[De 2006 Lumix Award]]></translate></item>
+	<item v="lumix_award_subtitle"><translate><![CDATA[Jurering van het beste in digitale fotografie 
+De Lumix Award is aan zijn 5e jaargang toe en nodigt iedereen uit om mee te doen aan deze Europese competitie voor digitale fotografie.]]></translate></item>
+	<item v="previous_winners"><translate><![CDATA[Vorige winnaars]]></translate></item>
+	<item v="enter_award"><translate><![CDATA[Doe mee met de Lumix Award]]></translate></item>
+	
+	<!-- Image navigation -->
+	<item v="close"><translate><![CDATA[afsluiten]]></translate></item>
+	<item v="prev_image"><translate><![CDATA[Vorige]]></translate></item>
+	<item v="next_image"><translate><![CDATA[Volgende]]></translate></item>
+	
+	
+	<!-- SECTION: PRODUCT RANGE -->
+	<item v="featured"><translate><![CDATA[In de hoofdrol]]></translate></item>
+	<item v="product_range_title"><translate><![CDATA[2006 Lumix producten]]></translate></item>
+	<item v="product_range_subtitle"><translate><![CDATA[Het Lumix assortiment biedt dé camera die bij je past. Meer informatie over hun belangrijkste eigenschappen en technologieën vind je hier.]]></translate></item>
+	
+	<!-- Camera features -->
+	<item v="leica_lens"><translate><![CDATA[LEICA LENS]]></translate></item>
+	
+	<!-- Camera info menu -->
+	<item v="want_to_buy"><translate><![CDATA[Koop deze camera]]></translate></item>
+	<item v="tech_specs"><translate><![CDATA[Gedetailleerde specificaties]]></translate></item>
+	
+	<!-- Camera navigation -->
+	<item v="close_camera"><translate><![CDATA[afsluiten]]></translate></item>
+	<item v="prev_camera"><translate><![CDATA[Vorige]]></translate></item>
+	<item v="next_camera"><translate><![CDATA[Volgende]]></translate></item>
+
+	<!-- menu -->
+	<item v="see_in_action_DMC-FX01"><translate><![CDATA[Volg Anna's momenten in Londen]]></translate></item>
+	<item v="see_in_action_DMC-FZ7"><translate><![CDATA[Volg Thomas tijdens de F1 test]]></translate></item>
+	<item v="see_in_action_DMC-TZ1"><translate><![CDATA[Volg Pietro in Barcelona]]></translate></item>
+	<item v="buy_this_camera"><translate><![CDATA[Koop deze camera]]></translate></item>
+	<item v="more_info"><translate><![CDATA[Gedetailleerde specificaties]]></translate></item>
+	
+	<!-- Technologies -->
+<!-- new --><item v="key_technologies"><translate><![CDATA[Lumix belangrijkste eigenschappen]]></translate></item>
+	
+	<item v="enter_award"><translate><![CDATA[Doe mee met de Lumix Award]]></translate></item>
+	
+	
+	<!-- Video stories -->
+	<!-- Anna -->
+	<item v="anna_ch1_title"><translate><![CDATA[Afspraak in Anna's flat]]></translate></item>
+	<item v="anna_ch2_title"><translate><![CDATA[Omkleden]]></translate></item>
+	<item v="anna_ch3_title"><translate><![CDATA[Fun met make-up ]]></translate></item>
+	<item v="anna_ch4_title"><translate><![CDATA[Per taxi naar de club]]></translate></item>
+	<item v="anna_ch5_title"><translate><![CDATA[De portier]]></translate></item>
+	<item v="anna_ch6_title"><translate><![CDATA[Het gordijn]]></translate></item>
+	<item v="anna_ch7_title"><translate><![CDATA[Flirten met de barman]]></translate></item>
+	<item v="anna_ch8_title"><translate><![CDATA[Gezellig op de sofa]]></translate></item>
+	<item v="anna_ch9_title"><translate><![CDATA[Op de dansvloer]]></translate></item>
+	
+	<!-- Pietro -->
+	<item v="pietro_ch1_title"><translate><![CDATA[Net buiten Barcelona]]></translate></item>
+	<item v="pietro_ch2_title"><translate><![CDATA[Op weg naar het centrum]]></translate></item>
+	<item v="pietro_ch3_title"><translate><![CDATA[Op de Placa Real]]></translate></item>
+	<item v="pietro_ch4_title"><translate><![CDATA[Bij het café]]></translate></item>
+	<item v="pietro_ch5_title"><translate><![CDATA[In het hotel]]></translate></item>
+	<item v="pietro_ch6_title"><translate><![CDATA[Op het strand]]></translate></item>
+	<item v="pietro_ch7_title"><translate><![CDATA[Moderne architectuur bekijken]]></translate></item>
+	<item v="pietro_ch8_title"><translate><![CDATA[De Sagrada Familia bezoeken]]></translate></item>
+	<item v="pietro_ch9_title"><translate><![CDATA[Restaurant met uitzicht]]></translate></item>
+	
+	<!-- Tim -->
+	<item v="thomas_ch1_title"><translate><![CDATA[Aankomst op circuit Jerez]]></translate></item>
+	<item v="thomas_ch2_title"><translate><![CDATA[In de pitstraat]]></translate></item>
+	<item v="thomas_ch3_title"><translate><![CDATA[In de garage]]></translate></item>
+	<item v="thomas_ch4_title"><translate><![CDATA[Op het dak van de paddock]]></translate></item>
+	<item v="thomas_ch5_title"><translate><![CDATA[Aan het einde van de pit lane]]></translate></item>
+	<item v="thomas_ch6_title"><translate><![CDATA[Op het circuit 2e bocht]]></translate></item>
+	<item v="thomas_ch7_title"><translate><![CDATA[Zicht vanaf de VIP tribune]]></translate></item>
+	<item v="thomas_ch8_title"><translate><![CDATA[Torre Tio Pepe]]></translate></item>
+	<item v="thomas_ch9_title"><translate><![CDATA[Stadium chicane]]></translate></item>
+	
+	<!-- video navigation -->
+	<item v="play"><translate><![CDATA[Weergave]]></translate></item>
+	<item v="pause"><translate><![CDATA[Pauze]]></translate></item>
+	<item v="close_scene"><translate><![CDATA[Scène
+afsluiten]]></translate></item>
+	<item v="prev_scene"><translate><![CDATA[Vorige
+scène]]></translate></item>
+	<item v="next_scene"><translate><![CDATA[Volgende
+scène]]></translate></item>
+
+
+	
+	<!-- TABS -->
+	<item v="more_info_image"><translate><![CDATA[Meer informatie ]]></translate></item>
+	
+	<!-- Hotspot rollover text -->
+	<!-- Photo hint and tips -->
+	<item v="phototip1_roll"><translate><![CDATA[LEARN MORE ABOUT LENS FLARE AND THE EFFECTS OF BACKLIGHT
+FROM A STRONG LIGHT SOURCE]]></translate></item>
+	<item v="phototip2_roll"><translate><![CDATA[Here is photo tip 2]]></translate></item>
+	<item v="phototip3_roll"><translate><![CDATA[Here is photo tip 3]]></translate></item>
+	<!-- picture -->
+	<item v="picture_roll"><translate><![CDATA[LUMIX foto]]></translate></item>
+
+	<!-- Camera settings -->
+	<!-- modes -->
+	<item v="portrait_mode"><translate><![CDATA[portret modus]]></translate></item>
+	<item v="simple_mode"><translate><![CDATA[eenvoudige modus]]></translate></item>
+	<item v="macro_mode"><translate><![CDATA[MACRO MODUS]]></translate></item>
+	<item v="high_sens_mode"><translate><![CDATA[HIGH SENSITIVITY MODus]]></translate></item>
+	<item v="night_port_mode"><translate><![CDATA[nachtportret modus]]></translate></item>
+	<item v="beach_mode"><translate><![CDATA[strandmodus]]></translate></item>
+	<item v="sports_mode"><translate><![CDATA[sport modus]]></translate></item>
+	<item v="manual_mode"><translate><![CDATA[manuele modus]]></translate></item>
+	<item v="scenery_mode"><translate><![CDATA[scène modus]]></translate></item>
+	
+	<!-- Other settings -->
+	<item v="on"><translate><![CDATA[AAN]]></translate></item>
+	<item v="off"><translate><![CDATA[UIT]]></translate></item>
+	<!-- camera flash -->
+	<item v="flash"><translate><![CDATA[FLITS]]></translate></item>
+	
+	<item v="wide_angle"><translate><![CDATA[Groothoek]]></translate></item>
+	<item v="auto_red_eye"><translate><![CDATA[auto rode-ogen reductie]]></translate></item>
+	
+	<item v="zoom"><translate><![CDATA[ZOOM]]></translate></item>
+	<item v="optical_zoom"><translate><![CDATA[optische zoom]]></translate></item>
+	<item v="extra_optical_zoom"><translate><![CDATA[super optische zoom]]></translate></item>
+	
+	<item v="spot_metering"><translate><![CDATA[spotmeting]]></translate></item>
+	<item v="backlight_compensation"><translate><![CDATA[tegenlichtcorrectie]]></translate></item>
+	
+	
+	
+	
+	<!-- hotspot types -->
+	<item v="hotspot_type0"><translate><![CDATA[Product
+eigenschap]]></translate></item>
+	<item v="hotspot_type1"><translate><![CDATA[TIP]]></translate></item>
+	<item v="hotspot_type2"><translate><![CDATA[Lumix
+foto]]></translate></item>
+
+	<!-- new -->
+	<!-- as displayed in end of video summary -->
+	<item v="hotspot_summary_type0"><translate><![CDATA[Producteigenschap]]></translate></item>
+	<item v="hotspot_summary_type1"><translate><![CDATA[Fototip]]></translate></item>
+	<item v="hotspot_summary_type2"><translate><![CDATA[LUMIX FOTO]]></translate></item>
+	
+	<item v="prev_scene_summary"><translate><![CDATA[Vorige scène]]></translate></item>
+	<item v="next_scene_summary"><translate><![CDATA[Volgende scène]]></translate></item>
+	<!-- /new -->
+	
+	<!-- Pop up animation text -->
+	<item v="secs"><translate><![CDATA[SEC.]]></translate></item><!-- an abreviation of "SECONDS" -->
+	<item v="ready"><translate><![CDATA[KLAAR]]></translate></item>
+
+<!-- new start -->	
+<!-- Camera dimensions - Width, Height, Depth -->
+	<item v="width_abbr"><translate><![CDATA[B]]></translate></item>
+	<item v="height_abbr"><translate><![CDATA[H]]></translate></item>
+	<item v="depth_abbr"><translate><![CDATA[D]]></translate></item>
+	
+	<item v="large_screen_display"><translate><![CDATA[Groot LCD-scherm]]></translate></item>
+	<!-- Camera screen size ratio -->
+	<item v="normal_format"><translate><![CDATA[normal formaat]]></translate></item>
+	<item v="wide_format"><translate><![CDATA[breedbeeld formaat]]></translate></item>
+	
+	<item v="window"><translate><![CDATA[VENSTER]]></translate></item>
+	<item v="calendar_view"><translate><![CDATA[Kalenderweergave]]></translate></item>
+	
+	<item v="normal_mode"><translate><![CDATA[normale modus]]></translate></item>
+	<item v="wide_mode"><translate><![CDATA[breedbeeld modus]]></translate></item>
+	
+	<item v="normal_lens"><translate><![CDATA[NORMALE LENS]]></translate></item>
+	<item v="wide_lens"><translate><![CDATA[28mm Groothoek LENS]]></translate></item>
+	<!-- a camera feature -->
+	<item v="power_lcd"><translate><![CDATA[POWER LCD]]></translate></item>
+	<item v="button"><translate><![CDATA[KNOP]]></translate></item>
+	
+	<item v="viewfinder_aligned"><translate><![CDATA[View finder en LCD-scherm op een gezichtslijn Bedieningselementen]]></translate></item>
+	<item v="slow_shutter"><translate><![CDATA[Trage sluitersnelheid]]></translate></item>
+	<item v="joystick"><translate><![CDATA[JOYSTICK]]></translate></item>
+<!-- new end -->
+
+
+	<!-- Pop up titles -->
+	<item v="popUp_title_feature"><translate><![CDATA[Producteigenschap]]></translate></item>
+	<item v="popUp_title_tip"><translate><![CDATA[fotoTIP]]></translate></item>
+	<item v="popUp_title_picture"><translate><![CDATA[LUMIX foto]]></translate></item>
+	
+	
+	<!-- Pop ups -->
+	<!-- Including hotspot roll over text -->
+	<item v="popUp_hotspot_text_0"><translate><![CDATA[Het juiste accessoire]]></translate></item>
+	<item v="popUp_subtitle_0"><translate><![CDATA[stijlvol design]]></translate></item>
+	<item v="popUp_body_text_0"><translate><![CDATA[Dankzij het stijlvolle en compacte design is de FX01 het juiste accessoire voor elke gelegenheid.]]></translate></item>
+	<item v="popUp_caption_0_0"><translate><![CDATA[ ]]></translate></item>
+	<item v="popUp_caption_0_1"><translate><![CDATA[ ]]></translate></item>
+	<item v="popUp_caption_0_2"><translate><![CDATA[ ]]></translate></item>
+	<item v="popUp_caption_0_3"><translate><![CDATA[ ]]></translate></item>
+	
+	<item v="popUp_hotspot_text_1"><translate><![CDATA[Gebruiksvriendelijk]]></translate></item>
+	<item v="popUp_subtitle_1"><translate><![CDATA[eenvoudige modus]]></translate></item>
+	<item v="popUp_body_text_1"><translate><![CDATA[Door alle automatische instellingen is het zeer eenvoudig om prachtige foto’s te maken, zelfs als je voor het eerst een digitale camera gebruikt. Gewoon richten en de ontspanner indrukken.]]></translate></item>
+
+	<item v="popUp_hotspot_text_2"><translate><![CDATA[Portretteer perfect]]></translate></item>
+	<item v="popUp_subtitle_2"><translate><![CDATA[portret modus]]></translate></item>
+	<item v="popUp_body_text_2"><translate><![CDATA[Deze modus helpt je om prachtige portretten te maken met een natuurlijke huidskleur. Je vriendinnen en jij  zien er altijd schitterend uit.]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_3"><translate><![CDATA[Kleding kiezen]]></translate></item>
+	<item v="popUp_subtitle_3"><translate><![CDATA[Quick start]]></translate></item>
+	<item v="popUp_body_text_3"><translate><![CDATA[Soms is het handig dat je camera direct gebruiksklaar is. De FX01 is klaar om te beginnen met fotograferen binnen 1,6 seconden na het inschakelen.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_4"><translate><![CDATA[Ondersteboven]]></translate></item>
+	<item v="popUp_subtitle_4"><translate><![CDATA[LCD met automatische hoekbepaling]]></translate></item>
+	<item v="popUp_body_text_4"><translate><![CDATA[Horizontaal of verticaal, wat is beter? Nadat de foto is genomen, wordt het beeld op het LCD scherm altijd op de juiste manier getoond, hoe je de camera ook vasthoudt.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_5"><translate><![CDATA[Het fashion moment]]></translate></item>
+	<item v="popUp_subtitle_5"><translate><![CDATA[O.I.S. binnenshuis]]></translate></item>
+	<item v="popUp_body_text_5"><translate><![CDATA[Binnenshuis de flits gebruiken kan de voorgrond onnatuurlijk licht maken en de achtergrond verduisteren. Met behulp van O.I.S.-technologie (Optical Image Stabilisation) kun je prachtige foto’s maken zonder flits.]]></translate></item>
+	<item v="popUp_caption_5_0"><translate><![CDATA[OIS UIT]]></translate></item>
+	<item v="popUp_caption_5_1"><translate><![CDATA[OIS AAN]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_6"><translate><![CDATA[De grootte telt]]></translate></item>
+	<item v="popUp_subtitle_6"><translate><![CDATA[klein en compact]]></translate></item>
+	<item v="popUp_body_text_6"><translate><![CDATA[Dankzij het stijlvolle en compacte design past de FX01 in elke handtas, waar je ook heen gaat.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_7"><translate><![CDATA[Maak close-ups]]></translate></item>
+	<item v="popUp_subtitle_7"><translate><![CDATA[O.I.S. close-ups]]></translate></item>
+	<item v="popUp_body_text_7"><translate><![CDATA[Om zuivere, scherpe close-ups te nemen, moet je de camera volledig stil houden. Door de O.I.S.-technologie (Optical Image Stabilisation) kun je van dichtbij haarscherpe foto’s maken.]]></translate></item>
+	<item v="popUp_caption_7_0"><translate><![CDATA[O.I.S. UIT]]></translate></item>
+	<item v="popUp_caption_7_1"><translate><![CDATA[O.I.S. AAN]]></translate></item>
+	
+	<item v="popUp_hotspot_text_8"><translate><![CDATA[Deel met iedereen]]></translate></item>
+	<item v="popUp_subtitle_8"><translate><![CDATA[groot LCD]]></translate></item>
+	<item v="popUp_body_text_8"><translate><![CDATA[Je foto's delen is pas echt fun. Het grote hoge resolutie LCD scherm maakt het eenvoudig om je foto's direct terug te kijken.]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_9"><translate><![CDATA[Toon je beste kant]]></translate></item>
+	<item v="popUp_subtitle_9"><translate><![CDATA[zelfportret modus]]></translate></item>
+	<item v="popUp_body_text_9"><translate><![CDATA[Een zelfportret was nog nooit zo eenvoudig. Richt de camera naar jezelf en de rode LED geeft aan dat je in beeld bent. Tuit de lippen en klik.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_10"><translate><![CDATA[Groothoek]]></translate></item>
+	<item v="popUp_subtitle_10"><translate><![CDATA[groothoeklens]]></translate></item>
+	<item v="popUp_body_text_10"><translate><![CDATA[Iedereen in beeld krijgen is soms heel lastig. Met de 28mm-groothoeklens heb je meer vrienden in het vizier, zodat niemand teleurgesteld is.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_11"><translate><![CDATA[Bekijk het in breedbeeld]]></translate></item>
+	<item v="popUp_subtitle_11"><translate><![CDATA[aspectratio's]]></translate></item>
+	<item v="popUp_body_text_11"><translate><![CDATA[Je kunt foto's nemen in 16:9 breedbeeld formaat. Handig in sommige situaties!]]></translate></item>
+	
+	<item v="popUp_hotspot_text_12"><translate><![CDATA[Focus]]></translate></item>
+	<item v="popUp_subtitle_12"><translate><![CDATA[snelle autofocus]]></translate></item>
+	<item v="popUp_body_text_12"><translate><![CDATA[Met de 1-punts high-speed autofocus maakt je telkens snel, eenvoudig en accuraat foto's.]]></translate></item>
+
+	<item v="popUp_hotspot_text_13"><translate><![CDATA[Gebruikt door portiers]]></translate></item>
+	<item v="popUp_subtitle_13"><translate><![CDATA[eenvoudige modus]]></translate></item>
+	<item v="popUp_body_text_13"><translate><![CDATA[Alle instellingen gebeuren automatisch, waardoor het zeer eenvoudig is om prachtige beelden te maken, zelfs al geeft u de camera aan iemand anders. Gewoon richten en op de knop drukken.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_14"><translate><![CDATA[Creatief zijn]]></translate></item>
+	<item v="popUp_subtitle_14"><translate><![CDATA[andere hoek]]></translate></item>
+	<item v="popUp_body_text_14"><translate><![CDATA[Ongebruikelijke rekwisieten kunnen een wereld van verschil maken voor je foto. Wees zowel speels, creatief als prettig gestoord.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_15"><translate><![CDATA[Party time]]></translate></item>
+	<item v="popUp_subtitle_15"><translate><![CDATA[party modus]]></translate></item>
+	<item v="popUp_body_text_15"><translate><![CDATA[Wanneer je in feeststemming bent, mag de technologie niet in de weg staan. Schakel om naar party modus en de camera stelt zichzelf in voor de nacht.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_16"><translate><![CDATA[Spelen met het gordijn]]></translate></item>
+	<item v="popUp_subtitle_16"><translate><![CDATA[flits rode-ogen reductie]]></translate></item>
+	<item v="popUp_body_text_16"><translate><![CDATA[Wanneer je flits komen rode ogen dikwijls voor. Met de flits op auto rode-ogen reductie krijg je 2 korte flitsen om het probleem op te lossen.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_17"><translate><![CDATA[Het leven door een lens]]></translate></item>
+	<item v="popUp_subtitle_17"><translate><![CDATA[Leica DC lens]]></translate></item>
+	<item v="popUp_body_text_17"><translate><![CDATA[De wereldberoemde Leica DC-lens gebruikt in de FX01 produceert foto's met een uitgesproken detail en opmerkelijke diepte.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_18"><translate><![CDATA[Niet te flitsend]]></translate></item>
+	<item v="popUp_subtitle_18"><translate><![CDATA[O.I.S binnenshuis]]></translate></item>
+	<item v="popUp_body_text_18"><translate><![CDATA[In sommige omstandigheden kan het gebruik van een flits de verkeerde benadering zijn. Met de O.I.S.-technologie (Optical Image Stabilisation) kunt je een tragere sluitertijd gebruiken en de foto schieten zonder flits.]]></translate></item>	
+	<item v="popUp_caption_18_0"><translate><![CDATA[FLITS UIT]]></translate></item>
+	<item v="popUp_caption_18_1"><translate><![CDATA[FLITS AAN]]></translate></item>
+
+	<item v="popUp_hotspot_text_19"><translate><![CDATA[Deel met iedereen]]></translate></item>
+	<item v="popUp_subtitle_19"><translate><![CDATA[groot LCD]]></translate></item>
+	<item v="popUp_body_text_19"><translate><![CDATA[Je foto's delen is pas echt fun. Het grote hoge resolutie LCD scherm maakt het eenvoudig om je foto's onmiddellijk te bekijken, nadat je ze hebt genomen.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_20"><translate><![CDATA[Groothoek]]></translate></item>
+	<item v="popUp_subtitle_20"><translate><![CDATA[groothoeklens]]></translate></item>
+	<item v="popUp_body_text_20"><translate><![CDATA[Iedereen in beeld krijgen is soms heel lastig. Met de 28mm-groothoeklens heb je meer vrienden in het vizier, zodat niemand teleurgesteld is.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_21"><translate><![CDATA[Zoom zoom]]></translate></item>
+	<item v="popUp_subtitle_21"><translate><![CDATA[3.6x zoom]]></translate></item>
+	<item v="popUp_body_text_21"><translate><![CDATA[Soms wil je van dichtbij fotograferen. Met de 3,6x zoom haal je iedereen dichterbij zonder dat ze het door hebben.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_22"><translate><![CDATA[Weergave]]></translate></item>
+	<item v="popUp_subtitle_22"><translate><![CDATA[weergave modus]]></translate></item>
+	<item v="popUp_body_text_22"><translate><![CDATA[Je foto's bekijken is leuk en eenvoudig. Kies een diapresentatie, een weergave met 1, 9 of 25 vensters of een kalenderweergave, waarin je miniatuurweergaven (thumbnails) ziet van alle foto's die op een bepaalde datum gemaakt zijn.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_23"><translate><![CDATA[Perfecte pasvorm]]></translate></item>
+	<item v="popUp_subtitle_23"><translate><![CDATA[compact ontwerp]]></translate></item>
+	<item v="popUp_body_text_23"><translate><![CDATA[Dankzij het kleine en compacte design past de FX01 in de strakste jeans.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_24"><translate><![CDATA[Blijf in beweging]]></translate></item>
+	<item v="popUp_subtitle_24"><translate><![CDATA[O.I.S. handbeweging]]></translate></item>
+	<item v="popUp_body_text_24"><translate><![CDATA[Je kunt gewoon deelnemen aan de actie terwijl je alles met de camera vastlegt. Maak je geen zorgen over handbewegingen, want die worden geëlimineerd door onze O.I.S.-technologie (Optical Image Stabilisation). Daardoor ben je verzekerd van scherpe foto’s in elke situatie.]]></translate></item>	
+	<item v="popUp_caption_24_0"><translate><![CDATA[O.I.S. UIT]]></translate></item>
+	<item v="popUp_caption_24_1"><translate><![CDATA[O.I.S. AAN]]></translate></item>
+	
+
+	<item v="popUp_hotspot_text_25"><translate><![CDATA[Deel met iedereen]]></translate></item>
+	<item v="popUp_subtitle_25"><translate><![CDATA[groot LCD]]></translate></item>
+	<item v="popUp_body_text_25"><translate><![CDATA[Je foto's delen is pas echt fun. Het grote hoge resolutie LCD scherm maakt het eenvoudig om je foto's onmiddellijk te bekijken nadat je ze hebt genomen.]]></translate></item>	
+
+
+
+<!-- new onwards 17-03-06 --><!-- BARCELONA -->
+
+	<item v="popUp_hotspot_text_26"><translate><![CDATA[Licht reizen]]></translate></item>
+	<item v="popUp_subtitle_26"><translate><![CDATA[compact design]]></translate></item>
+	<item v="popUp_body_text_26"><translate><![CDATA[Het stijlvolle en compacte design van de TZ1 past in je (broek)zak, dus je hebt geen zware tas nodig.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_27"><translate><![CDATA[Prachtige zoom foto’s]]></translate></item>
+	<item v="popUp_subtitle_27"><translate><![CDATA[O.I.S super zoom]]></translate></item>
+	<item v="popUp_body_text_27"><translate><![CDATA[Fotografeer je met intensieve zoom dan wordt elke beweging van de camera geaccentueerd. Door de O.I.S.-technologie (Optical Image Stabilisation) maak je stabiele, heldere en scherpe zoom foto’s uit de hand.]]></translate></item>	
+<!-- new --><item v="popUp_caption_27_0"><translate><![CDATA[O.I.S. AAN]]></translate></item>
+<!-- new --><item v="popUp_caption_27_1"><translate><![CDATA[O.I.S. UIT]]></translate></item>
+	
+	<item v="popUp_hotspot_text_28"><translate><![CDATA[Kleine super zoom]]></translate></item>
+	<item v="popUp_subtitle_28"><translate><![CDATA[super zoom]]></translate></item>
+	<item v="popUp_body_text_28"><translate><![CDATA[De krachtige 10x optische zoom, het equivalent van een grote 35 tot 350mm lens op een 35mm camera, past perfect bij een compacte camera.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_28_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_1"><translate><![CDATA[3X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_2"><translate><![CDATA[6X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_3"><translate><![CDATA[10X ZOOM]]></translate></item>
+	
+	<item v="popUp_hotspot_text_29"><translate><![CDATA[Leg een datum vast]]></translate></item>
+	<item v="popUp_subtitle_29"><translate><![CDATA[instelling reisdatum]]></translate></item>
+	<item v="popUp_body_text_29"><translate><![CDATA[Je kunt de vertrekdatum van je reis instellen met de TZ1, en vervolgens weergeven op welke dag van de reis elke foto is genomen. Ideaal om je reisfoto’s te ordenen.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_29_0"><translate><![CDATA[1. DAG]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_1"><translate><![CDATA[2. DAG]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_2"><translate><![CDATA[]]></translate></item>
+
+
+
+
+	<item v="popUp_hotspot_text_30"><translate><![CDATA[Kies de juiste hoek]]></translate></item>
+	<item v="popUp_subtitle_30"><translate><![CDATA[andere hoek]]></translate></item>
+	<item v="popUp_body_text_30"><translate><![CDATA[Het loont soms om het object van dichterbij te bekijken. Door rondom het object te bewegen en verschillende invalshoeken te bekijken kom je dikwijls tot verrassend mooie beelden.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_30_0"><translate><![CDATA[FOTO 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_1"><translate><![CDATA[FOTO 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_2"><translate><![CDATA[FOTO 3]]></translate></item>
+		
+	<item v="popUp_hotspot_text_31"><translate><![CDATA[Onderweg]]></translate></item>
+	<item v="popUp_subtitle_31"><translate><![CDATA[O.I.S. handbeweging]]></translate></item>
+	<item v="popUp_body_text_31"><translate><![CDATA[Wanneer je onderweg bent zijn bewegingen van de camera en wazige beelden haast niet te vermijden. De Optical Image Stabiliser compenseert elke beweging met behulp van bewegingsdetectoren die de lens naar de tegenovergestelde richting bewegen, met als resultaat constant heldere en scherpe foto’s.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_31_0"><translate><![CDATA[O.I.S. UIT]]></translate></item>
+	<!-- new --><item v="popUp_caption_31_1"><translate><![CDATA[O.I.S. AAN]]></translate></item>
+
+	<item v="popUp_hotspot_text_32"><translate><![CDATA[Quick start]]></translate></item>
+	<item v="popUp_subtitle_32"><translate><![CDATA[Quick start]]></translate></item>
+	<item v="popUp_body_text_32"><translate><![CDATA[Soms is het handig om je camera direct gebruiksklaar te hebben. De TZ1 is klaar om te fotograferen binnen 0,95 seconden na het inschakelen.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_33"><translate><![CDATA[Weerspiegel jezelf]]></translate></item>
+	<item v="popUp_subtitle_33"><translate><![CDATA[weerspiegelingen]]></translate></item>
+	<item v="popUp_body_text_33"><translate><![CDATA[Met weerspiegelingen kun je mooie composities maken. Een plas water, autoruiten en glazen panelen kunnen een foto een andere emotie meegeven.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_34"><translate><![CDATA[Haarscherpe portretten]]></translate></item>
+	<item v="popUp_subtitle_34"><translate><![CDATA[High sensitivity]]></translate></item>
+	<item v="popUp_body_text_34"><translate><![CDATA[‘Beeldwaas is mogelijk wanneer het object beweegt, terwijl je de foto maakt. Met behulp van de ‘high sensitivity’ modus kan dit worden verminderd. Die verhoogt de sluitersnelheid tot het maximum, waardoor heldere, scherpe foto’s ontstaan.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_34_0"><translate><![CDATA[ZONDER HIGH SENSITIVITY]]></translate></item>
+	<!-- new --><item v="popUp_caption_34_1"><translate><![CDATA[MET HIGH SENSITIVITY]]></translate></item>
+	
+	<item v="popUp_hotspot_text_35"><translate><![CDATA[Leica DC Lens]]></translate></item>
+	<item v="popUp_subtitle_35"><translate><![CDATA[Leica DC lens]]></translate></item>
+	<item v="popUp_body_text_35"><translate><![CDATA[De wereldberoemde Leica DC-lens die wordt gebruikt in de TZ1 produceert foto’s met een uitgesproken detail en opmerkelijke diepte.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_36"><translate><![CDATA[Focus]]></translate></item>
+	<item v="popUp_subtitle_36"><translate><![CDATA[AF-hulplamp]]></translate></item>
+	<item v="popUp_body_text_36"><translate><![CDATA[Omstandigheden met weinig licht veroorzaken soms een onnauwkeurige autofocus. De autofocus hulplamp verbetert de juistheid van focussen.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_37"><translate><![CDATA[Hoe werkt dat?]]></translate></item>
+	<item v="popUp_subtitle_37"><translate><![CDATA[eenvoudige modus]]></translate></item>
+	<item v="popUp_body_text_37"><translate><![CDATA[In de eenvoudige modus stelt de camera zichzelf automatisch in, waardoor het makkelijk is om prachtige foto’s te maken, zelfs al heeft u de camera nog nooit gebruikt. Gewoon richten en de ontspanner indrukken.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_38"><translate><![CDATA[Groot LCD]]></translate></item>
+	<item v="popUp_subtitle_38"><translate><![CDATA[Groot LCD]]></translate></item>
+	<item v="popUp_body_text_38"><translate><![CDATA[Een groot LCD scherm maakt het eenvoudig om je foto’s onmiddellijk te bekijken, nadat je ze hebt genomen. Dankzij de afmeting van 2,5INCH en 207.000 pixels van het hoge resolutie LCD scherm kun je eenvoudig tekst en miniatuurweergaven (thumbnails) bekijken.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_39"><translate><![CDATA[Avondschemering]]></translate></item>
+	<item v="popUp_subtitle_39"><translate><![CDATA[spelen met licht]]></translate></item>
+	<item v="popUp_body_text_39"><translate><![CDATA[Als de schemering invalt na een heldere dag verandert het licht van kwaliteit. Dit wordt  ‘avondschemering’ genoemd. Fotograferen in dit licht geeft je foto's een unieke rijkdom aan kleuren.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_40"><translate><![CDATA[Snelfocus]]></translate></item>
+	<item v="popUp_subtitle_40"><translate><![CDATA[snelle autofocus]]></translate></item>
+	<item v="popUp_body_text_40"><translate><![CDATA[Kies uit verschillende autofocusmodi: spot, 1-punts, 3-punts en 9-punts al naargelang de scène die je vastlegt. Je maakt iedere keer snel, eenvoudig en accuraat foto's.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_40_0"><translate><![CDATA[9-punts]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_1"><translate><![CDATA[3-punts]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_2"><translate><![CDATA[1-punts]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_3"><translate><![CDATA[1-spot]]></translate></item>
+	
+	<item v="popUp_hotspot_text_41"><translate><![CDATA[Nachtvlinder]]></translate></item>
+	<item v="popUp_subtitle_41"><translate><![CDATA[nachtportret modus]]></translate></item>
+	<item v="popUp_body_text_41"><translate><![CDATA['s Nachts fotograferen met flits kan het echte licht van het beeld elimineren. Door de lagere sluitersnelheid, die mogelijk is dankzij O.I.S.-technologie, gecombineerd met de flits kan de camera meer licht opnemen. In de nachtportret modus leg je de juiste sfeer vast.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_42"><translate><![CDATA[Helder LCD]]></translate></item>
+	<item v="popUp_subtitle_42"><translate><![CDATA[Helder LCD]]></translate></item>
+	<item v="popUp_body_text_42"><translate><![CDATA[Op zonnige dagen is het display soms moeilijk te zien, met een druk op de Power LCD-knop wordt het display 40% helderder.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_43"><translate><![CDATA[Strandleven]]></translate></item>
+	<item v="popUp_subtitle_43"><translate><![CDATA[strand modus]]></translate></item>
+	<item v="popUp_body_text_43"><translate><![CDATA[Helder zonlicht is altijd welkom op het strand, maar betekent dikwijls dat je foto's donker zijn. Met de strand modus kun je heldere foto’s maken, je hoeft je dus alleen maar om je zongebrande huid te bekommeren.]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_0"><translate><![CDATA[ZONDER STRAND MODUS]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_1"><translate><![CDATA[MET STRAND MODUS]]></translate></item>
+
+	<item v="popUp_hotspot_text_44"><translate><![CDATA[Leg de beweging vast]]></translate></item>
+	<item v="popUp_subtitle_44"><translate><![CDATA[Mega burst]]></translate></item>
+	<item v="popUp_body_text_44"><translate><![CDATA[Je kunt tot 5 achtereenvolgende foto’s nemen met een snelheid van 3 frames per seconde, in de standaard modus. De TZ1 heeft ook een functie voor ongelimiteerde serieopnames tot de SD-Memory Card vol is.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_44_0"><translate><![CDATA[FRAME 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_1"><translate><![CDATA[FRAME 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_2"><translate><![CDATA[FRAME 3]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_3"><translate><![CDATA[FRAME 4]]></translate></item>
+	
+
+
+	<item v="popUp_hotspot_text_45"><translate><![CDATA[Abstract denken]]></translate></item>
+	<item v="popUp_subtitle_45"><translate><![CDATA[andere kijkhoek]]></translate></item>
+	<item v="popUp_body_text_45"><translate><![CDATA[De dingen anders bekijken kan verrassende resultaten opleveren. Experimenteer met je foto’s en maak een collage van verschillende elementen van hetzelfde object.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_45_0"><translate><![CDATA[FOTO 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_1"><translate><![CDATA[FOTO 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_2"><translate><![CDATA[FOTO 3]]></translate></item>
+
+	<item v="popUp_hotspot_text_46"><translate><![CDATA[Voorgrond versus achtergrond]]></translate></item>
+	<item v="popUp_subtitle_46"><translate><![CDATA[compositie]]></translate></item>
+	<item v="popUp_body_text_46"><translate><![CDATA[Door elementen uit de voorgrond en de achtergrond naast elkaar te plaatsen creëer je unieke composities.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_47"><translate><![CDATA[Abstracte zoom]]></translate></item>
+	<item v="popUp_subtitle_47"><translate><![CDATA[abstract]]></translate></item>
+	<item v="popUp_body_text_47"><translate><![CDATA[Met behulp van de krachtige zoom kun je de foto's in de camera knippen en abstracte details creëren.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_48"><translate><![CDATA[Late namiddaglicht]]></translate></item>
+	<item v="popUp_subtitle_48"><translate><![CDATA[late namiddaglicht]]></translate></item>
+	<item v="popUp_body_text_48"><translate><![CDATA[Op een heldere dag heeft het licht tijdens de late namiddag een diepblauwe kwaliteit die warmte aan je foto’s kan toevoegen.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_49"><translate><![CDATA[Het licht zien]]></translate></item>
+	<item v="popUp_subtitle_49"><translate><![CDATA[meting]]></translate></item>
+	<item v="popUp_body_text_49"><translate><![CDATA[Gebruik een specifieke lichtbron in je voordeel. Met behulp van spotmeting om het licht te meten dat door het kantoorgebouw wordt weerspiegeld kun je een heel andere foto krijgen.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_50"><translate><![CDATA[Reis licht]]></translate></item>
+	<item v="popUp_subtitle_50"><translate><![CDATA[compact design]]></translate></item>
+	<item v="popUp_body_text_50"><translate><![CDATA[Het stijlvolle en compacte design van de TZ1 past in je (broek)zak, dus je hebt geen zware tas nodig.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_51"><translate><![CDATA[Kleine super zoom]]></translate></item>
+	<item v="popUp_subtitle_51"><translate><![CDATA[10x optische zoom]]></translate></item>
+	<item v="popUp_body_text_51"><translate><![CDATA[De krachtige 10x optische zoom, het equivalent van een grote 35 tot 350mm lens op een 35mm camera, past verbluffend bij een compacte camera.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_51_0"><translate><![CDATA[1 X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_1"><translate><![CDATA[2 X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_2"><translate><![CDATA[5 X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_3"><translate><![CDATA[10 X ZOOM]]></translate></item>
+	
+	<item v="popUp_hotspot_text_52"><translate><![CDATA[Fotograferen met zoom]]></translate></item>
+	<item v="popUp_subtitle_52"><translate><![CDATA[O.I.S. super zoom]]></translate></item>
+	<item v="popUp_body_text_52"><translate><![CDATA[Wanneer je sterk ingezoomde foto’s maakt, wordt elke beweging van de camera geaccentueerd. Door de O.I.S.-technologie (Optical Image Stabilisation) kun je uit de hand heldere en scherpe ingezoomde foto’s maken.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_52_0"><translate><![CDATA[O.I.S. UIT]]></translate></item>
+	<!-- new --><item v="popUp_caption_52_1"><translate><![CDATA[O.I.S. AAN]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_53"><translate><![CDATA[Bekijk het in breedbeeld]]></translate></item>
+	<item v="popUp_subtitle_53"><translate><![CDATA[aspect ratio's]]></translate></item>
+	<item v="popUp_body_text_53"><translate><![CDATA[Je kunt foto's nemen in 16:9 breedbeeld formaat. Stop daarna de SD-Memory Card in een tv met SD-Card Slot om ze in perfect breedbeeldformaat te bekijken.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_54"><translate><![CDATA[Perfecte gelaatsuitdrukking]]></translate></item>
+	<item v="popUp_subtitle_54"><translate><![CDATA[flits rode-ogen reductie]]></translate></item>
+	<item v="popUp_body_text_54"><translate><![CDATA[Bij het gebruik van flits komen rode ogen vaak voor. Met de flits op auto rode-ogen reductie krijgt je 2 korte flitsen om het probleem op te lossen.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_54_0"><translate><![CDATA[Zonder auto rode-ogen reductie]]></translate></item>
+	<!-- new --><item v="popUp_caption_54_1"><translate><![CDATA[Met auto rode-ogen reductie]]></translate></item>
+
+	<item v="popUp_hotspot_text_55"><translate><![CDATA[Op datumvolgorde]]></translate></item>
+	<item v="popUp_subtitle_55"><translate><![CDATA[kalenderweergave]]></translate></item>
+	<item v="popUp_body_text_55"><translate><![CDATA[De TZ1 kan genomen foto’s ordenen op basis van de dag dat je ze hebt genomen. Dit kan zeer goed van pas komen wanneer je een groot aantal foto's moet ordenen.]]></translate></item>	
+
+
+
+
+
+	<!-- F1 -->
+
+	<item v="popUp_hotspot_text_56"><translate><![CDATA[Creatieve focus]]></translate></item>
+	<item v="popUp_subtitle_56"><translate><![CDATA[diepte van het veld]]></translate></item>
+	<item v="popUp_body_text_56"><translate><![CDATA[De diepte van het veld is het gebied van de scherpste focus voor, achter en rondom het object. Met de 12x zoom kan een kleine diepte van het veld eenvoudig worden bereikt. Dit kan er heel creatief uitzien met één element in scherpe focus.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_57"><translate><![CDATA[Intelligent design]]></translate></item>
+	<item v="popUp_subtitle_57"><translate><![CDATA[Design]]></translate></item>
+	<item v="popUp_body_text_57"><translate><![CDATA[Het design ligt goed in de hand en is makkelijk te bedienen. Ook liggen de elektronische beeldzoeker en het LCD scherm op dezelfde gezichtslijn om het verschil in de beelden te minimaliseren tijdens het kadreren van de foto.]]></translate></item>	
+<!-- new 22-03-2006 --><item v="popUp_caption_57_0"><translate><![CDATA[Bedieningselementen]]></translate></item>
+	
+	<item v="popUp_hotspot_text_58"><translate><![CDATA[Scherpe close-ups ]]></translate></item>
+	<item v="popUp_subtitle_58"><translate><![CDATA[O.I.S. macro]]></translate></item>
+	<item v="popUp_body_text_58"><translate><![CDATA[Om heldere en scherpe close-ups te nemen, moet je de camera volledig stil houden. Met behulp van de O.I.S.-technologie (Optical Image Stabilisation) kun je stabiele, scherpe ingezoomde foto’s maken zonder een statief.]]></translate></item>	
+<!-- new --><item v="popUp_caption_58_0"><translate><![CDATA[O.I.S. AAN]]></translate></item>
+<!-- new --><item v="popUp_caption_58_1"><translate><![CDATA[O.I.S. UIT]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_59"><translate><![CDATA[Sterk achtergrondlicht]]></translate></item>
+	<item v="popUp_subtitle_59"><translate><![CDATA[tegenlichtcorrectie]]></translate></item>
+	<item v="popUp_body_text_59"><translate><![CDATA[Sterk achtergrondlicht zoals direct zonlicht is ongunstig om foto’s te nemen. Je kunt dit probleem oplossen met tegenlichtcorrectie door de bovenste cursorknop in te drukken in de eenvoudige modus.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_60"><translate><![CDATA[Gebruiksvriendelijke modus schijf ]]></translate></item>
+	<item v="popUp_subtitle_60"><translate><![CDATA[modus schijf]]></translate></item>
+	<item v="popUp_body_text_60"><translate><![CDATA[Met de modus draaischijf kies je een instelling die bij de situatie past. Je kunt kiezen uit Program AE, Aperture Priority AE, Shutter Priority AE, Manueel, Macro, Eenvoudig, Bewegend beeld en afspeel  modus.]]></translate></item>	
+<!-- new --><item v="popUp_caption_60_0"><translate><![CDATA[modus schijf]]></translate></item>
+
+	<item v="popUp_hotspot_text_61"><translate><![CDATA[Scherpe close-ups ]]></translate></item>
+	<item v="popUp_subtitle_61"><translate><![CDATA[O.I.S. macro]]></translate></item>
+	<item v="popUp_body_text_61"><translate><![CDATA[Om heldere en scherpe close-ups te nemen, moet je de camera volledig stil houden. Met behulp van de O.I.S.-technologie (Optical Image Stabilisation) kun je stabiele, scherpe ingezoomde foto’s maken zonder een statief.]]></translate></item>	
+<!-- new --><item v="popUp_caption_61_0"><translate><![CDATA[O.I.S. AAN]]></translate></item>
+<!-- new --><item v="popUp_caption_61_1"><translate><![CDATA[O.I.S. UIT]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_62"><translate><![CDATA[Witbalans]]></translate></item>
+	<item v="popUp_subtitle_62"><translate><![CDATA[Witbalans]]></translate></item>
+	<item v="popUp_body_text_62"><translate><![CDATA[Verschillende lichtbronnen hebben verschillende kleurtemperaturen, waardoor beelden onnatuurlijke kleuren meekrijgen. De tl-verlichting in de garage zou een groenachtig beeld creëren, dus door de auto witbalans aan te zetten stelt de camera zich in op de nieuwe lichtsituatie.]]></translate></item>	
+<!-- new --><item v="popUp_caption_62_0"><translate><![CDATA[auto witbalans ]]></translate></item>
+<!-- new --><item v="popUp_caption_62_1"><translate><![CDATA[]]></translate></item>
+
+	<item v="popUp_hotspot_text_63"><translate><![CDATA[Weinig licht]]></translate></item>
+	<item v="popUp_subtitle_63"><translate><![CDATA[O.I.S. indoors]]></translate></item>
+	<item v="popUp_body_text_63"><translate><![CDATA[Binnenshuis de flits gebruiken kan de voorgrond onnatuurlijk licht maken en de achtergrond verduisteren. Door een tragere sluitertijd te gebruiken, wat mogelijk is dankzij de O.I.S.-technologie (Optical Image Stabilisation) kun je de echte natuurlijke lichtcondities vastleggen zonder flits.]]></translate></item>	
+<!-- new --><item v="popUp_caption_63_0"><translate><![CDATA[FLITS UIT]]></translate></item>
+<!-- new --><item v="popUp_caption_63_1"><translate><![CDATA[FLITS AAN]]></translate></item>
+
+	<item v="popUp_hotspot_text_64"><translate><![CDATA[burst modus]]></translate></item>
+	<item v="popUp_subtitle_64"><translate><![CDATA[burst modus]]></translate></item>
+	<item v="popUp_body_text_64"><translate><![CDATA[Je kunt tot 13 achtereenvolgende foto’s maken met een snelheid van 3 frames per seconde, in de standaard modus. De FZ7 heeft ook een functie voor ongelimiteerde opeenvolgende opnames. Zo kun je blijven fotograferen tot de SD Memory Card vol is.]]></translate></item>	
+<!-- new --><item v="popUp_caption_64_0"><translate><![CDATA[FRAME 1]]></translate></item>
+<!-- new --><item v="popUp_caption_64_1"><translate><![CDATA[FRAME 2]]></translate></item>
+<!-- new --><item v="popUp_caption_64_2"><translate><![CDATA[FRAME 3]]></translate></item>
+<!-- new --><item v="popUp_caption_64_3"><translate><![CDATA[FRAME 4]]></translate></item>
+
+	<item v="popUp_hotspot_text_65"><translate><![CDATA[High angle LCD]]></translate></item>
+	<item v="popUp_subtitle_65"><translate><![CDATA[High angle LCD]]></translate></item>
+	<item v="popUp_body_text_65"><translate><![CDATA[De High angle foto functie, maakt de LCD eenvoudiger afleesbaar wanneer je de camera hoog houdt om over een menigte heen foto's te maken.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_66"><translate><![CDATA[Snelle sluitertijd]]></translate></item>
+	<item v="popUp_subtitle_66"><translate><![CDATA[Snelle sluitertijd]]></translate></item>
+	<item v="popUp_body_text_66"><translate><![CDATA[Tijdens het fotograferen van een snelbewegend voorwerp zoals een Formule 1-wagen, die sneller gaat dan 300 km/u, heb je een snelle sluitertijd nodig om de snelle beweging van de wagen vast te kunnen leggen.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_67"><translate><![CDATA[Panorama]]></translate></item>
+	<item v="popUp_subtitle_67"><translate><![CDATA[panorama modus]]></translate></item>
+	<item v="popUp_body_text_67"><translate><![CDATA[Met panorama beweeg je de camera om een voorwerp, zoals een auto, te volgen dat in één richting beweegt. De achtergrond wordt wazig en het voorwerp blijft scherp afgesteld. De panorama modus stelt een trage sluitertijd in om het gevoel van snelheid te krijgen.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_68"><translate><![CDATA[Super zoom]]></translate></item>
+	<item v="popUp_subtitle_68"><translate><![CDATA[Super zoom]]></translate></item>
+	<item v="popUp_body_text_68"><translate><![CDATA[De FZ7 is uitgerust met een Leica DC-lens met een verbluffende 12x optische zoom, het equivalent van een 36 tot 432mm lens op een 35mm film camera. Een analoge camera met zo'n krachtige optische zoom zou zo groot en zwaar zijn dat je hem niet met een hand zou kunnen vasthouden.]]></translate></item>	
+<!-- new --><item v="popUp_caption_68_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_68_1"><translate><![CDATA[6X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_68_2"><translate><![CDATA[12X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_68_3"><translate><![CDATA[16.5X SUPER ZOOM]]></translate></item>
+
+	<item v="popUp_hotspot_text_69"><translate><![CDATA[Snelle sluitervertraging]]></translate></item>
+	<item v="popUp_subtitle_69"><translate><![CDATA[Snelle sluitervertraging]]></translate></item>
+	<item v="popUp_body_text_69"><translate><![CDATA[De FZ7 heeft een supersnelle respons met een sluitertijd van slechts 0,008 seconden. Je maakt iedere keer snel, comfortabel en accuraat foto's.]]></translate></item>	
+<!-- new --><item v="popUp_caption_69_0"><translate><![CDATA[0.0008 SEC.]]></translate></item>
+<!-- new --><item v="popUp_caption_69_1"><translate><![CDATA[0.0016 SEC.]]></translate></item>
+<!-- new --><item v="popUp_caption_69_2"><translate><![CDATA[0.0024 SEC.]]></translate></item>
+<!-- new --><item v="popUp_caption_69_3"><translate><![CDATA[0.0032 SEC.]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_70"><translate><![CDATA[Weerspiegelingen]]></translate></item>
+	<item v="popUp_subtitle_70"><translate><![CDATA[creativiteit]]></translate></item>
+	<item v="popUp_body_text_70"><translate><![CDATA[Met weerspiegelingen kun je mooie composities maken. Een plas water, autoruiten en glazen panelen kunnen een foto een andere emotie meegeven.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_71"><translate><![CDATA[Manuele focus]]></translate></item>
+	<item v="popUp_subtitle_71"><translate><![CDATA[manuele functies]]></translate></item>
+	<item v="popUp_body_text_71"><translate><![CDATA[De joystick aan de achterzijde van de camera geeft je een snelle, eenvoudige en accurate manuele focus. Je kunt ook de Manuele Focus Hulp functie gebruiken, die je helpt de juiste focus in te stellen door het centrum van het LCD scherm uit te vergroten.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_72"><translate><![CDATA[Gebruiksvriendelijke joystick]]></translate></item>
+	<item v="popUp_subtitle_72"><translate><![CDATA[joystick trage sluitertijd]]></translate></item>
+	<item v="popUp_body_text_72"><translate><![CDATA[Je kunt de opening, sluitertijd en focus instellen met de joystick terwijl je het beeld kadreert op het LCD display.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_73"><translate><![CDATA[Leica DC Lens]]></translate></item>
+	<item v="popUp_subtitle_73"><translate><![CDATA[Leica DC lens]]></translate></item>
+	<item v="popUp_body_text_73"><translate><![CDATA[De kracht van de lens is cruciaal voor prachtige foto's. Leica Camera AG produceert wereldberoemde lenzen sinds 1913. Hun lenzen produceren foto's met een uitgesproken detail en verbluffende diepte.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_74"><translate><![CDATA[Sport modus]]></translate></item>
+	<item v="popUp_subtitle_74"><translate><![CDATA[Sport modus]]></translate></item>
+	<item v="popUp_body_text_74"><translate><![CDATA[In deze modus wordt een snellere sluitertijd gebruikt en de opening op auto ingesteld, zodat je jezelf kunt concentreren op de foto en de ontspanner op het juiste moment in kunt drukken.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_75"><translate><![CDATA[Abstract]]></translate></item>
+	<item v="popUp_subtitle_75"><translate><![CDATA[creativiteit]]></translate></item>
+	<item v="popUp_body_text_75"><translate><![CDATA[Met behulp van de krachtige zoomfunctie van de FZ7 krijgen we een abstracte foto van de bandenmuren rond het circuit. Als je foto's zover kunt inzoomen, kun je zeer unieke en creatieve foto’s maken.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_76"><translate><![CDATA[Heldere LCD]]></translate></item>
+	<item v="popUp_subtitle_76"><translate><![CDATA[Heldere LCD]]></translate></item>
+	<item v="popUp_body_text_76"><translate><![CDATA[De FZ7 is uitgerust met een 2,5” hoge resolutie LCD en met Power LCD-functie. Met een druk op de Power LCD-knop wordt het display 40% helderder en is het makkelijker te bekijken op zonnige dagen.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_77"><translate><![CDATA[Autobelichting]]></translate></item>
+	<item v="popUp_subtitle_77"><translate><![CDATA[programma autobelichting modus]]></translate></item>
+	<item v="popUp_body_text_77"><translate><![CDATA[De Program AE modus bepaalt de optimale instellingen voor het diafragma en sluitertijd. je kunt Program Shift gebruiken voor een identieke belichting, terwijl je de instellingen van de sluitertijd en lensopening aanpast.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_78"><translate><![CDATA[Andere hoek]]></translate></item>
+	<item v="popUp_subtitle_78"><translate><![CDATA[creativiteit]]></translate></item>
+	<item v="popUp_body_text_78"><translate><![CDATA[Soms is het de moeite waard om de dingen anders te bekijken. De repeterende stoelen op de hoofdtribune creëren een ander perspectief.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_79"><translate><![CDATA[Super zoom]]></translate></item>
+	<item v="popUp_subtitle_79"><translate><![CDATA[Super zoom]]></translate></item>
+	<item v="popUp_body_text_79"><translate><![CDATA[Met 3 megapixel kan de zoomratio van de lens worden uitgebreid tot 16,5x Extra Optische Zoom functie met een minimum aan kwaliteitsverlies, door bewust het centrale gedeelte van de CCD te gebruiken.]]></translate></item>	
+<!-- new --><item v="popUp_caption_79_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_79_1"><translate><![CDATA[6X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_79_2"><translate><![CDATA[12X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_79_3"><translate><![CDATA[16.5X ZOOM]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_80"><translate><![CDATA[Groot LCD]]></translate></item>
+	<item v="popUp_subtitle_80"><translate><![CDATA[Groot LCD]]></translate></item>
+	<item v="popUp_body_text_80"><translate><![CDATA[Dankzij het grote LCD-scherm kun je makkelijk de focus vastleggen, het beeld kadreren en functies gebruiken zoals 25 miniaturen (thumbnails) en kalenderweergave zonder de ogen te vermoeien.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_81"><translate><![CDATA[Weergave]]></translate></item>
+	<item v="popUp_subtitle_81"><translate><![CDATA[weergavemodus]]></translate></item>
+	<item v="popUp_body_text_81"><translate><![CDATA[Je foto's bekijken is leuk en eenvoudig. Kies een diapresentatie, een weergave met 1, 9 of 25 vensters of een kalenderweergave waarin u miniatuurweergaven (thumbnails) ziet van alle foto's die op een bepaalde datum genomen zijn.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_82"><translate><![CDATA[Super zoom]]></translate></item>
+	<item v="popUp_subtitle_82"><translate><![CDATA[16.5X super zoom]]></translate></item>
+	<item v="popUp_body_text_82"><translate><![CDATA[De FZ7 is uitgerust met een Leica DC-lens met een verbluffende 12x (16,5x) optische zoom, het equivalent van een 36 tot 432mm lens op een 35mm film camera. Een analoge camera met zo'n krachtige optische zoom zou zo groot en zwaar zijn dat je hem niet met een hand zou kunnen vasthouden.]]></translate></item>	
+<!-- new --><item v="popUp_caption_82_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_82_1"><translate><![CDATA[6X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_82_2"><translate><![CDATA[12X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_82_3"><translate><![CDATA[16.5X ZOOM]]></translate></item>
+	
+	<item v="popUp_hotspot_text_83"><translate><![CDATA[Snelle autofocus]]></translate></item>
+	<item v="popUp_subtitle_83"><translate><![CDATA[Snelle autofocus]]></translate></item>
+	<item v="popUp_body_text_83"><translate><![CDATA[De FZ7 geeft je de keuze uit meerdere autofocusmodi: spot, 1-punts (normaal of snel), 3-punts snel en 9-punts. Je kunt ook de autofocus hulplamp gebruiken voor het eenvoudiger vastleggen van de focus bij weinig licht.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_84"><translate><![CDATA[Landschap]]></translate></item>
+	<item v="popUp_subtitle_84"><translate><![CDATA[scène modus]]></translate></item>
+	<item v="popUp_body_text_84"><translate><![CDATA[In scène modus focust de camera bij voorkeur op een verafgelegen object. Hierdoor kun je foto's nemen van een breed landschap.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_85"><translate><![CDATA[Zonsondergang]]></translate></item>
+	<item v="popUp_subtitle_85"><translate><![CDATA[manuele modus]]></translate></item>
+	<item v="popUp_body_text_85"><translate><![CDATA[Voor deze foto werd de modusknop op manueel gezet en een opening met een hoge waarde ingesteld om het directe zonlicht in de lens te compenseren. Met O.I.S. aan blijft het beeld bij het inzoomen op de boom stabiel en geeft een prachtig foto.]]></translate></item>	
+<!-- new --><item v="popUp_caption_85_0"><translate><![CDATA[]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_86"><translate><![CDATA[Gebruiksvriendelijke joystick]]></translate></item>
+	<item v="popUp_subtitle_86"><translate><![CDATA[Gebruiksvriendelijke joystick]]></translate></item>
+	<item v="popUp_body_text_86"><translate><![CDATA[Je kunt de opening, sluitertijd en focus instellen met de joystick terwijl je het beeld kadert op het LCD display.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_87"><translate><![CDATA[Lenskap]]></translate></item>
+	<item v="popUp_subtitle_87"><translate><![CDATA[accessoires]]></translate></item>
+	<item v="popUp_body_text_87"><translate><![CDATA[In felverlichte fotografische situaties is het soms nuttig de lenskap te gebruiken om te voorkomen dat er teveel licht in de lens vloeit.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_88"><translate><![CDATA[Super zoom]]></translate></item>
+	<item v="popUp_subtitle_88"><translate><![CDATA[OIS zoom]]></translate></item>
+	<item v="popUp_body_text_88"><translate><![CDATA[De FZ7 is uitgerust met een Leica DC-lens met een verbluffende 12x (16,5x) optische zoom, het equivalent van een 36 tot 432mm lens op een 35mm film camera. Een analoge camera met zo'n krachtige optische zoom zou zo groot en zwaar zijn dat je hem niet met een hand zou kunnen vasthouden.]]></translate></item>	
+<!-- new --><item v="popUp_caption_88_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_88_1"><translate><![CDATA[6X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_88_2"><translate><![CDATA[12X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_88_3"><translate><![CDATA[16.5X ZOOM]]></translate></item>
+
+	<item v="popUp_hotspot_text_89"><translate><![CDATA[Late namiddaglicht]]></translate></item>
+	<item v="popUp_subtitle_89"><translate><![CDATA[creativiteit]]></translate></item>
+	<item v="popUp_body_text_89"><translate><![CDATA[Dit beeld werd genomen in de late namiddag met de zon direct achter de wagen. Door de hoeveelheid licht die door de lens stroomt verschijnt de wagen als een silhouet en gloeit het asfalt in het glanzende licht.]]></translate></item>			
+
+
+
+	<!-- Key technology pop ups -->
+	<item v="popUp_tech_subtitle_0"><translate><![CDATA[Optical Image Stabiliser]]></translate></item>
+	<item v="popUp_tech_body_text_0"><translate><![CDATA[Onze MEGA O.I.S. corrigeert handbewegingen, waardoor u in elke situatie opvallend heldere, scherpe foto's krijgt. Lumix, met de geavanceerde correctie van handbewegingen door MEGA O.I.S., zet een nieuwe standaard neer voor digitale camera’s. Schakel over naar een nieuw niveau van beeldkwaliteit, dat niet alleen kan worden gemeten in pixels of lensspecificaties.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_1"><translate><![CDATA[LEICA DC LENS]]></translate></item>
+	<item v="popUp_tech_body_text_1"><translate><![CDATA[Elk van deze geavanceerde lens-systemen is uitgerust met verschillende asferische lenzen om de sferische aberratie te compenseren. Bovendien is er een geavanceerde meervoudige coating aangebracht op het lensoppervlak om sluitervorming als gevolg van flikker en geestbeelden te voorkomen.
+
+*Leica is een gedeponeerd handelsmerk van Leica Microsystems IR GmbH.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_2"><translate><![CDATA[Venus Engine Plus, II en III]]></translate></item>
+	<item v="popUp_tech_body_text_2"><translate><![CDATA[Alle Venus Engine beeldverwerkingstechnologieën hebben een hogere reactiesnelheid en een met 50% verbeterde diagonale resolutie voor mooie foto’s. De Venus Engine II en III hebben de verticale resolutie nog verder verbeterd met ongeveer 10 % en kunnen kleurverschuivingen, die vaak voorkomen in foto's genomen met super zoom, beter corrigeren. De Venus Engine Plus II en III gebruiken energie efficiënter.]]></translate></item>			
+
+
+</root>

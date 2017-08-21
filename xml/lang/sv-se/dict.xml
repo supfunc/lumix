@@ -1,0 +1,780 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<!-- 'Loading' website data -->
+	<item v="loading"><translate><![CDATA[LOADING]]></translate></item>
+<!-- new --><item v="disclaimer"><translate><![CDATA[© 2006 Panasonic Marketing Europe GmbH]]></translate></item>
+<!-- new --><item v="select_language"><translate><![CDATA[Välj språk]]></translate></item>
+
+	<!-- SECTION: HOME PAGE -->
+	
+	<item v="home_title"><translate><![CDATA[Upptäck skillnaden med Lumix.]]></translate></item>
+	<item v="home_subtitle"><translate><![CDATA[Lumix digitalkameror gör det enkelt att ta bättre bilder. Experimentera med din fotografi, få nya perspektiv och låt Lumix göra jobbet.
+Följ med i våra berättelser och leta efter skillnaden med Lumix!]]></translate></item>
+
+	<!-- panels -->
+	<item v="section0_title"><translate><![CDATA[Lumix-priset]]></translate></item>
+	<item v="section0_subtitle"><translate><![CDATA[Skicka in dina bilder till digitalfototävlingen.]]></translate></item>
+	
+	<item v="section1_title"><translate><![CDATA[Produktsortiment]]></translate></item>
+	<item v="section1_subtitle"><translate><![CDATA[Se sortimentet och de viktigaste fördelarna med Lumix.]]></translate></item>
+	
+	<item v="section2_subtitle"><translate><![CDATA[En utekväll i London med henne och två av hennes kompisar]]></translate></item>
+
+	<item v="section3_subtitle"><translate><![CDATA[Besöker Barcelona med sin flickvän]]></translate></item>
+	
+	<item v="section4_subtitle"><translate><![CDATA[Vid Formel 1-test i Jerez]]></translate></item>
+
+	<!-- FEATURING THE [CAMERA NAME] -->
+	<item v="featuring"><translate><![CDATA[Tillsammans]]></translate></item>
+	<item v="the"><translate><![CDATA[med]]></translate></item>
+	
+	<!-- FLOATING MAIN MENU -->
+	
+	<item v="menu_overview"><translate><![CDATA[Översikt]]></translate></item>
+	<item v="menu_scene"><translate><![CDATA[Scen]]></translate></item>
+	<item v="menu_lumix_award"><translate><![CDATA[Var med och tävla om Lumix-priset ]]></translate></item>
+	<item v="menu_product_range"><translate><![CDATA[2006 Lumix produktsortiment]]></translate></item>
+	<!-- menu items -->
+	<item v="menu_0"><translate><![CDATA[Hem]]></translate></item>
+	<item v="menu_1"><translate><![CDATA[Följ med Anna på en utekväll i London]]></translate></item>
+	<item v="menu_2"><translate><![CDATA[Följ med när Pietro besöker Barcelona]]></translate></item>
+	<item v="menu_3"><translate><![CDATA[Följ med Thomas till F1-testet ]]></translate></item>
+	<item v="menu_4"><translate><![CDATA[Lumix produktsortiment]]></translate></item>
+	<item v="menu_5"><translate><![CDATA[Var med och tävla om Lumix-priset ]]></translate></item>
+	
+	<!-- PRODUCT INFO -->
+	<!-- Launch product info panel-->
+	<item v="find_out_more_DMC-FX01"><translate><![CDATA[Ta reda på mer om DMC-FX01]]></translate></item>
+	<item v="find_out_more_DMC-FZ7"><translate><![CDATA[Ta reda på mer om DMC-FZ7]]></translate></item>
+	<item v="find_out_more_DMC-TZ1"><translate><![CDATA[Ta reda på mer om DMC-TZ1]]></translate></item>
+	
+	<!-- Camera types -->
+	<item v="cam_type_0"><translate><![CDATA[Rolig och enkel]]></translate></item>
+	<item v="cam_type_1"><translate><![CDATA[Snygg och kompakt]]></translate></item>
+	<item v="cam_type_2"><translate><![CDATA[Globetrottern]]></translate></item>
+	<item v="cam_type_3"><translate><![CDATA[Halv-professionell]]></translate></item>
+	<item v="cam_type_4"><translate><![CDATA[Professionell]]></translate></item>
+	<item v="cam_type_5"><translate><![CDATA[Professionell Enögd spegelreflex]]></translate></item>
+	
+	<!-- Camera specifications. In main.xml, specify id for each spec that applies to a camera -->
+	<item v="spec_0"><translate><![CDATA[Optisk zoom]]></translate></item>
+	<item v="spec_1"><translate><![CDATA[Optisk bildstabilisator]]></translate></item>
+	<item v="spec_2"><translate><![CDATA[Leica-optik]]></translate></item>
+	<item v="spec_3"><translate><![CDATA[Venus Engine ]]></translate></item>
+	<item v="spec_4"><translate><![CDATA[megapixel]]></translate></item>
+	<item v="spec_5"><translate><![CDATA[Manuella funktioner]]></translate></item>
+	<item v="spec_6"><translate><![CDATA[LCD-skärm för fotografering med kameran ovanför huvudet]]></translate></item>
+	<item v="spec_7"><translate><![CDATA[Vidvinkel]]></translate></item>
+	<item v="spec_8"><translate><![CDATA[Enögd spegelreflex]]></translate></item>
+	<item v="spec_9"><translate><![CDATA[Stor LCD-skärm]]></translate></item>
+	<item v="spec_10"><translate><![CDATA[16:9 CCD]]></translate></item>
+	
+	<!-- SECTION: LUMIX AWARD -->
+	
+	<item v="lumix_award_title"><translate><![CDATA[Lumix-priset 2006]]></translate></item>
+	<item v="lumix_award_subtitle"><translate><![CDATA[Lumix-priset är nu inne på sitt femte år och bjuder in alla att vara med i den europeiska digitalfototävlingen.]]></translate></item>
+	<item v="previous_winners"><translate><![CDATA[Tidigare vinnare]]></translate></item>
+	<item v="enter_award"><translate><![CDATA[Var med och tävla om Lumix-priset ]]></translate></item>
+	
+	<!-- Image navigation -->
+	<item v="close"><translate><![CDATA[Stäng]]></translate></item>
+	<item v="prev_image"><translate><![CDATA[Tillbaka]]></translate></item>
+	<item v="next_image"><translate><![CDATA[Nästa]]></translate></item>
+	
+	
+	<!-- SECTION: PRODUCT RANGE -->
+	<item v="featured"><translate><![CDATA[Special]]></translate></item>
+	<item v="product_range_title"><translate><![CDATA[2006 Lumix produktsortiment]]></translate></item>
+	<item v="product_range_subtitle"><translate><![CDATA[Lumix-sortimentet har rätt kamera för dina behov. Läs mer om deras viktigaste funktioner och tekniker här.]]></translate></item>
+	
+	<!-- Camera features -->
+	<item v="leica_lens"><translate><![CDATA[Leica-optik]]></translate></item>
+	
+	<!-- Camera info menu -->
+	<item v="want_to_buy"><translate><![CDATA[Köp den här kameran]]></translate></item>
+	<item v="tech_specs"><translate><![CDATA[Detaljerade specifikationer]]></translate></item>
+	
+	<!-- Camera navigation -->
+	<item v="close_camera"><translate><![CDATA[Stäng
+Kamera]]></translate></item>
+	<item v="prev_camera"><translate><![CDATA[Tillbaka
+Kamera]]></translate></item>
+	<item v="next_camera"><translate><![CDATA[Nästa
+Kamera]]></translate></item>
+
+	<!-- menu -->
+	<item v="see_in_action_DMC-FX01"><translate><![CDATA[SEE THE FX01 IN ACTION]]></translate></item>
+	<item v="see_in_action_DMC-FZ7"><translate><![CDATA[SEE THE FZ7 IN ACTION]]></translate></item>
+	<item v="see_in_action_DMC-TZ1"><translate><![CDATA[SEE THE TZ1 IN ACTION]]></translate></item>
+	<item v="buy_this_camera"><translate><![CDATA[Köp den här kameran]]></translate></item>
+	<item v="more_info"><translate><![CDATA[Detaljerade specifikationer]]></translate></item>
+	
+	<!-- Technologies -->
+<!-- new --><item v="key_technologies"><translate><![CDATA[Lumix fördelar]]></translate></item>
+	
+	<item v="enter_award"><translate><![CDATA[Var med och tävla om Lumix-priset]]></translate></item>
+	
+	
+	<!-- Video stories -->
+	<!-- Anna -->
+	<item v="anna_ch1_title"><translate><![CDATA[Träffas i Annas lägenhet]]></translate></item>
+	<item v="anna_ch2_title"><translate><![CDATA[Göra sig klar]]></translate></item>
+	<item v="anna_ch3_title"><translate><![CDATA[Kul med sminket]]></translate></item>
+	<item v="anna_ch4_title"><translate><![CDATA[I taxin på väg till klubben]]></translate></item>
+	<item v="anna_ch5_title"><translate><![CDATA[Utkastaren]]></translate></item>
+	<item v="anna_ch6_title"><translate><![CDATA[Ridån]]></translate></item>
+	<item v="anna_ch7_title"><translate><![CDATA[Flirta med bartendern]]></translate></item>
+	<item v="anna_ch8_title"><translate><![CDATA[Ett snack i soffan]]></translate></item>
+	<item v="anna_ch9_title"><translate><![CDATA[På dansgolvet]]></translate></item>
+	
+	<!-- Pietro -->
+	<item v="pietro_ch1_title"><translate><![CDATA[I utkanten av Barcelona]]></translate></item>
+	<item v="pietro_ch2_title"><translate><![CDATA[In mot mitten]]></translate></item>
+	<item v="pietro_ch3_title"><translate><![CDATA[På Placa Real]]></translate></item>
+	<item v="pietro_ch4_title"><translate><![CDATA[Utanför caféet]]></translate></item>
+	<item v="pietro_ch5_title"><translate><![CDATA[På hotellet]]></translate></item>
+	<item v="pietro_ch6_title"><translate><![CDATA[På stranden]]></translate></item>
+	<item v="pietro_ch7_title"><translate><![CDATA[En titt på modern arkitektur]]></translate></item>
+	<item v="pietro_ch8_title"><translate><![CDATA[Besök vid Sagrada Familia]]></translate></item>
+	<item v="pietro_ch9_title"><translate><![CDATA[En restaurang med utsikt]]></translate></item>
+	
+	<!-- Tim -->
+	<item v="thomas_ch1_title"><translate><![CDATA[Ankomst till Jerez-banan]]></translate></item>
+	<item v="thomas_ch2_title"><translate><![CDATA[I depån]]></translate></item>
+	<item v="thomas_ch3_title"><translate><![CDATA[Inne i garaget]]></translate></item>
+	<item v="thomas_ch4_title"><translate><![CDATA[På taket till paddocken]]></translate></item>
+	<item v="thomas_ch5_title"><translate><![CDATA[I slutet av depåstoppet]]></translate></item>
+	<item v="thomas_ch6_title"><translate><![CDATA[I andra kurvan]]></translate></item>
+	<item v="thomas_ch7_title"><translate><![CDATA[Utsikt från huvudläktaren]]></translate></item>
+	<item v="thomas_ch8_title"><translate><![CDATA[Torre Tio Pepe]]></translate></item>
+	<item v="thomas_ch9_title"><translate><![CDATA[Stadionknep]]></translate></item>
+	
+	<!-- video navigation -->
+	<item v="play"><translate><![CDATA[Spela upp]]></translate></item>
+	<item v="pause"><translate><![CDATA[Gör uppehåll]]></translate></item>
+	<item v="close_scene"><translate><![CDATA[Stäng scen]]></translate></item>
+	<item v="prev_scene"><translate><![CDATA[Tidigare scen]]></translate></item>
+	<item v="next_scene"><translate><![CDATA[Nästa scen]]></translate></item>
+
+
+	
+	<!-- TABS -->
+	<item v="more_info_image"><translate><![CDATA[Läs mer]]></translate></item>
+	
+	<!-- Hotspot rollover text -->
+	<!-- Photo hint and tips -->
+	<item v="phototip1_roll"><translate><![CDATA[LEARN MORE ABOUT LENS FLARE AND THE EFFECTS OF BACKLIGHT
+FROM A STRONG LIGHT SOURCE]]></translate></item>
+	<item v="phototip2_roll"><translate><![CDATA[Here is photo tip 2]]></translate></item>
+	<item v="phototip3_roll"><translate><![CDATA[Here is photo tip 3]]></translate></item>
+	<!-- picture -->
+	<item v="picture_roll"><translate><![CDATA[Lumix-bild]]></translate></item>
+
+	<!-- Camera settings -->
+	<!-- modes -->
+	<item v="portrait_mode"><translate><![CDATA[Porträttläget]]></translate></item>
+	<item v="simple_mode"><translate><![CDATA[Enkelt läge]]></translate></item>
+	<item v="macro_mode"><translate><![CDATA[Makrobild]]></translate></item>
+	<item v="high_sens_mode"><translate><![CDATA[Högkänslighetsläge]]></translate></item>
+	<item v="night_port_mode"><translate><![CDATA[Nattporträttläget]]></translate></item>
+	<item v="beach_mode"><translate><![CDATA[Strandläget]]></translate></item>
+	<item v="sports_mode"><translate><![CDATA[Sportläget]]></translate></item>
+	<item v="manual_mode"><translate><![CDATA[Manuellt läge]]></translate></item>
+	<item v="scenery_mode"><translate><![CDATA[Landskapsläge]]></translate></item>
+	
+	<!-- Other settings -->
+	<item v="on"><translate><![CDATA[På]]></translate></item>
+	<item v="off"><translate><![CDATA[Av]]></translate></item>
+	<!-- camera flash -->
+	<item v="flash"><translate><![CDATA[FLASH]]></translate></item>
+	
+	<item v="wide_angle"><translate><![CDATA[Vidvinkel]]></translate></item>
+	<item v="auto_red_eye"><translate><![CDATA[Automatisk rödögonreduktion]]></translate></item>
+	
+	<item v="zoom"><translate><![CDATA[zoom]]></translate></item>
+	<item v="optical_zoom"><translate><![CDATA[Optisk zoom]]></translate></item>
+	<item v="extra_optical_zoom"><translate><![CDATA[Extra Optisk zoom]]></translate></item>
+	
+	<item v="spot_metering"><translate><![CDATA[Ljusmätning]]></translate></item>
+	<item v="backlight_compensation"><translate><![CDATA[Motljuskompensation]]></translate></item>
+	
+	
+	
+	
+	<!-- hotspot types -->
+	<item v="hotspot_type0"><translate><![CDATA[Produkt-
+funktion]]></translate></item>
+	<item v="hotspot_type1"><translate><![CDATA[Fototips]]></translate></item>
+	<item v="hotspot_type2"><translate><![CDATA[Lumix-
+bild]]></translate></item>
+
+	<!-- new -->
+	<!-- as displayed in end of video summary -->
+	<item v="hotspot_summary_type0"><translate><![CDATA[Produkt-funktion]]></translate></item>
+	<item v="hotspot_summary_type1"><translate><![CDATA[Fototips]]></translate></item>
+	<item v="hotspot_summary_type2"><translate><![CDATA[LUMIX-bild]]></translate></item>
+	
+	<item v="prev_scene_summary"><translate><![CDATA[Tidigare scen]]></translate></item>
+	<item v="next_scene_summary"><translate><![CDATA[Nästa scen]]></translate></item>
+	<!-- /new -->
+	
+	<!-- Pop up animation text -->
+	<item v="secs"><translate><![CDATA[Sekunder]]></translate></item><!-- an abreviation of "SECONDS" -->
+	<item v="ready"><translate><![CDATA[Beredd]]></translate></item>
+
+<!-- new start -->	
+<!-- Camera dimensions - Width, Height, Depth -->
+	<item v="width_abbr"><translate><![CDATA[W]]></translate></item>
+	<item v="height_abbr"><translate><![CDATA[H]]></translate></item>
+	<item v="depth_abbr"><translate><![CDATA[D]]></translate></item>
+	
+	<item v="large_screen_display"><translate><![CDATA[2,5 tums stor LCD-skärm]]></translate></item>
+	<!-- Camera screen size ratio -->
+	<item v="normal_format"><translate><![CDATA[normalläge]]></translate></item>
+	<item v="wide_format"><translate><![CDATA[widescreen-läge]]></translate></item>
+	
+	<item v="window"><translate><![CDATA[Bildsvisning]]></translate></item>
+	<item v="calendar_view"><translate><![CDATA[Kalendervy]]></translate></item>
+	
+	<item v="normal_mode"><translate><![CDATA[Normalläge]]></translate></item>
+	<item v="wide_mode"><translate><![CDATA[widescreen-läge]]></translate></item>
+	
+	<item v="normal_lens"><translate><![CDATA[Normal]]></translate></item>
+	<item v="wide_lens"><translate><![CDATA[Vidvinkel]]></translate></item>
+	<!-- a camera feature -->
+	<item v="power_lcd"><translate><![CDATA[Power LCD]]></translate></item>
+	<item v="button"><translate><![CDATA[Knapp]]></translate></item>
+	
+	<item v="viewfinder_aligned"><translate><![CDATA[Sökare och LCD linjerade]]></translate></item>
+	<item v="slow_shutter"><translate><![CDATA[Lång slutartid]]></translate></item>
+	<item v="joystick"><translate><![CDATA[Joystick]]></translate></item>
+<!-- new end -->
+
+
+	<!-- Pop up titles -->
+	<item v="popUp_title_feature"><translate><![CDATA[PRODUCT-funktion]]></translate></item>
+	<item v="popUp_title_tip"><translate><![CDATA[Fototips]]></translate></item>
+	<item v="popUp_title_picture"><translate><![CDATA[LUMIX-bild]]></translate></item>
+	
+	
+	<!-- Pop ups -->
+	<!-- Including hotspot roll over text -->
+	<item v="popUp_hotspot_text_0"><translate><![CDATA[Rätt accessoarer]]></translate></item>
+	<item v="popUp_subtitle_0"><translate><![CDATA[Stilren design]]></translate></item>
+	<item v="popUp_body_text_0"><translate><![CDATA[Med sin stilrena och kompakta design är FX01 helt rätt accessoar vid alla tillfällen.]]></translate></item>
+	<item v="popUp_caption_0_0"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_1"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_2"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_3"><translate><![CDATA[]]></translate></item>
+	
+	<item v="popUp_hotspot_text_1"><translate><![CDATA[Enkel att använda]]></translate></item>
+	<item v="popUp_subtitle_1"><translate><![CDATA[Enkelt läge]]></translate></item>
+	<item v="popUp_body_text_1"><translate><![CDATA[I det enkla läget görs alla inställningar automatiskt, så att det blir lätt att ta bra bilder även om du aldig har använt en digitalkamera tidigare. Det är bara att sikta och trycka på avtryckaren.]]></translate></item>
+
+	<item v="popUp_hotspot_text_2"><translate><![CDATA[Perfekta porträtt]]></translate></item>
+	<item v="popUp_subtitle_2"><translate><![CDATA[Porträttläget]]></translate></item>
+	<item v="popUp_body_text_2"><translate><![CDATA[Det här läget hjälper dig att ta vackra porträtt med naturliga hudtoner. Så att du och dina vänner ser bra ut varje gång.]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_3"><translate><![CDATA[Klar att använda]]></translate></item>
+	<item v="popUp_subtitle_3"><translate><![CDATA[Snabbstart]]></translate></item>
+	<item v="popUp_body_text_3"><translate><![CDATA[Ibland behöver du en kamera som är klar på ett ögonblick. TZ1 är klar att använda redan 1,6 sekunder efter att du slagit på den.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_4"><translate><![CDATA[Upp och ner]]></translate></item>
+	<item v="popUp_subtitle_4"><translate><![CDATA[LCD med automatisk visningsvinke]]></translate></item>
+	<item v="popUp_body_text_4"><translate><![CDATA[Vilket är bäst, horisontellt eller vertikalt? När du har tagit en bild visas bilden på LCD-skärmen alltid rätt, oavsett hur du håller kameran.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_5"><translate><![CDATA[Modedags]]></translate></item>
+	<item v="popUp_subtitle_5"><translate><![CDATA[Bildstabilisator inomhus]]></translate></item>
+	<item v="popUp_body_text_5"><translate><![CDATA[När man använder blixt inomhus betyder det ofta att förgrunden bleks bort i onaturligt ljus samtidigt som bakgrunden blir för mörk. Bilstabiliseringstekniken gör att du kan ta bra bilder utan blixt.]]></translate></item>
+	<item v="popUp_caption_5_0"><translate><![CDATA[OIS Av]]></translate></item>
+	<item v="popUp_caption_5_1"><translate><![CDATA[OIS På]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_6"><translate><![CDATA[Storleken spelar roll]]></translate></item>
+	<item v="popUp_subtitle_6"><translate><![CDATA[Liten och kompakt]]></translate></item>
+	<item v="popUp_body_text_6"><translate><![CDATA[Med sin stilrena och kompakta design får FX01 alltid plats i handväskan, så att den kan följa med dig, vart du än går.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_7"><translate><![CDATA[Kom närmare]]></translate></item>
+	<item v="popUp_subtitle_7"><translate><![CDATA[Närbilder med bildstabilisatorn]]></translate></item>
+	<item v="popUp_body_text_7"><translate><![CDATA[För att kunna ta tydliga, skarpa närbilder krävs att kameran är helt stilla. Bildstabilisatorn gör att du kan få bilder utan skakningsoskärpa, oavsett hur nära du går.]]></translate></item>
+	<item v="popUp_caption_7_0"><translate><![CDATA[O.I.S. Av]]></translate></item>
+	<item v="popUp_caption_7_1"><translate><![CDATA[O.I.S. På]]></translate></item>
+	
+	<item v="popUp_hotspot_text_8"><translate><![CDATA[Dela med dig]]></translate></item>
+	<item v="popUp_subtitle_8"><translate><![CDATA[Stor LCD-skärm]]></translate></item>
+	<item v="popUp_body_text_8"><translate><![CDATA[Att visa upp bilderna är den roligaste bilten. En stor LCD-skärm med hög upplösning gör det enkelt att titta på dina bilder direkt efter att du har tagit dem.]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_9"><translate><![CDATA[Visa upp din bästa sida]]></translate></item>
+	<item v="popUp_subtitle_9"><translate><![CDATA[Självporträttläget]]></translate></item>
+	<item v="popUp_body_text_9"><translate><![CDATA[Det kan inte bli enklare att ta ett självporträtt. Rikta kameran mot dig själv så visar den röda lysdioden när du är i fokus. Sedan är det bara att pluta med munnen och trycka på knappen.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_10"><translate><![CDATA[Vidvinkel]]></translate></item>
+	<item v="popUp_subtitle_10"><translate><![CDATA[Vidvinkelobjektiv]]></translate></item>
+	<item v="popUp_body_text_10"><translate><![CDATA[Ibland kan det vara riktigt svårt att få med alla på en och samma bild. Med vidvinkelobjektivet på 28 mm kan du med fler av dina vänner på bilden och ingen blir besviken.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_11"><translate><![CDATA[Se det i widescreen]]></translate></item>
+	<item v="popUp_subtitle_11"><translate><![CDATA[Aspektförhållanden]]></translate></item>
+	<item v="popUp_body_text_11"><translate><![CDATA[Du kan ta bilder i det breda 16:9-formatet. Kan vara bra för vissa motiv!]]></translate></item>
+	
+	<item v="popUp_hotspot_text_12"><translate><![CDATA[Ställ i skärpan]]></translate></item>
+	<item v="popUp_subtitle_12"><translate><![CDATA[Snabb autofokus]]></translate></item>
+	<item v="popUp_body_text_12"><translate><![CDATA[Med snabbautofokusen i 1-punktsläge kan du ta bilder snabbt, enkelt och korrekt varje gång.]]></translate></item>
+
+	<item v="popUp_hotspot_text_13"><translate><![CDATA[Används av utkastare]]></translate></item>
+	<item v="popUp_subtitle_13"><translate><![CDATA[Enkelt läge]]></translate></item>
+	<item v="popUp_body_text_13"><translate><![CDATA[I det enkla läget görs alla inställningar automatiskt, så att det blir lätt att ta bra bilder även om du ger kameran till någon annan. Säg bara ”sikta och tryck av”.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_14"><translate><![CDATA[Var kreativ]]></translate></item>
+	<item v="popUp_subtitle_14"><translate><![CDATA[Olika bildvinkel]]></translate></item>
+	<item v="popUp_body_text_14"><translate><![CDATA[Att hitta ovanlig rekvisita gör ibland all skillnad i världen för en bild. Var lekfull, kreativ och fånig på en och samma gång.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_15"><translate><![CDATA[Partydags]]></translate></item>
+	<item v="popUp_subtitle_15"><translate><![CDATA[Partyläget]]></translate></item>
+	<item v="popUp_body_text_15"><translate><![CDATA[When you’re in the mood to party you don’t want technology getting in the way. Switch to party mode and the camera makes all the right adjustments for the night.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_16"><translate><![CDATA[Curtain raiser]]></translate></item>
+	<item v="popUp_subtitle_16"><translate><![CDATA[Flash red-eye reduction]]></translate></item>
+	<item v="popUp_body_text_16"><translate><![CDATA[När du är på partyhumör vill du inte att tekniken ska stå i vägen. Ställ kameran i partyläge så sköter den om nattens alla in- och omställningar.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_17"><translate><![CDATA[Livet genom ett objektiv]]></translate></item>
+	<item v="popUp_subtitle_17"><translate><![CDATA[Leica DC-optik]]></translate></item>
+	<item v="popUp_body_text_17"><translate><![CDATA[Den världskända Leica DC-optiken som används i FX01 ger bilder med uttrycksfulla detaljer och enastående djup.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_18"><translate><![CDATA[Bli inte för flashig]]></translate></item>
+	<item v="popUp_subtitle_18"><translate><![CDATA[Bildstabilisator inomhus]]></translate></item>
+	<item v="popUp_body_text_18"><translate><![CDATA[I vissa lägen passar det inte med blixt. Med bildstabilisatorn kan du använda längre slutartider och ta dina bilder utan blixt.]]></translate></item>	
+	<item v="popUp_caption_18_0"><translate><![CDATA[FLASH Av]]></translate></item>
+	<item v="popUp_caption_18_1"><translate><![CDATA[FLASH På]]></translate></item>
+
+	<item v="popUp_hotspot_text_19"><translate><![CDATA[Dela med dig]]></translate></item>
+	<item v="popUp_subtitle_19"><translate><![CDATA[Stor LCD-skärm]]></translate></item>
+	<item v="popUp_body_text_19"><translate><![CDATA[Att visa upp bilderna är den roligaste biten. En stor LCD-skärm med hög upplösning gör det enkelt att titta på dina bilder direkt efter att du har tagit dem.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_20"><translate><![CDATA[Vidvinkel]]></translate></item>
+	<item v="popUp_subtitle_20"><translate><![CDATA[Vidvinkelobjektiv]]></translate></item>
+	<item v="popUp_body_text_20"><translate><![CDATA[Ibland kan det vara riktigt svårt att få med alla på en och samma bild. Med vidvinkelobjektivet på 28 mm kan du med fler av dina vänner på bilden och ingen blir besviken.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_21"><translate><![CDATA[Zoom zoom]]></translate></item>
+	<item v="popUp_subtitle_21"><translate><![CDATA[3.6x zoom]]></translate></item>
+	<item v="popUp_body_text_21"><translate><![CDATA[Ibland vill man komma närmare händelsernas centrum. Med 3,6x-zoomen kan du ta bilder på dina kompisar vad de än hittar på.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_22"><translate><![CDATA[Uppspelningen]]></translate></item>
+	<item v="popUp_subtitle_22"><translate><![CDATA[Uppspelningsläge]]></translate></item>
+	<item v="popUp_body_text_22"><translate><![CDATA[Att titta på dina bilder är både roligt och enkelt.  Välj ett bildspel med 1, 9 eller 25 samtidiga bilder, eller med kalendervisning, som visar tumnagelbilder på alla bilder du har tagit ett visst datum.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_23"><translate><![CDATA[Passar bra]]></translate></item>
+	<item v="popUp_subtitle_23"><translate><![CDATA[Kompakt design]]></translate></item>
+	<item v="popUp_body_text_23"><translate><![CDATA[Den kompakta designen gör att FX01 passar in även i riktigt tajta jeans.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_24"><translate><![CDATA[Håll dig kvar på scenen]]></translate></item>
+	<item v="popUp_subtitle_24"><translate><![CDATA[Handrörelser med bildstabilisator]]></translate></item>
+	<item v="popUp_body_text_24"><translate><![CDATA[Du kan fortfarande vara med där det händer, samtidigt som du fotograferar alltihop. Bekymmer med skakningsoskärpa elimineras med vår bildstabiliseringsteknik.
+Det betyder att dina bilder är stilla även när du inte kan vara det.]]></translate></item>	
+	<item v="popUp_caption_24_0"><translate><![CDATA[O.I.S. Av]]></translate></item>
+	<item v="popUp_caption_24_1"><translate><![CDATA[O.I.S. På]]></translate></item>
+	
+
+	<item v="popUp_hotspot_text_25"><translate><![CDATA[Dela med dig]]></translate></item>
+	<item v="popUp_subtitle_25"><translate><![CDATA[Stor LCD-skärm]]></translate></item>
+	<item v="popUp_body_text_25"><translate><![CDATA[Att visa upp bilderna är den roligaste biten. En stor LCD-skärm med hög upplösning gör det enkelt att titta på dina bilder direkt efter att du har tagit dem.]]></translate></item>	
+
+
+
+<!-- new onwards 17-03-06 --><!-- BARCELONA -->
+
+	<item v="popUp_hotspot_text_26"><translate><![CDATA[Res med lätt packning]]></translate></item>
+	<item v="popUp_subtitle_26"><translate><![CDATA[Kompakt design]]></translate></item>
+	<item v="popUp_body_text_26"><translate><![CDATA[Med sin snygga och kompakta design passar TZ1 lätt i fickan, så du kan alltid resa med lätt packning.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_27"><translate><![CDATA[Fantastiska zoombilder]]></translate></item>
+	<item v="popUp_subtitle_27"><translate><![CDATA[Stark inzoomning med bildstabilisering]]></translate></item>
+	<item v="popUp_body_text_27"><translate><![CDATA[När du tar bilder med zoomobjektiv förstärks kamerans alla rörelser. Med optisk bildstabilisering kan du ta skakningsfria bilder med stark inzoomning.]]></translate></item>	
+<!-- new --><item v="popUp_caption_27_0"><translate><![CDATA[O.I.S. På]]></translate></item>
+<!-- new --><item v="popUp_caption_27_1"><translate><![CDATA[O.I.S. Av]]></translate></item>
+	
+	<item v="popUp_hotspot_text_28"><translate><![CDATA[Ett stort litet zoom-objektiv]]></translate></item>
+	<item v="popUp_subtitle_28"><translate><![CDATA[High zoom]]></translate></item>
+	<item v="popUp_body_text_28"><translate><![CDATA[Det kraftfulla zoomobjektivet med 10x optisk zoom motsvarar ett 350 mm-objektiv på en vanlig småbildskamera men får otroligt nog plats i en mycket liten kamera.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_28_0"><translate><![CDATA[1x zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_1"><translate><![CDATA[3X zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_2"><translate><![CDATA[6X zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_3"><translate><![CDATA[10X zoom]]></translate></item>
+	
+	<item v="popUp_hotspot_text_29"><translate><![CDATA[Koll på dagarna]]></translate></item>
+	<item v="popUp_subtitle_29"><translate><![CDATA[Resedatumsinställning]]></translate></item>
+	<item v="popUp_body_text_29"><translate><![CDATA[Du kan ställa in avresedagen för din semesterdag på TZ1 och sedan visa vilken dag på resan som bilden togs. Toppen när du vill organisera dina semesterbilder.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_29_0"><translate><![CDATA[1 Dag]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_1"><translate><![CDATA[2 Dag]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_2"><translate><![CDATA[]]></translate></item>
+
+
+
+
+	<item v="popUp_hotspot_text_30"><translate><![CDATA[Hitta en synpunkt]]></translate></item>
+	<item v="popUp_subtitle_30"><translate><![CDATA[Olika bildvinkel]]></translate></item>
+	<item v="popUp_body_text_30"><translate><![CDATA[Ibland lönar det sig att studera motivet lite mer i detalj. Genom att flytta dig och undersöka olika vinklar kan du ofta hitta riktigt intressanta bilder.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_30_0"><translate><![CDATA[Se 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_1"><translate><![CDATA[Se 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_2"><translate><![CDATA[Se 3]]></translate></item>
+		
+	<item v="popUp_hotspot_text_31"><translate><![CDATA[På språng]]></translate></item>
+	<item v="popUp_subtitle_31"><translate><![CDATA[Handrörelser med bildstabilisator]]></translate></item>
+	<item v="popUp_body_text_31"><translate><![CDATA[När du rör på dig är det inte så konstigt om du får skakningsoskärpa och suddiga bilder. Bildstabiliseringstekniken kompenserar för rörelser genom att använda gyro-sensorer så att objektivet rör sig i motsatt riktning, så att du alltid får klara och tydliga bilder.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_31_0"><translate><![CDATA[O.I.S. Av]]></translate></item>
+	<!-- new --><item v="popUp_caption_31_1"><translate><![CDATA[O.I.S. På]]></translate></item>
+
+	<item v="popUp_hotspot_text_32"><translate><![CDATA[Snabbstart]]></translate></item>
+	<item v="popUp_subtitle_32"><translate><![CDATA[Snabbstart]]></translate></item>
+	<item v="popUp_body_text_32"><translate><![CDATA[Ibland behöver du en kamera som är klar på ett ögonblick. TZ1 är klar att använda redan 0,95 sekunder efter att du slagit på den.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_33"><translate><![CDATA[Reflektera]]></translate></item>
+	<item v="popUp_subtitle_33"><translate><![CDATA[Reflektioner]]></translate></item>
+	<item v="popUp_body_text_33"><translate><![CDATA[Reflektioner
+Du kan åstadkomma intressanta kompositioner genom att använda reflektioner. Vatten på en gata, bilfönster eller glasfasader kan bidra till att skapa en speciell känsla i en bild.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_34"><translate><![CDATA[Precisa porträtt]]></translate></item>
+	<item v="popUp_subtitle_34"><translate><![CDATA[Högkänslighetsläge]]></translate></item>
+	<item v="popUp_body_text_34"><translate><![CDATA[Du kan få bilder med rörelseoskärpa om ditt motiv rör sig när du tar bilden. Genom att använda högkänslighetsläget kan oskärpan minskas. Den minskar effektivt slutartiden för att skapa tydliga och skarpa bilder.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_34_0"><translate><![CDATA[Med hög känslighet]]></translate></item>
+	<!-- new --><item v="popUp_caption_34_1"><translate><![CDATA[Utan hög känslighet]]></translate></item>
+	
+	<item v="popUp_hotspot_text_35"><translate><![CDATA[Leica DC-optik]]></translate></item>
+	<item v="popUp_subtitle_35"><translate><![CDATA[Leica DC-optik]]></translate></item>
+	<item v="popUp_body_text_35"><translate><![CDATA[Den världskända Leica DC-optiken som används i TZ1 ger bilder med uttrycksfulla detaljer och enastående djup.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_36"><translate><![CDATA[Ställ i skärpan]]></translate></item>
+	<item v="popUp_subtitle_36"><translate><![CDATA[Hjälpbelysning för AF]]></translate></item>
+	<item v="popUp_body_text_36"><translate><![CDATA[Dåligt upplysta miljöer betyder ofta att autofokusen inte fungerar. Med hjälpbelysningen förbättras noggrannheten i fokuseringen.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_37"><translate><![CDATA[Ursäkta mig?]]></translate></item>
+	<item v="popUp_subtitle_37"><translate><![CDATA[Enkelt läge]]></translate></item>
+	<item v="popUp_body_text_37"><translate><![CDATA[I det enkla läget görs alla inställningar automatiskt, så att det blir lätt att ta bra bilder även om du aldig har använt kameran tidigare. Det är bara att sikta och trycka på avtryckaren.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_38"><translate><![CDATA[Stor LCD-skärm]]></translate></item>
+	<item v="popUp_subtitle_38"><translate><![CDATA[Stor LCD-skärm]]></translate></item>
+	<item v="popUp_body_text_38"><translate><![CDATA[En stor LCD-skärm gör det enkelt att titta på dina bilder direkt efter att du har tagit dem. Med sina 2,5 tum och 207 000 pixlar gör den högupplösta LCD-skärmen det också enkelt att se text och små tumnagelbilder.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_39"><translate><![CDATA[Blå timmen]]></translate></item>
+	<item v="popUp_subtitle_39"><translate><![CDATA[Använda ljuset]]></translate></item>
+	<item v="popUp_body_text_39"><translate><![CDATA[När skymningen faller efter en vacker dag får ljuset en ny karaktär. Det kallas ofta för ”blå timmen”. När du tar bilder i det här ljuset får de en helt unik färgrikedom.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_40"><translate><![CDATA[Snabbfokus]]></translate></item>
+	<item v="popUp_subtitle_40"><translate><![CDATA[Snabb autofokus]]></translate></item>
+	<item v="popUp_body_text_40"><translate><![CDATA[Välj en av flera autofokuslägen; spot-, 1-punkts-, 3-punkts-, eller 9-punks-läget enligt det motiv du ska fotografera. Du kan ta dina bilder snabbt, enkelt och korrekt varje gång.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_40_0"><translate><![CDATA[9-punktsmätning]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_1"><translate><![CDATA[3-punktsmätning]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_2"><translate><![CDATA[1-punktsmätning]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_3"><translate><![CDATA[1-Spotmätning]]></translate></item>
+	
+	<item v="popUp_hotspot_text_41"><translate><![CDATA[Nattälskaren]]></translate></item>
+	<item v="popUp_subtitle_41"><translate><![CDATA[Nattporträttläget]]></translate></item>
+	<item v="popUp_body_text_41"><translate><![CDATA[När blixt används på natten kan den förstöra det riktiga ljuset i bilden. Men blixten använd tillsammans med funktionen för lång slutartid och bildstabilisatorn gör att kameran kan ta in mer ljus. I nattporträttläget kan du fånga rätt stämning i bilden.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_42"><translate><![CDATA[Ljusstark LCD-skärm]]></translate></item>
+	<item v="popUp_subtitle_42"><translate><![CDATA[Ljusstark LCD-skärm]]></translate></item>
+	<item v="popUp_body_text_42"><translate><![CDATA[Det kan vara svårt att se skärmen en solig dag, men tryck bara på knappen Power LCD så blir skärmen 40% ljusare.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_43"><translate><![CDATA[Strandliv]]></translate></item>
+	<item v="popUp_subtitle_43"><translate><![CDATA[Strandläget]]></translate></item>
+	<item v="popUp_body_text_43"><translate><![CDATA[Starkt solljus är alltid välkommet på stranden, men betyder ofta att dina bilder blir för mörka. Med strandläget kan du ta ljusa bilder utan att behöva oroa dig för något annat än din solbränna.]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_0"><translate><![CDATA[Utan strandläge]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_1"><translate><![CDATA[Med strandläge]]></translate></item>
+
+	<item v="popUp_hotspot_text_44"><translate><![CDATA[Fånga rörelsen]]></translate></item>
+	<item v="popUp_subtitle_44"><translate><![CDATA[Flerbildstagning]]></translate></item>
+	<item v="popUp_body_text_44"><translate><![CDATA[Du kan ta upp till 5 bilder på varandra med 3 bilder i sekunden i standardläget. TZ1 tillåter också att du tar obegränsat antal bilder i följd tills SD-minneskortet är fullt.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_44_0"><translate><![CDATA[Bildruta 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_1"><translate><![CDATA[Bildruta 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_2"><translate><![CDATA[Bildruta 3]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_3"><translate><![CDATA[Bildruta 4]]></translate></item>
+	
+
+
+	<item v="popUp_hotspot_text_45"><translate><![CDATA[Abstrakt tänkande]]></translate></item>
+	<item v="popUp_subtitle_45"><translate><![CDATA[Olika bildvinkel]]></translate></item>
+	<item v="popUp_body_text_45"><translate><![CDATA[Genom att titta på saker och ting på ett nytt sätt kan man åstadkomma överraskande resultat. Experimentera med dina bilder och sätt ihop ett collage med olika vinklar av samma motiv.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_45_0"><translate><![CDATA[Se 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_1"><translate><![CDATA[Se 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_2"><translate><![CDATA[Se 3]]></translate></item>
+
+	<item v="popUp_hotspot_text_46"><translate><![CDATA[Förgrund mot bakgrund]]></translate></item>
+	<item v="popUp_subtitle_46"><translate><![CDATA[Komposition]]></translate></item>
+	<item v="popUp_body_text_46"><translate><![CDATA[Intressanta kompositioner kan man också göra genom att ställa olika förgrunds- och bakgrundselement mot varandra.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_47"><translate><![CDATA[Abstrakt zoom]]></translate></item>
+	<item v="popUp_subtitle_47"><translate><![CDATA[Abstraktioner]]></translate></item>
+	<item v="popUp_body_text_47"><translate><![CDATA[Genom att avända det kraftfulla zoomobjektivet kan du beskära bilderna i kameran och skapa abstrakta detaljer.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_48"><translate><![CDATA[Sent eftermiddagsljus]]></translate></item>
+	<item v="popUp_subtitle_48"><translate><![CDATA[Sent dagsljus]]></translate></item>
+	<item v="popUp_body_text_48"><translate><![CDATA[En vacker dag kan ljuset sent på eftermiddagen få en djupblå färg som ger värme i dina bilder.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_49"><translate><![CDATA[Att se ljuset]]></translate></item>
+	<item v="popUp_subtitle_49"><translate><![CDATA[Ljusmätning]]></translate></item>
+	<item v="popUp_body_text_49"><translate><![CDATA[Du kan använda speciella ljuskällor till din fördel. Genom att använda spot-mätning för att mäta ljuset som reflekteras från en kontorsbyggnad kan du få en helt annan sorts bild.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_50"><translate><![CDATA[Res med lätt packning]]></translate></item>
+	<item v="popUp_subtitle_50"><translate><![CDATA[Kompakt design]]></translate></item>
+	<item v="popUp_body_text_50"><translate><![CDATA[Med sin snygga och kompakta design passar TZ1 lätt i fickan, så du kan alltid resa med lätt packning.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_51"><translate><![CDATA[Ett stort litet zoom-objektiv]]></translate></item>
+	<item v="popUp_subtitle_51"><translate><![CDATA[10x optisk zoom]]></translate></item>
+	<item v="popUp_body_text_51"><translate><![CDATA[Det kraftfulla zoomobjektivet med 10x optisk zoom motsvarar ett 350 mm-objektiv på en vanlig småbildskamera men får otroligt nog plats i en mycket liten kamera.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_51_0"><translate><![CDATA[1 X zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_1"><translate><![CDATA[2 X zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_2"><translate><![CDATA[5 X zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_3"><translate><![CDATA[10 X zoom]]></translate></item>
+	
+	<item v="popUp_hotspot_text_52"><translate><![CDATA[Ta zoom-bilder]]></translate></item>
+	<item v="popUp_subtitle_52"><translate><![CDATA[Stark inzoomning med bildstabilisering]]></translate></item>
+	<item v="popUp_body_text_52"><translate><![CDATA[När du tar bilder med kraftig inzoomning förstärks kamerans alla rörelser. Med optisk bildstabilisering kan du ta skakningsfria bilder med stark inzoomning.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_52_0"><translate><![CDATA[O.I.S. Av]]></translate></item>
+	<!-- new --><item v="popUp_caption_52_1"><translate><![CDATA[O.I.S. På]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_53"><translate><![CDATA[Se den i widescreen]]></translate></item>
+	<item v="popUp_subtitle_53"><translate><![CDATA[Aspektförhållanden]]></translate></item>
+	<item v="popUp_body_text_53"><translate><![CDATA[Du kan ta bilder i 16:9-formatet. Sätt sedan in SD-minneskortet i en tv som har uttag för SD-kort så kan du titta på bilderna i perfekt widescreen-format.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_54"><translate><![CDATA[Perfekt uttryck]]></translate></item>
+	<item v="popUp_subtitle_54"><translate><![CDATA[Rödögonreduktion]]></translate></item>
+	<item v="popUp_body_text_54"><translate><![CDATA[Perfekt uttryck
+Med blixt får man ofta röda ögon på bilderna. Med blixten inställd på rödögonreduktion får du två snabba blixtar, så är det problemet löst.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_54_0"><translate><![CDATA[Utan automatisk rödögonreduktion]]></translate></item>
+	<!-- new --><item v="popUp_caption_54_1"><translate><![CDATA[Med automatisk rödögonreduktion]]></translate></item>
+
+	<item v="popUp_hotspot_text_55"><translate><![CDATA[I datumordning]]></translate></item>
+	<item v="popUp_subtitle_55"><translate><![CDATA[Kalendervy]]></translate></item>
+	<item v="popUp_body_text_55"><translate><![CDATA[TZ1 kan ordna dina bilder i ordning efter vilken dag du har tagit dem. Det kan vara till stor hjälp om du har många bilder att hålla ordning på.]]></translate></item>	
+
+
+
+
+
+	<!-- F1 -->
+
+	<item v="popUp_hotspot_text_56"><translate><![CDATA[Kreativt fokus]]></translate></item>
+	<item v="popUp_subtitle_56"><translate><![CDATA[Skärpedjup]]></translate></item>
+	<item v="popUp_body_text_56"><translate><![CDATA[Skärpedjupet är det skarpa området framför, bakom och runt om motivet. Med 12x zoom är det enkelt att åstadkomma kort skärpedjup. Det kan användas som ett medvetet stilistiskt grepp med ett enda element i fokus.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_57"><translate><![CDATA[Intelligent design]]></translate></item>
+	<item v="popUp_subtitle_57"><translate><![CDATA[Design]]></translate></item>
+	<item v="popUp_body_text_57"><translate><![CDATA[Kameran är lätt att hålla i och designad så att alla kontroller finns där du behöver dem.  Den elektroniska sökaren och LCD-skärmen är dessutom linjerade för att skillnaderna ska bli så små som möjligt mellan din komposition i sökaren och den färdiga bilden.]]></translate></item>	
+<!-- new 22-03-2006 --><item v="popUp_caption_57_0"><translate><![CDATA[Kontroller]]></translate></item>
+	
+	<item v="popUp_hotspot_text_58"><translate><![CDATA[Skarpa närbilder]]></translate></item>
+	<item v="popUp_subtitle_58"><translate><![CDATA[: Makrobild med bildstabilisatorn]]></translate></item>
+	<item v="popUp_body_text_58"><translate><![CDATA[För att kunna ta tydliga, skarpa närbilder krävs att kameran är helt stilla. Med bildstabiliseringstekniken kan du ta skakningsfria närbilder utan att behöva använda stativ.]]></translate></item>	
+<!-- new --><item v="popUp_caption_58_0"><translate><![CDATA[O.I.S. På]]></translate></item>
+<!-- new --><item v="popUp_caption_58_1"><translate><![CDATA[O.I.S. Av]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_59"><translate><![CDATA[Kraftigt  motljus]]></translate></item>
+	<item v="popUp_subtitle_59"><translate><![CDATA[Motljuskompensation]]></translate></item>
+	<item v="popUp_body_text_59"><translate><![CDATA[Kraftigt motljus, exempelvis direkt solljus, kan skapa ofördelaktiga villkor för fotografering.  Det här problemet kan lösas med motljuskompansation genom att du trycker ned den övre markörknappen i enkelt läge.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_60"><translate><![CDATA[Omkopplare som är enkel att använda]]></translate></item>
+	<item v="popUp_subtitle_60"><translate><![CDATA[Lägesomkopplare]]></translate></item>
+	<item v="popUp_body_text_60"><translate><![CDATA[Omkopplare som är enkel att använda
+Lägesomkopplaren gör att du kan anpassa fotograferingen till motivet. Du kan välja mellan automatisk exponering (AE) enligt program, med bländarprioritet, eller slutartidsprioritet, använda manuell inställning, enkelt läge (Simple), makro, sport (Motion Image), landskapsbilder och uppspelning.]]></translate></item>	
+<!-- new --><item v="popUp_caption_60_0"><translate><![CDATA[Lägesomkopplare]]></translate></item>
+
+	<item v="popUp_hotspot_text_61"><translate><![CDATA[Skarpa närbilder]]></translate></item>
+	<item v="popUp_subtitle_61"><translate><![CDATA[Makrobild med bildstabilisatorn]]></translate></item>
+	<item v="popUp_body_text_61"><translate><![CDATA[För att kunna ta tydliga, skarpa närbilder krävs att kameran är helt stilla. Med bildstabiliseringstekniken kan du ta skakningsfria närbilder utan att behöva använda stativ.]]></translate></item>	
+<!-- new --><item v="popUp_caption_61_0"><translate><![CDATA[O.I.S. På]]></translate></item>
+<!-- new --><item v="popUp_caption_61_1"><translate><![CDATA[O.I.S. Av]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_62"><translate><![CDATA[Vitbalans]]></translate></item>
+	<item v="popUp_subtitle_62"><translate><![CDATA[Vitbalans]]></translate></item>
+	<item v="popUp_body_text_62"><translate><![CDATA[Olika ljuskällor har olika färgtemperatur, vilket gör att bilden kan få onaturliga färger. Det nakna ljuset i garaget skulle göra bilden onaturligt grön, men genom att ställa in vitbalansen på det automatiska läget anpassar kameran sig till den nya belysningssituationen.]]></translate></item>	
+<!-- new --><item v="popUp_caption_62_0"><translate><![CDATA[Automatisk  vitbalans]]></translate></item>
+<!-- new --><item v="popUp_caption_62_1"><translate><![CDATA[]]></translate></item>
+
+	<item v="popUp_hotspot_text_63"><translate><![CDATA[Svagt ljus]]></translate></item>
+	<item v="popUp_subtitle_63"><translate><![CDATA[Bildstabilisator inomhus]]></translate></item>
+	<item v="popUp_body_text_63"><translate><![CDATA[När man använder blixt inomhus betyder det ofta att förgrunden bleks bort i onaturligt ljus samtidigt som bakgrunden blir för mörk. Genom att använda en längre slutartid, vilket möjliggörs med bildstabilisatorn, kan du fånga de naturliga ljusförhållandena utan att använda blixt.]]></translate></item>	
+<!-- new --><item v="popUp_caption_63_0"><translate><![CDATA[FLASH Av]]></translate></item>
+<!-- new --><item v="popUp_caption_63_1"><translate><![CDATA[FLASH På]]></translate></item>
+
+	<item v="popUp_hotspot_text_64"><translate><![CDATA[Flerbildstagning]]></translate></item>
+	<item v="popUp_subtitle_64"><translate><![CDATA[Flerbildstagning]]></translate></item>
+	<item v="popUp_body_text_64"><translate><![CDATA[Du kan ta upp till 13 bilder på varandra med 3 bilder i sekunden i standardläget. FZ7 kan ta obegränsat antal bilder i följd, så det är bara att fortsätta ta bilder till SD-kortet är fullt.]]></translate></item>	
+<!-- new --><item v="popUp_caption_64_0"><translate><![CDATA[Bildruta 1]]></translate></item>
+<!-- new --><item v="popUp_caption_64_1"><translate><![CDATA[Bildruta 2]]></translate></item>
+<!-- new --><item v="popUp_caption_64_2"><translate><![CDATA[Bildruta 3]]></translate></item>
+<!-- new --><item v="popUp_caption_64_3"><translate><![CDATA[Bildruta 4]]></translate></item>
+
+	<item v="popUp_hotspot_text_65"><translate><![CDATA[LCD-skärm för fotografering med kameran ovanför huvudet]]></translate></item>
+	<item v="popUp_subtitle_65"><translate><![CDATA[LCD-skärm för fotografering med kameran ovanför huvudet]]></translate></item>
+	<item v="popUp_body_text_65"><translate><![CDATA[Den här funktionen gör det enklare att se LCD-skärmen när du håller kameran över huvudet för att kunna ta bilder över en folksamling.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_66"><translate><![CDATA[Snabb slutartid]]></translate></item>
+	<item v="popUp_subtitle_66"><translate><![CDATA[Snabb slutartid]]></translate></item>
+	<item v="popUp_body_text_66"><translate><![CDATA[När du ska fotografera ett motiv som rör sig riktigt snabbt, exempelvis en Formel 1-bil som kör i över 320 km/h, behöver du kunna använda en snabb slutartid för att kunna frysa bildens rörelse.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_67"><translate><![CDATA[Panorering]]></translate></item>
+	<item v="popUp_subtitle_67"><translate><![CDATA[Panoreringsläge]]></translate></item>
+	<item v="popUp_body_text_67"><translate><![CDATA[Med panorering följer du motivet, exempelvis en bil, med kameran. Bakgrunden blir suddig och skärpan ligger på motivet. Panoreringsläget ställer in en lång slutartid för att öka känslan av rörelse.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_68"><translate><![CDATA[Kraftfull zoom]]></translate></item>
+	<item v="popUp_subtitle_68"><translate><![CDATA[Kraftfull zoom]]></translate></item>
+	<item v="popUp_body_text_68"><translate><![CDATA[FZ7 har ett Lecia DC-objektiv med en enastående 12x optisk zoom, motsvarande en 36 till 432 mm-optik på en kamera för småbildsfilm. En filmkamera med ett optiskt zoomobjektiv som är så här kraftfullt skulle vara så stort och tungt att du inte skulle kunna hantera det med en hand.]]></translate></item>	
+<!-- new --><item v="popUp_caption_68_0"><translate><![CDATA[1X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_68_1"><translate><![CDATA[6X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_68_2"><translate><![CDATA[12X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_68_3"><translate><![CDATA[16,5x extra zoom]]></translate></item>
+
+	<item v="popUp_hotspot_text_69"><translate><![CDATA[Snabb avtryckare]]></translate></item>
+	<item v="popUp_subtitle_69"><translate><![CDATA[Snabb avtryckare]]></translate></item>
+	<item v="popUp_body_text_69"><translate><![CDATA[FZ7 har supersnabb svarstid med en fördröjning av avtryckaren på bara 0,008 sekunder. Du kan ta dina bilder snabbt, bekvämt och korrekt varje gång.]]></translate></item>	
+<!-- new --><item v="popUp_caption_69_0"><translate><![CDATA[0.0008 Sekunder]]></translate></item>
+<!-- new --><item v="popUp_caption_69_1"><translate><![CDATA[0.0016 Sekunder]]></translate></item>
+<!-- new --><item v="popUp_caption_69_2"><translate><![CDATA[0.0024 Sekunder]]></translate></item>
+<!-- new --><item v="popUp_caption_69_3"><translate><![CDATA[0.0032 Sekunder]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_70"><translate><![CDATA[Reflektioner]]></translate></item>
+	<item v="popUp_subtitle_70"><translate><![CDATA[Kreativitet]]></translate></item>
+	<item v="popUp_body_text_70"><translate><![CDATA[Du kan åstadkomma intressanta kompositioner genom att använda reflektioner. Vatten på en gata, bilfönster eller glasfasader kan bidra till att skapa en speciell känsla i en bild.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_71"><translate><![CDATA[Manuell fokusering]]></translate></item>
+	<item v="popUp_subtitle_71"><translate><![CDATA[Manuella funktioner]]></translate></item>
+	<item v="popUp_body_text_71"><translate><![CDATA[Joysticken på kamerans baksida gör att du kan ställa in fokus snabbt och korrekt. Du kan också använda den manuella fokuseringshjälpen, som förstorar mittpartiet av LCD-skärmen så att det blir lättare att ställa in skärpan.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_72"><translate><![CDATA[Lättanvänd joystick]]></translate></item>
+	<item v="popUp_subtitle_72"><translate><![CDATA[: Lång slutartid med joysticken]]></translate></item>
+	<item v="popUp_body_text_72"><translate><![CDATA[Du kan ställa in bländare, sluartid och skärpa med joysticken medan du komponerar bilden på LCD-skärmen.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_73"><translate><![CDATA[Leica DC-optik]]></translate></item>
+	<item v="popUp_subtitle_73"><translate><![CDATA[Leica DC-optik]]></translate></item>
+	<item v="popUp_body_text_73"><translate><![CDATA[Objektivets prestanda är av avgörande betydelse för om bilderna ska bli bra. Leica Camera AG har tillverkat världsberömda objektiv sedan 1913. Deras objektiv ger bilder med uttrycksfulla detaljer och enastående djup.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_74"><translate><![CDATA[Sportläget]]></translate></item>
+	<item v="popUp_subtitle_74"><translate><![CDATA[Sportläget]]></translate></item>
+	<item v="popUp_body_text_74"><translate><![CDATA[I det här läget används en snabbare slutartid och bländaren ställs in automatiskt, så du kan koncentrera dig på att ta bilden genom att trycka på avtryckaren vid rätt tillfälle.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_75"><translate><![CDATA[Abstraktioner]]></translate></item>
+	<item v="popUp_subtitle_75"><translate><![CDATA[Kreativitet]]></translate></item>
+	<item v="popUp_body_text_75"><translate><![CDATA[Genom att använda det kraftfulla zoomobjektivet på FZ7 har en abstrakt bild av däcken runt banan skapats. När bilderna beskärs så här snävt skapas bilder som är väldigt intressanta och ovanliga.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_76"><translate><![CDATA[Ljusstark LCD-skärm]]></translate></item>
+	<item v="popUp_subtitle_76"><translate><![CDATA[Ljusstark LCD-skärm]]></translate></item>
+	<item v="popUp_body_text_76"><translate><![CDATA[FZ7 har en 2,5 tums LCD-skärm med hög upplösning och Power-LCD-funktion. Rör bara vid Power-LCD-knappen så blir bildskärmen ca 40% ljusare, då blir det enklare att se bilderna på soliga dagar.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_77"><translate><![CDATA[Autoexponering]]></translate></item>
+	<item v="popUp_subtitle_77"><translate><![CDATA[: Automatisk exponering i programläget]]></translate></item>
+	<item v="popUp_body_text_77"><translate><![CDATA[Programläget bestämmer den bästa kombinationen av slutare och bländare. Du kan använda programändringsfunktionen för att ändra inställningarna för slutare och bländare men med bibehållen exponering.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_78"><translate><![CDATA[Olika bildvinkel]]></translate></item>
+	<item v="popUp_subtitle_78"><translate><![CDATA[Kreativitet]]></translate></item>
+	<item v="popUp_body_text_78"><translate><![CDATA[Ibland är det verkligen idé att titta på saker och ting ur en ny vinkel. Upprepningen av sätena som sträcker ut sig längs huvudläktaren skapar ett annorlunda perspektiv.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_79"><translate><![CDATA[Kraftfull zoom]]></translate></item>
+	<item v="popUp_subtitle_79"><translate><![CDATA[Kraftfull zoom]]></translate></item>
+	<item v="popUp_body_text_79"><translate><![CDATA[Vid 3 megapixlar kan zoomförhållandet utökas till 16,5x med extra optisk zoom med minimal försämring av bildkvaliteten, genom att avsiktligt bara använda mittpartiet på CCD:n]]></translate></item>	
+<!-- new --><item v="popUp_caption_79_0"><translate><![CDATA[1X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_79_1"><translate><![CDATA[6X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_79_2"><translate><![CDATA[12X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_79_3"><translate><![CDATA[16.5X zoom]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_80"><translate><![CDATA[Stor LCD-skärm]]></translate></item>
+	<item v="popUp_subtitle_80"><translate><![CDATA[Stor LCD-skärm]]></translate></item>
+	<item v="popUp_body_text_80"><translate><![CDATA[Den stora LCD-skärmen gör det enkelt att fokusera, komponera och använda exempelvis 25 bilders tumnagelvisning och kalendervyn, utan att du behöver anstränga ögonen.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_81"><translate><![CDATA[Uppspelning]]></translate></item>
+	<item v="popUp_subtitle_81"><translate><![CDATA[Uppspelningsläge]]></translate></item>
+	<item v="popUp_body_text_81"><translate><![CDATA[Att titta på dina bilder är både roligt och enkelt.  Välj ett bildspel med 1, 9 eller 25 samtidiga bilder, eller med kalendervyn, som visar tumnagelbilder på alla bilder du har tagit ett visst datum.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_82"><translate><![CDATA[Kraftfull zoom]]></translate></item>
+	<item v="popUp_subtitle_82"><translate><![CDATA[16,5X Optisk zoom ]]></translate></item>
+	<item v="popUp_body_text_82"><translate><![CDATA[FZ7 ger dig möjlighet att använda ett antal olika autofokuslägen—spotmätning, 1-punkts- (normal eller höghastighet), 3-punkts- och 9-punktsmätning. Du kan också använda hjälpbelysningen för autofokus för att enklare kunna ställa in skärpan i svagt ljus.]]></translate></item>	
+<!-- new --><item v="popUp_caption_82_0"><translate><![CDATA[1X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_82_1"><translate><![CDATA[6X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_82_2"><translate><![CDATA[12X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_82_3"><translate><![CDATA[16.5X zoom]]></translate></item>
+	
+	<item v="popUp_hotspot_text_83"><translate><![CDATA[Snabb autofokus]]></translate></item>
+	<item v="popUp_subtitle_83"><translate><![CDATA[Snabb autofokus]]></translate></item>
+	<item v="popUp_body_text_83"><translate><![CDATA[FZ7 ger dig möjlighet att använda ett antal olika autofokuslägen—spotmätning, 1-punkts- (normal eller höghastighet), 3-punkts- och 9-punktsmätning. Du kan också använda hjälpbelysningen för autofokus för att enklare kunna ställa in skärpan i svagt ljus.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_84"><translate><![CDATA[Landskap]]></translate></item>
+	<item v="popUp_subtitle_84"><translate><![CDATA[Landskapsläge]]></translate></item>
+	<item v="popUp_body_text_84"><translate><![CDATA[I landskapsläget ställer kameran in skärpan på motiv långt borta. Det gör att du kan ta bilder av utsträckta landskap.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_85"><translate><![CDATA[Solnedgång]]></translate></item>
+	<item v="popUp_subtitle_85"><translate><![CDATA[Manuellt läge]]></translate></item>
+	<item v="popUp_body_text_85"><translate><![CDATA[När den här bilden togs var lägesomkopplaren inställd på manuell och ett högt värde för bländaren ställdes in för att kompensera för solljus direkt mot objektivet.  Med bildstabilisatorn påslagen kan du zooma in på trädet och fortfarande få en skarp bild som ser bra ut.]]></translate></item>	
+<!-- new --><item v="popUp_caption_85_0"><translate><![CDATA[]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_86"><translate><![CDATA[Lättanvänd joystick]]></translate></item>
+	<item v="popUp_subtitle_86"><translate><![CDATA[Lättanvänd joystickk]]></translate></item>
+	<item v="popUp_body_text_86"><translate><![CDATA[Tryck på joysticken och håll den nedtryckt så kan du också justera vitbalans, ISO-känslighet, bildstorlek och bildkvalitet på ett ögonblick – utan att du behöver gå över till menyn.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_87"><translate><![CDATA[Motljusskydd]]></translate></item>
+	<item v="popUp_subtitle_87"><translate><![CDATA[Tillbehör]]></translate></item>
+	<item v="popUp_body_text_87"><translate><![CDATA[I riktigt ljusa fotosituationer kan det vara bra att använda motljusskyddet för att förhindra att för mycket ljus kommer direkt in i objektivet.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_88"><translate><![CDATA[Kraftfull Zoom]]></translate></item>
+	<item v="popUp_subtitle_88"><translate><![CDATA[Bildstabilisator zoom]]></translate></item>
+	<item v="popUp_body_text_88"><translate><![CDATA[FZ7 har ett Lecia DC-objektiv med en enastående 12x optisk zoom, motsvarande en 36 till 432 mm-optik på en kamera för småbildsfilm. En filmkamera med ett optiskt zoomobjektiv som är så här kraftfullt skulle vara så stort och tungt att du inte skulle kunna hantera det med en hand.]]></translate></item>	
+<!-- new --><item v="popUp_caption_88_0"><translate><![CDATA[1X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_88_1"><translate><![CDATA[6X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_88_2"><translate><![CDATA[12X zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_88_3"><translate><![CDATA[16.5X zoom]]></translate></item>
+
+	<item v="popUp_hotspot_text_89"><translate><![CDATA[Sent eftermiddagsljus]]></translate></item>
+	<item v="popUp_subtitle_89"><translate><![CDATA[Kreativitet]]></translate></item>
+	<item v="popUp_body_text_89"><translate><![CDATA[Den här bilden togs sent på eftermiddagen med solen direkt bakom bilen. På grund av den mängd ljus som träffar objektivet uppträder bilen som en siluett och asfalten glöder i ljuset.]]></translate></item>			
+
+
+
+	<!-- Key technology pop ups -->
+	<item v="popUp_tech_subtitle_0"><translate><![CDATA[Optisk bildstabilisator]]></translate></item>
+	<item v="popUp_tech_body_text_0"><translate><![CDATA[MEGA-bildstabilisator undertrycker handrörelser och ger anmärkningsvärt klara och skarpa bilder även i situationer där skakningsoskärpa vanligtvis är ett problem. Lumix har avancerad teknik för att undertrycka handrörelser och MEGA-bildstabilisatorn sätter en mästerlig ny standard för digitalkameraprestanda. Byt upp dig till en bildkvalitet som inte kan uppnås med bara pixelantal eller objektivspecifikationer.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_1"><translate><![CDATA[Leica DC-optik]]></translate></item>
+	<item v="popUp_tech_body_text_1"><translate><![CDATA[Vart och ett av dessa objektivsystem innehåller flera asfäriska linser för att kompensera för sfärisk aberration. Vart och ett inehåller också avancerad beläggning av linsytorna, "multi-coating", för att förhindra att bilderna blir oskarpa på grund av linsöverstrålning och spökskuggor.  
+
+*Leica är ett registrerat varumärke som tillhör Leica Microsystems IR GmbH.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_2"><translate><![CDATA[Venus Engine Plus, II och III]]></translate></item>
+	<item v="popUp_tech_body_text_2"><translate><![CDATA[All bildbehandling med Venus Engine minskar svarstiden och ökar den diagonala upplösningen med upp till 50% för skarpare bilder. Venus Engine II och III ökade den vertikala upplösningen med ytterligare 10% och förbättrade färgfelen som annars uppträder så ofta på bilder tagna med kraftig zoom. Venus Engine Plus och III har förbättrad energiförbrukning.]]></translate></item>			
+
+
+</root>

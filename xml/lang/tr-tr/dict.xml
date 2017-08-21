@@ -1,0 +1,778 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<!-- 'Loading' website data -->
+	<item v="loading"><translate><![CDATA[LOADING]]></translate></item>
+<!-- new --><item v="disclaimer"><translate><![CDATA[© 2006 Panasonic Marketing Europe GmbH]]></translate></item>
+<!-- new --><item v="select_language"><translate><![CDATA[Dil seçimi]]></translate></item>
+
+	<!-- SECTION: HOME PAGE -->
+	
+	<item v="home_title"><translate><![CDATA[Lumix farkını keşfedin]]></translate></item>
+	<item v="home_subtitle"><translate><![CDATA[Lumix dijital kameralarla güzel fotoğrafları kolayca çekeriz. Fotoğrafçılığınızı deneyimleyin, taze perspektif bulun ve  bırakın Lumix üzerine düşeni yapsın. Hikayelerimizi takip edin Lumix farkını keşfedin.]]></translate></item>
+
+	<!-- panels -->
+	<item v="section0_title"><translate><![CDATA[Lumix Ödülü]]></translate></item>
+	<item v="section0_subtitle"><translate><![CDATA[Fotoğraflarınızı dijital fotoğrafçılık yarışmasına sokun.]]></translate></item>
+	
+	<item v="section1_title"><translate><![CDATA[Ürün yelpazesi]]></translate></item>
+	<item v="section1_subtitle"><translate><![CDATA[Ürün yelpazesi ve Lumix ana faydaları]]></translate></item>
+	
+	<item v="section2_subtitle"><translate><![CDATA[Londra ‘da iki arkadaşıyla dışarı çıkış]]></translate></item>
+
+	<item v="section3_subtitle"><translate><![CDATA[Kız arkadaşıyla Barselona ziyareti]]></translate></item>
+	
+	<item v="section4_subtitle"><translate><![CDATA[Jerez deki formula 1 testinde]]></translate></item>
+
+	<!-- FEATURING THE [CAMERA NAME] -->
+	<item v="featuring"><translate><![CDATA[ile]]></translate></item>
+	<item v="the"><translate><![CDATA[]]></translate></item>
+	
+	<!-- FLOATING MAIN MENU -->
+	
+	<item v="menu_overview"><translate><![CDATA[Genelbakış]]></translate></item>
+	<item v="menu_scene"><translate><![CDATA[Sahne]]></translate></item>
+	<item v="menu_lumix_award"><translate><![CDATA[Lumix ödülüne giriş]]></translate></item>
+	<item v="menu_product_range"><translate><![CDATA[Lumix ürün yelpazesi]]></translate></item>
+	<!-- menu items -->
+	<item v="menu_0"><translate><![CDATA[Ev]]></translate></item>
+	<item v="menu_1"><translate><![CDATA[Londra’da Anna’yı takip edin]]></translate></item>
+	<item v="menu_2"><translate><![CDATA[Barselona gezisinde Pietro’yu takip edin]]></translate></item>
+	<item v="menu_3"><translate><![CDATA[Thomas’I F1 testinde takip edin]]></translate></item>
+	<item v="menu_4"><translate><![CDATA[Lumix ürün yelpazesi]]></translate></item>
+	<item v="menu_5"><translate><![CDATA[Lumix ödülüne giriş]]></translate></item>
+	
+	<!-- PRODUCT INFO -->
+	<!-- Launch product info panel-->
+	<item v="find_out_more_DMC-FX01"><translate><![CDATA[DMC-FX01 hakkında daha fazlası]]></translate></item>
+	<item v="find_out_more_DMC-FZ7"><translate><![CDATA[DMC-FZ7 hakkında daha fazlası]]></translate></item>
+	<item v="find_out_more_DMC-TZ1"><translate><![CDATA[DMC-TZ1 hakkında daha fazlası]]></translate></item>
+	
+	<!-- Camera types -->
+	<item v="cam_type_0"><translate><![CDATA[Eğlenceli ve Kolay]]></translate></item>
+	<item v="cam_type_1"><translate><![CDATA[Sitil sahibi ve kompakt]]></translate></item>
+	<item v="cam_type_2"><translate><![CDATA[Dünya gezgini]]></translate></item>
+	<item v="cam_type_3"><translate><![CDATA[Yarı profesyonel]]></translate></item>
+	<item v="cam_type_4"><translate><![CDATA[Profesyonel]]></translate></item>
+	<item v="cam_type_5"><translate><![CDATA[Profesyonel SLR]]></translate></item>
+	
+	<!-- Camera specifications. In main.xml, specify id for each spec that applies to a camera -->
+	<item v="spec_0"><translate><![CDATA[optik zoom]]></translate></item>
+	<item v="spec_1"><translate><![CDATA[Optik imaj sabitleyici]]></translate></item>
+	<item v="spec_2"><translate><![CDATA[Leica DC lenc]]></translate></item>
+	<item v="spec_3"><translate><![CDATA[VENUS ENGINE]]></translate></item>
+	<item v="spec_4"><translate><![CDATA[MEGAPIXEL]]></translate></item>
+	<item v="spec_5"><translate><![CDATA[Manuel fonksiyonlar]]></translate></item>
+	<item v="spec_6"><translate><![CDATA[Yüksek açılı LCD]]></translate></item>
+	<item v="spec_7"><translate><![CDATA[28mm geniş açı]]></translate></item>
+	<item v="spec_8"><translate><![CDATA[SLR]]></translate></item>
+	<item v="spec_9"><translate><![CDATA[Geniş LCD]]></translate></item>
+	<item v="spec_10"><translate><![CDATA[16:9 CCD]]></translate></item>
+	
+	<!-- SECTION: LUMIX AWARD -->
+	
+	<item v="lumix_award_title"><translate><![CDATA[2006 Lumix Ödülü]]></translate></item>
+	<item v="lumix_award_subtitle"><translate><![CDATA[Lumix Ödülü şimdi 5. yılında ve hepinizi Avrupanın en büyük dijital fotoğrafçılık yarışmasına davet ediyor.]]></translate></item>
+	<item v="previous_winners"><translate><![CDATA[Geçmiş kazananlar]]></translate></item>
+	<item v="enter_award"><translate><![CDATA[Lumix ödülüne giriş]]></translate></item>
+	
+	<!-- Image navigation -->
+	<item v="close"><translate><![CDATA[Yakın]]></translate></item>
+	<item v="prev_image"><translate><![CDATA[Önceki]]></translate></item>
+	<item v="next_image"><translate><![CDATA[Sonraki]]></translate></item>
+	
+	
+	<!-- SECTION: PRODUCT RANGE -->
+	<item v="featured"><translate><![CDATA[FEATURED]]></translate></item>
+	<item v="product_range_title"><translate><![CDATA[Lumix ürün yelpazesi]]></translate></item>
+	<item v="product_range_subtitle"><translate><![CDATA[Lumix yelpazesi size ihtiyaçlarınız doğrultusunda en uygun kamerayı sunar. Ana özellikleri ve teknolojileri hakkında daha fazlasını öğrenin.]]></translate></item>
+	
+	<!-- Camera features -->
+	<item v="leica_lens"><translate><![CDATA[Leica DC lenc]]></translate></item>
+	
+	<!-- Camera info menu -->
+	<item v="want_to_buy"><translate><![CDATA[Bu kamerayı alın]]></translate></item>
+	<item v="tech_specs"><translate><![CDATA[Detaylı özellikler]]></translate></item>
+	
+	<!-- Camera navigation -->
+	<item v="close_camera"><translate><![CDATA[Yakın]]></translate></item>
+	<item v="prev_camera"><translate><![CDATA[Önceki
+CAMERA]]></translate></item>
+	<item v="next_camera"><translate><![CDATA[Sonraki
+CAMERA]]></translate></item>
+
+	<!-- menu -->
+	<item v="see_in_action_DMC-FX01"><translate><![CDATA[DMC-FX01 hakkında daha fazlası]]></translate></item>
+	<item v="see_in_action_DMC-FZ7"><translate><![CDATA[DMC-FZ7 hakkında daha fazlası]]></translate></item>
+	<item v="see_in_action_DMC-TZ1"><translate><![CDATA[DMC-TZ1 hakkında daha fazlası]]></translate></item>
+	<item v="buy_this_camera"><translate><![CDATA[Bu kamerayı alın]]></translate></item>
+	<item v="more_info"><translate><![CDATA[Detaylı özellikler]]></translate></item>
+	
+	<!-- Technologies -->
+<!-- new --><item v="key_technologies"><translate><![CDATA[Lumix ana özellikler]]></translate></item>
+	
+	<item v="enter_award"><translate><![CDATA[Lumix ödülüne giriş]]></translate></item>
+	
+	
+	<!-- Video stories -->
+	<!-- Anna -->
+	<item v="anna_ch1_title"><translate><![CDATA[Anna’nın dairesinde buluşma]]></translate></item>
+	<item v="anna_ch2_title"><translate><![CDATA[Hazır olmak]]></translate></item>
+	<item v="anna_ch3_title"><translate><![CDATA[Makyajla eğlence]]></translate></item>
+	<item v="anna_ch4_title"><translate><![CDATA[Taksi ile klube]]></translate></item>
+	<item v="anna_ch5_title"><translate><![CDATA[Zıplatıcı]]></translate></item>
+	<item v="anna_ch6_title"><translate><![CDATA[Perde]]></translate></item>
+	<item v="anna_ch7_title"><translate><![CDATA[Barmenle flört]]></translate></item>
+	<item v="anna_ch8_title"><translate><![CDATA[Koltukta sohbet]]></translate></item>
+	<item v="anna_ch9_title"><translate><![CDATA[Dans pistinde]]></translate></item>
+	
+	<!-- Pietro -->
+	<item v="pietro_ch1_title"><translate><![CDATA[Barselona Dışında]]></translate></item>
+	<item v="pietro_ch2_title"><translate><![CDATA[Merkeze giriş]]></translate></item>
+	<item v="pietro_ch3_title"><translate><![CDATA[Palas Real de]]></translate></item>
+	<item v="pietro_ch4_title"><translate><![CDATA[Dışarda bir kafede]]></translate></item>
+	<item v="pietro_ch5_title"><translate><![CDATA[Otelde]]></translate></item>
+	<item v="pietro_ch6_title"><translate><![CDATA[Sahilde]]></translate></item>
+	<item v="pietro_ch7_title"><translate><![CDATA[Modern mimariden geçerken]]></translate></item>
+	<item v="pietro_ch8_title"><translate><![CDATA[Sagrada Familia ‘ ya ziyaret]]></translate></item>
+	<item v="pietro_ch9_title"><translate><![CDATA[Manzaralı bir restorant]]></translate></item>
+	
+	<!-- Tim -->
+	<item v="thomas_ch1_title"><translate><![CDATA[Jerez pistine varış]]></translate></item>
+	<item v="thomas_ch2_title"><translate><![CDATA[Pit yolunda]]></translate></item>
+	<item v="thomas_ch3_title"><translate><![CDATA[Garajın içinde]]></translate></item>
+	<item v="thomas_ch4_title"><translate><![CDATA[Paddock’ un çatısından]]></translate></item>
+	<item v="thomas_ch5_title"><translate><![CDATA[Pit yolunun sonunda]]></translate></item>
+	<item v="thomas_ch6_title"><translate><![CDATA[Pistin ikinci virajı]]></translate></item>
+	<item v="thomas_ch7_title"><translate><![CDATA[Tribün manzarası]]></translate></item>
+	<item v="thomas_ch8_title"><translate><![CDATA[TORRE TIO PEPE]]></translate></item>
+	<item v="thomas_ch9_title"><translate><![CDATA[Stadyum şikanı]]></translate></item>
+	
+	<!-- video navigation -->
+	<item v="play"><translate><![CDATA[Oynat]]></translate></item>
+	<item v="pause"><translate><![CDATA[Durdur]]></translate></item>
+	<item v="close_scene"><translate><![CDATA[Yakın
+sahne]]></translate></item>
+	<item v="prev_scene"><translate><![CDATA[Önceki
+sahne]]></translate></item>
+	<item v="next_scene"><translate><![CDATA[Sonraki
+sahne]]></translate></item>
+
+
+	
+	<!-- TABS -->
+	<item v="more_info_image"><translate><![CDATA[Daha fazlası]]></translate></item>
+	
+	<!-- Hotspot rollover text -->
+	<!-- Photo hint and tips -->
+	<item v="phototip1_roll"><translate><![CDATA[LEARN MORE ABOUT LENS FLARE AND THE EFFECTS OF BACKLIGHT
+FROM A STRONG LIGHT SOURCE]]></translate></item>
+	<item v="phototip2_roll"><translate><![CDATA[Here is photo tip 2]]></translate></item>
+	<item v="phototip3_roll"><translate><![CDATA[Here is photo tip 3]]></translate></item>
+	<!-- picture -->
+	<item v="picture_roll"><translate><![CDATA[LUMIX resim]]></translate></item>
+
+	<!-- Camera settings -->
+	<!-- modes -->
+	<item v="portrait_mode"><translate><![CDATA[Portre modu]]></translate></item>
+	<item v="simple_mode"><translate><![CDATA[basit mod]]></translate></item>
+	<item v="macro_mode"><translate><![CDATA[MAkRO MOD]]></translate></item>
+	<item v="high_sens_mode"><translate><![CDATA[Yüksek hassasiyet MODu]]></translate></item>
+	<item v="night_port_mode"><translate><![CDATA[gece porter modu]]></translate></item>
+	<item v="beach_mode"><translate><![CDATA[plaj MODu]]></translate></item>
+	<item v="sports_mode"><translate><![CDATA[Spor modu]]></translate></item>
+	<item v="manual_mode"><translate><![CDATA[MANUeL MODu]]></translate></item>
+	<item v="scenery_mode"><translate><![CDATA[sahne MODu]]></translate></item>
+	
+	<!-- Other settings -->
+	<item v="on"><translate><![CDATA[Açık]]></translate></item>
+	<item v="off"><translate><![CDATA[Kapalı]]></translate></item>
+	<!-- camera flash -->
+	<item v="flash"><translate><![CDATA[FLASH]]></translate></item>
+	
+	<item v="wide_angle"><translate><![CDATA[geniş açı]]></translate></item>
+	<item v="auto_red_eye"><translate><![CDATA[kırmızı göz giderici]]></translate></item>
+	
+	<item v="zoom"><translate><![CDATA[ZOOM]]></translate></item>
+	<item v="optikal_zoom"><translate><![CDATA[optikk ZOOM]]></translate></item>
+	<item v="extra_optikal_zoom"><translate><![CDATA[EXTRA optikk ZOOM]]></translate></item>
+	
+	<item v="spot_metering"><translate><![CDATA[ölçüm]]></translate></item>
+	<item v="backlight_compensation"><translate><![CDATA[arkaışık gidericisi]]></translate></item>
+	
+	
+	
+	
+	<!-- hotspot types -->
+	<item v="hotspot_type0"><translate><![CDATA[Ürün 
+özelliği]]></translate></item>
+	<item v="hotspot_type1"><translate><![CDATA[Fotoğraf 
+ipucu]]></translate></item>
+	<item v="hotspot_type2"><translate><![CDATA[LUMIX
+resim]]></translate></item>
+
+	<!-- new -->
+	<!-- as displayed in end of video summary -->
+	<item v="hotspot_summary_type0"><translate><![CDATA[Ürün özelliği]]></translate></item>
+	<item v="hotspot_summary_type1"><translate><![CDATA[Fotoğraf ipucu]]></translate></item>
+	<item v="hotspot_summary_type2"><translate><![CDATA[LUMIX resim]]></translate></item>
+	
+	<item v="prev_scene_summary"><translate><![CDATA[Önceki sahne]]></translate></item>
+	<item v="next_scene_summary"><translate><![CDATA[Sonraki sahne]]></translate></item>
+	<!-- /new -->
+	
+	<!-- Pop up animation text -->
+	<item v="secs"><translate><![CDATA[sn]]></translate></item><!-- an abreviation of "SECONDS" -->
+	<item v="ready"><translate><![CDATA[READY]]></translate></item>
+
+<!-- new start -->	
+<!-- Camera dimensions - Width, Height, Depth -->
+	<item v="width_abbr"><translate><![CDATA[W]]></translate></item>
+	<item v="height_abbr"><translate><![CDATA[H]]></translate></item>
+	<item v="depth_abbr"><translate><![CDATA[D]]></translate></item>
+	
+	<item v="large_screen_display"><translate><![CDATA[büyük geniş ekran]]></translate></item>
+	<!-- Camera screen size ratio -->
+	<item v="normal_format"><translate><![CDATA[normal mod]]></translate></item>
+	<item v="wide_format"><translate><![CDATA[geniş mod]]></translate></item>
+	
+	<item v="window"><translate><![CDATA[pencere]]></translate></item>
+	<item v="calendar_view"><translate><![CDATA[Takvim]]></translate></item>
+	
+	<item v="normal_mode"><translate><![CDATA[normal mod]]></translate></item>
+	<item v="wide_mode"><translate><![CDATA[geniş mod]]></translate></item>
+	
+	<item v="normal_lens"><translate><![CDATA[normal]]></translate></item>
+	<item v="wide_lens"><translate><![CDATA[geniş açı]]></translate></item>
+	<!-- a camera feature -->
+	<item v="power_lcd"><translate><![CDATA[POWER LCD]]></translate></item>
+	<item v="button"><translate><![CDATA[düğmesi]]></translate></item>
+	
+	<item v="viewfinder_aligned"><translate><![CDATA[visor ve LCD]]></translate></item>
+	<item v="slow_shutter"><translate><![CDATA[Yavaş deklanşör hızı]]></translate></item>
+	<item v="joystick"><translate><![CDATA[JOYSTICK]]></translate></item>
+<!-- new end -->
+
+
+	<!-- Pop up titles -->
+	<item v="popUp_title_feature"><translate><![CDATA[Ürün özelliği]]></translate></item>
+	<item v="popUp_title_tip"><translate><![CDATA[Fotoğraf ipucu]]></translate></item>
+	<item v="popUp_title_picture"><translate><![CDATA[LUMIX resim]]></translate></item>
+	
+	
+	<!-- Pop ups -->
+	<!-- Including hotspot roll over text -->
+	<item v="popUp_hotspot_text_0"><translate><![CDATA[Aksesuarlar]]></translate></item>
+	<item v="popUp_subtitle_0"><translate><![CDATA[Ürün özelliği:sitil dizayn]]></translate></item>
+	<item v="popUp_body_text_0"><translate><![CDATA[FX01 sitil sahibi ve kompakt tasarımı ile olay ne olursa olsun en iy aksesuardır.]]></translate></item>
+	<item v="popUp_caption_0_0"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_1"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_2"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_3"><translate><![CDATA[]]></translate></item>
+	
+	<item v="popUp_hotspot_text_1"><translate><![CDATA[Kolay kullanım]]></translate></item>
+	<item v="popUp_subtitle_1"><translate><![CDATA[Simple Mode]]></translate></item>
+	<item v="popUp_body_text_1"><translate><![CDATA[Tüm ayarlar otomatik olarak yapılır , böylece hiç dijital kamera kullanmasanız bile mükemmel  fotoğraflar çekebilirsiniz. ]]></translate></item>
+
+	<item v="popUp_hotspot_text_2"><translate><![CDATA[Mükemmel portreler]]></translate></item>
+	<item v="popUp_subtitle_2"><translate><![CDATA[Portre modu]]></translate></item>
+	<item v="popUp_body_text_2"><translate><![CDATA[Bu mod size mükemmel ten rengi tonlarında portre fotoğraflar çekmenizi sağlar.Sizin ve dostlarınızın harika görünmelerini sağlar.]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_3"><translate><![CDATA[Giymeye hazır]]></translate></item>
+	<item v="popUp_subtitle_3"><translate><![CDATA[Hızlı başlama]]></translate></item>
+	<item v="popUp_body_text_3"><translate><![CDATA[Bazen kameranızın çekime bir anda hazır olmasını istersiniz.FX01 makinayı açtıktan 1.6 saniye sonra çekime hazrı hale gelir.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_4"><translate><![CDATA[Alt-üst]]></translate></item>
+	<item v="popUp_subtitle_4"><translate><![CDATA[otomatik açılı LCD]]></translate></item>
+	<item v="popUp_body_text_4"><translate><![CDATA[Yatay yada dikey, hangisi daha iyi?Fotoğrafı çektikten sonra,LCD ‘deki resim herzaman doğru yönde  görünecektir kamerayı nasıl tutarsanız tutun.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_5"><translate><![CDATA[Moda anı]]></translate></item>
+	<item v="popUp_subtitle_5"><translate><![CDATA[O.I.S. kapalı alan]]></translate></item>
+	<item v="popUp_body_text_5"><translate><![CDATA[Flaş kullanmak kapalı alanda ön planı doğal olmayan bir ışıkla aydınlatır ve arka planı karartır.O.I.S. teknolojisi (Optik imaj sabitleyicisi)size flaş kullanmadan harika çekimler için  imkan verir.]]></translate></item>
+	<item v="popUp_caption_5_0"><translate><![CDATA[O.I.S. olmadan]]></translate></item>
+	<item v="popUp_caption_5_1"><translate><![CDATA[O.I.S. ile]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_6"><translate><![CDATA[Ölçü önemlidir]]></translate></item>
+	<item v="popUp_subtitle_6"><translate><![CDATA[küçük ve kompakt]]></translate></item>
+	<item v="popUp_body_text_6"><translate><![CDATA[Stil sahibi ve kompakt dizaynı ile FX01 her çantaya sığar,gittiğiniz heryere gelir.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_7"><translate><![CDATA[Yakınlaşın]]></translate></item>
+	<item v="popUp_subtitle_7"><translate><![CDATA[O.I.S. yakın çekim]]></translate></item>
+	<item v="popUp_body_text_7"><translate><![CDATA[Keskin ve hızlı yakın çekimler için tamamen sabit kameraya ihtiyacınız vardır.O.I.S. teknolojisi(optik imaj sabitleyici) size bulanık olmayan resimler sağlar ne kadar yakın olursanız olun.]]></translate></item>
+	<item v="popUp_caption_7_0"><translate><![CDATA[O.I.S. olmadan]]></translate></item>
+	<item v="popUp_caption_7_1"><translate><![CDATA[O.I.S. ile]]></translate></item>
+	
+	<item v="popUp_hotspot_text_8"><translate><![CDATA[Heryerde paylaş]]></translate></item>
+	<item v="popUp_subtitle_8"><translate><![CDATA[büyük LCD]]></translate></item>
+	<item v="popUp_body_text_8"><translate><![CDATA[Fotoğrafları paylaşmak işin eğlenceli kısmıdır.Büyük ve yüksek çözünürlüklü LCD fotoğrafı çektikten sonra tadını çıkartmanızı sağlar.]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_9"><translate><![CDATA[En iyi tarafı çekin]]></translate></item>
+	<item v="popUp_subtitle_9"><translate><![CDATA[kendi kendine çekim]]></translate></item>
+	<item v="popUp_body_text_9"><translate><![CDATA[Kendi kendine çekim kolay değildir.Kamerayı ileri doğru tutun , kırmızı LED fokusta olduğunuzu belirtir.sonra sadece tıklayın.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_10"><translate><![CDATA[geniş açı]]></translate></item>
+	<item v="popUp_subtitle_10"><translate><![CDATA[geniş açı lens]]></translate></item>
+	<item v="popUp_body_text_10"><translate><![CDATA[Herkesi fotoğrafa sığdırmak bazen büyük derttir.28mm geniş açı lens ile çok daha fazla arkadaşınızı fotoğraflayabilirsiniz böylece kimse üzülmez.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_11"><translate><![CDATA[Geniş ekrandan bakın]]></translate></item>
+	<item v="popUp_subtitle_11"><translate><![CDATA[görüntü formatları]]></translate></item>
+	<item v="popUp_body_text_11"><translate><![CDATA[16:9 formatında fotoğraflar çekebilirsiniz.bazı objeler için çok kullanışlı.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_12"><translate><![CDATA[Fokuslanın]]></translate></item>
+	<item v="popUp_subtitle_12"><translate><![CDATA[hızlı oto-fokus]]></translate></item>
+	<item v="popUp_body_text_12"><translate><![CDATA[1 nokta yüksek hız fokus ile herzaman hızlı,kesin ve kolay çekimler yapabilirsiniz.]]></translate></item>
+
+	<item v="popUp_hotspot_text_13"><translate><![CDATA[Eğlence yerlerinde kullanın]]></translate></item>
+	<item v="popUp_subtitle_13"><translate><![CDATA[basit mod]]></translate></item>
+	<item v="popUp_body_text_13"><translate><![CDATA[Tüm ayarlar otomatik yapılmaktadır, harika fotoğraflar çekmek çok kolay kamerayı başkalarına versenizde.Sadece hedefle ve çek.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_14"><translate><![CDATA[Yaratıcı olun]]></translate></item>
+	<item v="popUp_subtitle_14"><translate><![CDATA[parti modu]]></translate></item>
+	<item v="popUp_body_text_14"><translate><![CDATA[Alışılmamış destekler bulmak fotoğrafı başkalaştırabilir.Eğlenceli olun aynı zamanda yaratıcılık ve aptallık.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_15"><translate><![CDATA[Parti zamanı]]></translate></item>
+	<item v="popUp_subtitle_15"><translate><![CDATA[parti modu]]></translate></item>
+	<item v="popUp_body_text_15"><translate><![CDATA[Parti modunda iken teknolojinin yolunuza çıkmasını istemezsiniz.Parti moduna geçin ve kameranız gece için en uygun ayarları yapsın.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_16"><translate><![CDATA[Perde kaldırıcısı]]></translate></item>
+	<item v="popUp_subtitle_16"><translate><![CDATA[göz giderici]]></translate></item>
+	<item v="popUp_body_text_16"><translate><![CDATA[Flaş kullanırsanız genelde kırmızı gözlerle karşılaşırsınız.Flaşı kırmızı göz gidericiye ayarlarsanız 2 hızlı flaş sayesinde kırmızı göz problemini yok etmiş olursunuz.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_17"><translate><![CDATA[Lense doğru hayat]]></translate></item>
+	<item v="popUp_subtitle_17"><translate><![CDATA[Leica DC lenc]]></translate></item>
+	<item v="popUp_body_text_17"><translate><![CDATA[Dünyaca ünlü Leica DC lenc kullanan FX01  etkileyici detaylara ve derinliğe sahip fotoğraflar oluşturur.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_18"><translate><![CDATA[Flaşa yakalanmayın]]></translate></item>
+	<item v="popUp_subtitle_18"><translate><![CDATA[O.I.S. kapalı alan]]></translate></item>
+	<item v="popUp_body_text_18"><translate><![CDATA[Bazı durumlarda flaş kullanmak yanlış etki yaratabilir.O.I.S. teknolojisi ile(optik imaj sabitleyici)daha yavaş deklanşör hızı kullanarak flaşsız çekim yapabilirsiniz.]]></translate></item>	
+	<item v="popUp_caption_18_0"><translate><![CDATA[FLASH Kapalı]]></translate></item>
+	<item v="popUp_caption_18_1"><translate><![CDATA[FLASH Açık]]></translate></item>
+
+	<item v="popUp_hotspot_text_19"><translate><![CDATA[Heryerde paylaş]]></translate></item>
+	<item v="popUp_subtitle_19"><translate><![CDATA[Büyük LCD]]></translate></item>
+	<item v="popUp_body_text_19"><translate><![CDATA[Çekimlerinizi paylaşmanız işin eğlenceli kısmıdır.Büyük yüksek çözünürlüklü LCd fotoğraflarınızı çeker çekmez paylaşmanızı sağlar.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_20"><translate><![CDATA[Geniş açı]]></translate></item>
+	<item v="popUp_subtitle_20"><translate><![CDATA[Geniş açı lens]]></translate></item>
+	<item v="popUp_body_text_20"><translate><![CDATA[Herkesi fotoğraf içine almak bazen gerçek bir sorun olur.28 mm geniş açı lens size daha çok arkadaşınızı fotoğraflama imkanı tanır,böylece kimse kırılmaz.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_21"><translate><![CDATA[Zoom zoom]]></translate></item>
+	<item v="popUp_subtitle_21"><translate><![CDATA[3.6x optik zoom]]></translate></item>
+	<item v="popUp_body_text_21"><translate><![CDATA[Bazen olaya daha yakınlaşmak istersiniz.3.6x optik zoom ile her durumda arkadaşlarınızı yakalayabilirsiniz.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_22"><translate><![CDATA[Gösterim]]></translate></item>
+	<item v="popUp_subtitle_22"><translate><![CDATA[Gösterim]]></translate></item>
+	<item v="popUp_body_text_22"><translate><![CDATA[Fotoğraflarınızı göstermek eğlenceli ve kolay.Slide şovunuzu seçin , 1 , 9 , 25 kare veya takvim görünümü ile aynı günde çekilmiş tüm kareleri gösterir.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_23"><translate><![CDATA[Tam uygun]]></translate></item>
+	<item v="popUp_subtitle_23"><translate><![CDATA[kompakt rasarım]]></translate></item>
+	<item v="popUp_body_text_23"><translate><![CDATA[Küçük , kompakt dizaynı ile FX01 en dar jeaninizin cebine bile sığar.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_24"><translate><![CDATA[Sahnede kalın]]></translate></item>
+	<item v="popUp_subtitle_24"><translate><![CDATA[O.I.S. el titremesi]]></translate></item>
+	<item v="popUp_body_text_24"><translate><![CDATA[Kameranızla çekim yaparken bile hareketin parçası olabilsiniz.El titremesi kaygıları O.I.S.(optik imaj sabitleyici) teknolojisi ile elemine edilmiştir.]]></translate></item>	
+	<item v="popUp_caption_24_0"><translate><![CDATA[O.I.S. olmadan]]></translate></item>
+	<item v="popUp_caption_24_1"><translate><![CDATA[O.I.S. ile]]></translate></item>
+	
+
+	<item v="popUp_hotspot_text_25"><translate><![CDATA[Heryerde paylaş]]></translate></item>
+	<item v="popUp_subtitle_25"><translate><![CDATA[Büyük LCD]]></translate></item>
+	<item v="popUp_body_text_25"><translate><![CDATA[Çekimlerinizi paylaşmanız işin eğlenceli kısmıdır.Büyük yüksek çözünürlüklü LCd fotoğraflarınızı çeker çekmez paylaşmanızı sağlar.]]></translate></item>	
+
+
+
+<!-- new onwards 17-03-06 --><!-- BARCELONA -->
+
+	<item v="popUp_hotspot_text_26"><translate><![CDATA[Seyahat ışığı]]></translate></item>
+	<item v="popUp_subtitle_26"><translate><![CDATA[kompakt tasarım]]></translate></item>
+	<item v="popUp_body_text_26"><translate><![CDATA[Stil sahibi ve kompakt tasarımı ile TZ1 cebinize kolayca sığar ve hafif seyahat etmenizi sağlar.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_27"><translate><![CDATA[Harika yüksek zoomlu çekimler]]></translate></item>
+	<item v="popUp_subtitle_27"><translate><![CDATA[O.I.S. yüksek zoom]]></translate></item>
+	<item v="popUp_body_text_27"><translate><![CDATA[Yüksek zoomlu çekimlerde dikkat edilmesi gereken nokta kameranın titremesidir.O.I.S.(optik imaj sabitleyicisi) teknolojisi ile bulanık olmayan yüksek zoomlu çekimler yapabilirsiniz.]]></translate></item>	
+<!-- new --><item v="popUp_caption_27_0"><translate><![CDATA[O.I.S. ile]]></translate></item>
+<!-- new --><item v="popUp_caption_27_1"><translate><![CDATA[O.I.S. olmadan]]></translate></item>
+	
+	<item v="popUp_hotspot_text_28"><translate><![CDATA[Küçük büyük zoom]]></translate></item>
+	<item v="popUp_subtitle_28"><translate><![CDATA[Yüksek zoom]]></translate></item>
+	<item v="popUp_body_text_28"><translate><![CDATA[Güçlü 10x optik zoom,35 mm bir kameranın 35 – 350mm lensine eşdeğer değerleri kompakt kameraya uyarlanmıştır.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_28_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_1"><translate><![CDATA[3X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_2"><translate><![CDATA[6X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_3"><translate><![CDATA[10X ZOOM]]></translate></item>
+	
+	<item v="popUp_hotspot_text_29"><translate><![CDATA[Tarih yapmak]]></translate></item>
+	<item v="popUp_subtitle_29"><translate><![CDATA[Gezi tarihi]]></translate></item>
+	<item v="popUp_body_text_29"><translate><![CDATA[TZ1 ile geziniz başlarken bir tarih belirleyebilir ve hangi günde hangi fotoğrafı çektiğinizi belirleyebilirsiniz.Gezi fotoğraflarınızı organize etmeniz için mükemmel.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_29_0"><translate><![CDATA[1 gün]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_1"><translate><![CDATA[2 gün]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_2"><translate><![CDATA[]]></translate></item>
+
+
+
+
+	<item v="popUp_hotspot_text_30"><translate><![CDATA[Bakışaçısı yakalayın]]></translate></item>
+	<item v="popUp_subtitle_30"><translate><![CDATA[Farklı açı]]></translate></item>
+	<item v="popUp_body_text_30"><translate><![CDATA[Bazen baktığınız objenin detaylarını görmek zor olabilir.Hareket etmek ve farklı bir açı yakalamak ilginç resimler elde etmenizi sağlar.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_30_0"><translate><![CDATA[görünüm 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_1"><translate><![CDATA[görünüm 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_2"><translate><![CDATA[görünüm 3]]></translate></item>
+		
+	<item v="popUp_hotspot_text_31"><translate><![CDATA[Hareket halinde]]></translate></item>
+	<item v="popUp_subtitle_31"><translate><![CDATA[O.I.S. handshake]]></translate></item>
+	<item v="popUp_body_text_31"><translate><![CDATA[Hareket halinde iken kamerayı titretmek ve bulanık resimler çekmek sürpriz olamaz. O.I.S. teknolojisi(optik imaj sabitleyici) cayro sensörler yardımı ile titremenin ters istikametinde hareket ederek titremeleri kompanse eder – size keskin ve kesintisiz fotoğraflar sağlar.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_31_0"><translate><![CDATA[O.I.S. olmadan]]></translate></item>
+	<!-- new --><item v="popUp_caption_31_1"><translate><![CDATA[O.I.S. ile]]></translate></item>
+
+	<item v="popUp_hotspot_text_32"><translate><![CDATA[Hızlı başlama]]></translate></item>
+	<item v="popUp_subtitle_32"><translate><![CDATA[Hızlı başlama]]></translate></item>
+	<item v="popUp_body_text_32"><translate><![CDATA[Bazen kameranınzın anında hazır olmasına ihtiyacınız olabilir .TZ1 açıldıktan 0.95 sn sonra çekime hazırdır.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_33"><translate><![CDATA[Yansıtın]]></translate></item>
+	<item v="popUp_subtitle_33"><translate><![CDATA[Yansıtıcılar]]></translate></item>
+	<item v="popUp_body_text_33"><translate><![CDATA[Yansımaları kullanarak ilgi çekici  kompozisyonlar yaratabilirsiniz.Yoldaki su birikintisi,araba camları cam yüzeylerin herbiri fotoğraf üzerinde farklı bir his yaratacaktır.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_34"><translate><![CDATA[Doğru Portreler]]></translate></item>
+	<item v="popUp_subtitle_34"><translate><![CDATA[High sensitivity]]></translate></item>
+	<item v="popUp_body_text_34"><translate><![CDATA[Eğer çektiğiniz obje hareket ediyorsa ‘hareket bulanıklığı’ oluşur.Yüksek Hassasiyet modunu kullanarak bunu iyileştirebilirsiniz.Deklanşör hızını maksimuma taşır ve keskin temiz görüntüler sağlar.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_34_0"><translate><![CDATA[Yüksek hassasiyet olmadan]]></translate></item>
+	<!-- new --><item v="popUp_caption_34_1"><translate><![CDATA[Yüksek hassasiyet ile]]></translate></item>
+	
+	<item v="popUp_hotspot_text_35"><translate><![CDATA[Leica DC lenc]]></translate></item>
+	<item v="popUp_subtitle_35"><translate><![CDATA[Leica DC lenc]]></translate></item>
+	<item v="popUp_body_text_35"><translate><![CDATA[TZ1 Dünyanin en  iyi bilinen Lens markası Leica Lens ile etkileyici detaylar ve dikkate değer bir derinlik yaratır.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_36"><translate><![CDATA[Odaklanın]]></translate></item>
+	<item v="popUp_subtitle_36"><translate><![CDATA[AF Yardımcılambası]]></translate></item>
+	<item v="popUp_body_text_36"><translate><![CDATA[Düşük ışık koşulları otomatik fokusun genellikle odaklamasını engeller.Otomatik focus yardımcı lambası focus kabiliyetini arttırır.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_37"><translate><![CDATA[Afedersiniz?]]></translate></item>
+	<item v="popUp_subtitle_37"><translate><![CDATA[Basit mod]]></translate></item>
+	<item v="popUp_body_text_37"><translate><![CDATA[Basit modda tüm ayarlar otomatik yapılır, hiç kamera kullanmamış olsanızda harika fotoğraflar çekebilirsiniz.Sadece deklanşöre basmanız yeterli.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_38"><translate><![CDATA[Büyük LCD]]></translate></item>
+	<item v="popUp_subtitle_38"><translate><![CDATA[Büyük LCD]]></translate></item>
+	<item v="popUp_body_text_38"><translate><![CDATA[Büyük LCD çektiğiniz fotoğrafların anında tadını çıkartmanıza yardımcı olur . 2.5’ ölçüsü 207.000 pixel yüksek çözünürlüğü ile yazıları ve küçük resimleri görmenizide kolaylaştırır.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_39"><translate><![CDATA[Mavi saat]]></translate></item>
+	<item v="popUp_subtitle_39"><translate><![CDATA[ışık kullanımı]]></translate></item>
+	<item v="popUp_body_text_39"><translate><![CDATA[Tertemiz bir günün sonunda günbatımında ışık farklı bir kaliteye ulaşır.Bu genelde mavi saat olarak adlandırılır. Bu ışıkta fotoğraf çekmek size eşsiz zenginlikte renkler verir.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_40"><translate><![CDATA[Otomatik focus]]></translate></item>
+	<item v="popUp_subtitle_40"><translate><![CDATA[hızlı oto focus]]></translate></item>
+	<item v="popUp_body_text_40"><translate><![CDATA[Birçok otomatik focus modunu seçebilirsiniz; 1 nokta 3 nokta ve 9 nokta seçeneklerinden çektiğiniz manzaraya uygun olanı seçebilirsiniz.istediğiniz zaman kolayca hızlı çekimler yapabilirsiniz.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_40_0"><translate><![CDATA[9-nokta]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_1"><translate><![CDATA[3-nokta]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_2"><translate><![CDATA[1-nokta]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_3"><translate><![CDATA[1-spot]]></translate></item>
+	
+	<item v="popUp_hotspot_text_41"><translate><![CDATA[Gece aşığı]]></translate></item>
+	<item v="popUp_subtitle_41"><translate><![CDATA[gece porter modu]]></translate></item>
+	<item v="popUp_body_text_41"><translate><![CDATA[Gece çekimlerinde flaş patlatmak çekimin gerçek ışığını yok eder.Yavaş deklanşör hızı ve O.I.S. birleşimi size daha fazla ışık imkanı sağlar.Gece portesi modunda doğru modda çekim yapabilirsiniz.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_42"><translate><![CDATA[Parlak LCD]]></translate></item>
+	<item v="popUp_subtitle_42"><translate><![CDATA[Parlak LCD]]></translate></item>
+	<item v="popUp_body_text_42"><translate><![CDATA[Güneşli bir günde ekranı görmek zordur,Power LCD butonuna kolayca basarak görüntüyü %40 oranında parlaklaştırabilirsiniz.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_43"><translate><![CDATA[Plaj hayatı]]></translate></item>
+	<item v="popUp_subtitle_43"><translate><![CDATA[palj modu]]></translate></item>
+	<item v="popUp_body_text_43"><translate><![CDATA[Parlak günışığı plajda herzaman istediğimiz bişeydir ancak bu karanlık fotoğraflar anlamına gelir.Plaj modunu seçerek parlak  resimler elde edebilirsiniz.kalan Tek sorun fazla bronzlaşmak.]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_0"><translate><![CDATA[Plaj modu olmadan]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_1"><translate><![CDATA[Plaj modu ile]]></translate></item>
+
+	<item v="popUp_hotspot_text_44"><translate><![CDATA[Hareketi yakala]]></translate></item>
+	<item v="popUp_subtitle_44"><translate><![CDATA[Mega burst]]></translate></item>
+	<item v="popUp_body_text_44"><translate><![CDATA[Hızlıca 5 kare araarda çekim yapabilirsiniz,standart modda saniyede 3 kare hızında.TZ1 aynı zamanda SD kartınız dolana dek arka arkaya çekim yapabilmektedir.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_44_0"><translate><![CDATA[Kare 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_1"><translate><![CDATA[Kare 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_2"><translate><![CDATA[Kare 3]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_3"><translate><![CDATA[Kare 4]]></translate></item>
+	
+
+
+	<item v="popUp_hotspot_text_45"><translate><![CDATA[Soyut düşünün]]></translate></item>
+	<item v="popUp_subtitle_45"><translate><![CDATA[Different view]]></translate></item>
+	<item v="popUp_body_text_45"><translate><![CDATA[Olaylara farklı bir açıdan bakmak şaşırtıcı sonuçlar yaratabilir.Çekimleriniz hakkındaki deneyimleriniz ve farklı elementlerden bir kolaj yapmak.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_45_0"><translate><![CDATA[görünüm 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_1"><translate><![CDATA[görünüm 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_2"><translate><![CDATA[görünüm 3]]></translate></item>
+
+	<item v="popUp_hotspot_text_46"><translate><![CDATA[Önplan arkaplana karşı]]></translate></item>
+	<item v="popUp_subtitle_46"><translate><![CDATA[Kompozisyon]]></translate></item>
+	<item v="popUp_body_text_46"><translate><![CDATA[Arkaplan ve önplan nesnelerini  sıraya koymak enteresan kompozisyonlar yaratabilir.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_47"><translate><![CDATA[Soyut zoom]]></translate></item>
+	<item v="popUp_subtitle_47"><translate><![CDATA[Soyut]]></translate></item>
+	<item v="popUp_body_text_47"><translate><![CDATA[Yüksek zoomu kullanmak size kameranızla kareyi kesme şansı verir buda soyut detaylar elde etmenizi sağlar.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_48"><translate><![CDATA[Akşamüstü ışığı]]></translate></item>
+	<item v="popUp_subtitle_48"><translate><![CDATA[akşamüstü]]></translate></item>
+	<item v="popUp_body_text_48"><translate><![CDATA[Açık bir günün sonunda akşamüstü ışığı derin mavi bir kalite ile fotoğraflarınıza sıcaklık katacaktır.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_49"><translate><![CDATA[Işığı görmek]]></translate></item>
+	<item v="popUp_subtitle_49"><translate><![CDATA[ölçüm]]></translate></item>
+	<item v="popUp_body_text_49"><translate><![CDATA[Işık kaynağını avantajınıza kullanabilirsiniz.Mesafe ölçeri kullanarak bina camından yansıyan ışığı kullanarak fakrlı tarzda çekim yapabilirsiniz.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_50"><translate><![CDATA[Seyahat ışığı]]></translate></item>
+	<item v="popUp_subtitle_50"><translate><![CDATA[Kompakt dizayn]]></translate></item>
+	<item v="popUp_body_text_50"><translate><![CDATA[TZ1 ‘ in stil sahibi ve kompakt dizaynı cebinize sığar ve herzaman seyahat ışığınızın olmasına imkan tanır.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_51"><translate><![CDATA[Küçük büyük zoom]]></translate></item>
+	<item v="popUp_subtitle_51"><translate><![CDATA[10 optik zoom]]></translate></item>
+	<item v="popUp_body_text_51"><translate><![CDATA[Güçlü 10 optik zoom , 35 den 350mm lensi olan 35mm lik bir kameraya eşedeğer lens , kompakt bir kamerada.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_51_0"><translate><![CDATA[1 X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_1"><translate><![CDATA[2 X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_2"><translate><![CDATA[5 X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_3"><translate><![CDATA[10 X ZOOM]]></translate></item>
+	
+	<item v="popUp_hotspot_text_52"><translate><![CDATA[Zoomlu çekimler]]></translate></item>
+	<item v="popUp_subtitle_52"><translate><![CDATA[O.I.S. high zoom]]></translate></item>
+	<item v="popUp_body_text_52"><translate><![CDATA[Yüksek zoomlu çekimlerde kameranın her hareketi önemlidir.O.I.S. teknolojisi ile (optik imaj sabitleyicisi)bulanık olmayan yüksek zoomlu çekimler yapabilirsiniz.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_52_0"><translate><![CDATA[O.I.S. olmadan]]></translate></item>
+	<!-- new --><item v="popUp_caption_52_1"><translate><![CDATA[O.I.S. ile]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_53"><translate><![CDATA[Geniş ekranda görün]]></translate></item>
+	<item v="popUp_subtitle_53"><translate><![CDATA[Görüntü modu]]></translate></item>
+	<item v="popUp_body_text_53"><translate><![CDATA[16:9 formatında çekim yapabilirsiniz.Kaydedilen SD Kartı SD kart girişi olan  bir TV ‘ ye takın ve geniş ekran ölçülerinde.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_54"><translate><![CDATA[Mükemmel anlatım]]></translate></item>
+	<item v="popUp_subtitle_54"><translate><![CDATA[kırmızı göz giderici]]></translate></item>
+	<item v="popUp_body_text_54"><translate><![CDATA[Flaş kullandığınızda genelde kırmızı gözlerle karşılaşırsınız.Flaşı kırmızı göz giderici moduna alırsanız 2 hızlı flaşla problem çözülmüş olur.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_54_0"><translate><![CDATA[kırmızı göz giderici olmadan]]></translate></item>
+	<!-- new --><item v="popUp_caption_54_1"><translate><![CDATA[kırmızı göz giderici ile]]></translate></item>
+
+	<item v="popUp_hotspot_text_55"><translate><![CDATA[Tarih sırasına gore]]></translate></item>
+	<item v="popUp_subtitle_55"><translate><![CDATA[tarih gösterimi]]></translate></item>
+	<item v="popUp_body_text_55"><translate><![CDATA[TZ1 resimlerinizi çektiğiniz güne göre düzenler.Organize etmeniz gereken çok sayıda fotoğraf olduğunda size büyük yardımı olur.]]></translate></item>	
+
+
+
+
+
+	<!-- F1 -->
+
+	<item v="popUp_hotspot_text_56"><translate><![CDATA[Yaratıcı fokus]]></translate></item>
+	<item v="popUp_subtitle_56"><translate><![CDATA[derinlik hissi]]></translate></item>
+	<item v="popUp_body_text_56"><translate><![CDATA[Derinlik hissi ön taraftan , arkadan ve çevreden fokuslanmasıdır.12x optik zoom ile obje çevresinde küçük bir derinlik hissi yaratılabilir.Bu derinlik yaratmak istediğinizde stil sahibi bir aygıtla keskin fokus yapmanız demektir.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_57"><translate><![CDATA[Akıllı tasarım]]></translate></item>
+	<item v="popUp_subtitle_57"><translate><![CDATA[Dizayn]]></translate></item>
+	<item v="popUp_body_text_57"><translate><![CDATA[Dizaynı tüm kontrolleri makinayı elinizde tutarken ulaşabileceğiniz şekilde tasarlanmıştır.Ayrıca LCD ve elektronik vizör aynı hizaya konmuştur , görüntü açınızda farklılık olmaması ve görüntüdeki farkı minimize edebilmek için.]]></translate></item>	
+<!-- new 22-03-2006 --><item v="popUp_caption_57_0"><translate><![CDATA[controller]]></translate></item>
+	
+	<item v="popUp_hotspot_text_58"><translate><![CDATA[Keskin yakın çekimler]]></translate></item>
+	<item v="popUp_subtitle_58"><translate><![CDATA[O.I.S. makro]]></translate></item>
+	<item v="popUp_body_text_58"><translate><![CDATA[Keskin ve hızlı yakın çekimler için tamamen sabit kameraya ihtiyacınız vardır.O.I.S. teknolojisi(optik imaj sabitleyici) size bulanık olmayan resimler sağlar tripod ihtiyacı olmadan.]]></translate></item>	
+<!-- new --><item v="popUp_caption_58_0"><translate><![CDATA[O.I.S. ile]]></translate></item>
+<!-- new --><item v="popUp_caption_58_1"><translate><![CDATA[O.I.S. olmadan]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_59"><translate><![CDATA[Güçlü arka ışık]]></translate></item>
+	<item v="popUp_subtitle_59"><translate><![CDATA[arkaışık gidericisi]]></translate></item>
+	<item v="popUp_body_text_59"><translate><![CDATA[Güçlü arka ışık direk gelen güneş ışığı gibi tercih edilmeyen çekim koşulları hazırlar.Bu problem basit modda üst menu navigasyon tuşuna basarak arka  ışık gidericisi ile çözülebilir.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_60"><translate><![CDATA[Kolay kullanılabilir modlar]]></translate></item>
+	<item v="popUp_subtitle_60"><translate><![CDATA[hazır modlar]]></translate></item>
+	<item v="popUp_body_text_60"><translate><![CDATA[Hazır modlar size sahneyi tam olarak çekebilme imkanı verir. Program AE , Diyafram öncelikli(AE) , Deklanşör hızı öncelikli(AE) , basit , makro , hareketli görüntü ve sahne modları arasından istediğinizi seçebilirsiniz.]]></translate></item>	
+<!-- new --><item v="popUp_caption_60_0"><translate><![CDATA[MODE DIAL]]></translate></item>
+
+	<item v="popUp_hotspot_text_61"><translate><![CDATA[Keskin Makro çekimler]]></translate></item>
+	<item v="popUp_subtitle_61"><translate><![CDATA[O.I.S. makro]]></translate></item>
+	<item v="popUp_body_text_61"><translate><![CDATA[Keskin ve hızlı yakın çekimler için tamamen sabit kameraya ihtiyacınız vardır.O.I.S. teknolojisi(optik imaj sabitleyici) size bulanık olmayan resimler sağlar tripod ihtiyacı olmadan.]]></translate></item>	
+<!-- new --><item v="popUp_caption_61_0"><translate><![CDATA[O.I.S. ile]]></translate></item>
+<!-- new --><item v="popUp_caption_61_1"><translate><![CDATA[O.I.S. olmadan]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_62"><translate><![CDATA[Beyaz denge]]></translate></item>
+	<item v="popUp_subtitle_62"><translate><![CDATA[Beyaz denge]]></translate></item>
+	<item v="popUp_body_text_62"><translate><![CDATA[Farklı ışık kaynakları farklı renk derecelerine sahiptir,buda cisimlerin doğal olmayan  renklerde görünmesine neden olur.Garajın florasanı oldukça yeşil renklenmelere neden olur.Otomatik beyaz dengeyi açmak kamera yeni ışık koşullarına gore ayarlarını yapacaktır.]]></translate></item>	
+<!-- new --><item v="popUp_caption_62_0"><translate><![CDATA[Beyaz denge]]></translate></item>
+<!-- new --><item v="popUp_caption_62_1"><translate><![CDATA[]]></translate></item>
+
+	<item v="popUp_hotspot_text_63"><translate><![CDATA[Düşük ışık]]></translate></item>
+	<item v="popUp_subtitle_63"><translate><![CDATA[O.I.S. kapalı alan]]></translate></item>
+	<item v="popUp_body_text_63"><translate><![CDATA[Gece çekimlerinde flaş patlatmak çekimin gerçek ışığını yok eder.Yavaş deklanşör hızı ve O.I.S. birleşimi size doğal ışık koşulları sağlar.]]></translate></item>	
+<!-- new --><item v="popUp_caption_63_0"><translate><![CDATA[FLASH Kapalı]]></translate></item>
+<!-- new --><item v="popUp_caption_63_1"><translate><![CDATA[FLASH Açık]]></translate></item>
+
+	<item v="popUp_hotspot_text_64"><translate><![CDATA[Ardarda çekim modu]]></translate></item>
+	<item v="popUp_subtitle_64"><translate><![CDATA[Ardarda çekim]]></translate></item>
+	<item v="popUp_body_text_64"><translate><![CDATA[Standart modda 13 kare resmi saniyede 3 kare olmak üzere çekebilirsiniz.FZ7 aynı zamanda sınırsız ardarda çekim modunada sahiptir,SD kartınız dolana kadar çekim yapabilirsiniz.]]></translate></item>	
+<!-- new --><item v="popUp_caption_64_0"><translate><![CDATA[Kare 1]]></translate></item>
+<!-- new --><item v="popUp_caption_64_1"><translate><![CDATA[Kare 2]]></translate></item>
+<!-- new --><item v="popUp_caption_64_2"><translate><![CDATA[Kare 3]]></translate></item>
+<!-- new --><item v="popUp_caption_64_3"><translate><![CDATA[Kare 4]]></translate></item>
+
+	<item v="popUp_hotspot_text_65"><translate><![CDATA[Yüksek açılı LCd]]></translate></item>
+	<item v="popUp_subtitle_65"><translate><![CDATA[Yüksek açılı LCd]]></translate></item>
+	<item v="popUp_body_text_65"><translate><![CDATA[Yüksek açılı çekim fonksiyonu , size kalabalığın üzerinden çekim yaparken LCD yi göz atmanıza yardımcxı olur.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_66"><translate><![CDATA[Hızlı deklanşör hızı]]></translate></item>
+	<item v="popUp_subtitle_66"><translate><![CDATA[Hızlı deklanşör hızı]]></translate></item>
+	<item v="popUp_body_text_66"><translate><![CDATA[Hizli hareket eden bir objeyi çekerken 200 km/s hızla hareket eden bir formula 1 aracı gibi , daha hızlı deklanşör hızına ihtiyacınız olur objeyi durdurmak için.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_67"><translate><![CDATA[Çevirme modu]]></translate></item>
+	<item v="popUp_subtitle_67"><translate><![CDATA[Çevirme modu]]></translate></item>
+	<item v="popUp_body_text_67"><translate><![CDATA[Çevirme ile kamerayı tıpkı hareket eden bir araçta olduğu gibi hareket ettirirsiniz.Obje fokuslanırken arka plan bulanık hale gelir.Panning modu daha yavas deklanşör hızı ile hız hissini  yaşayabilirsiniz.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_68"><translate><![CDATA[Yüksek zoom]]></translate></item>
+	<item v="popUp_subtitle_68"><translate><![CDATA[Yüksek zoom]]></translate></item>
+	<item v="popUp_body_text_68"><translate><![CDATA[FZ7 Leica ‘ nın 12x optik zoomlu lensi ile donatılmıştır,35mm kameranın 36-432mm lensine eşittir.Bu kadar büyük zoomlu bir video kamerayı tek elle tutma şansınız yok.]]></translate></item>	
+<!-- new --><item v="popUp_caption_68_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_68_1"><translate><![CDATA[6X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_68_2"><translate><![CDATA[12X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_68_3"><translate><![CDATA[16.5X EXTRA ZOOM]]></translate></item>
+
+	<item v="popUp_hotspot_text_69"><translate><![CDATA[Hızlı deklanşör hızı]]></translate></item>
+	<item v="popUp_subtitle_69"><translate><![CDATA[Hızlı deklanşör hızı]]></translate></item>
+	<item v="popUp_body_text_69"><translate><![CDATA[FZ7 süper hızlı bırakma hızı tepkimesine sahiptir 0.008 saniye.Herzaman hızlı keskin çekimler yapabilirsiniz.]]></translate></item>	
+<!-- new --><item v="popUp_caption_69_0"><translate><![CDATA[0.0008 S]]></translate></item>
+<!-- new --><item v="popUp_caption_69_1"><translate><![CDATA[0.0016 S]]></translate></item>
+<!-- new --><item v="popUp_caption_69_2"><translate><![CDATA[0.0024 S]]></translate></item>
+<!-- new --><item v="popUp_caption_69_3"><translate><![CDATA[0.0032 S]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_70"><translate><![CDATA[Yansıtıcılar]]></translate></item>
+	<item v="popUp_subtitle_70"><translate><![CDATA[yaratıcılık]]></translate></item>
+	<item v="popUp_body_text_70"><translate><![CDATA[Yansımaları kullanarak enteresan kompozisyonlar yaratabilirsiniz.Sokaktaki ışık, arabanın camı ve bina camından herbiri fotoğrafa değişik bir ruh katar.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_71"><translate><![CDATA[Manuel focus]]></translate></item>
+	<item v="popUp_subtitle_71"><translate><![CDATA[Manuel focus]]></translate></item>
+	<item v="popUp_body_text_71"><translate><![CDATA[Kameranın arkasındaki joystick size hızlı ve kesin focus yapma imkanı verir.Aynı zamanda manuel focus yardımcı fonksiyonunu kullanabilirsiniz.LCD nin ortasında beliren görüntü ile mükemmel focus yapabilirsiniz.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_72"><translate><![CDATA[Kolay kullanımlı joystick]]></translate></item>
+	<item v="popUp_subtitle_72"><translate><![CDATA[Joystick yavaş deklanşör hızı]]></translate></item>
+	<item v="popUp_body_text_72"><translate><![CDATA[Kamera açıklığını, deklanşör hızını ve fokusu LCD de görüntü varken joystick yardımıyla ayarlayabilirsiniz.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_73"><translate><![CDATA[Leica DC lenc]]></translate></item>
+	<item v="popUp_subtitle_73"><translate><![CDATA[Leica DC lenc]]></translate></item>
+	<item v="popUp_body_text_73"><translate><![CDATA[Lensin performansı harika resimler için çok önemlidir.Leica kamera AG 1913 ten beri dünyanın en iyi bilinen lenslerini yapmaktadır.Leica lensle etkileyici detaylar ve derinliğe sahip fotoğraflar oluşturur.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_74"><translate><![CDATA[Spor modu]]></translate></item>
+	<item v="popUp_subtitle_74"><translate><![CDATA[Spor modu]]></translate></item>
+	<item v="popUp_body_text_74"><translate><![CDATA[Bu modda hızlı deklanşör hızı ve açıklık ayarının otomatik yapılması sizing sadcece ne zaman deklanşöre basacağınızı düşünmenizi sağlar.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_75"><translate><![CDATA[Soyut]]></translate></item>
+	<item v="popUp_subtitle_75"><translate><![CDATA[Yaratıcılık]]></translate></item>
+	<item v="popUp_body_text_75"><translate><![CDATA[FZ7 nini yüksek zoom kabiliyetini kullanarak pistin çevresindeki bariyerleri soyut hale getirebilirisiniz.Resmi dikkatlice kesmek alışılmamış ilginç resimler ortaya çıkaracaktır.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_76"><translate><![CDATA[Parlak LCD]]></translate></item>
+	<item v="popUp_subtitle_76"><translate><![CDATA[Parlak LCD]]></translate></item>
+	<item v="popUp_body_text_76"><translate><![CDATA[FZ7 2.5’’ yüksek çözünürlüklü LCD sinde Power LCD fonksiyonu vardır.Kolayca Power LCD butonuna basarak görüntüyü %40 oranında arttırabilirsiniz.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_77"><translate><![CDATA[Otomatik Pozlama]]></translate></item>
+	<item v="popUp_subtitle_77"><translate><![CDATA[program otomatik pozlama]]></translate></item>
+	<item v="popUp_body_text_77"><translate><![CDATA[Program AE sizing için en uygun deklanşör hızı ve açıklığı seçer.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_78"><translate><![CDATA[Faklı açılar]]></translate></item>
+	<item v="popUp_subtitle_78"><translate><![CDATA[yaratıcılık]]></translate></item>
+	<item v="popUp_body_text_78"><translate><![CDATA[Bazen objelere farklı açılardan bakmaya değer.Tribünün koltukları mesafeyi farklılaştırarak değişik bir perspektif sunar.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_79"><translate><![CDATA[Yüksek zoom]]></translate></item>
+	<item v="popUp_subtitle_79"><translate><![CDATA[Yüksek zoom]]></translate></item>
+	<item v="popUp_body_text_79"><translate><![CDATA[3 MP’de zoom oranı 16.5x optik zooma ulaşır.Ekstra optik zoom fonksiyonu görüntüyü bozmadan CCD nin merkez noktasını kullanarak olur.]]></translate></item>	
+<!-- new --><item v="popUp_caption_79_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_79_1"><translate><![CDATA[6X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_79_2"><translate><![CDATA[12X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_79_3"><translate><![CDATA[16.5X ZOOM]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_80"><translate><![CDATA[Büyük LCD]]></translate></item>
+	<item v="popUp_subtitle_80"><translate><![CDATA[Büyük LCD]]></translate></item>
+	<item v="popUp_body_text_80"><translate><![CDATA[Geniş LCd fokusu kontrol etmenize , görüntüyü karelemeye ve 25 kare fotoğrafı ve tarihi görüntülemeye imkan tanır gözlerinizi yormadan.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_81"><translate><![CDATA[Gösterim]]></translate></item>
+	<item v="popUp_subtitle_81"><translate><![CDATA[Gösterim]]></translate></item>
+	<item v="popUp_body_text_81"><translate><![CDATA[Fotoğraflarınızı göstermek eğlenceli ve kolay.Slide şovunuzu seçin , 1 , 9 , 25 kare veya takvim görünümü ile aynı günde çekilmiş tüm kareleri gösterir.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_82"><translate><![CDATA[yüksek Zoom]]></translate></item>
+	<item v="popUp_subtitle_82"><translate><![CDATA[16.5X optik ZOOM]]></translate></item>
+	<item v="popUp_body_text_82"><translate><![CDATA[FZ7 Leica DC lenci 12x optik zoomuyla 35 mm kameranın 36-432 mm lensine eşittir.Bu derecede optik zooma sahip bir video kamerayı tek ele tutmanız ağır ve büyük olmasından dolayı zordur.]]></translate></item>	
+<!-- new --><item v="popUp_caption_82_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_82_1"><translate><![CDATA[6X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_82_2"><translate><![CDATA[12X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_82_3"><translate><![CDATA[16.5X ZOOM]]></translate></item>
+	
+	<item v="popUp_hotspot_text_83"><translate><![CDATA[Hızlı oto focus]]></translate></item>
+	<item v="popUp_subtitle_83"><translate><![CDATA[Hızlı oto focus]]></translate></item>
+	<item v="popUp_body_text_83"><translate><![CDATA[FZ7 size birçok oto focus modu sunmaktadır.spot,1 nokta(normal-yüksek hız),3 nokta(normakl yüksek hız)ve 9 nokta.Aynı zamanda düşük ışıkta fokus assist lambası ile daha rahat focus yaparsınız.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_84"><translate><![CDATA[Genişçekim]]></translate></item>
+	<item v="popUp_subtitle_84"><translate><![CDATA[sahne modu]]></translate></item>
+	<item v="popUp_body_text_84"><translate><![CDATA[Sahne modunda iken kameranın uzak bir objeye fokuslanması tercih edilir.Bu sizin daha geniş fotoğraflar çekmenize imkan tanır.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_85"><translate><![CDATA[Günbatımı]]></translate></item>
+	<item v="popUp_subtitle_85"><translate><![CDATA[manuel mod]]></translate></item>
+	<item v="popUp_body_text_85"><translate><![CDATA[Bu çekim modunda yüksek hacimli bir açıklık ayarı seçilir güneş ışığını kompanse edebilmek için. O.I.S. açıken ağaca yapılan zoomla sabit ve harika fotoğraflar çekebilirsiniz.]]></translate></item>	
+<!-- new --><item v="popUp_caption_85_0"><translate><![CDATA[]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_86"><translate><![CDATA[Kolay kullanımlı joystick]]></translate></item>
+	<item v="popUp_subtitle_86"><translate><![CDATA[Kolay kullanımlı joystick]]></translate></item>
+	<item v="popUp_body_text_86"><translate><![CDATA[Bas ve joystick I aşağı çekin. beyazdengesini , iso ayarlarını , imaj ölçüsünü , imaj kalitesini , menüye girmeden değiştirin.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_87"><translate><![CDATA[Lens başlığı]]></translate></item>
+	<item v="popUp_subtitle_87"><translate><![CDATA[aksesuar]]></translate></item>
+	<item v="popUp_body_text_87"><translate><![CDATA[Çok ışıklı alanlarda lens başlığını kullanarak lense giren ışığı azaltabilirsiniz.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_88"><translate><![CDATA[Yüksek Zoom]]></translate></item>
+	<item v="popUp_subtitle_88"><translate><![CDATA[Yüksek zoom]]></translate></item>
+	<item v="popUp_body_text_88"><translate><![CDATA[FZ7 Leica DC lenc ile 12 optik zoom sunmaktadır,35mm video kameranın 36-432mm lensine eşittir.Bu kadar kuvvetli bir zoom kamerada çok ağır olacağından tek elle control etmeniz çok zordur.]]></translate></item>	
+<!-- new --><item v="popUp_caption_88_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_88_1"><translate><![CDATA[6X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_88_2"><translate><![CDATA[12X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_88_3"><translate><![CDATA[16.5X ZOOM]]></translate></item>
+
+	<item v="popUp_hotspot_text_89"><translate><![CDATA[Akşamüstü ışığı]]></translate></item>
+	<item v="popUp_subtitle_89"><translate><![CDATA[yaratıcılık]]></translate></item>
+	<item v="popUp_body_text_89"><translate><![CDATA[Bu imaj akşamüstü güneş tam arabanın yanında iken çekilmiştir.Işığın yansıması nedeniyle aracın sadece silüeti görünüyor.]]></translate></item>			
+
+
+
+	<!-- Key technology pop ups -->
+	<item v="popUp_tech_subtitle_0"><translate><![CDATA[Optik imaj sabitleyici]]></translate></item>
+	<item v="popUp_tech_body_text_0"><translate><![CDATA[MEGA O.I.S.  el titremesini yokeder, size temiz , keskin çekimler sağlar bulanıklığın problem yarattığı durumlarda bile.Dijital kamera performansında MEGA O.I.S. titreşim önleyici sistemi yeni standartlar getirmiştir.Görüntü kalitesini  sadece pixel sayısı ve lens özellikleri ölçülemeyecek düzeyde  bir basamak arttırmıştır.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_1"><translate><![CDATA[Leica DC lenc]]></translate></item>
+	<item v="popUp_tech_body_text_1"><translate><![CDATA[Tüm bu gelişmiş lens  sistemleri  kaymaları kompanse etmek için  birçok aspheric lens ile donatılmıştır.Aynı zamanda  gelişmiş çok katmanlı lens uygulaması ile sislenmeyi ve hayalet etkisini yok etmektedir.
+
+Leica , Leica Mikrosistem IR Gmbh tescilli markasıdır.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_2"><translate><![CDATA[Venus engine Plus . II ve III]]></translate></item>
+	<item v="popUp_tech_body_text_2"><translate><![CDATA[Tüm Venus Engine görüntü işlemcileri teknolojileri ile yüksek tepki hızı ve% 50 daha iyi yatay çözünürlük sağlar.Venus Engine II ve III dikey çözünürlüktede % 10 artış  ve yüksek zoomlu çekimlerde doğru renk dağılımını sağlar.Venus Engine Plus ve III enerji etkinliğini arttırır.]]></translate></item>			
+
+
+</root>

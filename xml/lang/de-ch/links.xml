@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<links>
+	<camera name="DMC-LZ5" url="http://www.panasonic.ch/products/product.asp?l=de&grp=001009001&mod=dmc-lz5eg-s&typ="/>
+	<camera name="DMC-LZ3" url="http://www.panasonic.ch/products/product.asp?l=de&grp=001009001&mod=dmc-lz3eg-s&typ="/>
+	<camera name="DMC-LS2" url="http://www.panasonic.ch/products/product.asp?l=de&grp=001009001&mod=dmc-ls2eg-s&typ="/>
+	<camera name="DMC-FX01" url="http://www.panasonic.ch/products/product.asp?l=de&grp=001009001&mod=dmc-fx01eg-s&typ="/>
+	<camera name="DMC-FX07" url="http://www.panasonic.ch/products/product.asp?l=de&grp=001009001&mod=dmc-fx07eg-s&typ="/>
+	<camera name="DMC-FX50" url="http://www.panasonic.ch/products/product.asp?l=de&grp=001009001&mod=dmc-fx50eg-s&typ="/>
+	<camera name="DMC-LX2" url="http://www.panasonic.ch/products/product.asp?l=de&grp=001009001&mod=dmc-lx2eg-k&typ="/>
+	<camera name="DMC-FZ50" url="http://www.panasonic.ch/products/product.asp?l=de&grp=001009001&mod=dmc-fz50eg-k&typ="/>
+	<camera name="DMC-FZ7" url="http://www.panasonic.ch/products/product.asp?l=de&grp=001009001&mod=dmc-fz7eg-s&typ="/>
+	<camera name="DMC-TZ1" url="http://www.panasonic.ch/products/product.asp?l=de&grp=001009001&mod=dmc-tz1eg-s&typ="/>
+	<camera name="DMC-L1" url=""/>
+	<camera name="DMC-FX3" url="http://www.panasonic.ch/products/product.asp?l=de&grp=001009001&mod=dmc-fx3eg-s&typ="/>
+	
+	<lumixAward url="http://www.lumixaward.com"/>
+</links>

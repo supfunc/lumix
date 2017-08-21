@@ -1,0 +1,734 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<main>
+	<!-- SECTION: LUMIX AWARD -->
+	<section>
+		<colour>
+			<main>0xD6DBE0</main>
+			<text>0x333333</text>
+			<menuText>0x666666</menuText>
+		</colour>
+		<winners>
+			<winner name="Ryan Li" title="Jump" date="2005" />
+			<winner name="Stephan Orbitz" title="Sssiiiisccchhhh" date="2005" />
+			<winner name="Mischa Fulljames" title="Sleeping" date="2002" />
+			<winner name="Piotr Tytus" title="Paris, Paris" date="2004" />
+			<winner name="Thomas Stuhrk" title="Der Pilot" date="2003" />
+			<winner name="Ole Yissing" title="Beaver Lake" date="2004" />
+			<winner name="Robert Grewcock" title="Shanghai School Tai Chi" date="2005" />
+			<winner name="Peter Muhlbacher" title="Winter am Dachstein" date="2004" />
+			<winner name="Volker Gehrmann" title="Tv landscape" date="2003" />
+			<winner name="Tamas Kovacs" title="Small bridge" date="2004" />
+			<winner name="Pawel Kosicki" title="Iceland" date="2004" />
+			<winner name="Reiner Felsmann" title="Fernsteuerung" date="2003" />
+			<winner name="Michael Yeo" title="Bowpainter" date="2002" />
+			<winner name="Jozsef Wagner Csapo" title="The Budapest Story 2005" date="2005" />
+			<winner name="Casani Gianlorenzo" title="School experience" date="2005" />
+			<winner name="Gary Dwyer" title="Imagined women" date="2005" />
+		</winners>
+	</section>
+	
+	<!-- SECTION: PRODUCT RANGE -->
+	<section>
+		<colour>
+			<main>0xD6DBE0</main>
+			<text>0x333333</text>
+			<menuText>0x666666</menuText>
+		</colour>
+		<productRange>
+			<camera name = "DMC-LZ5" type="0" featured="false">
+				<specifications venusEngine="Plus" megaPixels="6">
+					<spec id="1" />
+					<spec id="3" />
+					<spec id="4" />
+					<spec id="6" />
+				</specifications>
+			</camera>
+			<camera name = "DMC-LZ3"  type="0" featured="false">
+				<specifications venusEngine="Plus" megaPixels="5">
+					<spec id="1" />
+					<spec id="3" />
+					<spec id="4" />
+					<spec id="6" />
+				</specifications>
+			</camera>
+			<camera name = "DMC-LS2"  type="0" featured="false">
+				<specifications venusEngine="Plus" megaPixels="5">
+					<spec id="1" />
+					<spec id="3" />
+					<spec id="4" />
+				</specifications>
+			</camera>
+			<camera name = "DMC-FX01"  type="1" featured="true" sectionID="2">
+				<specifications venusEngine="Plus" megaPixels="6" wideAngle="28mm">
+					<!-- See dict.xml for the specification that corresponds with each id -->
+					<spec id="7" />
+					<spec id="1" />
+					<spec id="2" />
+					<spec id="3" />
+					<spec id="4" />
+					<spec id="9" />
+				</specifications>
+				<!-- Thumbnail and large image offset positions within pop-up -->
+				<images>
+						<image name="back">
+							<thumb x="0" y="0" />
+							<large x="242" y="-30" />
+						</image>
+						<image name="top">
+							<thumb x="-15" y="2" />
+							<large x="192" y="-19" />
+						</image>
+						<image name="front">
+							<thumb x="0" y="0" />
+							<large x="240" y="-30" />
+						</image>
+						<image name="slant">
+							<thumb x="0" y="2" />
+							<large x="250" y="-25" />
+						</image>
+				</images>
+			</camera>
+			<camera name = "DMC-FX07"  type="1" featured="false">
+				<specifications venusEngine="III" megaPixels="7.2" wideAngle="28mm">
+					<spec id="7" />
+					<spec id="1" />
+					<spec id="2" />
+					<spec id="3" />
+					<spec id="4" />
+					<spec id="9" />
+				</specifications>
+			</camera>
+			<camera name = "DMC-FX50"  type="1" featured="false">
+				<specifications venusEngine="III" megaPixels="7.2" wideAngle="28mm">
+					<spec id="7" />
+					<spec id="1" />
+					<spec id="2" />
+					<spec id="3" />
+					<spec id="4" />
+					<spec id="9" />
+				</specifications>
+			</camera>
+			<camera name = "DMC-FX3"  type="1" featured="false">
+				<specifications venusEngine="Plus" megaPixels="6">
+					<spec id="1" />
+					<spec id="2" />
+					<spec id="3" />
+					<spec id="4" />
+					<spec id="9" />
+				</specifications>
+			</camera>
+			<camera name = "DMC-FZ50" type="3" featured="false">
+				<specifications opticalZoom="12x" venusEngine="III" megaPixels="10.1">
+					<spec id="0" />
+					<spec id="1" />
+					<spec id="2" />
+					<spec id="3" />
+					<spec id="4" />
+					<spec id="5" />
+				</specifications>
+			</camera>
+			<camera name = "DMC-FZ7" type="3" featured="true" sectionID="4">
+				<specifications opticalZoom="12x" venusEngine="II" megaPixels="6">
+					<spec id="0" />
+					<spec id="1" />
+					<spec id="2" />
+					<spec id="3" />
+					<spec id="4" />
+					<spec id="5" />
+				</specifications>
+				<!-- Thumbnail and large image offset positions within pop-up -->
+				<images>
+						<image name="back">
+							<thumb x="0" y="0" />
+							<large x="250" y="-40" />
+						</image>
+						<image name="top">
+							<thumb x="-15" y="-13" />
+							<large x="200" y="-100" />
+						</image>
+						<image name="front">
+							<thumb x="0" y="0" />
+							<large x="255" y="-40" />
+						</image>
+						<image name="slant">
+							<thumb x="0" y="-16" />
+							<large x="250" y="-80" />
+						</image>
+				</images>
+			</camera>
+			<camera name = "DMC-TZ1" type="2" featured="true" sectionID="3">
+				<specifications opticalZoom="10x" venusEngine="III" megaPixels="5">
+					<spec id="0" />
+					<spec id="1" />
+					<spec id="2" />
+					<spec id="3" />
+					<spec id="4" />
+					<spec id="6" />
+				</specifications>
+				<!-- Thumbnail and large image offset positions within pop-up -->
+				<images>
+						<image name="back">
+							<thumb x="0" y="0" />
+							<large x="250" y="-25" />
+						</image>
+						<image name="top">
+							<thumb x="-15" y="5" />
+							<large x="205" y="20" />
+						</image>
+						<image name="front">
+							<thumb x="0" y="0" />
+							<large x="255" y="-27" />
+						</image>
+						<image name="slant">
+							<thumb x="0" y="2" />
+							<large x="250" y="-25" />
+						</image>
+				</images>
+			</camera>
+			<camera name = "DMC-LX2"  type="1" featured="false">
+				<specifications venusEngine="III" megaPixels="10.2" wideAngle="28mm">
+					<spec id="7" />
+					<spec id="10" />
+					<spec id="4" />
+					<spec id="1" />
+					<spec id="3" />
+					<spec id="2" />
+				</specifications>
+			</camera>
+			<camera name = "DMC-L1" type="5" featured="false">
+				<specifications venusEngine="III" megaPixels="7.5">
+					<spec id="1" />
+					<spec id="3" />
+					<spec id="2" />
+					<spec id="4" />
+				</specifications>
+			</camera>
+		</productRange>
+	</section>
+	
+	<!-- CAMERA SETTINGS KEY
+	
+	setting id:
+	0 = mode
+	1 = OIS
+	2 = flash
+	3 = wide angle
+	4 = auto red-eye reduction
+	5 = zoom
+	6 = spot metering
+	7 = F
+	8 = speed
+	9 = backlight compensation
+	
+	modeID:
+	0 = portrait mode
+	1 = simple mode
+	2 = macro mode
+	3 = high sensitivity mode
+	4 = night portrait mode
+	5 = beach mode
+	6 = sports mode
+	7 = manual mode
+	8 = scenery mode
+	
+	state:
+	0 = "OFF"
+	1 = "ON"
+	
+	zoomID:
+	0 = zoom
+	1 = optical zoom
+	2 = extra optical zoom
+	
+	-->
+	
+	<!-- SECTION: VIDEO STORY -->
+	<section>
+		<colour>
+			<main>0xEFCDF4</main>
+			<text>0x000000</text>
+			<menuText>0x555555</menuText>
+		</colour>
+		<story name = "Anna Taylor" id="anna">
+			<camera>DMC-FX01</camera>
+			<chapter>
+				<preview>
+				<image url="00.jpg"/>
+				</preview>
+				<video url="1.1_anna_house.flv">
+					<hotspot type="feature" id="0" time="24" />
+					<hotspot type="feature" id="1" time="28" />
+					<hotspot type="picture" id="2" time="35" imageURL="1.1_anna.jpg">
+						<setting id="0" modeID="0" />
+					</hotspot>
+					
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="01.jpg"/>
+				</preview>
+				<video url="1.2_dressed.flv">
+					<hotspot type="feature" id="3" time="16" />
+					<hotspot type="feature" id="4" time="26" />
+					<hotspot type="picture" id="5" time="32" imageURL="1.2_dressed.jpg">
+						<setting id="0" modeID="1" />
+						<setting id="1" state="1" />
+						<setting id="2" state="0" />
+					</hotspot>
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="02.jpg"/>
+				</preview>
+				<video url="1.3_makeup.flv">
+					<hotspot type="feature" id="6" time="13" />
+					<hotspot type="picture" id="7" time="22" imageURL="1.3_makeup.jpg">
+						<setting id="0" modeID="2" />
+						<setting id="1" state="1" />
+					</hotspot>
+					<hotspot type="feature" id="8" time="31" />
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="03.jpg"/>
+				</preview>
+				<video url="1.4_taxi.flv">
+					<hotspot type="feature" id="9" time="15" />
+					<hotspot type="picture" id ="10" time="20" imageURL="1.4_taxi.jpg" >
+						<setting id="3" />
+						<setting id="1" state="1" />
+					</hotspot>
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="04.jpg"/>
+				</preview>
+				<video url="1.5_bouncer.flv">
+					<hotspot type="feature" id="11" time="7" />
+					<hotspot type="feature" id="12" time="17" />
+					<hotspot type="picture" id="13" time="22" imageURL="1.5_bouncer.jpg" >
+						<setting id="0" modeID="1" />
+						<setting id="1" state="1" />
+					</hotspot>
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="05.jpg"/>
+				</preview>
+				<video url="1.6_curtain.flv">
+					<hotspot type="tip" id="14" time="7" />
+					<hotspot type="feature" id="15" time="12" />
+					<hotspot type="picture" id="16" time="18" imageURL="1.6_curtain.jpg" >
+						<setting id="4" />
+						<setting id="1" state="1" />
+					</hotspot>
+	
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="06.jpg"/>
+				</preview>
+				<video url="1.7_bar.flv">
+					<hotspot type="feature" id="17" time="3" />
+					<hotspot type="picture" id="18" time="15" imageURL="1.7_bar.jpg" >
+						<setting id="0" modeID="1" />
+						<setting id="1" state="1" />
+						<setting id="2" state="0" />
+					</hotspot>
+					<hotspot type="feature" id="19" time="24" />
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="07.jpg"/>
+				</preview>
+				<video url="1.8_sofa.flv">
+					<hotspot type="feature" id="20" time="4" />
+					<hotspot type="picture" id="21" time="20" imageURL="1.8_sofa.jpg">
+						<setting id="0" modeID="1" />
+						<setting id="5" zoomID="0" value="3.6" />
+						<setting id="2" state="1" />
+					</hotspot>
+					<hotspot type="feature" id="22" time="24" />
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="08.jpg"/>
+				</preview>
+				<video url="1.9_dance.flv">
+					<hotspot type="feature" id="23" time="12" />
+					<hotspot type="picture" id="24" time="19" imageURL="1.9_dance.jpg" >
+						<setting id="0" modeID="1" />
+						<setting id="1" state="1" />
+						<setting id="2" state="0" />
+					</hotspot>
+					<hotspot type="feature" id="25" time="27" />
+				</video>
+			</chapter>
+		</story>
+	</section>
+	
+	<!-- SECTION: VIDEO STORY -->
+	<section>
+		<colour>
+			<main>0xFFC600</main>
+			<text>0x000000</text>
+			<menuText>0x555555</menuText>
+		</colour>
+		<story name = "Pietro Rossi" id="pietro">
+			<camera>DMC-TZ1</camera>
+			<chapter>
+				<preview>
+				<image url="00.jpg"/>
+				</preview>
+				<video url="2.1_arrival.flv">
+					<hotspot type="feature" id="26" time="12" />
+					<hotspot type="feature" id="27" time="18" />
+					<hotspot type="picture" id="28" time="21" imageURL="sequence">
+						<image url="2.1_arrival_a1.jpg" />
+						<image url="2.1_arrival_a2.jpg" />
+						<image url="2.1_arrival_a3.jpg" />
+						<image url="2.1_arrival_a4.jpg" />
+						<image url="2.1_arrival_a5.jpg" />
+						<setting id="0" modeID="1" />
+						<setting id="5" zoomID="1" value="10" />
+						<setting id="1" state="1" />
+					</hotspot>	
+					<hotspot type="feature" id="29" time="24" />
+
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="01.jpg"/>
+				</preview>
+				<video url="2.2_heading_town.flv">
+					<hotspot type="tip" id="30" time="7" />
+					<hotspot type="picture" id="31" time="16" imageURL="2.2_sculpture.jpg" >
+						<setting id="0" modeID="1" />
+						<setting id="1" state="1" />
+					</hotspot>
+					<hotspot type="feature" id="32" time="30" />
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="02.jpg"/>
+				</preview>
+				<video url="2.3_placa_real.flv">
+					<hotspot type="tip" id="33" time="4" />
+					<hotspot type="picture" id="34" time="23" imageURL="2.3_placa_real.jpg" >
+						<setting id="0" modeID="3" />
+						<setting id="1" state="1" />
+					</hotspot>
+					<hotspot type="feature" id="35" time="28" />
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="03.jpg"/>
+				</preview>
+				<video url="2.4_cafe.flv">
+					<hotspot type="feature" id="36" time="17" />
+					<hotspot type="picture" id="37" time="29" imageURL="2.4_cafe.jpg" >
+						<setting id="0" modeID="1" />
+						<setting id="1" state="1" />
+					</hotspot>
+					<hotspot type="feature" id="38" time="33" />
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="04.jpg"/>
+				</preview>
+				<video url="2.5_hotel.flv">
+					<hotspot type="tip" id="39" time="17" />
+					<hotspot type="feature" id="40" time="23" />
+					<hotspot type="picture" id="41" time="27" imageURL="2.5_hotel.jpg" >
+						<setting id="0" modeID="4" />
+						<setting id="1" state="1" />
+					</hotspot>
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="05.jpg"/>
+				</preview>
+				<video url="2.6_beach.flv">
+					<hotspot type="feature" id="42" time="6" />
+					<hotspot type="picture" id="43" time="26" imageURL="2.6_beach.jpg" >
+						<setting id="0" modeID="5" />
+						<setting id="1" state="1" />
+					</hotspot>
+					<hotspot type="feature" id="44" time="29" />
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="06.jpg"/>
+				</preview>
+				<video url="2.7_architecture.flv">
+					<hotspot type="tip" id="45" time="9" />
+					<hotspot type="picture" id="46" time="16" imageURL="2.7_architecture_a.jpg" >
+						<setting id="0" modeID="1" />
+						<setting id="1" state="1" />
+					</hotspot>
+					<hotspot type="picture" id="47" time="22" imageURL="2.7_architecture_b.jpg" >
+						<setting id="0" modeID="1" />
+						<setting id="5" zoomID="0" value="10"/>
+						<setting id="1" state="1" />
+					</hotspot>
+					<hotspot type="picture" id="48" time="28" imageURL="2.7_architecture_c.jpg" >
+						<setting id="0" modeID="1" />
+						<setting id="1" state="1" />
+					</hotspot>
+					<hotspot type="picture" id="49" time="31" imageURL="2.7_architecture_d.jpg" >
+						<setting id="0" modeID="1" />
+						<setting id="5" zoomID="1" value="6"/>
+						<setting id="6" />
+					</hotspot>
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="07.jpg"/>
+				</preview>
+				<video url="2.8_sagrada.flv">
+					<hotspot type="feature" id="50" time="19" />
+					<hotspot type="feature" id="51" time="30" />
+					<hotspot type="picture" id="52" time="26" imageURL="sequence">
+						<image url="2.8_sagrada_a.jpg" />
+						<image url="2.8_sagrada_b.jpg" />
+						<image url="2.8_sagrada_c.jpg" />
+						<image url="2.8_sagrada_d.jpg" />
+						<image url="2.8_sagrada_e.jpg" />
+						<setting id="5" zoomID="1" value="10"/>
+						<setting id="1" state="1" />
+					</hotspot>	
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="08.jpg"/>
+				</preview>
+				<video url="2.9_restaurant.flv">
+					<hotspot type="feature" id="53" time="3" />
+					<hotspot type="picture" id="54" time="33" imageURL="2.9_restaurant.jpg" >
+						<setting id="4" />
+						<setting id="1" state="1" />
+					</hotspot>
+					<hotspot type="feature" id="55" time="40" />
+				</video>
+			</chapter>
+		</story>
+	</section>
+	
+	
+	<!-- SECTION: VIDEO STORY -->
+	<section>
+		<colour>
+			<main>0x920000</main>
+			<text>0xFFFFFF</text>
+			<menuText>0xEEEEEE</menuText>
+		</colour>
+		<story name="Thomas Schmidt" id="thomas">
+			<camera>DMC-FZ7</camera>
+			<chapter>
+				<preview>
+				<image url="00.jpg"/>
+				</preview>
+				<video url="3.1_arriving.flv">
+					<hotspot type="picture" id="56" time="9" imageURL="3.1b_arrival.jpg">
+						<setting id="7" value="6.3"/>
+						<setting id="8" value="1/320"/>
+						<setting id="0" modeID="2"/>
+						<setting id="1" state="1"/>
+					</hotspot>
+					<hotspot type="feature" id="57" time="16" />
+					<hotspot type="picture" id="58" time="26" imageURL="3.1a_arrival.jpg" >
+						<setting id="7" value="5"/>
+						<setting id="8" value="1/500"/>
+						<setting id="0" modeID="1"/>
+						<setting id="1" stae="1" />
+					</hotspot>
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="01.jpg"/>
+				</preview>
+				<video url="3.2_pitlane.flv">
+					<hotspot type="picture" id="59" time="10" imageURL="3.2a_pitlane.jpg" >
+						<setting id="7" value="8"/>
+						<setting id="8" value="1/250"/>
+						<setting id="0" modeID="1"/>
+						<setting id="9"/>
+						<setting id="1" state="1" />
+					</hotspot>
+					<hotspot type="feature" id="60" time="17" />
+					<hotspot type="picture" id="61" time="21" imageURL="3.2b_pitlane.jpg" >
+						<setting id="7" value="6.3"/>
+						<setting id="8" value="1/400"/>
+						<setting id="0" modeID="2"/>
+						<setting id="1" state="1"/>
+					</hotspot>
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="02.jpg"/>
+				</preview>
+				<video url="3.3_pitgarage.flv">
+					<hotspot type="tip" id="62" time="4" />
+					<hotspot type="picture" id="63" time="14.4" imageURL="3.3a_garage.jpg" >
+						<setting id="7" value="4"/>
+						<setting id="8" value="1/125"/>
+						<setting id="1" state="1"/>
+						<setting id="2" state="0"/>
+					</hotspot>
+					<hotspot type="feature" id="64" time="18" />
+					<hotspot type="feature" id="65" time="31" />
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="03.jpg"/>
+				</preview>
+				<video url="3.4_roof.flv">
+					<hotspot type="picture" id="66" time="12.5" imageURL="3.4b_roof_car.jpg" >
+						<setting id="7" value="8"/>
+						<setting id="8" value="1/500"/>
+						<setting id="0" modeID="6"/>
+						<setting id="1" state="1"/>
+					</hotspot>
+					<hotspot type="feature" id="67" time="15" />
+					<hotspot type="picture" id="68" time="17" imageURL="3.4a_roof_zoom.jpg" >
+						<setting id="7" value="6.3"/>
+						<setting id="8" value="1/320"/>
+						<setting id="0" modeID="1"/>
+						<setting id="5" zoomID="1" value="6"/>
+						<setting id="1" state="1"/>
+					</hotspot>
+					<hotspot type="feature" id="69" time="21" />
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="04.jpg"/>
+				</preview>
+				<video url="3.5_end_pitlane.flv">
+					<hotspot type="picture" id="70" time="6" imageURL="3.5a_end_lane_reflections.jpg" >
+						<setting id="7" value="5"/>
+						<setting id="8" value="1/320"/>
+						<setting id="0" modeID="1"/>
+						<setting id="5" zoomID="1" value="3"/>
+						<setting id="1" state="1"/>
+					</hotspot>
+					<hotspot type="feature" id="71" time="15" />
+					<hotspot type="picture" id="72" time="18" imageURL="3.5b_end_lane_blur.jpg" >
+						<setting id="7" value="8"/>
+						<setting id="8" value="1/100"/>
+						<setting id="0" modeID="1"/>
+						<setting id="5" zoomID="1" value="3"/>
+						<setting id="1" state="1"/>
+					</hotspot>
+					<hotspot type="feature" id="73" time="20" />
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="05.jpg"/>
+				</preview>
+				<video url="3.6_on_track.flv">
+					<hotspot type="picture" id="74" time="7.3" imageURL="3.6a_track_car.jpg" >
+						<setting id="7" value="8"/>
+						<setting id="8" value="1/500"/>
+						<setting id="0" modeID="6"/>
+						<setting id="1" state="1"/>
+					</hotspot>
+					<hotspot type="picture" id="75" time="16" imageURL="3.6b_track_tyres.jpg" >
+						<setting id="7" value="7.1"/>
+						<setting id="8" value="1/500"/>
+						<setting id="0" modeID="1"/>
+						<setting id="5" zoomID="1" value="3"/>
+						<setting id="1" state="1"/>
+					</hotspot>
+					<hotspot type="feature" id="76" time="20" />
+					<hotspot type="feature" id="77" time="23" />
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="06.jpg"/>
+				</preview>
+				<video url="3.7_grandstand.flv">
+					<hotspot type="picture" id="78" time="7.1" imageURL="3.7a_grandstand_seats.jpg" >
+						<setting id="7" value="5"/>
+						<setting id="8" value="1/1000"/>
+						<setting id="0" modeID="7"/>
+						<setting id="1" state="1"/>
+					</hotspot>
+					<hotspot type="picture" id="79" time="22.4" imageURL="sequence" >
+						<image url="3.7b_zoom_1.jpg" />
+						<image url="3.7b_zoom_2.jpg" />
+						<image url="3.7b_zoom_3.jpg" />
+						<image url="3.7b_zoom_4.jpg" />
+						<image url="3.7b_zoom_5.jpg" />
+						<image url="3.7b_zoom_6.jpg" />
+						<setting id="7" value="8"/>
+						<setting id="8" value="1/100"/>
+						<setting id="0" modeID="1"/>
+						<setting id="5" zoomID="2" value="16.5"/>
+						<setting id="1" state="1"/>
+					</hotspot>	
+					<hotspot type="feature" id="80" time="29" />
+					<hotspot type="feature" id="81" time="33" />
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="07.jpg"/>
+				</preview>
+				<video url="3.8_torre.flv">
+					<hotspot type="feature" id="82" time="9" />
+					<hotspot type="feature" id="83" time="13" />
+					<hotspot type="picture" id="84" time="17" imageURL="3.8a_torre_view.jpg" >
+						<setting id="7" value="8"/>
+						<setting id="8" value="1/320"/>
+						<setting id="0" modeID="8"/>
+						<setting id="1" state="1"/>
+					</hotspot>
+					<hotspot type="picture" id="85" time="27" imageURL="3.8b_torre_sunset.jpg" >
+						<setting id="7" value="8"/>
+						<setting id="8" value="1/500"/>
+						<setting id="0" modeID="7"/>
+						<setting id="1" state="1"/>
+					</hotspot>
+				</video>
+			</chapter>
+			<chapter>
+				<preview>
+					<image url="08.jpg"/>
+				</preview>
+				<video url="3.9_chicane.flv">
+					<hotspot type="feature" id="86" time="6" />
+					<hotspot type="feature" id="87" time="11" />
+					<hotspot type="feature" id="88" time="20" />
+					<hotspot type="picture" id="89" time="23" imageURL="3.9_chicane.jpg" >
+						<setting id="7" value="8"/>
+						<setting id="8" value="1/500"/>
+						<setting id="0" modeID="1"/>
+						<setting id="1" state="1"/>
+					</hotspot>
+				</video>
+			</chapter>
+		</story>
+	</section>
+</main>

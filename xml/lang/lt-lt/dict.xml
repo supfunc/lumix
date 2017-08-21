@@ -1,0 +1,776 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<!-- 'Loading' website data -->
+	<item v="loading"><translate><![CDATA[LOADING]]></translate></item>
+<!-- new --><item v="disclaimer"><translate><![CDATA[© 2006 Panasonic Europe (HQ) Ltd. All rights reserved.]]></translate></item>
+<!-- new --><item v="select_language"><translate><![CDATA[Pasirinkite kalbą]]></translate></item>
+
+	<!-- SECTION: HOME PAGE -->
+	
+	<item v="home_title"><translate><![CDATA[Atraskime „Lumix“ išskirtinumą.]]></translate></item>
+	<item v="home_subtitle"><translate><![CDATA[„Lumix“ skaitmeniniai fotoaparatai leidžia lengvai daryti geresnes nuotraukas. Eksperimentuokite su savo nuotraukomis, pasirinkite naują perspektyvą ir leiskite „Lumix“ atlikti visą darbą.
+Sekite mūsų aprašymus ir  ieškokite išskirtinių „Lumix“ savybių!]]></translate></item>
+
+	<!-- panels -->
+	<item v="section0_title"><translate><![CDATA[„Lumix“ apdovanojimai]]></translate></item>
+	<item v="section0_subtitle"><translate><![CDATA[Pateikite savo nuotraukas, jei norite gauti skaitmeninės fotografijos apdovanojimų.]]></translate></item>
+	
+	<item v="section1_title"><translate><![CDATA[Gaminių asortimentas]]></translate></item>
+	<item v="section1_subtitle"><translate><![CDATA[Peržiūrėkite asortimentą ir sužinokite, kokie svarbiausi „Lumix“ privalumai.]]></translate></item>
+	
+	<item v="section2_subtitle"><translate><![CDATA[Pasivaikščiojimas Londone su dviem draugais]]></translate></item>
+
+	<item v="section3_subtitle"><translate><![CDATA[Apsilankymas Barselonoje su mergina]]></translate></item>
+	
+	<item v="section4_subtitle"><translate><![CDATA[„Formulės-1“ bandymuose Jereze]]></translate></item>
+
+	<!-- FEATURING THE [CAMERA NAME] -->
+	<item v="featuring"><translate><![CDATA[Pristatomas ]]></translate></item>
+	<item v="the"><translate><![CDATA[]]></translate></item>
+	
+	<!-- FLOATING MAIN MENU -->
+	
+	<item v="menu_overview"><translate><![CDATA[Apžvalga]]></translate></item>
+	<item v="menu_scene"><translate><![CDATA[Vaizdas]]></translate></item>
+	<item v="menu_lumix_award"><translate><![CDATA[Dalyvaukite „Lumix“ apdovanojimuose]]></translate></item>
+	<item v="menu_product_range"><translate><![CDATA[2006 „Lumix“ gaminių asortimentas]]></translate></item>
+	<!-- menu items -->
+	<item v="menu_0"><translate><![CDATA[Pagrindinis puslapis]]></translate></item>
+	<item v="menu_1"><translate><![CDATA[Keliaukime po Londoną kartu su Anna]]></translate></item>
+	<item v="menu_2"><translate><![CDATA[Pabuvokime su Pietro Barselonoje]]></translate></item>
+	<item v="menu_3"><translate><![CDATA[Pasekime Thomas F1 bandymuose]]></translate></item>
+	<item v="menu_4"><translate><![CDATA[„Lumix“ gaminių asortimentas]]></translate></item>
+	<item v="menu_5"><translate><![CDATA[Dalyvaukite „Lumix“ apdovanojimuose.]]></translate></item>
+	
+	<!-- PRODUCT INFO -->
+	<!-- Launch product info panel-->
+	<item v="find_out_more_DMC-FX01"><translate><![CDATA[Sužinokite daugiau apie DMC-FX01]]></translate></item>
+	<item v="find_out_more_DMC-FZ7"><translate><![CDATA[Sužinokite daugiau apie DMC-FZ7]]></translate></item>
+	<item v="find_out_more_DMC-TZ1"><translate><![CDATA[Sužinokite daugiau apie DMC-TZ1]]></translate></item>
+	
+	<!-- Camera types -->
+	<item v="cam_type_0"><translate><![CDATA[Mielas ir paprastas]]></translate></item>
+	<item v="cam_type_1"><translate><![CDATA[Stilingas ir kompaktiškas]]></translate></item>
+	<item v="cam_type_2"><translate><![CDATA[Kelionėms]]></translate></item>
+	<item v="cam_type_3"><translate><![CDATA[Pusiau profesionalus]]></translate></item>
+	<item v="cam_type_4"><translate><![CDATA[Profesionalus]]></translate></item>
+	<item v="cam_type_5"><translate><![CDATA[Profesionalus SLR]]></translate></item>
+	
+	<!-- Camera specifications. In main.xml, specify id for each spec that applies to a camera -->
+	<item v="spec_0"><translate><![CDATA[Optinis priartinimas]]></translate></item>
+	<item v="spec_1"><translate><![CDATA[Optinis vaizdo stabilizavimas]]></translate></item>
+	<item v="spec_2"><translate><![CDATA[„Leica“ objektyvas]]></translate></item>
+	<item v="spec_3"><translate><![CDATA[„Venus Engine“ ]]></translate></item>
+	<item v="spec_4"><translate><![CDATA[Milijonai vaizdo taškų]]></translate></item>
+	<item v="spec_5"><translate><![CDATA[Rankinės funkcijos]]></translate></item>
+	<item v="spec_6"><translate><![CDATA[Skystųjų kristalų ekranas, leidžiantis fotografuoti iš aukštai]]></translate></item>
+	<item v="spec_7"><translate><![CDATA[Plačiakampis]]></translate></item>
+	<item v="spec_8"><translate><![CDATA[SLR]]></translate></item>
+	<item v="spec_9"><translate><![CDATA[Didelis skystųjų kristalų ekranas]]></translate></item>
+	<item v="spec_10"><translate><![CDATA[16:9 CCD]]></translate></item>
+	
+	<!-- SECTION: LUMIX AWARD -->
+	
+	<item v="lumix_award_title"><translate><![CDATA[2006 metų „Lumix“ apdovanojimai]]></translate></item>
+	<item v="lumix_award_subtitle"><translate><![CDATA[„Lumix“ apdovanojimai rengiami jau penktus metus. Visi kviečiami dalyvauti Europos mastu vykstančiame skaitmeninės fotografijos konkurse.]]></translate></item>
+	<item v="previous_winners"><translate><![CDATA[Ankstesnių konkursų nugalėtojai]]></translate></item>
+	<item v="enter_award"><translate><![CDATA[Dalyvaukite „Lumix“ apdovanojimuose]]></translate></item>
+	
+	<!-- Image navigation -->
+	<item v="close"><translate><![CDATA[Uždaryti]]></translate></item>
+	<item v="prev_image"><translate><![CDATA[Ankstesnis]]></translate></item>
+	<item v="next_image"><translate><![CDATA[Toliau]]></translate></item>
+	
+	
+	<!-- SECTION: PRODUCT RANGE -->
+	<item v="featured"><translate><![CDATA[Galimybės]]></translate></item>
+	<item v="product_range_title"><translate><![CDATA[2006 „Lumix“ gaminių asortimentas]]></translate></item>
+	<item v="product_range_subtitle"><translate><![CDATA[„Lumix“ asortimentas leis pasirinkti kaip tik tokį fotoaparatą, kokio Jums reikia. Čia daugiau sužinosite apie svarbiausias savybes ir technologijas.]]></translate></item>
+	
+	<!-- Camera features -->
+	<item v="leica_lens"><translate><![CDATA[„Leica“ objektyvas]]></translate></item>
+	
+	<!-- Camera info menu -->
+	<item v="want_to_buy"><translate><![CDATA[Įsigykite šį fotoaparatą]]></translate></item>
+	<item v="tech_specs"><translate><![CDATA[Išsamios charakteristikos]]></translate></item>
+	
+	<!-- Camera navigation -->
+	<item v="close_camera"><translate><![CDATA[Uždaryti Fotoaparatas]]></translate></item>
+	<item v="prev_camera"><translate><![CDATA[Ankstesnis Fotoaparatas]]></translate></item>
+	<item v="next_camera"><translate><![CDATA[Tolesnis Fotoaparatas]]></translate></item>
+
+	<!-- menu -->
+	<item v="see_in_action_DMC-FX01"><translate><![CDATA[FX01 Sužinokite daugiau]]></translate></item>
+	<item v="see_in_action_DMC-FZ7"><translate><![CDATA[FZ7 Sužinokite daugiau]]></translate></item>
+	<item v="see_in_action_DMC-TZ1"><translate><![CDATA[TZ1 Sužinokite daugiau]]></translate></item>
+	<item v="buy_this_camera"><translate><![CDATA[Įsigykite šį fotoaparatą]]></translate></item>
+	<item v="more_info"><translate><![CDATA[Išsamios charakteristikos]]></translate></item>
+	
+	<!-- Technologies -->
+<!-- new --><item v="key_technologies"><translate><![CDATA[Svarbiausios „Lumix” technologijos]]></translate></item>
+	
+	<item v="enter_award"><translate><![CDATA[Dalyvaukite „Lumix“ apdovanojimuose]]></translate></item>
+	
+	
+	<!-- Video stories -->
+	<!-- Anna -->
+	<item v="anna_ch1_title"><translate><![CDATA[Susitikimas Anos bute]]></translate></item>
+	<item v="anna_ch2_title"><translate><![CDATA[Pasiruošimas]]></translate></item>
+	<item v="anna_ch3_title"><translate><![CDATA[Linksma su makijažu]]></translate></item>
+	<item v="anna_ch4_title"><translate><![CDATA[Kelionė taksi į klubą]]></translate></item>
+	<item v="anna_ch5_title"><translate><![CDATA[Pašaliniai]]></translate></item>
+	<item v="anna_ch6_title"><translate><![CDATA[Uždanga]]></translate></item>
+	<item v="anna_ch7_title"><translate><![CDATA[Flirtuojant su barmenu]]></translate></item>
+	<item v="anna_ch8_title"><translate><![CDATA[Šnekučiuojantis ant sofos]]></translate></item>
+	<item v="anna_ch9_title"><translate><![CDATA[Šokių salėje]]></translate></item>
+	
+	<!-- Pietro -->
+	<item v="pietro_ch1_title"><translate><![CDATA[Barselonos priemiesčiuose]]></translate></item>
+	<item v="pietro_ch2_title"><translate><![CDATA[Taikykite į centrą]]></translate></item>
+	<item v="pietro_ch3_title"><translate><![CDATA[Puikioje aplinkoje]]></translate></item>
+	<item v="pietro_ch4_title"><translate><![CDATA[Kavinėje]]></translate></item>
+	<item v="pietro_ch5_title"><translate><![CDATA[Viešbutyje]]></translate></item>
+	<item v="pietro_ch6_title"><translate><![CDATA[Paplūdimyje]]></translate></item>
+	<item v="pietro_ch7_title"><translate><![CDATA[Moderni architektūra]]></translate></item>
+	<item v="pietro_ch8_title"><translate><![CDATA[Aplankius Sagrada Familia]]></translate></item>
+	<item v="pietro_ch9_title"><translate><![CDATA[Restoranas su puikiu vaizdu]]></translate></item>
+	
+	<!-- Tim -->
+	<item v="thomas_ch1_title"><translate><![CDATA[Atvykus į Jerezo trasą]]></translate></item>
+	<item v="thomas_ch2_title"><translate><![CDATA[Techninio aptarnavimo juostoje]]></translate></item>
+	<item v="thomas_ch3_title"><translate><![CDATA[Dirbtuvėse]]></translate></item>
+	<item v="thomas_ch4_title"><translate><![CDATA[Ant angaro stogo]]></translate></item>
+	<item v="thomas_ch5_title"><translate><![CDATA[Techninio aptarnavimo juostos gale]]></translate></item>
+	<item v="thomas_ch6_title"><translate><![CDATA[Antrajame trasos posūkyje]]></translate></item>
+	<item v="thomas_ch7_title"><translate><![CDATA[Vaizdas nuo žemės]]></translate></item>
+	<item v="thomas_ch8_title"><translate><![CDATA[Torre Tio Pepe]]></translate></item>
+	<item v="thomas_ch9_title"><translate><![CDATA[Trasos vingis]]></translate></item>
+	
+	<!-- video navigation -->
+	<item v="play"><translate><![CDATA[Atkurti]]></translate></item>
+	<item v="pause"><translate><![CDATA[Pauzė]]></translate></item>
+	<item v="close_scene"><translate><![CDATA[Uždaryti 
+vaizdą]]></translate></item>
+	<item v="prev_scene"><translate><![CDATA[Ankstesnis 
+vaizdas]]></translate></item>
+	<item v="next_scene"><translate><![CDATA[Tolesnis 
+vaizdas]]></translate></item>
+
+
+	
+	<!-- TABS -->
+	<item v="more_info_image"><translate><![CDATA[Sužinokite daugiau]]></translate></item>
+	
+	<!-- Hotspot rollover text -->
+	<!-- Photo hint and tips -->
+	<item v="phototip1_roll"><translate><![CDATA[LEARN MORE ABOUT LENS FLARE AND THE EFFECTS OF BACKLIGHT
+FROM A STRONG LIGHT SOURCE]]></translate></item>
+	<item v="phototip2_roll"><translate><![CDATA[Here is photo tip 2]]></translate></item>
+	<item v="phototip3_roll"><translate><![CDATA[Here is photo tip 3]]></translate></item>
+	<!-- picture -->
+	<item v="picture_roll"><translate><![CDATA[„Lumix“ nuotrauka]]></translate></item>
+
+	<!-- Camera settings -->
+	<!-- modes -->
+	<item v="portrait_mode"><translate><![CDATA[Portreto režimas]]></translate></item>
+	<item v="simple_mode"><translate><![CDATA[Paprastas režimas]]></translate></item>
+	<item v="macro_mode"><translate><![CDATA[MACRO MODE]]></translate></item>
+	<item v="high_sens_mode"><translate><![CDATA[Didelis jautrumas režimas]]></translate></item>
+	<item v="night_port_mode"><translate><![CDATA[Nakties portreto režimas]]></translate></item>
+	<item v="beach_mode"><translate><![CDATA[Paplūdimio režimas]]></translate></item>
+	<item v="sports_mode"><translate><![CDATA[Sporto režimas]]></translate></item>
+	<item v="manual_mode"><translate><![CDATA[Rankinis režimas]]></translate></item>
+	<item v="scenery_mode"><translate><![CDATA[Kraštovaizdžio režimas]]></translate></item>
+	
+	<!-- Other settings -->
+	<item v="on"><translate><![CDATA[Įjungtas]]></translate></item>
+	<item v="off"><translate><![CDATA[Išjungtas]]></translate></item>
+	<!-- camera flash -->
+	<item v="flash"><translate><![CDATA[FLASH]]></translate></item>
+	
+	<item v="wide_angle"><translate><![CDATA[Plačiakampis]]></translate></item>
+	<item v="auto_red_eye"><translate><![CDATA[raudonumo sumažinimo režimą]]></translate></item>
+	
+	<item v="zoom"><translate><![CDATA[kartų priartinimas]]></translate></item>
+	<item v="optical_zoom"><translate><![CDATA[optinis priartinimas]]></translate></item>
+	<item v="extra_optical_zoom"><translate><![CDATA[papildomas optinis priartinimasM]]></translate></item>
+	
+	<item v="spot_metering"><translate><![CDATA[matavimas]]></translate></item>
+	<item v="backlight_compensation"><translate><![CDATA[foninio apšvietimo kompensavimo funkciją]]></translate></item>
+	
+	
+	
+	
+	<!-- hotspot types -->
+	<item v="hotspot_type0"><translate><![CDATA[Savybė]]></translate></item>
+	<item v="hotspot_type1"><translate><![CDATA[Patarimas
+fotografuojantiesiems]]></translate></item>
+	<item v="hotspot_type2"><translate><![CDATA[„Lumix“ 
+nuotrauka]]></translate></item>
+
+	<!-- new -->
+	<!-- as displayed in end of video summary -->
+	<item v="hotspot_summary_type0"><translate><![CDATA[Savybė]]></translate></item>
+	<item v="hotspot_summary_type1"><translate><![CDATA[Patarimas fotografuojantiesiems]]></translate></item>
+	<item v="hotspot_summary_type2"><translate><![CDATA[„Lumix“ nuotrauka]]></translate></item>
+	
+	<item v="prev_scene_summary"><translate><![CDATA[Ankstesnis vaizdas]]></translate></item>
+	<item v="next_scene_summary"><translate><![CDATA[Tolesnis vaizdas]]></translate></item>
+	<!-- /new -->
+	
+	<!-- Pop up animation text -->
+	<item v="secs"><translate><![CDATA[Sekundės]]></translate></item><!-- an abreviation of "SECONDS" -->
+	<item v="ready"><translate><![CDATA[Pasiruošęs]]></translate></item>
+
+<!-- new start -->	
+<!-- Camera dimensions - Width, Height, Depth -->
+	<item v="width_abbr"><translate><![CDATA[W]]></translate></item>
+	<item v="height_abbr"><translate><![CDATA[H]]></translate></item>
+	<item v="depth_abbr"><translate><![CDATA[D]]></translate></item>
+	
+	<item v="large_screen_display"><translate><![CDATA[Didelis skystųjų kristalų ekranas]]></translate></item>
+	<!-- Camera screen size ratio -->
+	<item v="normal_format"><translate><![CDATA[Normalus režimas]]></translate></item>
+	<item v="wide_format"><translate><![CDATA[Plataus režimas]]></translate></item>
+	
+	<item v="window"><translate><![CDATA[langas]]></translate></item>
+	<item v="calendar_view"><translate><![CDATA[Kalendoriaus peržiūra]]></translate></item>
+	
+	<item v="normal_mode"><translate><![CDATA[Normalus režimas]></translate></item>
+	<item v="wide_mode"><translate><![CDATA[Plataus režimas]]></translate></item>
+	
+	<item v="normal_lens"><translate><![CDATA[Normalus]]></translate></item>
+	<item v="wide_lens"><translate><![CDATA[Plačiakampis]]></translate></item>
+	<!-- a camera feature -->
+	<item v="power_lcd"><translate><![CDATA[„Power LCD“]]></translate></item>
+	<item v="button"><translate><![CDATA[mygtukas]]></translate></item>
+	
+	<item v="viewfinder_aligned"><translate><![CDATA[Sugretintas vaizdo ieškiklis ir skystųjų kristalų ekranas]]></translate></item>
+	<item v="slow_shutter"><translate><![CDATA[Ilgas išlaikymas]]></translate></item>
+	<item v="joystick"><translate><![CDATA[Vairasvirtė]]></translate></item>
+<!-- new end -->
+
+
+	<!-- Pop up titles -->
+	<item v="popUp_title_feature"><translate><![CDATA[Gaminio savybė]]></translate></item>
+	<item v="popUp_title_tip"><translate><![CDATA[Patarimas fotografuojantiesiems]]></translate></item>
+	<item v="popUp_title_picture"><translate><![CDATA[„Lumix“ nuotrauka]]></translate></item>
+	
+	
+	<!-- Pop ups -->
+	<!-- Including hotspot roll over text -->
+	<item v="popUp_hotspot_text_0"><translate><![CDATA[Apsirūpinkite aksesuarais]]></translate></item>
+	<item v="popUp_subtitle_0"><translate><![CDATA[Stilingas dizainas]]></translate></item>
+	<item v="popUp_body_text_0"><translate><![CDATA[Dėl savo stilingo ir kompaktiško dizaino FX01 bus tinkamas aksesuaras kiekvienai progai.]]></translate></item>
+	<item v="popUp_caption_0_0"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_1"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_2"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_3"><translate><![CDATA[]]></translate></item>
+	
+	<item v="popUp_hotspot_text_1"><translate><![CDATA[Paprastas naudojimas]]></translate></item>
+	<item v="popUp_subtitle_1"><translate><![CDATA[paprastas režimas]]></translate></item>
+	<item v="popUp_body_text_1"><translate><![CDATA[Visi nustatymai atliekami automatiškai, todėl puikias nuotraukas lengva daryti net jei anksčiau niekada nefotografavote skaitmeniniu fotoaparatu. Tereikia nutaikyti fotoaparatą ir paspausti mygtuką.]]></translate></item>
+
+	<item v="popUp_hotspot_text_2"><translate><![CDATA[Puikus portretas]]></translate></item>
+	<item v="popUp_subtitle_2"><translate><![CDATA[portreto režimas]]></translate></item>
+	<item v="popUp_body_text_2"><translate><![CDATA[Šis režimas padės Jums padaryti nuostabius portretus su natūraliais odos atspalviais. Jūs ir Jūsų draugai puikiai atrodysite kiekvienoje nuotraukoje.]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_3"><translate><![CDATA[Paruoštas naudoti]]></translate></item>
+	<item v="popUp_subtitle_3"><translate><![CDATA[greitas paleidimas]]></translate></item>
+	<item v="popUp_body_text_3"><translate><![CDATA[Kartais Jums reikia, kad fotoaparatas būtų paruoštas fotografuoti akimirksniu. FX01 pasiruošęs fotografuoti nuo įjungimo praėjus 1,6 sekundės.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_4"><translate><![CDATA[Aukštyn kojomis]]></translate></item>
+	<item v="popUp_subtitle_4"><translate><![CDATA[automatinė ekrano kryptis]]></translate></item>
+	<item v="popUp_body_text_4"><translate><![CDATA[Horizontaliai ar vertikaliai – kaip geriau? Padarius nuotrauką, ji visada bus teisingai rodoma skystųjų kristalų ekrane, nepriklausomai nuo to, kaip Jūs laikėte fotoaparatą.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_5"><translate><![CDATA[Madingos akimirkos]]></translate></item>
+	<item v="popUp_subtitle_5"><translate><![CDATA[O.I.S. patalpose]]></translate></item>
+	<item v="popUp_body_text_5"><translate><![CDATA[Naudojant blykstę patalpose, vaizdas pirmame plane gali būti blyškus, o fonas pritemdytas. O.I.S. (optinis vaizdo stabilizavimas) technologija  leis padaryti puikias nuotraukas be blykstės.]]></translate></item>
+	<item v="popUp_caption_5_0"><translate><![CDATA[OIS Išjungtas]]></translate></item>
+	<item v="popUp_caption_5_1"><translate><![CDATA[OIS Įjungtas]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_6"><translate><![CDATA[Svarbu dydis ]]></translate></item>
+	<item v="popUp_subtitle_6"><translate><![CDATA[mažas ir kompaktiškas]]></translate></item>
+	<item v="popUp_body_text_6"><translate><![CDATA[Dėl savo stilingo ir kompaktiško dizaino FX01 lengvai tilps bet kokiame rankinuke ir visur keliaus kartu su Jumis.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_7"><translate><![CDATA[Fotografuokite iš arti]]></translate></item>
+	<item v="popUp_subtitle_7"><translate><![CDATA[O.I.S. iš arti]]></translate></item>
+	<item v="popUp_body_text_7"><translate><![CDATA[Norint iš arti padaryti ryškias nuotraukas, fotoaparatas turi būti laikomas ypač stabiliai. O.I.S. (optinis vaizdo stabilizavimas) technologija leis Jums užfiksuoti nesusiliejusį vaizdą kad ir kaip priartėtumėte prie objekto.]]></translate></item>
+	<item v="popUp_caption_7_0"><translate><![CDATA[O.I.S. Išjungtas]]></translate></item>
+	<item v="popUp_caption_7_1"><translate><![CDATA[O.I.S. Įjungtas]]></translate></item>
+	
+	<item v="popUp_hotspot_text_8"><translate><![CDATA[Mėgaukitės kartu su visais]]></translate></item>
+	<item v="popUp_subtitle_8"><translate><![CDATA[didelis skystųjų kristalų ekranas]]></translate></item>
+	<item v="popUp_body_text_8"><translate><![CDATA[Smagiausia dalis prasideda visiems kartu apžiūrinėjant nuotraukas. Didelis didelės raiškos skystųjų kristalų ekranas leis mėgautis nuotraukomis vos tik jas nufotografavus.]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_9"><translate><![CDATA[Užfiksuokite geriausias savo puses]]></translate></item>
+	<item v="popUp_subtitle_9"><translate><![CDATA[autoportreto režimas]]></translate></item>
+	<item v="popUp_body_text_9"><translate><![CDATA[Kas gali būti paprasčiau už autoportretą. Nukreipkite fotoaparatą į save, ir raudonas LED indikatorius praneš, kad Jūs sufokusuotas. Tad nustatykite tinkamą miną ir spauskite mygtuką.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_10"><translate><![CDATA[Plačiakampis]]></translate></item>
+	<item v="popUp_subtitle_10"><translate><![CDATA[plačiakampis objektyvas]]></translate></item>
+	<item v="popUp_body_text_10"><translate><![CDATA[Bandant viską sutalpinti į kadrą, kartais tikrai iškyla keblumų. Plačiakampis 28 mm objektyvas leis sutalpinti į nuotrauką daugiau draugų, todėl niekas neliks nuviltas.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_11"><translate><![CDATA[Matykite tai plačiame ekrane]]></translate></item>
+	<item v="popUp_subtitle_11"><translate><![CDATA[vaizdo formatas]]></translate></item>
+	<item v="popUp_body_text_11"><translate><![CDATA[Galite daryti nuotraukas plačiu 16:9 formatu. Tai ypač pravers fotografuojant kai kuriuos objektus!]]></translate></item>
+	
+	<item v="popUp_hotspot_text_12"><translate><![CDATA[Sufokusuokite vaizdą]]></translate></item>
+	<item v="popUp_subtitle_12"><translate><![CDATA[greitas automatinis fokusavimas]]></translate></item>
+	<item v="popUp_body_text_12"><translate><![CDATA[Naudodami 1 taško greitą automatinį fokusavimo režimą kiekvieną kartą galite fotografuoti greitai, lengvai ir tiksliai.]]></translate></item>
+
+	<item v="popUp_hotspot_text_13"><translate><![CDATA[Naudoti gali bet kas]]></translate></item>
+	<item v="popUp_subtitle_13"><translate><![CDATA[paprastas režimas]]></translate></item>
+	<item v="popUp_body_text_13"><translate><![CDATA[Visi nustatymai atliekami automatiškai, todėl lengva daryti geras nuotraukas net jei fotoaparatą davėte kažkam kitam. Tiesiog paprašykite nukreipti fotoaparatą ir fotografuoti.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_14"><translate><![CDATA[Būkite kūrybingi]]></translate></item>
+	<item v="popUp_subtitle_14"><translate><![CDATA[skirtingi matymo taškai]]></translate></item>
+	<item v="popUp_body_text_14"><translate><![CDATA[Kartais pritaikius neįprastus dalykus nuotrauka atsiskleidžia neįprastu rakursu. Būkite žaismingi, kūrybingi ir išdykę vienu metu.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_15"><translate><![CDATA[Vakarėlis]]></translate></item>
+	<item v="popUp_subtitle_15"><translate><![CDATA[pobūvio režimas]]></translate></item>
+	<item v="popUp_body_text_15"><translate><![CDATA[Kai Jus įtraukia pobūvio nuotaika, nenorite, kad atitrauktų techniniai dalykai. Įjunkite pobūvio režimą, ir fotoaparatas pats atliks visus vakarui tinkančius nustatymus.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_16"><translate><![CDATA[Prieš fotografuojant]]></translate></item>
+	<item v="popUp_subtitle_16"><translate><![CDATA[blykstės akių raudonumo sumažinimas]]></translate></item>
+	<item v="popUp_body_text_16"><translate><![CDATA[Naudodami blykstę dažnai nuotraukose matote raudonas akis. Pasirinkus akių raudonumo sumažinimo blykstės režimą, du trumpi blykstelėjimai prieš fotografuojant išspręs problemą.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_17"><translate><![CDATA[Gyvenimas per objektyvą]]></translate></item>
+	<item v="popUp_subtitle_17"><translate><![CDATA[„Leica DC“ objektyvas]]></translate></item>
+	<item v="popUp_body_text_17"><translate><![CDATA[Su TZ1 naudojamu visame pasaulyje gerai žinomu „Leica DC“ objektyvu nuotraukų detalės bus ypač išraiškingos, o vaizdo gylis įspūdingas.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_18"><translate><![CDATA[Neblyksėkite]]></translate></item>
+	<item v="popUp_subtitle_18"><translate><![CDATA[O.I.S. patalpoje]]></translate></item>
+	<item v="popUp_body_text_18"><translate><![CDATA[Kai kuriomis aplinkybėmis blykste naudotis negalima. Naudodami O.I.S. (optinis vaizdo stabilizavimas) technologiją  galėsite naudoti ilgesnį išlaikymą ir padaryti puikių nuotraukų be blykstės.]]></translate></item>	
+	<item v="popUp_caption_18_0"><translate><![CDATA[FLASH Išjungtas]]></translate></item>
+	<item v="popUp_caption_18_1"><translate><![CDATA[FLASH Įjungtas]]></translate></item>
+
+	<item v="popUp_hotspot_text_19"><translate><![CDATA[Mėgaukitės kartu su visais]]></translate></item>
+	<item v="popUp_subtitle_19"><translate><![CDATA[didelis skystųjų kristalų ekranas]]></translate></item>
+	<item v="popUp_body_text_19"><translate><![CDATA[Smagiausia dalis prasideda visiems kartu apžiūrinėjant nuotraukas. Didelis didelės raiškos skystųjų kristalų ekranas leis mėgautis nuotraukomis vos tik jas nufotografavus.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_20"><translate><![CDATA[Plačiakampis]]></translate></item>
+	<item v="popUp_subtitle_20"><translate><![CDATA[plačiakampis objektyvas]]></translate></item>
+	<item v="popUp_body_text_20"><translate><![CDATA[Bandant viską sutalpinti į kadrą, kartais tikrai iškyla keblumų. Plačiakampis 28 mm objektyvas leis sutalpinti į nuotrauką daugiau draugų, todėl niekas neliks nuviltas.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_21"><translate><![CDATA[Arčiau, arčiau]]></translate></item>
+	<item v="popUp_subtitle_21"><translate><![CDATA[3,6 karto priartinimas]]></translate></item>
+	<item v="popUp_body_text_21"><translate><![CDATA[Kartais Jūs norite atsirasti arčiau veiksmo vietos. Naudodami 3,6 karto priartinimo funkciją galite nufotografuoti draugus su visomis detalėmis.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_22"><translate><![CDATA[Atkūrimas]]></translate></item>
+	<item v="popUp_subtitle_22"><translate><![CDATA[atkūrimo režimai]]></translate></item>
+	<item v="popUp_body_text_22"><translate><![CDATA[Žiūrėti nuotraukas malonu ir paprasta. Pasirinkite skaidrių peržiūrą, 1, 9 ar 25 langų rodymą arba kalendoriaus peržiūrą, rodančią pasirinktą dieną nufotografuotas mažytes nuotraukas.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_23"><translate><![CDATA[Puikiai tinka]]></translate></item>
+	<item v="popUp_subtitle_23"><translate><![CDATA[kompaktiškas dizainas]]></translate></item>
+	<item v="popUp_body_text_23"><translate><![CDATA[Mažas kompaktiško dizaino FX01 puikiai tilps net ir siauriausių džinsų kišenėje.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_24"><translate><![CDATA[Likite scenoje]]></translate></item>
+	<item v="popUp_subtitle_24"><translate><![CDATA[O.I.S. rankų virpėjimas]]></translate></item>
+	<item v="popUp_body_text_24"><translate><![CDATA[Jūs galite likti veiksmo sūkuryje viską fiksuodami savo fotoaparatu. Rūpintis dėl rankų virpėjimo nereikės, nes tuo pasirūpins O.I.S. (optinis vaizdo stabilizavimas) technologija. Tai užtikrins, kad Jūsų nuotraukos bus stabilios, nors Jūs toks ir nesate.]]></translate></item>	
+	<item v="popUp_caption_24_0"><translate><![CDATA[O.I.S. Išjungtas]]></translate></item>
+	<item v="popUp_caption_24_1"><translate><![CDATA[O.I.S. Įjungtas]]></translate></item>
+	
+
+	<item v="popUp_hotspot_text_25"><translate><![CDATA[Mėgaukitės kartu su visais]]></translate></item>
+	<item v="popUp_subtitle_25"><translate><![CDATA[didelis skystųjų kristalų ekranas]]></translate></item>
+	<item v="popUp_body_text_25"><translate><![CDATA[Smagiausia dalis prasideda visiems kartu apžiūrinėjant nuotraukas. Didelis didelės raiškos skystųjų kristalų ekranas leis mėgautis nuotraukomis vos tik jas nufotografavus.]]></translate></item>	
+
+
+
+<!-- new onwards 17-03-06 --><!-- BARCELONA -->
+
+	<item v="popUp_hotspot_text_26"><translate><![CDATA[Keliaukite be vargo]]></translate></item>
+	<item v="popUp_subtitle_26"><translate><![CDATA[kompaktiškas dizainas]]></translate></item>
+	<item v="popUp_body_text_26"><translate><![CDATA[Stilingo ir kompaktiško dizaino TZ1 lengvai tilps Jūsų kišenėje, todėl kelionėje jis praktiškai neužims vietos.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_27"><translate><![CDATA[Puikūs priartinti vaizdai]]></translate></item>
+	<item v="popUp_subtitle_27"><translate><![CDATA[O.I.S. galingas priartinimas]]></translate></item>
+	<item v="popUp_body_text_27"><translate><![CDATA[Fotografuojant smarkiai priartintą vaizdą ypač jaučiamas kiekvienas fotoaparato krustelėjimas. O.I.S. (optinis vaizdo stabilizavimas) technologija leis daryti ryškias stipriai priartintų vaizdų nuotraukas.]]></translate></item>	
+<!-- new --><item v="popUp_caption_27_0"><translate><![CDATA[O.I.S. Įjungtas]]></translate></item>
+<!-- new --><item v="popUp_caption_27_1"><translate><![CDATA[O.I.S. Išjungtas]]></translate></item>
+	
+	<item v="popUp_hotspot_text_28"><translate><![CDATA[Mažytis stiprus priartinimas]]></translate></item>
+	<item v="popUp_subtitle_28"><translate><![CDATA[galingas priartinimas]]></translate></item>
+	<item v="popUp_body_text_28"><translate><![CDATA[Galingas 10 kartų priartinimas, ekvivalentiškas 35–350 mm objektyvui 35 mm fotoaparatuose, telpa kompaktiškame fotoaparate.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_28_0"><translate><![CDATA[1 kartų priartinimas]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_1"><translate><![CDATA[3 kartų priartinimas]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_2"><translate><![CDATA[6 kartų priartinimas]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_3"><translate><![CDATA[10 kartų priartinimas]]></translate></item>
+	
+	<item v="popUp_hotspot_text_29"><translate><![CDATA[Nustatykite datą]]></translate></item>
+	<item v="popUp_subtitle_29"><translate><![CDATA[kelionės datos nustatymas]]></translate></item>
+	<item v="popUp_body_text_29"><translate><![CDATA[TZ1 leis Jums nustatyti išvykimo į kelionę dieną, todėl matysite kurią kelionės dieną kuri nuotrauka buvo nufotografuota. Tai puiki galimybė tvarkyti kelionės nuotraukas.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_29_0"><translate><![CDATA[1 Diena]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_1"><translate><![CDATA[2 Diena]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_2"><translate><![CDATA[]]></translate></item>
+
+
+
+
+	<item v="popUp_hotspot_text_30"><translate><![CDATA[Pasirinkite žiūrėjimo tašką]]></translate></item>
+	<item v="popUp_subtitle_30"><translate><![CDATA[skirtingi matymo taškai]]></translate></item>
+	<item v="popUp_body_text_30"><translate><![CDATA[Kartais į objektą verta pažvelgti truputį atidžiau. Judėdami aplink ir įvertindami įvairius žiūrėjimo kampus Jūs dažnai galite padaryti tikrai įdomių nuotraukų.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_30_0"><translate><![CDATA[Vaizdas 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_1"><translate><![CDATA[Vaizdas 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_2"><translate><![CDATA[Vaizdas 3]]></translate></item>
+		
+	<item v="popUp_hotspot_text_31"><translate><![CDATA[Kelyje]]></translate></item>
+	<item v="popUp_subtitle_31"><translate><![CDATA[O.I.S. rankų virpėjimas]]></translate></item>
+	<item v="popUp_body_text_31"><translate><![CDATA[Jei fotografuojate judėdami, nenuostabu, kad fotoaparatas gali sujudėti. Tokiu atveju nuotraukos bus neryškios. O.I.S. (optinis vaizdo stabilizavimas) technologijos giroskopinis jutiklis kompensuos bet kokius judesius nukreipdamas lęšį priešinga kryptimi ir pateikdamas Jums visiškai aiškias ir ryškias nuotraukas.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_31_0"><translate><![CDATA[O.I.S. Išjungtas]]></translate></item>
+	<!-- new --><item v="popUp_caption_31_1"><translate><![CDATA[O.I.S. Įjungtas]]></translate></item>
+
+	<item v="popUp_hotspot_text_32"><translate><![CDATA[Greitas paleidimas]></translate></item>
+	<item v="popUp_subtitle_32"><translate><![CDATA[Greitas paleidimas]]></translate></item>
+	<item v="popUp_body_text_32"><translate><![CDATA[Kartais Jums reikia, kad fotoaparatas būtų pasiruošęs fotografuoti akimirksniu. TZ1 gali fotografuoti praėjus 0,95 sekundės po įjungimo.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_33"><translate><![CDATA[Gaudykite atspindžius]]></translate></item>
+	<item v="popUp_subtitle_33"><translate><![CDATA[atspindžiai]]></translate></item>
+	<item v="popUp_body_text_33"><translate><![CDATA[Pasinaudodami atspindžiais galite sukurti įdomių kompozicijų. Vanduo gatvėje, automobilio langai ir stikliniai fasadai – visa tai gali suteikti nuotraukai išskirtinumo.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_34"><translate><![CDATA[Tikslūs portretai]]></translate></item>
+	<item v="popUp_subtitle_34"><translate><![CDATA[didelis jautrumas]]></translate></item>
+	<item v="popUp_body_text_34"><translate><![CDATA[Jei Jūsų objektas juda, galite gauti susiliejusias nuotraukas. To neatsitiks, jei naudosite didelio jautrumo režimą, kuris iki minimumo sumažina išlaikymą ir leidžia sukurti aiškias, ryškias nuotraukas.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_34_0"><translate><![CDATA[Nenaudojant didelio jautrumo]]></translate></item>
+	<!-- new --><item v="popUp_caption_34_1"><translate><![CDATA[Naudojant didelį jautrumą]]></translate></item>
+	
+	<item v="popUp_hotspot_text_35"><translate><![CDATA[„Leica DC“ objektyvas]]></translate></item>
+	<item v="popUp_subtitle_35"><translate><![CDATA[„Leica DC“ objektyvas]]></translate></item>
+	<item v="popUp_body_text_35"><translate><![CDATA[Su TZ1 naudojamu visame pasaulyje gerai žinomu „Leica DC“ objektyvu nuotraukų detalės bus ypač išraiškingos, o vaizdo gylis įspūdingas.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_36"><translate><![CDATA[Gaukite gerai sufokusuotą vaizdą]]></translate></item>
+	<item v="popUp_subtitle_36"><translate><![CDATA[AF apšvietimas]]></translate></item>
+	<item v="popUp_body_text_36"><translate><![CDATA[Silpnas apšvietimas dažnai būna blogai sufokusuoto vaizdo priežastis. Naudojant automatinio fokusavimo apšvietimą, fokusavimo tikslumas pagerės.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_37"><translate><![CDATA[Atsiprašau?]]></translate></item>
+	<item v="popUp_subtitle_37"><translate><![CDATA[paprastas režimas]]></translate></item>
+	<item v="popUp_body_text_37"><translate><![CDATA[Paprastu režimu visi nustatymai atliekami automatiškai, todėl be vargo padarysite puikias nuotraukas net jei anksčiau ir neteko fotografuoti. Nusitaikykite ir spauskite mygtuką.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_38"><translate><![CDATA[didelis skystųjų kristalų ekranas]]></translate></item>
+	<item v="popUp_subtitle_38"><translate><![CDATA[Didelis skystųjų kristalų ekranas]]></translate></item>
+	<item v="popUp_body_text_38"><translate><![CDATA[Didelis skystųjų kristalų ekranas leis Jums iškart mėgautis nuotraukomis. Be to, 2,5“ dydžio 207 000 vaizdo taškų didelės raiškos skystųjų kristalų ekranas leis lengvai perskaityti tekstą ir įžiūrėti sumažintas indeksines nuotraukas.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_39"><translate><![CDATA[Mėlynoji valanda]]></translate></item>
+	<item v="popUp_subtitle_39"><translate><![CDATA[apšvietimo panaudojimas]]></translate></item>
+	<item v="popUp_body_text_39"><translate><![CDATA[Prieblandai užliejus dangų giedros dienos pabaigoje apšvietimas įgauna išskirtinį koloritą. Šis laikas dažnai vadinamas „mėlynąja valanda“. Fotografuojant esant tokiai šviesai galima išgauti unikalias sodrias spalvas.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_40"><translate><![CDATA[Greitas fokusavimas]]></translate></item>
+	<item v="popUp_subtitle_40"><translate><![CDATA[greitas automatinis fokusavimas]]></translate></item>
+	<item v="popUp_body_text_40"><translate><![CDATA[Priklausomai nuo Jūsų fotografuojamo vaizdo galite rinktis iš keleto fokusavimo režimų: taškinio, 1 taško, 3 taškų ir 9 taškų. Kiekvieną kartą galite fotografuoti greitai, lengvai ir tikslai.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_40_0"><translate><![CDATA[9 taškų]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_1"><translate><![CDATA[3 taškų]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_2"><translate><![CDATA[1 taško]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_3"><translate><![CDATA[taškinio]]></translate></item>
+	
+	<item v="popUp_hotspot_text_41"><translate><![CDATA[Nakties paukštis]]></translate></item>
+	<item v="popUp_subtitle_41"><translate><![CDATA[nakties portreto režimas]]></translate></item>
+	<item v="popUp_body_text_41"><translate><![CDATA[Fotografuojant vakare su blykste galima prarasti tikrąjį aplinkos apšvietimą. Panaudoję didesnį išlaikymą kartu su O.I.S. technologija ir blykste, galėsite užfiksuoti daugiau šviesos. Nakties portreto režimu galėsite užfiksuoti tikrąją nuotaiką.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_42"><translate><![CDATA[Ryškus skystųjų kristalų ekranas]]></translate></item>
+	<item v="popUp_subtitle_42"><translate><![CDATA[Ryškus skystųjų kristalų ekranas]]></translate></item>
+	<item v="popUp_body_text_42"><translate><![CDATA[Šviesią dieną ekrane gali būti sunku ką nors įžiūrėti. Tokiu atveju paprasčiausiai paspauskite „Power LCD“ mygtuką, ir ekranas pasidarys apie 40% ryškesnis.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_43"><translate><![CDATA[Veiksmas paplūdimyje]]></translate></item>
+	<item v="popUp_subtitle_43"><translate><![CDATA[paplūdimio režimas]]></translate></item>
+	<item v="popUp_body_text_43"><translate><![CDATA[Ryški saulė visada džiugina mus paplūdimyje, tačiau nuotraukose vaizdas dažnai būna per tamsus. Pasirinkę paplūdimio režimą galėsite daryti puikias nuotraukas nesirūpindami niekuo daugiau, tik savo įdegiu.]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_0"><translate><![CDATA[Nenaudojant paplūdimio režimo]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_1"><translate><![CDATA[Naudojant paplūdimio režimą]]></translate></item>
+
+	<item v="popUp_hotspot_text_44"><translate><![CDATA[Fiksuokite judėjimą]]></translate></item>
+	<item v="popUp_subtitle_44"><translate><![CDATA[fotografavimas serijomis]]></translate></item>
+	<item v="popUp_body_text_44"><translate><![CDATA[Galite padaryti iki 5 nuoseklių nuotraukų 3 kadrų per sekundę greičiu standartiniu režimu. Be to, TZ1 turi neriboto nuoseklaus fotografavimo galimybę, kol užsipildys SD atminties kortelė.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_44_0"><translate><![CDATA[Kadras 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_1"><translate><![CDATA[Kadras 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_2"><translate><![CDATA[Kadras 3]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_3"><translate><![CDATA[Kadras 4]]></translate></item>
+	
+
+
+	<item v="popUp_hotspot_text_45"><translate><![CDATA[Abstraktus mąstymas]]></translate></item>
+	<item v="popUp_subtitle_45"><translate><![CDATA[skirtingi matymo taškai]]></translate></item>
+	<item v="popUp_body_text_45"><translate><![CDATA[Pažvelgę į daiktus kitaip galite gauti stebinančių rezultatų. Eksperimentuokite su nuotraukomis ir sujunkite jas į originalią kompoziciją iš skirtingų to paties objekto elementų.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_45_0"><translate><![CDATA[Vaizdas 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_1"><translate><![CDATA[Vaizdas 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_2"><translate><![CDATA[Vaizdas 3]]></translate></item>
+
+	<item v="popUp_hotspot_text_46"><translate><![CDATA[Pirmasis planas prieš foną]]></translate></item>
+	<item v="popUp_subtitle_46"><translate><![CDATA[kompozicija]]></translate></item>
+	<item v="popUp_body_text_46"><translate><![CDATA[Sugretinus pirmojo plano ir fono elementus galima sukurti įdomių kompozicijų.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_47"><translate><![CDATA[Abstraktus priartinimas]]></translate></item>
+	<item v="popUp_subtitle_47"><translate><![CDATA[abstraktus vaizdas]]></translate></item>
+	<item v="popUp_body_text_47"><translate><![CDATA[Stipriai priartinus vaizdą, galima išskirti atskiras objektų dalis ir sukurti abstrakčias detales.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_48"><translate><![CDATA[Vėlyvos popietės šviesa]]></translate></item>
+	<item v="popUp_subtitle_48"><translate><![CDATA[vėlyva šviesa]]></translate></item>
+	<item v="popUp_body_text_48"><translate><![CDATA[Vėlyvą giedros dienos popietę apšvietimas įgyja sodrų mėlyną atspalvį ir suteikia Jūsų nuotraukoms šiltumo.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_49"><translate><![CDATA[Pastebėkite šviesą]]></translate></item>
+	<item v="popUp_subtitle_49"><translate><![CDATA[matavimas]]></translate></item>
+	<item v="popUp_body_text_49"><translate><![CDATA[Galite išnaudoti specialius apšvietimo šaltinius. Taškinio matavimo funkcija leis apskaičiuoti nuo biurų pastato atsispindinčią šviesą ir išgauti įdomių nuotraukų.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_50"><translate><![CDATA[Keliaukite be vargo]]></translate></item>
+	<item v="popUp_subtitle_50"><translate><![CDATA[kompaktiškas dizainas]]></translate></item>
+	<item v="popUp_body_text_50"><translate><![CDATA[Stilingo ir kompaktiško dizaino TZ1 lengvai tilps Jūsų kišenėje, todėl kelionėje jis praktiškai neužims vietos.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_51"><translate><![CDATA[Mažytis stiprus priartinimas]]></translate></item>
+	<item v="popUp_subtitle_51"><translate><![CDATA[10 kartų optinis priartinimas]]></translate></item>
+	<item v="popUp_body_text_51"><translate><![CDATA[Galingas 10 kartų priartinimas, ekvivalentiškas 35–350 mm objektyvui 35 mm fotoaparatuose, telpa kompaktiškame fotoaparate.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_51_0"><translate><![CDATA[Normalus vaizdo mastelis]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_1"><translate><![CDATA[2 kartų priartinimas]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_2"><translate><![CDATA[5 kartų priartinimas]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_3"><translate><![CDATA[10 kartų priartinimas]]></translate></item>
+	
+	<item v="popUp_hotspot_text_52"><translate><![CDATA[Puikios priartintos nuotraukos]]></translate></item>
+	<item v="popUp_subtitle_52"><translate><![CDATA[O.I.S. galingas priartinimas]]></translate></item>
+	<item v="popUp_body_text_52"><translate><![CDATA[Fotografuojant stipriai priartintą vaizdą ypač jaučiamas kiekvienas fotoaparato krustelėjimas. O.I.S. (optinis vaizdo stabilizavimas) technologija leis daryti ryškias stipriai priartintų vaizdų nuotraukas.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_52_0"><translate><![CDATA[O.I.S. Išjungtas]]></translate></item>
+	<!-- new --><item v="popUp_caption_52_1"><translate><![CDATA[O.I.S. Įjungtas]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_53"><translate><![CDATA[Žiūrėkite plačiame ekrane]]></translate></item>
+	<item v="popUp_subtitle_53"><translate><![CDATA[ekrano santykiai]]></translate></item>
+	<item v="popUp_body_text_53"><translate><![CDATA[Galite daryti plataus 16:9 formato nuotraukas. Įdėkite SD atminties kortelę į SD kortelės lizdą turintį televizorių ir žiūrėkite nuotraukas dideliame plačiame ekrane.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_54"><translate><![CDATA[Puiki išraiška]]></translate></item>
+	<item v="popUp_subtitle_54"><translate><![CDATA[blykstės akių raudonumo sumažinimas]]></translate></item>
+	<item v="popUp_body_text_54"><translate><![CDATA[Jei naudojate blykstę, dažnai nuotraukose matote raudonas akis. Pasirinkus akių raudonumo sumažinimo blykstės režimą, du trumpi blykstelėjimai prieš fotografuojant išspręs problemą.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_54_0"><translate><![CDATA[Nenaudojant akių raudonumo sumažinimo funkcijos]]></translate></item>
+	<!-- new --><item v="popUp_caption_54_1"><translate><![CDATA[Naudojant akių raudonumo sumažinimo funkciją]]></translate></item>
+
+	<item v="popUp_hotspot_text_55"><translate><![CDATA[Surikiuotos pagal datas]]></translate></item>
+	<item v="popUp_subtitle_55"><translate><![CDATA[kalendoriaus funkcija]]></translate></item>
+	<item v="popUp_body_text_55"><translate><![CDATA[TZ1 Jūsų padarytas nuotraukas gali surikiuoti pagal fotografavimo dieną. Tai smarkiai pagelbės, kai reikės sutvarkyti didelį nuotraukų kiekį.]]></translate></item>	
+
+
+
+
+
+	<!-- F1 -->
+
+	<item v="popUp_hotspot_text_56"><translate><![CDATA[Kūrybingas fokusavimas]]></translate></item>
+	<item v="popUp_subtitle_56"><translate><![CDATA[lauko gylis]]></translate></item>
+	<item v="popUp_body_text_56"><translate><![CDATA[Lauko gylis – tai ryškaus fokusavimo zona priešais, už ir aplink objektą. Naudojant 12 kartų priartinimą galima lengvai išgauti mažą lauko gylį. Tai galima naudoti kaip tam tikrą stiliaus priemonę su vienu gerai sufokusuotu elementu.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_57"><translate><![CDATA[Apgalvotas dizainas]]></translate></item>
+	<item v="popUp_subtitle_57"><translate><![CDATA[dizainas]]></translate></item>
+	<item v="popUp_body_text_57"><translate><![CDATA[Ergonomiškas dizainas – visi valdymo elementai išdėstyti ten, kur jie turi būti ant patogaus paimti korpuso. Be to, elektroninis vaizdo ieškiklis ir skystųjų kristalų ekranas yra vienoje žiūrėjimo linijoje, todėl sumažėja skirtumas tarp komponuojant kadrą matomo vaizdo ir nuotraukos.]]></translate></item>	
+<!-- new 22-03-2006 --><item v="popUp_caption_57_0"><translate><![CDATA[Valdymo elementai]]></translate></item>
+	
+	<item v="popUp_hotspot_text_58"><translate><![CDATA[Ryšku fotografuojant iš arti]]></translate></item>
+	<item v="popUp_subtitle_58"><translate><![CDATA[O.I.S. stambus planas]]></translate></item>
+	<item v="popUp_body_text_58"><translate><![CDATA[Norint fotografuojant iš arti padaryti ryškias nuotraukas, fotoaparatas turi būti laikomas ypač stabiliai. O.I.S. (optinis vaizdo stabilizavimas) technologija leis Jums padaryti nesusiliejusias makronuotraukas net nenaudojant trikojo.]]></translate></item>	
+<!-- new --><item v="popUp_caption_58_0"><translate><![CDATA[O.I.S. Įjungtas]]></translate></item>
+<!-- new --><item v="popUp_caption_58_1"><translate><![CDATA[O.I.S. Išjungtas]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_59"><translate><![CDATA[Stiprus foninis apšvietimas]]></translate></item>
+	<item v="popUp_subtitle_59"><translate><![CDATA[galinio apšvietimo kompensavimas]]></translate></item>
+	<item v="popUp_body_text_59"><translate><![CDATA[Stiprus foninis apšvietimas, pavyzdžiui saulės spinduliai, gali sukurti fotografavimui netinkamas sąlygas. Šią problemą galima išspręsti įjungus foninio apšvietimo kompensavimo funkciją paspaudžiant viršutinį rodyklės mygtuką paprastu režimu.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_60"><translate><![CDATA[Paprastai naudojamas režimų jungiklis]]></translate></item>
+	<item v="popUp_subtitle_60"><translate><![CDATA[režimų jungiklis]]></translate></item>
+	<item v="popUp_body_text_60"><translate><![CDATA[Režimų jungiklis leidžia lanksčiai fotografuoti prisitaikant prie aplinkybių. Galite pasirinkti programuojamą AE, diafragmos pirmumo AE, išlaikymo pirmumo AE, rankinį, paprastą, makro režimus, filmavimą, vaizdo režimus, taip pat ir atkūrimą.]]></translate></item>	
+<!-- new --><item v="popUp_caption_60_0"><translate><![CDATA[Režimų jungiklis]]></translate></item>
+
+	<item v="popUp_hotspot_text_61"><translate><![CDATA[Ryšku fotografuojant iš arti]]></translate></item>
+	<item v="popUp_subtitle_61"><translate><![CDATA[O.I.S. stambus planas]]></translate></item>
+	<item v="popUp_body_text_61"><translate><![CDATA[Norint fotografuojant iš arti padaryti ryškias nuotraukas, fotoaparatas turi būti laikomas ypač stabiliai. O.I.S. (optinis vaizdo stabilizavimas) technologija leis Jums padaryti nesusiliejusias makronuotraukas net nenaudojant trikojo.]]></translate></item>	
+<!-- new --><item v="popUp_caption_61_0"><translate><![CDATA[O.I.S. Įjungtas]]></translate></item>
+<!-- new --><item v="popUp_caption_61_1"><translate><![CDATA[O.I.S. Išjungtas]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_62"><translate><![CDATA[Baltos spalvos balansas]]></translate></item>
+	<item v="popUp_subtitle_62"><translate><![CDATA[Baltos spalvos balansas]]></translate></item>
+	<item v="popUp_body_text_62"><translate><![CDATA[Skirtingi šviesos šaltinai turi skirtingas spalvos temperatūras, kurios suteikia nuotraukoms nenatūralų atspalvį. Dėl dirbtinio apšvietimo dirbtuvėse nuotraukos gali įgyti žalią atspalvį, tačiau nustačius fotoaparatą automatiniu baltos spalvos balanso režimu, jis prisitaikys prie pasikeitusių apšvietimo sąlygų.]]></translate></item>	
+<!-- new --><item v="popUp_caption_62_0"><translate><![CDATA[Baltos spalvos balansas]]></translate></item>
+<!-- new --><item v="popUp_caption_62_1"><translate><![CDATA[]]></translate></item>
+
+	<item v="popUp_hotspot_text_63"><translate><![CDATA[Silpnas apšvietimas]]></translate></item>
+	<item v="popUp_subtitle_63"><translate><![CDATA[O.I.S. patalpose]]></translate></item>
+	<item v="popUp_body_text_63"><translate><![CDATA[Naudojant blykstę patalpose, vaizdas pirmame plane gali būti nenatūraliai blyškus, o fonas pritemdytas. Naudojant didesnį išlaikymą, O.I.S. (optinis vaizdo stabilizavimas) technologija leis padaryti puikias nuotraukas be blykstės.]]></translate></item>	
+<!-- new --><item v="popUp_caption_63_0"><translate><![CDATA[FLASH Išjungtas]></translate></item>
+<!-- new --><item v="popUp_caption_63_1"><translate><![CDATA[FLASH Įjungtas]]></translate></item>
+
+	<item v="popUp_hotspot_text_64"><translate><![CDATA[Fotografavimas serijomis]]></translate></item>
+	<item v="popUp_subtitle_64"><translate><![CDATA[Fotografavimas serijomis]]></translate></item>
+	<item v="popUp_body_text_64"><translate><![CDATA[Galite padaryti iki 13 nuoseklių nuotraukų 3 kadrų per sekundę greičiu standartiniu režimu. Be to, FZ7 turi neriboto nuoseklaus fotografavimo galimybę, kol užsipildys SD atminties kortelė.]]></translate></item>	
+<!-- new --><item v="popUp_caption_64_0"><translate><![CDATA[Kadras 1]]></translate></item>
+<!-- new --><item v="popUp_caption_64_1"><translate><![CDATA[Kadras 2]]></translate></item>
+<!-- new --><item v="popUp_caption_64_2"><translate><![CDATA[Kadras 3]]></translate></item>
+<!-- new --><item v="popUp_caption_64_3"><translate><![CDATA[Kadras 4]]></translate></item>
+
+	<item v="popUp_hotspot_text_65"><translate><![CDATA[Skystųjų kristalų ekranas fotografuoti iš aukštai]]></translate></item>
+	<item v="popUp_subtitle_65"><translate><![CDATA[Skystųjų kristalų ekranas fotografuoti iš aukštai]]></translate></item>
+	<item v="popUp_body_text_65"><translate><![CDATA[Dėl fotografavimo iš aukštai funkcijos galėsite geriau matyti skystųjų kristalų ekraną, kai fotografuojate aukštai iškėlę fotoaparatą virš minios.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_66"><translate><![CDATA[Trumpas išlaikymas]]></translate></item>
+	<item v="popUp_subtitle_66"><translate><![CDATA[Trumpas išlaikymas]]></translate></item>
+	<item v="popUp_body_text_66"><translate><![CDATA[Kai fotografuojate greitai judančius objektus, tokius kaip daugiau nei 200 mylių per valandą greičiu lekiantys „Formulės-1“ automobiliai, būtinas labai trumpas išlaikymas, kad galėtumėte sustabdyti automobilio judesį.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_67"><translate><![CDATA[Sekimas]]></translate></item>
+	<item v="popUp_subtitle_67"><translate><![CDATA[sekimo režimas]]></translate></item>
+	<item v="popUp_body_text_67"><translate><![CDATA[Fotografuodami sekimo režimu fotoaparatu sekate judantį objektą, pavyzdžiui automobilį. Fonas tampa susiliejęs, o objektas lieka ryškus ir gerai sufokusuotas. Sekimo režimu nustatomas ilgas išlaikymas, kad būtų išgautas greičio pojūtis.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_68"><translate><![CDATA[Galingas priartinimas]]></translate></item>
+	<item v="popUp_subtitle_68"><translate><![CDATA[Galingas priartinimas]]></translate></item>
+	<item v="popUp_body_text_68"><translate><![CDATA[FZ7 turi „Leica DC“ objektyvą su galingu 12 kartų priartinimu, ekvivalentišku 36–432 mm objektyvui 35 mm fotoaparatuose. Juostinis fotoaparatas su tokiu galingu transfokavimu būtų toks didelis ir sunkus, kad negalėtumėte juo naudotis viena ranka.]]></translate></item>	
+<!-- new --><item v="popUp_caption_68_0"><translate><![CDATA[Normalus vaizdo mastelis]]></translate></item>
+<!-- new --><item v="popUp_caption_68_1"><translate><![CDATA[6 kartų priartinimas]]></translate></item>
+<!-- new --><item v="popUp_caption_68_2"><translate><![CDATA[12 kartų priartinimas]]></translate></item>
+<!-- new --><item v="popUp_caption_68_3"><translate><![CDATA[16,5 karto papildomas priartinimas]]></translate></item>
+
+	<item v="popUp_hotspot_text_69"><translate><![CDATA[Greitas užrakto suveikimas]]></translate></item>
+	<item v="popUp_subtitle_69"><translate><![CDATA[Greitas užrakto suveikimas]]></translate></item>
+	<item v="popUp_body_text_69"><translate><![CDATA[FZ7 turi ypač greitai suveikiantį užraktą, kurio vėlavimo laikas – tik 0,008 sekundės. Kiekvieną kartą fotografuoti galite greitai, patogiai ir tiksliai.]]></translate></item>	
+<!-- new --><item v="popUp_caption_69_0"><translate><![CDATA[0.0008 Sekundės]]></translate></item>
+<!-- new --><item v="popUp_caption_69_1"><translate><![CDATA[0.0016 Sekundės]]></translate></item>
+<!-- new --><item v="popUp_caption_69_2"><translate><![CDATA[0.0024 Sekundės]]></translate></item>
+<!-- new --><item v="popUp_caption_69_3"><translate><![CDATA[0.0032 Sekundės]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_70"><translate><![CDATA[Atspindžiai]]></translate></item>
+	<item v="popUp_subtitle_70"><translate><![CDATA[kūrybingumas]]></translate></item>
+	<item v="popUp_body_text_70"><translate><![CDATA[Pasinaudodami atspindžiais galite sukurti įdomių kompozicijų. Vanduo gatvėje, automobilio langai ir stikliniai fasadai – visa tai gali suteikti nuotraukai išskirtinumo.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_71"><translate><![CDATA[Rankinis fokusavimas]]></translate></item>
+	<item v="popUp_subtitle_71"><translate><![CDATA[rankinis fokusavimas]]></translate></item>
+	<item v="popUp_body_text_71"><translate><![CDATA[Vairasvirtė fotoaparato sienelėje leis greitai ir tiksliai rankiniu būdu sufokusuoti vaizdą. Galite naudoti ir rankinio fokusavimo pagalbos funkciją, kuri palengvins tikslų fokusavimą išdidindama centrinę vaizdo dalį skystųjų kristalų ekrane.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_72"><translate><![CDATA[Paprastas valdymas vairasvirte ]]></translate></item>
+	<item v="popUp_subtitle_72"><translate><![CDATA[vairasvirte nustatytas ilgas išlaikymas]]></translate></item>
+	<item v="popUp_body_text_72"><translate><![CDATA[Komponuodami nuotrauką skystųjų kristalų ekrane galite vairasvirte nustatyti diafragmą, išlaikymą, taip pat atlikti fokusavimą.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_73"><translate><![CDATA[„Leica DC“ objektyvas]]></translate></item>
+	<item v="popUp_subtitle_73"><translate><![CDATA[„Leica DC“ objektyvas]]></translate></item>
+	<item v="popUp_body_text_73"><translate><![CDATA[Objektyvo charakteristikos turi lemiamos įtakos puikiai nuotraukos kokybei. „Leica Camera AG“ kompanija visame pasaulyje žinomus objektyvus gamina nuo 1913 metų. Jų objektyvai perteikia vaizdą su ekspresyviomis detalėmis ir ypač dideliu gilumu.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_74"><translate><![CDATA[Sporto režimas]]></translate></item>
+	<item v="popUp_subtitle_74"><translate><![CDATA[Sporto režimas]]></translate></item>
+	<item v="popUp_body_text_74"><translate><![CDATA[Šiuo režimu naudojamas trumpesnis išlaikymas, o diafragma nustatoma automatiškai, todėl Jūs galite sukaupti dėmesį fotografavimui, kad laiku paspaustumėte mygtuką.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_75"><translate><![CDATA[Abstraktus vaizdas]]></translate></item>
+	<item v="popUp_subtitle_75"><translate><![CDATA[kūrybingumas]]></translate></item>
+	<item v="popUp_body_text_75"><translate><![CDATA[Pasinaudojant  FZ7 go priartinimo galimybe, sukurta abstrakti aplink trasą einančio padangų barjero nuotrauka. Kaip įmanoma labiau išdidinus vaizdą galima sukurti labai įdomių ir neįprastų nuotraukų.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_76"><translate><![CDATA[Ryškus skystųjų kristalų ekranas]]></translate></item>
+	<item v="popUp_subtitle_76"><translate><![CDATA[Ryškus skystųjų kristalų ekranas]]></translate></item>
+	<item v="popUp_body_text_76"><translate><![CDATA[Šviesią dieną ekrane gali būti sunku ką nors įžiūrėti. Tokiu atveju paprasčiausiai paspauskite „Power LCD“ mygtuką, ir ekranas pasidarys apie 40% ryškesnis.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_77"><translate><![CDATA[Automatinis eksponavimas]]></translate></item>
+	<item v="popUp_subtitle_77"><translate><![CDATA[programuojamo automatinio eksponavimo režimas]]></translate></item>
+	<item v="popUp_body_text_77"><translate><![CDATA[Programuojamo AE režimas Jums parenka optimalius diafragmos ir išlaikymo parametrus. Galima naudoti programos postūmį išlaikant tą patį eksponavimą, keičiant išlaikymo ir diafragmos reikšmes.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_78"><translate><![CDATA[Kitoks požiūris]]></translate></item>
+	<item v="popUp_subtitle_78"><translate><![CDATA[kūrybingumas]]></translate></item>
+	<item v="popUp_body_text_78"><translate><![CDATA[Kartais tikrai verta pažiūrėti į daiktus kitaip. Į tolį nusitęsiančios centrinės tribūnos kėdės sukuria visiškai kitokią perspektyvą.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_79"><translate><![CDATA[Galingas priartinimas]]></translate></item>
+	<item v="popUp_subtitle_79"><translate><![CDATA[Galingas priartinimas]]></translate></item>
+	<item v="popUp_body_text_79"><translate><![CDATA[Naudojant 3 milijonų raiškos centrinę CCD dalį, papildoma optinio priartinimo funkcija leidžia objektyvo priartinimo galią padidinti iki 16,5 karto su minimaliais vaizdo iškraipymais.]]></translate></item>	
+<!-- new --><item v="popUp_caption_79_0"><translate><![CDATA[Normalus vaizdo mastelis]]></translate></item>
+<!-- new --><item v="popUp_caption_79_1"><translate><![CDATA[6 kartų priartinimas]]></translate></item>
+<!-- new --><item v="popUp_caption_79_2"><translate><![CDATA[12 kartų priartinimas]]></translate></item>
+<!-- new --><item v="popUp_caption_79_3"><translate><![CDATA[16,5 karto papildomas priartinimas]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_80"><translate><![CDATA[Didelis skystųjų kristalų ekranas]]></translate></item>
+	<item v="popUp_subtitle_80"><translate><![CDATA[Didelis skystųjų kristalų ekranas]]></translate></item>
+	<item v="popUp_body_text_80"><translate><![CDATA[Didelis skystųjų kristalų ekranas leis Jums patogiai nevarginant akių įvertinti fokusavimą, sukomponuoti nuotrauką ir naudoti tokias funkcijas kaip 25 mažų nuotraukų rodymas arba kalendoriaus peržiūra.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_81"><translate><![CDATA[Atkūrimas]]></translate></item>
+	<item v="popUp_subtitle_81"><translate><![CDATA[atkūrimo režimai]]></translate></item>
+	<item v="popUp_body_text_81"><translate><![CDATA[Žiūrėti nuotraukas malonu ir paprasta. Pasirinkite skaidrių peržiūrą, 1, 9 arba 25 langų rodymą arba kalendoriaus peržiūrą, rodančią pasirinktą dieną nufotografuotas mažytes nuotraukas.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_82"><translate><![CDATA[Galingas priartinimas]]></translate></item>
+	<item v="popUp_subtitle_82"><translate><![CDATA[16,5 karto papildomas priartinimas]]></translate></item>
+	<item v="popUp_body_text_82"><translate><![CDATA[FZ7 turi „Leica DC“ objektyvą su galingu 12 kartų priartinimu, ekvivalentišku 36–432 mm objektyvui 35 mm fotoaparatuose. Juostinis fotoaparatas su tokiu galingu transfokavimu būtų toks didelis ir sunkus, kad negalėtumėte juo naudotis viena ranka.]]></translate></item>	
+<!-- new --><item v="popUp_caption_82_0"><translate><![CDATA[Normalus vaizdo mastelis]]></translate></item>
+<!-- new --><item v="popUp_caption_82_1"><translate><![CDATA[6 kartų priartinimas]]></translate></item>
+<!-- new --><item v="popUp_caption_82_2"><translate><![CDATA[12 kartų priartinimas]]></translate></item>
+<!-- new --><item v="popUp_caption_82_3"><translate><![CDATA[16,5 karto papildomas priartinimas]]></translate></item>
+	
+	<item v="popUp_hotspot_text_83"><translate><![CDATA[16,5 karto papildomas priartinimas]]></translate></item>
+	<item v="popUp_subtitle_83"><translate><![CDATA[16,5 karto papildomas priartinimas]]></translate></item>
+	<item v="popUp_body_text_83"><translate><![CDATA[FZ7 leidžia rinktis iš keleto fokusavimo režimų: zonos, 1 taško (normalaus arba greito), 3 taškų ir 9 taškų. Be to, galite naudoti automatinio fokusavimo lempą, kad būtų lengviau fokusuoti esant silpnam apšvietimui.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_84"><translate><![CDATA[Kraštovaizdis]]></translate></item>
+	<item v="popUp_subtitle_84"><translate><![CDATA[kraštovaizdžio režimas]]></translate></item>
+	<item v="popUp_body_text_84"><translate><![CDATA[Kraštovaizdžio režimu fotoaparatas dažniau fokusuoja pagal tolimus objektus. Tai leidžia daryti didelę peizažo sritį apimančias nuotraukas.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_85"><translate><![CDATA[Saulėlydis]]></translate></item>
+	<item v="popUp_subtitle_85"><translate><![CDATA[rankinis režimas]]></translate></item>
+	<item v="popUp_body_text_85"><translate><![CDATA[Šiai nuotraukai nufotografuoti režimų jungiklis buvo nustatytas ties rankine padėtimi ir pasirinkta didelė diafragmos reikšmė, kad būtų kompensuotas tiesioginis saulės spindulių kritimas į objektyvą. Naudojant O.I.S. ir priartinant medį buvo sukurta puiki nuotrauka.]]></translate></item>	
+<!-- new --><item v="popUp_caption_85_0"><translate><![CDATA[]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_86"><translate><![CDATA[Paprastas valdymas vairasvirte ]]></translate></item>
+	<item v="popUp_subtitle_86"><translate><![CDATA[Paprastas valdymas vairasvirte ]]></translate></item>
+	<item v="popUp_body_text_86"><translate><![CDATA[Press and hold down the joystick, and you can also instantly change the white balance, ISO sensitivity, image size, and image quality - with no need to switch to the menu screen.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_87"><translate><![CDATA[Objektyvo gaubtas]]></translate></item>
+	<item v="popUp_subtitle_87"><translate><![CDATA[priedai]]></translate></item>
+	<item v="popUp_body_text_87"><translate><![CDATA[Fotografuojant labai šviesioje aplinkoje, naudinga naudoti objektyvo gaubtą, sumažinantį ant objektyvo krentantį šviesos srautą.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_88"><translate><![CDATA[Galingas priartinimas]]></translate></item>
+	<item v="popUp_subtitle_88"><translate><![CDATA[O.I.S. priartinimas]]></translate></item>
+	<item v="popUp_body_text_88"><translate><![CDATA[FZ7 turi „Leica DC“ objektyvą su galingu 12 kartų priartinimu, ekvivalentišku 36–432 mm objektyvui 35 mm fotoaparatuose. Juostinis fotoaparatas su tokiu galingu transfokavimu būtų toks didelis ir sunkus, kad negalėtumėte juo naudotis viena ranka.]]></translate></item>	
+<!-- new --><item v="popUp_caption_88_0"><translate><![CDATA[Normalus vaizdo mastelis]]></translate></item>
+<!-- new --><item v="popUp_caption_88_1"><translate><![CDATA[6 kartų priartinimas]]></translate></item>
+<!-- new --><item v="popUp_caption_88_2"><translate><![CDATA[12 kartų priartinimas]]></translate></item>
+<!-- new --><item v="popUp_caption_88_3"><translate><![CDATA[16,5 karto papildomas priartinimas]]></translate></item>
+
+	<item v="popUp_hotspot_text_89"><translate><![CDATA[Vėlyvos popietės šviesa]]></translate></item>
+	<item v="popUp_subtitle_89"><translate><![CDATA[kūrybingumas]]></translate></item>
+	<item v="popUp_body_text_89"><translate><![CDATA[Ši nuotrauka buvo padaryta vėlyvą popietę, saulei šviečiant tiesiai už automobilio. Dėl didelio ant objektyvo krentančio šviesos srauto automobilis matomas kaip siluetas, o kelio danga žėri atsispindinčia šviesa.]]></translate></item>			
+
+
+
+	<!-- Key technology pop ups -->
+	<item v="popUp_tech_subtitle_0"><translate><![CDATA[Optinis vaizdo stabilizavimas]]></translate></item>
+	<item v="popUp_tech_body_text_0"><translate><![CDATA[Kompensuodamas rankų virpėjimą, MEGA O.I.S. leidžia daryti ypač aiškias ryškias nuotraukas net tais atvejais, kai susiliejęs vaizdas paprastai būna tipiška problema. „Lumix“ su modernia rankų judesių kompensacija MEGA O.I.S. nustato naują aukštos kokybės skaitmeninių fotoaparatų charakteristikų standartą. Pakilkite į nuotraukų kokybės lygį, kuris negali būti išmatuojamas vien tik vaizdo taškų skaičiumi arba objektyvo charakteristikomis.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_1"><translate><![CDATA[„Leica DC” objektyvas]]></translate></item>
+	<item v="popUp_tech_body_text_1"><translate><![CDATA[Kiekviena šių modernių objektyvų sistemų turi po keletą asferinių lęšių, kompensuojančių sferinius iškraipymus. Be to, kiekvieno lęšio paviršius padengtas daugiasluoksne danga, apsaugančia nuo rasojimo, sukeliančio atspindžius ir šešėlius.
+
+*„Leica“ yra registruotasis „Leica Microsystems IR GmbH“ prekės ženklas.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_2"><translate><![CDATA[„Venus Engine Plus”, II ir III]]></translate></item>
+	<item v="popUp_tech_body_text_2"><translate><![CDATA[Visos „Venus Engine” vaizdo apdorojimo technologijos sumažina reagavimo laiką ir 50% padidina diagonalinę raišką – taip sukuriamos puikios nuotraukos. „Venus Engine“ II ir III dar apie 10% padidina vertikalią raišką ir geriau kompensuoja spalvų iškraipymus, kurių dažnai atsiranda esant stipriam vaizdo priartinimui. „Venus Engine Plus“ ir III efektyviau naudoja energiją.]]></translate></item>			
+
+
+</root>

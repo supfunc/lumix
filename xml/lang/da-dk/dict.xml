@@ -1,0 +1,785 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<!-- 'Loading' website data -->
+	<item v="loading"><translate><![CDATA[LOADING]]></translate></item>
+<!-- new --><item v="disclaimer"><translate><![CDATA[© 2006 Panasonic Marketing Europe GmbH]]></translate></item>
+<!-- new --><item v="select_language"><translate><![CDATA[Vælg sprog]]></translate></item>
+
+	<!-- SECTION: HOME PAGE -->
+	
+	<item v="home_title"><translate><![CDATA[Udforsk
+Lumix Forskellen]]></translate></item>
+	<item v="home_subtitle"><translate><![CDATA[Lumix digitalkameraer gør det nemt at tage bedre billeder. Eksperimenter med din fotografering, find et nyt perspektiv, og lad Lumix gøre arbejdet. 
+
+Følg vores beretninger, og se efter Lumix Forskellen!]]></translate></item>
+
+	<!-- panels -->
+	<item v="section0_title"><translate><![CDATA[Lumix Prisen]]></translate></item>
+	<item v="section0_subtitle"><translate><![CDATA[Deltag i Lumix Prisen]]></translate></item>
+	
+	<item v="section1_title"><translate><![CDATA[Produktsortiment]]></translate></item>
+	<item v="section1_subtitle"><translate><![CDATA[Se sortimentet og nøglefordelene ved Lumix.]]></translate></item>
+	
+	<item v="section2_subtitle"><translate><![CDATA[En tur i byen i London med de to venner]]></translate></item>
+
+	<item v="section3_subtitle"><translate><![CDATA[Besøg i Barcelona med kæresten]]></translate></item>
+	
+	<item v="section4_subtitle"><translate><![CDATA[Deltagelse i en Formel Et-test i Jerez]]></translate></item>
+
+	<!-- FEATURING THE [CAMERA NAME] -->
+	<item v="featuring"><translate><![CDATA[Præsentation]]></translate></item>
+	<item v="the"><translate><![CDATA[af]]></translate></item>
+	
+	<!-- FLOATING MAIN MENU -->
+	
+	<item v="menu_overview"><translate><![CDATA[Oversigt]]></translate></item>
+	<item v="menu_scene"><translate><![CDATA[Scene]]></translate></item>
+	<item v="menu_lumix_award"><translate><![CDATA[Deltag i Lumix Prisen]]></translate></item>
+	<item v="menu_product_range"><translate><![CDATA[Lumix produktsortiment 2006]]></translate></item>
+	<!-- menu items -->
+	<item v="menu_0"><translate><![CDATA[Hjem]]></translate></item>
+	<item v="menu_1"><translate><![CDATA[Følg Anna på hendes tur i byen i London]]></translate></item>
+	<item v="menu_2"><translate><![CDATA[Følg Pietro under hans besøg i Barcelona]]></translate></item>
+	<item v="menu_3"><translate><![CDATA[Følg Thomas ved F1-testen]]></translate></item>
+	<item v="menu_4"><translate><![CDATA[Lumix produktsortiment]]></translate></item>
+	<item v="menu_5"><translate><![CDATA[Deltag i Lumix Prisen]]></translate></item>
+	
+	<!-- PRODUCT INFO -->
+	<!-- Launch product info panel-->
+	<item v="find_out_more_DMC-FX01"><translate><![CDATA[Få mere at vide om DMC-FX01]]></translate></item>
+	<item v="find_out_more_DMC-FZ7"><translate><![CDATA[Få mere at vide om DMC-FZ7]]></translate></item>
+	<item v="find_out_more_DMC-TZ1"><translate><![CDATA[Få mere at vide om DMC-TZ1]]></translate></item>
+	
+	<!-- Camera types -->
+	<item v="cam_type_0"><translate><![CDATA[Sjovt og nemt]]></translate></item>
+	<item v="cam_type_1"><translate><![CDATA[smart og kompakt]]></translate></item>
+	<item v="cam_type_2"><translate><![CDATA[Globetrotter]]></translate></item>
+	<item v="cam_type_3"><translate><![CDATA[Halvprofessionelt]]></translate></item>
+	<item v="cam_type_4"><translate><![CDATA[Professionelt]]></translate></item>
+	<item v="cam_type_5"><translate><![CDATA[Professionelt SLR]]></translate></item>
+	
+	<!-- Camera specifications. In main.xml, specify id for each spec that applies to a camera -->
+	<item v="spec_0"><translate><![CDATA[optisk zoom]]></translate></item>
+	<item v="spec_1"><translate><![CDATA[Optisk billedstabilisator]]></translate></item>
+	<item v="spec_2"><translate><![CDATA[Leica-objektiv]]></translate></item>
+	<item v="spec_3"><translate><![CDATA[Venus Engine]]></translate></item>
+	<item v="spec_4"><translate><![CDATA[megapixel]]></translate></item>
+	<item v="spec_5"><translate><![CDATA[Manuel funktion]]></translate></item>
+	<item v="spec_6"><translate><![CDATA[LCD med stor synlighedsvinkel]]></translate></item>
+	<item v="spec_7"><translate><![CDATA[Vidvinkel]]></translate></item>
+	<item v="spec_8"><translate><![CDATA[SLR]]></translate></item>
+	<item v="spec_9"><translate><![CDATA[Stor LCD]]></translate></item>
+	<item v="spec_10"><translate><![CDATA[16:9 CCD]]></translate></item>	
+	
+	<!-- SECTION: LUMIX AWARD -->
+	
+	<item v="lumix_award_title"><translate><![CDATA[Lumix Prisen 2006]]></translate></item>
+	<item v="lumix_award_subtitle"><translate><![CDATA[Lumix Prisen afvikles nu på femte år, og alle indbydes til at deltage i den digitale fotokonkurrence, der dækker hele Europa.]]></translate></item>
+	<item v="previous_winners"><translate><![CDATA[Tidligere vindere]]></translate></item>
+	<item v="enter_award"><translate><![CDATA[Deltag i Lumix Prisen]]></translate></item>
+	
+	<!-- Image navigation -->
+	<item v="close"><translate><![CDATA[billede tæt på]]></translate></item>
+	<item v="prev_image"><translate><![CDATA[Forrige
+billede]]></translate></item>
+	<item v="next_image"><translate><![CDATA[Næste
+billede]]></translate></item>
+	
+	
+	<!-- SECTION: PRODUCT RANGE -->
+	<item v="featured"><translate><![CDATA[Præsentation]]></translate></item>
+	<item v="product_range_title"><translate><![CDATA[Lumix produktsortiment 2006]]></translate></item>
+	<item v="product_range_subtitle"><translate><![CDATA[Lumix sortimentet tilbyder det rigtige kamera til dine behov. Få mere at vide om de vigtigste funktioner og teknologier her.]]></translate></item>
+	
+	<!-- Camera features -->
+	<item v="leica_lens"><translate><![CDATA[Leica DC-objektiv]]></translate></item>
+	
+	<!-- Camera info menu -->
+	<item v="want_to_buy"><translate><![CDATA[Køb dette kamera]]></translate></item>
+	<item v="tech_specs"><translate><![CDATA[Detailspecifikationer]]></translate></item>
+	
+	<!-- Camera navigation -->
+	<item v="close_camera"><translate><![CDATA[Kamera
+tæt på]]></translate></item>
+	<item v="prev_camera"><translate><![CDATA[Forrige
+kamera]]></translate></item>
+	<item v="next_camera"><translate><![CDATA[Næste 
+kamera]]></translate></item>
+
+	<!-- menu -->
+	<item v="see_in_action_DMC-FX01"><translate><![CDATA[Se FX01 i handling]]></translate></item>
+	<item v="see_in_action_DMC-FZ7"><translate><![CDATA[Se FZ7 i handling]]></translate></item>
+	<item v="see_in_action_DMC-TZ1"><translate><![CDATA[Se TZ1 i handling]]></translate></item>
+	<item v="buy_this_camera"><translate><![CDATA[Køb dette kamera]]></translate></item>
+	<item v="more_info"><translate><![CDATA[Detailspecifikationer]]></translate></item>
+	
+	<!-- Technologies -->
+<!-- new --><item v="key_technologies"><translate><![CDATA[Lumix nøgle-
+teknologier]]></translate></item>
+	
+	<item v="enter_award"><translate><![CDATA[Deltag i Lumix Prisen]]></translate></item>
+	
+	
+	<!-- Video stories -->
+	<!-- Anna -->
+	<item v="anna_ch1_title"><translate><![CDATA[Møde i Annas lejlighed]]></translate></item>
+	<item v="anna_ch2_title"><translate><![CDATA[Gør dig klar]]></translate></item>
+	<item v="anna_ch3_title"><translate><![CDATA[Sjov med makeup]]></translate></item>
+	<item v="anna_ch4_title"><translate><![CDATA[Taxatur til klubben]]></translate></item>
+	<item v="anna_ch5_title"><translate><![CDATA[Udsmideren]]></translate></item>
+	<item v="anna_ch6_title"><translate><![CDATA[Tæppet]]></translate></item>
+	<item v="anna_ch7_title"><translate><![CDATA[Flirt med bartenderen]]></translate></item>
+	<item v="anna_ch8_title"><translate><![CDATA[En sludder på sofaen]]></translate></item>
+	<item v="anna_ch9_title"><translate><![CDATA[På dansegulvet]]></translate></item>
+	
+	<!-- Pietro -->
+	<item v="pietro_ch1_title"><translate><![CDATA[I Barcelonas udkant]]></translate></item>
+	<item v="pietro_ch2_title"><translate><![CDATA[På vej til centrum]]></translate></item>
+	<item v="pietro_ch3_title"><translate><![CDATA[På Placa Real]]></translate></item>
+	<item v="pietro_ch4_title"><translate><![CDATA[Udenfor på cafeen]]></translate></item>
+	<item v="pietro_ch5_title"><translate><![CDATA[På hotellet]]></translate></item>
+	<item v="pietro_ch6_title"><translate><![CDATA[På stranden]]></translate></item>
+	<item v="pietro_ch7_title"><translate><![CDATA[På vej forbi moderne arkitektur]]></translate></item>
+	<item v="pietro_ch8_title"><translate><![CDATA[Besøg i Sagrada FamiliaA]]></translate></item>
+	<item v="pietro_ch9_title"><translate><![CDATA[Restaurant med udsigt]]></translate></item>
+	
+	<!-- Tim -->
+	<item v="thomas_ch1_title"><translate><![CDATA[Ankomst til Jerez-banen]]></translate></item>
+	<item v="thomas_ch2_title"><translate><![CDATA[I pitten]]></translate></item>
+	<item v="thomas_ch3_title"><translate><![CDATA[Inde på værkstedet]]></translate></item>
+	<item v="thomas_ch4_title"><translate><![CDATA[På taget af paddocken]]></translate></item>
+	<item v="thomas_ch5_title"><translate><![CDATA[For enden af pitten]]></translate></item>
+	<item v="thomas_ch6_title"><translate><![CDATA[Ved sving nr. 2 på banen]]></translate></item>
+	<item v="thomas_ch7_title"><translate><![CDATA[Visning af tribunen]]></translate></item>
+	<item v="thomas_ch8_title"><translate><![CDATA[Torre Tio Pepev]]></translate></item>
+	<item v="thomas_ch9_title"><translate><![CDATA[Chikane på stadion]]></translate></item>
+	
+	<!-- video navigation -->
+	<item v="play"><translate><![CDATA[Afspil]]></translate></item>
+	<item v="pause"><translate><![CDATA[Pause]]></translate></item>
+	<item v="close_scene"><translate><![CDATA[Scene
+tæt på]]></translate></item>
+	<item v="prev_scene"><translate><![CDATA[Forrige
+scene]]></translate></item>
+	<item v="next_scene"><translate><![CDATA[Næste
+scene]]></translate></item>
+
+
+	
+	<!-- TABS -->
+	<item v="more_info_image"><translate><![CDATA[Læs mere om billedet]]></translate></item>
+	
+	<!-- Hotspot rollover text -->
+	<!-- Photo hint and tips -->
+	<item v="phototip1_roll"><translate><![CDATA[Få mere at vide om linse overstråling og effekten af baggrundslys
+fra et Strærkt bestemt lyskilde]]></translate></item>
+	<item v="phototip2_roll"><translate><![CDATA[her er Fototips 2]]></translate></item>
+	<item v="phototip3_roll"><translate><![CDATA[her er Fototips 3]]></translate></item>
+	<!-- picture -->
+	<item v="picture_roll"><translate><![CDATA[Lumix-billede]]></translate></item>
+
+	<!-- Camera settings -->
+	<!-- modes -->
+	<item v="portrait_mode"><translate><![CDATA[Portrættilstand]]></translate></item>
+	<item v="simple_mode"><translate><![CDATA[Tilstanden Simple]]></translate></item>
+	<item v="macro_mode"><translate><![CDATA[MacroTilstand]]></translate></item>
+	<item v="high_sens_mode"><translate><![CDATA[Høj følsomhed]]></translate></item>
+	<item v="night_port_mode"><translate><![CDATA[tilstanden Natportræt]]></translate></item>
+	<item v="beach_mode"><translate><![CDATA[Tilstanden Beach]]></translate></item>
+	<item v="sports_mode"><translate><![CDATA[Sportstilstand]]></translate></item>
+	<item v="manual_mode"><translate><![CDATA[Manuel tilstand]]></translate></item>
+	<item v="scenery_mode"><translate><![CDATA[Landskabstilstand]]></translate></item>
+	
+	<!-- Other settings -->
+	<item v="on"><translate><![CDATA[Til]]></translate></item>
+	<item v="off"><translate><![CDATA[Fra]]></translate></item>
+	<!-- camera flash -->
+	<item v="flash"><translate><![CDATA[blitz]]></translate></item>
+	
+	<item v="wide_angle"><translate><![CDATA[Vidvinkel]]></translate></item>
+	<item v="auto_red_eye"><translate><![CDATA[AUTO Automatisk rødøjereduktion]]></translate></item>
+	
+	<item v="zoom"><translate><![CDATA[Zoom]]></translate></item>
+	<item v="optical_zoom"><translate><![CDATA[optisk zoom]]></translate></item>
+	<item v="extra_optical_zoom"><translate><![CDATA[ekstra optisk zoom]]></translate></item>
+	
+	<item v="spot_metering"><translate><![CDATA[spotmåling]]></translate></item>
+	<item v="backlight_compensation"><translate><![CDATA[baggrundslyskompensation]]></translate></item>
+	
+	
+	
+	
+	<!-- hotspot types -->
+	<item v="hotspot_type0"><translate><![CDATA[karakter-
+istiskt]]></translate></item>
+	<item v="hotspot_type1"><translate><![CDATA[Tips]]></translate></item>
+	<item v="hotspot_type2"><translate><![CDATA[Lumix-
+billede]]></translate></item>
+
+	<!-- new -->
+	<!-- as displayed in end of video summary -->
+	<item v="hotspot_summary_type0"><translate><![CDATA[karakteristiskt]]></translate></item>
+	<item v="hotspot_summary_type1"><translate><![CDATA[Fototips]]></translate></item>
+	<item v="hotspot_summary_type2"><translate><![CDATA[Lumix-billede]]></translate></item>
+	
+	<item v="prev_scene_summary"><translate><![CDATA[Forrige scene]]></translate></item>
+	<item v="next_scene_summary"><translate><![CDATA[Næste scene]]></translate></item>
+	<!-- /new -->
+	
+	<!-- Pop up animation text -->
+	<item v="secs"><translate><![CDATA[sek]]></translate></item><!-- an abreviation of "SECONDS" -->
+	<item v="ready"><translate><![CDATA[Klar på]]></translate></item>
+
+<!-- new start -->	
+<!-- Camera dimensions - Width, Height, Depth -->
+	<item v="width_abbr"><translate><![CDATA[BBBB]]></translate></item>
+	<item v="height_abbr"><translate><![CDATA[H]]></translate></item>
+	<item v="depth_abbr"><translate><![CDATA[D]]></translate></item>
+	
+	<item v="large_screen_display"><translate><![CDATA[stor skærm]]></translate></item>
+	<!-- Camera screen size ratio -->
+	<item v="normal_format"><translate><![CDATA[normalformattilstand]]></translate></item>
+	<item v="wide_format"><translate><![CDATA[bredformattilstand]]></translate></item>
+	
+	<item v="window"><translate><![CDATA[vindue]]></translate></item>
+	<item v="calendar_view"><translate><![CDATA[Kalendervisning]]></translate></item>
+	
+	<item v="normal_mode"><translate><![CDATA[normalformattilstand]]></translate></item>
+	<item v="wide_mode"><translate><![CDATA[bredformattilstand]]></translate></item>
+	
+	<item v="normal_lens"><translate><![CDATA[Normal objektiv]]></translate></item>
+	<item v="wide_lens"><translate><![CDATA[28mm Vidvinkelobjektiv]]></translate></item>
+	<!-- a camera feature -->
+	<item v="power_lcd"><translate><![CDATA[Power LCD]]></translate></item>
+	<item v="button"><translate><![CDATA[knap]]></translate></item>
+	
+	<item v="viewfinder_aligned"><translate><![CDATA[Samordnet søger og LCD]]></translate></item>
+	<item v="slow_shutter"><translate><![CDATA[lav lukkerhastighed]]></translate></item>
+	<item v="joystick"><translate><![CDATA[Joystick]]></translate></item>
+<!-- new end -->
+
+
+	<!-- Pop up titles -->
+	<item v="popUp_title_feature"><translate><![CDATA[Produktfunktion]]></translate></item>
+	<item v="popUp_title_tip"><translate><![CDATA[Fototips]]></translate></item>
+	<item v="popUp_title_picture"><translate><![CDATA[Lumix-billede]]></translate></item>
+	
+	
+	<!-- Pop ups -->
+	<!-- Including hotspot roll over text -->
+	<item v="popUp_hotspot_text_0"><translate><![CDATA[Brug det som tilbehør]]></translate></item>
+	<item v="popUp_subtitle_0"><translate><![CDATA[Smart design]]></translate></item>
+	<item v="popUp_body_text_0"><translate><![CDATA[Med sit smarte og kompakte design er FX01 det rette tilbehør til enhver lejlighed.]]></translate></item>
+	<item v="popUp_caption_0_0"><translate><![CDATA[Silver]]></translate></item>
+	<item v="popUp_caption_0_1"><translate><![CDATA[blegrødt]]></translate></item>
+	<item v="popUp_caption_0_2"><translate><![CDATA[Sort]]></translate></item>
+	<item v="popUp_caption_0_3"><translate><![CDATA[hvidt]]></translate></item>
+	
+	<item v="popUp_hotspot_text_1"><translate><![CDATA[Brugervenlig]]></translate></item>
+	<item v="popUp_subtitle_1"><translate><![CDATA[Tilstanden Simple]]></translate></item>
+	<item v="popUp_body_text_1"><translate><![CDATA[I tilstanden Simple foretages alle indstillinger automatisk, så det er nemt at lave fremragende optagelser, selvom du aldrig tidligere har brugt et digitalkamera. Bare sigt, og tryk på udløseren.]]></translate></item>
+
+	<item v="popUp_hotspot_text_2"><translate><![CDATA[Perfekte portrætter]]></translate></item>
+	<item v="popUp_subtitle_2"><translate><![CDATA[Portrættilstand]]></translate></item>
+	<item v="popUp_body_text_2"><translate><![CDATA[Denne tilstand hjælper dig med at tage smukke portrætter med naturlige hudtoner. Få dine venner og dig selv til at tage jer godt ud hver gang.]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_3"><translate><![CDATA[Klar til at tage med]]></translate></item>
+	<item v="popUp_subtitle_3"><translate><![CDATA[Hurtigstart]]></translate></item>
+	<item v="popUp_body_text_3"><translate><![CDATA[Sommetider skal kameraet være klar på et øjeblik. FX01 er klar til optagelse 1,6 sekund efter, du har tændt for det.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_4"><translate><![CDATA[Omvendt]]></translate></item>
+	<item v="popUp_subtitle_4"><translate><![CDATA[Automatisk vinkling af LCD]]></translate></item>
+	<item v="popUp_body_text_4"><translate><![CDATA[Vandret eller lodret, hvad er bedst? Efter optagelse bliver billedet på LCD’en altid vist rigtigt, uanset hvordan du holder kameraet.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_5"><translate><![CDATA[Modeøjeblik]]></translate></item>
+	<item v="popUp_subtitle_5"><translate><![CDATA[O.I.S.-indendørs]]></translate></item>
+	<item v="popUp_body_text_5"><translate><![CDATA[Brug af blitz indendørs kan gøre forgrunden unaturligt bleg og baggrunden mørk. Med O.I.S.-teknologien (dvs. ”optical image stabilitsation”) kan du tage håndholdte billeder uden blitz.]]></translate></item>
+	<item v="popUp_caption_5_0"><translate><![CDATA[O.I.S. Fra]]></translate></item>
+	<item v="popUp_caption_5_1"><translate><![CDATA[O.I.S. Til]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_6"><translate><![CDATA[Størrelsen spiller en rolle]]></translate></item>
+	<item v="popUp_subtitle_6"><translate><![CDATA[Lille og kompakt]]></translate></item>
+	<item v="popUp_body_text_6"><translate><![CDATA[Med det smarte og kompakte design er der altid plads til FX01 i enhver håndtaske, uanset hvor du skal hen.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_7"><translate><![CDATA[Gå tæt på]]></translate></item>
+	<item v="popUp_subtitle_7"><translate><![CDATA[O.I.S.-nærbilleder]]></translate></item>
+	<item v="popUp_body_text_7"><translate><![CDATA[Hvis du vil tage klare og skarpe nærbilleder, kræver det, at kameraet holdes fuldstændig stille. Med OIS-teknologien (dvs. ”optical image stabilitsation”) kan du tage billeder så tæt på, som du ønsker.]]></translate></item>
+	<item v="popUp_caption_7_0"><translate><![CDATA[O.I.S. Fra]]></translate></item>
+	<item v="popUp_caption_7_1"><translate><![CDATA[O.I.S. Til]]></translate></item>
+	
+	<item v="popUp_hotspot_text_8"><translate><![CDATA[Lad andre se med]]></translate></item>
+	<item v="popUp_subtitle_8"><translate><![CDATA[Stor LCD]]></translate></item>
+	<item v="popUp_body_text_8"><translate><![CDATA[At lade andre se dine optagelser er den morsomme del af det. Med den højopløselige LCD er det nemt at nyde billederne lige efter optagelse.]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_9"><translate><![CDATA[CIndfang din bedste side]]></translate></item>
+	<item v="popUp_subtitle_9"><translate><![CDATA[Tilstanden Selvportræt]]></translate></item>
+	<item v="popUp_body_text_9"><translate><![CDATA[Et selvportræt kunne ikke være nemmere. Ret kameraet mod dig selv, hvorefter den røde LED viser, når du er i fokus. Så lav bare trutmund, og tryk.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_10"><translate><![CDATA[Vidvinkel]]></translate></item>
+	<item v="popUp_subtitle_10"><translate><![CDATA[Vidvinkelobjektiv]]></translate></item>
+	<item v="popUp_body_text_10"><translate><![CDATA[Et forsøg på at få alle med på billedet er noget, der virkelig skaber trængsel. Med 28 mm vidvinkelobjektivet kan du få flere af vennerne med på billedet, så ingen bliver skuffet.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_11"><translate><![CDATA[Se det i bredformat]]></translate></item>
+	<item v="popUp_subtitle_11"><translate><![CDATA[Bredde/højde-forhold]]></translate></item>
+	<item v="popUp_body_text_11"><translate><![CDATA[Du kan tage billeder i det brede 16:9-format. Nyttigt til visse motiver!]]></translate></item>
+	
+	<item v="popUp_hotspot_text_12"><translate><![CDATA[Bliv fokuseret]]></translate></item>
+	<item v="popUp_subtitle_12"><translate><![CDATA[Hurtigfokus]]></translate></item>
+	<item v="popUp_body_text_12"><translate><![CDATA[Med 1-punkt-hurtigfokus kan du tage billeder hurtigt, nemt og nøjagtigt hver gang.]]></translate></item>
+
+	<item v="popUp_hotspot_text_13"><translate><![CDATA[Brugt af udsmideren]]></translate></item>
+	<item v="popUp_subtitle_13"><translate><![CDATA[Tilstanden Simple]]></translate></item>
+	<item v="popUp_body_text_13"><translate><![CDATA[Alle indstillinger foretages automatisk, så det er nemt at lave fremragende optagelser, selvom du overlader kameraet til andre. Bare sig: Sigt og skyd!]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_14"><translate><![CDATA[Bliv kreativ]]></translate></item>
+	<item v="popUp_subtitle_14"><translate><![CDATA[En anden vinkel]]></translate></item>
+	<item v="popUp_body_text_14"><translate><![CDATA[Det at finde usædvanlige rekvisitter gør hele forskellen i optagelsen. Vær legesyg, kreativ og dum på samme tid.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_15"><translate><![CDATA[Partytid]]></translate></item>
+	<item v="popUp_subtitle_15"><translate><![CDATA[Party mode]]></translate></item>
+	<item v="popUp_body_text_15"><translate><![CDATA[Når du er indstillet på party, skal teknologien ikke være i vejen. Skift til tilstanden Party, hvorefter kameraet foretager alle korrekte indstillinger for resten af aftenen.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_16"><translate><![CDATA[Tæppestykke]]></translate></item>
+	<item v="popUp_subtitle_16"><translate><![CDATA[Blitzens rødøjereduktion]]></translate></item>
+	<item v="popUp_body_text_16"><translate><![CDATA[Brug af blitz resulterer tit i røde øjne. Med blitzen indstillet på Automatisk rødøjereduktion affyres den 2 gange lige efter hinanden til løsning af problemet]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_17"><translate><![CDATA[Livet gennem et objektiv]]></translate></item>
+	<item v="popUp_subtitle_17"><translate><![CDATA[Leica DC-objektiv]]></translate></item>
+	<item v="popUp_body_text_17"><translate><![CDATA[Det verdenskendte Leica DC-objektiv anvendt i FX01 producerer billeder med udtryksfulde detaljer og en bemærkelsesværdig dybde.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_18"><translate><![CDATA[Overdriv ikke brug af blitz]]></translate></item>
+	<item v="popUp_subtitle_18"><translate><![CDATA[O.I.S. indendørs]]></translate></item>
+	<item v="popUp_body_text_18"><translate><![CDATA[Under nogle forhold kan brug af blitz være den forkerte tilgang. Med OIS-teknologien (dvs. ”optical image stabilitsation”) kan du bruge en lavere lukkerhastighed og tage billeder uden blitz.]]></translate></item>	
+	<item v="popUp_caption_18_0"><translate><![CDATA[Blitz Fra]]></translate></item>
+	<item v="popUp_caption_18_1"><translate><![CDATA[Blitz til]]></translate></item>
+
+	<item v="popUp_hotspot_text_19"><translate><![CDATA[Lad andre se med]]></translate></item>
+	<item v="popUp_subtitle_19"><translate><![CDATA[Stor LCD]]></translate></item>
+	<item v="popUp_body_text_19"><translate><![CDATA[At lade andre se dine optagelser er den morsomme del af det. Med den højopløselige LCD er det nemt at nyde billederne lige efter optagelse.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_20"><translate><![CDATA[Vidvinkel]]></translate></item>
+	<item v="popUp_subtitle_20"><translate><![CDATA[Vidvinkelobjektiv]]></translate></item>
+	<item v="popUp_body_text_20"><translate><![CDATA[Et forsøg på at få alle med på billedet er noget, der virkelig skaber trængsel. Med 28 mm vidvinkelobjektivet kan du få flere af vennerne med på billedet, så ingen bliver skuffet.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_21"><translate><![CDATA[Kraftig zoom]]></translate></item>
+	<item v="popUp_subtitle_21"><translate><![CDATA[3.6x zoom]]></translate></item>
+	<item v="popUp_body_text_21"><translate><![CDATA[Nogle gange vil du gerne tættere på handlingen. Med 3,6x zoom kan du indfange dine venner i færd med alle former for tricks.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_22"><translate><![CDATA[Afspilningen]]></translate></item>
+	<item v="popUp_subtitle_22"><translate><![CDATA[Afspilningstilstand]]></translate></item>
+	<item v="popUp_body_text_22"><translate><![CDATA[Det er sjovt og nemt at se sine billeder. Vælg diasshow med 1, 9 eller 25 billeder pr. vindue eller i en kalendervisning, der viser et miniaturebillede af alle de billeder, der er taget på en bestemt dato.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_23"><translate><![CDATA[God pasform]]></translate></item>
+	<item v="popUp_subtitle_23"><translate><![CDATA[Kompakt design]]></translate></item>
+	<item v="popUp_body_text_23"><translate><![CDATA[Det lille, kompakte design betyder, at FX01 får plads selv i de strammeste jeans.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_24"><translate><![CDATA[Hold motivet fast]]></translate></item>
+	<item v="popUp_subtitle_24"><translate><![CDATA[O.I.S. håndrystelse]]></translate></item>
+	<item v="popUp_body_text_24"><translate><![CDATA[Du kan stadig tage del i handlingerne og samtidig indfange det hele på kameraet. Bekymringer om rystelser er fjernet med vores O.I.S. teknologi (dvs. “optical image stabilisation”).
+Det sikrer, at dine optagelser er rolige, når du ikke kan være det.]]></translate></item>	
+	<item v="popUp_caption_24_0"><translate><![CDATA[O.I.S. Fra]]></translate></item>
+	<item v="popUp_caption_24_1"><translate><![CDATA[O.I.S. Til]]></translate></item>
+	
+
+	<item v="popUp_hotspot_text_25"><translate><![CDATA[Lad andre se med]]></translate></item>
+	<item v="popUp_subtitle_25"><translate><![CDATA[Stor LCD]]></translate></item>
+	<item v="popUp_body_text_25"><translate><![CDATA[At lade andre se dine optagelser er den morsomme del af det. Med den højopløselige LCD er det nemt at nyde billederne lige efter optagelse.]]></translate></item>	
+
+
+
+<!-- new onwards 17-03-06 --><!-- BARCELONA -->
+
+	<item v="popUp_hotspot_text_26"><translate><![CDATA[Rejs ubesværet]]></translate></item>
+	<item v="popUp_subtitle_26"><translate><![CDATA[Kompakt design]]></translate></item>
+	<item v="popUp_body_text_26"><translate><![CDATA[Med sit smarte og kompakte design passer TZ1 perfekt i enhver lomme, så du kan rejse ubesværet.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_27"><translate><![CDATA[Fantastiske zoomoptagelser]]></translate></item>
+	<item v="popUp_subtitle_27"><translate><![CDATA[O.I.S. kraftig zoom]]></translate></item>
+	<item v="popUp_body_text_27"><translate><![CDATA[Når du tager billeder med kraftig zoom, forstærkes bevægelserne af kameraet. Med O.I.S. teknologien (dvs. ”optical image stabilitsation”) kan du tage håndholdte billeder uden slør med kraftig zoom.]]></translate></item>	
+<!-- new --><item v="popUp_caption_27_0"><translate><![CDATA[O.I.S. Til]]></translate></item>
+<!-- new --><item v="popUp_caption_27_1"><translate><![CDATA[O.I.S. Fra]]></translate></item>
+	
+	<item v="popUp_hotspot_text_28"><translate><![CDATA[Lille kraftig zoom]]></translate></item>
+	<item v="popUp_subtitle_28"><translate><![CDATA[Kraftig zoom]]></translate></item>
+	<item v="popUp_body_text_28"><translate><![CDATA[Det er bemærkelsesværdigt, at den kraftige 10x optiske zoom, der svarer til et stort 35 mm – 432 mm objektiv på et 35 mm kamera, kan anbringes i et meget kompakt design.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_28_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_1"><translate><![CDATA[3X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_2"><translate><![CDATA[6X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_3"><translate><![CDATA[10X ZOOM]]></translate></item>
+	
+	<item v="popUp_hotspot_text_29"><translate><![CDATA[Indsæt en dato]]></translate></item>
+	<item v="popUp_subtitle_29"><translate><![CDATA[Rejsedatoindstilling]]></translate></item>
+	<item v="popUp_body_text_29"><translate><![CDATA[Du kan indstille turens afrejsedag på TZ1 og så vise hvilken dag på turen, billedet blev taget. Fremragende til organisering af dine billeder fra turen.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_29_0"><translate><![CDATA[første Dag]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_1"><translate><![CDATA[anden Dag]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_2"><translate><![CDATA[Verdtidindstilling]]></translate></item>
+
+
+
+
+	<item v="popUp_hotspot_text_30"><translate><![CDATA[Find et standpunkt]]></translate></item>
+	<item v="popUp_subtitle_30"><translate><![CDATA[En anden vinkel]]></translate></item>
+	<item v="popUp_body_text_30"><translate><![CDATA[Det betaler sig somme tider at betragte motivet lidt mere i detaljer. Ved at bevæge dig rundt og undersøge forskellige optagevinkler kan du ofte finde virkelig interessante optagelser.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_30_0"><translate><![CDATA[Visning 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_1"><translate><![CDATA[Visning 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_2"><translate><![CDATA[Visning 3]]></translate></item>
+		
+	<item v="popUp_hotspot_text_31"><translate><![CDATA[På farten]]></translate></item>
+	<item v="popUp_subtitle_31"><translate><![CDATA[O.I.S. åndrystelse]]></translate></item>
+	<item v="popUp_body_text_31"><translate><![CDATA[Når du er på farten, er et rystet kamera og slørede optagelser ikke nogen overraskelse. O.I.S. teknologien (dvs. ”optical image stabilitsation”) kompenserer for enhver bevægelse ved hjælp af gyro-følere ved at forskyde objektivet i den modsatte retning, så du uden undtagelser får klare og skarpe billeder.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_31_0"><translate><![CDATA[O.I.S. Fra]]></translate></item>
+	<!-- new --><item v="popUp_caption_31_1"><translate><![CDATA[O.I.S. Til]]></translate></item>
+
+	<item v="popUp_hotspot_text_32"><translate><![CDATA[Hurtigstart]]></translate></item>
+	<item v="popUp_subtitle_32"><translate><![CDATA[Hurtigstart]]></translate></item>
+	<item v="popUp_body_text_32"><translate><![CDATA[Sommetider skal kameraet være klar på et øjeblik. TZ1 er klar til optagelse 0,95 sekund efter du har tændt for det.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_33"><translate><![CDATA[Vær afspejlende]]></translate></item>
+	<item v="popUp_subtitle_33"><translate><![CDATA[Afspejlinger]]></translate></item>
+	<item v="popUp_body_text_33"><translate><![CDATA[Brug af afspejlinger kan skabe interessante kompositioner. Situationer som vand på gaden, bilruden og glasfacaden kan skabe en helt anderledes fornemmelse i billedet.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_34"><translate><![CDATA[Præcise portrætter]]></translate></item>
+	<item v="popUp_subtitle_34"><translate><![CDATA[Høj følsomhed]]></translate></item>
+	<item v="popUp_body_text_34"><translate><![CDATA[Du kan få ‘bevægelsesslør’, hvis motivet bevæger sig, når du  tager billedet. Du kan reducere dette ved hjælp af højfølsomhedsindstillingen. Den øger lukkerhastigheden til det maksimale, så billederne bliver tydelige og skarpe.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_34_0"><translate><![CDATA[Uden Høj følsomhed]]></translate></item>
+	<!-- new --><item v="popUp_caption_34_1"><translate><![CDATA[Med Høj følsomhed]]></translate></item>
+	
+	<item v="popUp_hotspot_text_35"><translate><![CDATA[Leica DC-objektiv]]></translate></item>
+	<item v="popUp_subtitle_35"><translate><![CDATA[Leica DC-objektiv]]></translate></item>
+	<item v="popUp_body_text_35"><translate><![CDATA[Det verdenskendte Leica DC-objektiv anvendt i TZ1 producerer billeder med udtryksfulde detaljer og en bemærkelsesværdig dybde.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_36"><translate><![CDATA[Bliv fokuseret]]></translate></item>
+	<item v="popUp_subtitle_36"><translate><![CDATA[AF-hjælpelys]]></translate></item>
+	<item v="popUp_body_text_36"><translate><![CDATA[Dårlige belysningsforhold resulterer ofte i unøjagtig autofokusering. Med autofokushjælpelys forbedres fokuseringsnøjagtigheden.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_37"><translate><![CDATA[Undskyld mig?]]></translate></item>
+	<item v="popUp_subtitle_37"><translate><![CDATA[Tilstanden Simple]]></translate></item>
+	<item v="popUp_body_text_37"><translate><![CDATA[I tilstanden Simple foretages alle indstillinger automatisk, så det er nemt at lave fremragende optagelser, selvom du aldrig tidligere har brugt en kamera. Bare sigt, og tryk på udløseren.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_38"><translate><![CDATA[Stor LCD]]></translate></item>
+	<item v="popUp_subtitle_38"><translate><![CDATA[Stor LCD]]></translate></item>
+	<item v="popUp_body_text_38"><translate><![CDATA[Med en stor LCD er det nemt at nyde billederne lige efter optagelse. Med en størrelse på 2,5" og 207.000 pixels kan du med denne højopløselige LCD-skærm nemt se tekst og minaturebilleder.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_39"><translate><![CDATA[Den blå time]]></translate></item>
+	<item v="popUp_subtitle_39"><translate><![CDATA[Brug af lys]]></translate></item>
+	<item v="popUp_body_text_39"><translate><![CDATA[Når tusmørket sænker sig efter en klar dag, antager lyset en helt anden karakter. Dette kaldes ofte 'den blå time’. Billeder taget i denne belysning rummer ofte en unik farverigdom.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_40"><translate><![CDATA[Hurtigfokus]]></translate></item>
+	<item v="popUp_subtitle_40"><translate><![CDATA[Hurtigfokus]]></translate></item>
+	<item v="popUp_body_text_40"><translate><![CDATA[Vælg mellem flere autofokusindstillinger: spot, 1-punkt, 3-punkt og 9-punkt efter motivet, du optager. Du kan tage billeder hurtigt, nemt og nøjagtigt hver gang.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_40_0"><translate><![CDATA[9-punkt]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_1"><translate><![CDATA[3-punkt]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_2"><translate><![CDATA[1-punkt]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_3"><translate><![CDATA[1-spot]]></translate></item>
+	
+	<item v="popUp_hotspot_text_41"><translate><![CDATA[Aftenelsker]]></translate></item>
+	<item v="popUp_subtitle_41"><translate><![CDATA[Tilstanden Natportræt]]></translate></item>
+	<item v="popUp_body_text_41"><translate><![CDATA[Brug af blitz om aftenen kan fjerne den virkelige belysning i optagelsen. Den langsommere lukkerhastighed muliggjort af  OIS-teknologien kombineret med blitz lader mere lys slippe ind i kameraet. Med tilstanden Natportræt kan du indfange den rette stemning.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_42"><translate><![CDATA[Lysstærk LCD]]></translate></item>
+	<item v="popUp_subtitle_42"><translate><![CDATA[Lysstærk LCD]]></translate></item>
+	<item v="popUp_body_text_42"><translate><![CDATA[Hvis det er vanskeligt at aflæse displayet på en solrig dag, skal du blot trykke på knappen Power LCD, hvorefter displaet bliver  40 % mere lysstærkt.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_43"><translate><![CDATA[Livet på stranden]]></translate></item>
+	<item v="popUp_subtitle_43"><translate><![CDATA[Tilstanden Beach]]></translate></item>
+	<item v="popUp_body_text_43"><translate><![CDATA[Klart solskin bliver altid vel modtaget på stranden, men det kan ofte resultere i mørke optagelser. Med tilstanden Beach kan du tage lysstærke billeder uden at bekymre dig om andet end din solbrændthed.]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_0"><translate><![CDATA[Med Tilstanden Beach]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_1"><translate><![CDATA[Uden Tilstanden Beach]]></translate></item>
+
+	<item v="popUp_hotspot_text_44"><translate><![CDATA[Indfang bevægelsen]]></translate></item>
+	<item v="popUp_subtitle_44"><translate><![CDATA[Mega Burst-optagelse]]></translate></item>
+	<item v="popUp_body_text_44"><translate><![CDATA[Du kan tage 5 optagelser i en fart med 3 billeder pr. sekund i tilstanden Standard. Med TZ1 kan du også foretage et ubegrænset antal kontinuerlige optagelser, til SD-hukommelseskortet er fuldt.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_44_0"><translate><![CDATA[Billede 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_1"><translate><![CDATA[Billede 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_2"><translate><![CDATA[Billede 3]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_3"><translate><![CDATA[Billede 4]]></translate></item>
+	
+
+
+	<item v="popUp_hotspot_text_45"><translate><![CDATA[Abstrakt tænkning]]></translate></item>
+	<item v="popUp_subtitle_45"><translate><![CDATA[En anden vinkel]]></translate></item>
+	<item v="popUp_body_text_45"><translate><![CDATA[Hvis man betragter tingene på en anden måde, kan det medføre forbløffende resultater. Eksperimenter med dine optagelser, og sammensæt en collage af forskellige elementer fra det samme motiv.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_45_0"><translate><![CDATA[Visning 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_1"><translate><![CDATA[Visning 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_2"><translate><![CDATA[Visning 3]]></translate></item>
+
+	<item v="popUp_hotspot_text_46"><translate><![CDATA[Forgrund i forhold til baggrund.]]></translate></item>
+	<item v="popUp_subtitle_46"><translate><![CDATA[Komposition]]></translate></item>
+	<item v="popUp_body_text_46"><translate><![CDATA[Sammenstilling af forgrunds- og baggrundselementer kan skabe interessante kompositioner.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_47"><translate><![CDATA[Abstrakt zoom]]></translate></item>
+	<item v="popUp_subtitle_47"><translate><![CDATA[Abstrakt]]></translate></item>
+	<item v="popUp_body_text_47"><translate><![CDATA[Ved hjælp af den kraftige zoom kan du beskære optagelserne i kameraet og skabe abstrakte detaljer.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_48"><translate><![CDATA[Seneftermiddagslys]]></translate></item>
+	<item v="popUp_subtitle_48"><translate><![CDATA[Det sene lys]]></translate></item>
+	<item v="popUp_body_text_48"><translate><![CDATA[På en klar dag antager lyset sent om eftermiddagen ofte en dyb blå karakter, der kan tilføre dine billeder varme.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_49"><translate><![CDATA[Se lyset]]></translate></item>
+	<item v="popUp_subtitle_49"><translate><![CDATA[Lysmåling]]></translate></item>
+	<item v="popUp_body_text_49"><translate><![CDATA[Du kan bruge med fordel bruge en bestemt lyskilde. Ved hjælp af spotmåling af lyset afspejlet fra kontorbygningen opnår du en helt anden slags optagelse.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_50"><translate><![CDATA[Rejs ubesværet]]></translate></item>
+	<item v="popUp_subtitle_50"><translate><![CDATA[Kompakt design]]></translate></item>
+	<item v="popUp_body_text_50"><translate><![CDATA[Med sit smarte og kompakte design passer TZ1 perfekt i enhver lomme, så du kan rejse ubesværet.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_51"><translate><![CDATA[Lille kraftig zoom]]></translate></item>
+	<item v="popUp_subtitle_51"><translate><![CDATA[10x optisk zoom]]></translate></item>
+	<item v="popUp_body_text_51"><translate><![CDATA[Det er bemærkelsesværdigt, at den kraftige 10x optiske zoom, der svarer til et stort 35 mm – 432 mm objektiv på et 35 mm kamera, kan anbringes i et meget kompakt design.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_51_0"><translate><![CDATA[1X Zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_1"><translate><![CDATA[2X Zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_2"><translate><![CDATA[5X Zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_3"><translate><![CDATA[10X Zoom]]></translate></item>
+	
+	<item v="popUp_hotspot_text_52"><translate><![CDATA[Zoomoptagelser]]></translate></item>
+	<item v="popUp_subtitle_52"><translate><![CDATA[O.I.S. high zoom]]></translate></item>
+	<item v="popUp_body_text_52"><translate><![CDATA[Når du tager billeder med kraftig zoom, forstærkes bevægelserne af kameraet. Med O.I.S. teknologien (dvs. ”optical image stabilitsation”) kan du tage håndholdte billeder uden slør med kraftig zoom.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_52_0"><translate><![CDATA[O.I.S. Fra]]></translate></item>
+	<!-- new --><item v="popUp_caption_52_1"><translate><![CDATA[O.I.S. Til]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_53"><translate><![CDATA[Se det i bredformat]]></translate></item>
+	<item v="popUp_subtitle_53"><translate><![CDATA[Bredde/højde-forhold]]></translate></item>
+	<item v="popUp_body_text_53"><translate><![CDATA[Du kan tage billeder i det brede 16:9-format. Du kan få vist billederne i perfekt bredformat på et tv med SD-kortslot.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_54"><translate><![CDATA[Perfekt udtryk]]></translate></item>
+	<item v="popUp_subtitle_54"><translate><![CDATA[Blitzens rødøjereduktion]]></translate></item>
+	<item v="popUp_body_text_54"><translate><![CDATA[When you use Flash you can often get red eye. With the Flash set to auto red-eye reduction you get 2 quick flashes to solve the problem.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_54_0"><translate><![CDATA[Uden Automatisk rødøjereduktion]]></translate></item>
+	<!-- new --><item v="popUp_caption_54_1"><translate><![CDATA[Med Automatisk rødøjereduktion]]></translate></item>
+
+	<item v="popUp_hotspot_text_55"><translate><![CDATA[I datoorden]]></translate></item>
+	<item v="popUp_subtitle_55"><translate><![CDATA[Kalendervisning]]></translate></item>
+	<item v="popUp_body_text_55"><translate><![CDATA[TZ1 kan arrangere dine optagelser efter dagen, hvor du tog dem. Det kan være en stor hjælp, når der er mange billeder, der skal organiseres.]]></translate></item>	
+
+
+
+
+
+	<!-- F1 -->
+
+	<item v="popUp_hotspot_text_56"><translate><![CDATA[Kreativt fokus]]></translate></item>
+	<item v="popUp_subtitle_56"><translate><![CDATA[Dybdeskarphed]]></translate></item>
+	<item v="popUp_body_text_56"><translate><![CDATA[Dybdeskarphed er området med det skarpeste fokus foran, bagved og rundt om motivet. Med 12x zoom er det nemt at opnå en lille dybdeskarphed. Dettte kan bruges som et bevidst stilistisk tiltag med et element i skarp fokus.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_57"><translate><![CDATA[Intelligent design]]></translate></item>
+	<item v="popUp_subtitle_57"><translate><![CDATA[Design]]></translate></item>
+	<item v="popUp_body_text_57"><translate><![CDATA[Designet anbringer alle betjeninger lige der, hvor du har brug for dem på huset, der er nemt at holde. Og den elektroniske søger og LCD’en er indstillet på samme sigtelinje for at minimere forskellen mellem billedederne, du ser, når du indfanger motivet.]]></translate></item>	
+<!-- new 22-03-2006 --><item v="popUp_caption_57_0"><translate><![CDATA[styregrejer]]></translate></item>
+	
+	<item v="popUp_hotspot_text_58"><translate><![CDATA[Skarpe nærbilleder]]></translate></item>
+	<item v="popUp_subtitle_58"><translate><![CDATA[O.I.S. makro]]></translate></item>
+	<item v="popUp_body_text_58"><translate><![CDATA[Hvis du vil tage klare og skarpe nærbilleder, kræver det, at kameraet holdes fuldstændig stille. Med O.I.S. teknologien (dvs. ”optical image stabilitsation”) kan du tage rolige, slørfrie håndholdte makrobilleder uden brug af stativ.]]></translate></item>	
+<!-- new --><item v="popUp_caption_58_0"><translate><![CDATA[O.I.S. Til]]></translate></item>
+<!-- new --><item v="popUp_caption_58_1"><translate><![CDATA[O.I.S. Fra]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_59"><translate><![CDATA[Strærkt baggrundslys]]></translate></item>
+	<item v="popUp_subtitle_59"><translate><![CDATA[Baggrundslyskompensering]]></translate></item>
+	<item v="popUp_body_text_59"><translate><![CDATA[Stærkt baggrundslys som f.eks. direkte sollys kan skabe ufordelagtige optagebetingelser. Dette problem kan løses ved med baggrundslyskompensation ved at trykke på den øverste markørtast i tilstanden Simple.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_60"><translate><![CDATA[Brugervenlig funktionsvælger]]></translate></item>
+	<item v="popUp_subtitle_60"><translate><![CDATA[Funktionsvælger]]></translate></item>
+	<item v="popUp_body_text_60"><translate><![CDATA[Med funktionsvælgeren kan du vælge den optagetilstand, der passer til situationen. Du kan vælge mellem optagetilstandene Program AE, Blænderpriorieteret AE, Lukkerprioriteret AE, Simple, Makro, Billed i bevægelse, Normalt billede, Scene såvel som Afspilning.]]></translate></item>	
+<!-- new --><item v="popUp_caption_60_0"><translate><![CDATA[Funktionsvælger]]></translate></item>
+
+	<item v="popUp_hotspot_text_61"><translate><![CDATA[Skarpe nærbilleder]]></translate></item>
+	<item v="popUp_subtitle_61"><translate><![CDATA[O.I.S. makro]]></translate></item>
+	<item v="popUp_body_text_61"><translate><![CDATA[Hvis du vil tage klare og skarpe nærbilleder, kræver det, at kameraet holdes fuldstændig stille. Med O.I.S. teknologien (dvs. ”optical image stabilitsation”) kan du tage rolige, slørfrie håndholdte makrobilleder uden brug af stativ.]]></translate></item>	
+<!-- new --><item v="popUp_caption_61_0"><translate><![CDATA[O.I.S. Til]]></translate></item>
+<!-- new --><item v="popUp_caption_61_1"><translate><![CDATA[O.I.S. Fra]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_62"><translate><![CDATA[Hvidbalance]]></translate></item>
+	<item v="popUp_subtitle_62"><translate><![CDATA[Hvidbalance]]></translate></item>
+	<item v="popUp_body_text_62"><translate><![CDATA[Forskellige lyskilder har forskellige farvetemperaturer, hvilket forårsager unaturlig farvning af et billede. Lysrørene på værkstedet ville give et meget grønt billede, så med indstillingen Automatisk hvidbalance foretager kameraet justering til den nye belysningssituation.]]></translate></item>	
+<!-- new --><item v="popUp_caption_62_0"><translate><![CDATA[Automatisk Hvidbalance]]></translate></item>
+<!-- new --><item v="popUp_caption_62_1"><translate><![CDATA[]]></translate></item>
+
+	<item v="popUp_hotspot_text_63"><translate><![CDATA[Lav belysning]]></translate></item>
+	<item v="popUp_subtitle_63"><translate><![CDATA[O.I.S. indendørs]]></translate></item>
+	<item v="popUp_body_text_63"><translate><![CDATA[Brug af blitz indendørs kan gøre forgrunden unaturligt bleg og baggrunden mørk. Ved hjælp af en langsommere lukkerhastighed muliggjort af O.I.S. teknologien (dvs. ”optical image stabilitsation”) kan du indfange de naturlige belysningsforhold uden blitz.]]></translate></item>	
+<!-- new --><item v="popUp_caption_63_0"><translate><![CDATA[Blitz Fra]]></translate></item>
+<!-- new --><item v="popUp_caption_63_1"><translate><![CDATA[Blitz Til]]></translate></item>
+
+	<item v="popUp_hotspot_text_64"><translate><![CDATA[Tilstanden Burst]]></translate></item>
+	<item v="popUp_subtitle_64"><translate><![CDATA[Tilstanden Burst]]></translate></item>
+	<item v="popUp_body_text_64"><translate><![CDATA[Du kan tage 13 optagelser i en fart med 3 billeder pr. sekund i tilstanden Standard. FZ7 har også Ubegrænset kontinuerlig optagefunktion, så du kan blive ved med at tage billeder, indtil SD-hukommelseskortet er fyldt.]]></translate></item>	
+<!-- new --><item v="popUp_caption_64_0"><translate><![CDATA[Billede 1]]></translate></item>
+<!-- new --><item v="popUp_caption_64_1"><translate><![CDATA[Billede 2]]></translate></item>
+<!-- new --><item v="popUp_caption_64_2"><translate><![CDATA[Billede 3]]></translate></item>
+<!-- new --><item v="popUp_caption_64_3"><translate><![CDATA[Billede 4]]></translate></item>
+
+	<item v="popUp_hotspot_text_65"><translate><![CDATA[LCD med stor synlighedsvinkel]]></translate></item>
+	<item v="popUp_subtitle_65"><translate><![CDATA[LCD med stor synlighedsvinkel]]></translate></item>
+	<item v="popUp_body_text_65"><translate><![CDATA[Funktionen til fotografering fra en høj vinkel gør det også nemmere at se LCD’en, når du holder kameraet højt for at tage billedet hen over hovederne på dem, der står foran dig.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_66"><translate><![CDATA[Hurtig lukkerhastighed]]></translate></item>
+	<item v="popUp_subtitle_66"><translate><![CDATA[Hurtig lukkerhastighed]]></translate></item>
+	<item v="popUp_body_text_66"><translate><![CDATA[Ved optagelse af et motiv i hurtig bevægelse som f.eks. en Formel Et-bil, der kører med mere end 325 km/t skal der bruges en hurtig lukkerhastighed, der er i stand til at fastfryse bilens hurtige bevægelse.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_67"><translate><![CDATA[Panorering]]></translate></item>
+	<item v="popUp_subtitle_67"><translate><![CDATA[Tilstanden Panorering]]></translate></item>
+	<item v="popUp_body_text_67"><translate><![CDATA[Med panorering flyttes kameraet for at følge et motiv, der bevæger sig i en retning, som f.eks. en bil. Baggrunden bliver sløret, og motivet forbliver i fokus. Tilstanden Panorering indstiller en lav lukkerhastighed for at opnå følelsen af fart.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_68"><translate><![CDATA[Kraftig zoom]]></translate></item>
+	<item v="popUp_subtitle_68"><translate><![CDATA[High zoom]]></translate></item>
+	<item v="popUp_body_text_68"><translate><![CDATA[FZ7 er udstyret med et Leica DC-objektiv med en bemærkelsesværdig 12X optisk zoom, der svarer til et 35 mm – 432 mm objektiv på et 35 mm kamera. Et konventionelt kamera med en optisk zoom, der er så kraftigt, ville være så stort og tungt, at du ikke kunne betjene det med én hånd.]]></translate></item>	
+<!-- new --><item v="popUp_caption_68_0"><translate><![CDATA[1X Zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_68_1"><translate><![CDATA[6X Zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_68_2"><translate><![CDATA[12X Zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_68_3"><translate><![CDATA[16.5X Ekstra Zoom]]></translate></item>
+
+	<item v="popUp_hotspot_text_69"><translate><![CDATA[Hurtig lukkerudløsning]]></translate></item>
+	<item v="popUp_subtitle_69"><translate><![CDATA[Hurtig lukkerudløsning]]></translate></item>
+	<item v="popUp_body_text_69"><translate><![CDATA[FZ7 har en superhurtig respons med en udløsertidsforsinkelse på kun 0,008 sekund. Du kan tage billeder hurtigt, nemt og nøjagtigt hver gang.]]></translate></item>	
+<!-- new --><item v="popUp_caption_69_0"><translate><![CDATA[0.0008 Sek]]></translate></item>
+<!-- new --><item v="popUp_caption_69_1"><translate><![CDATA[0.0016 Sek]]></translate></item>
+<!-- new --><item v="popUp_caption_69_2"><translate><![CDATA[0.0024 Sek]]></translate></item>
+<!-- new --><item v="popUp_caption_69_3"><translate><![CDATA[0.0032 Sek]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_70"><translate><![CDATA[Afspejlinger]]></translate></item>
+	<item v="popUp_subtitle_70"><translate><![CDATA[Kreativitet]]></translate></item>
+	<item v="popUp_body_text_70"><translate><![CDATA[Brug af afspejlinger kan skabe interessante kompositioner. Situationer som vand på gaden, bilruden og glasfacaden kan skabe en helt anderledes fornemmelse i billedet.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_71"><translate><![CDATA[Manuel fokusering]]></translate></item>
+	<item v="popUp_subtitle_71"><translate><![CDATA[Manuelle funktioner]]></translate></item>
+	<item v="popUp_body_text_71"><translate><![CDATA[Joysticken på bagsiden af kameraet giver dig hurtig, nem og nøjagtig manuel fokusering. Du kan også bruge funktionen Manuel fokuseringsassistance, der bistår dig med at indstille perfekt fokusering ved at forstørre den midterste del af LCD-billedet.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_72"><translate><![CDATA[Brugervenlig joystick]]></translate></item>
+	<item v="popUp_subtitle_72"><translate><![CDATA[Joystick lav lukkerhastighed]]></translate></item>
+	<item v="popUp_body_text_72"><translate><![CDATA[Du kan instille blænde, lukkerhastighed og fokus med joysticken samtidig med, at du indfanger motivet på LCD-skærmen.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_73"><translate><![CDATA[Leica DC-objektiv]]></translate></item>
+	<item v="popUp_subtitle_73"><translate><![CDATA[Leica DC-objektiv]]></translate></item>
+	<item v="popUp_body_text_73"><translate><![CDATA[Objektivets præstation er afgørende for fremragende billeder. Leica Camera AG har fremstillet verdenskendte objektiver siden 1913. Deres objektiver producerer billeder med udtryksfulde detaljer og en bemærkelsesværdig dybde.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_74"><translate><![CDATA[Sportstilstand]]></translate></item>
+	<item v="popUp_subtitle_74"><translate><![CDATA[Sportstilstand]]></translate></item>
+	<item v="popUp_body_text_74"><translate><![CDATA[I denne tilstand anvendes en højere lukkerhastighed, og blænderåbningen indstilles til automatisk, så du kan koncentrere dig om optagelsen ved at trykke på udløseren på det rigtige tidspunkt.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_75"><translate><![CDATA[Abstrakt]]></translate></item>
+	<item v="popUp_subtitle_75"><translate><![CDATA[Kreativitet]]></translate></item>
+	<item v="popUp_body_text_75"><translate><![CDATA[Ved hjælp af den kraftige zoomkapacitet på FZ7 er der lavet et abstrakt billede af dækbarriererne rundt om banen. Ved så tæt beskæring af billederne som her kan der skabes meget interessante og usædvanlige billeder.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_76"><translate><![CDATA[Lysstærk LCD]]></translate></item>
+	<item v="popUp_subtitle_76"><translate><![CDATA[Lysstærk LCD]]></translate></item>
+	<item v="popUp_body_text_76"><translate><![CDATA[FZ7 har en 2.5” højopløselig LCD med Power LCD-funktion. Med enkelt berøring af knappen Power LCD øges lysstyrken på displayet med 40 %, der gør det nemmere at se displayet på dage med solskin.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_77"><translate><![CDATA[Autoeksponering]]></translate></item>
+	<item v="popUp_subtitle_77"><translate><![CDATA[Tilstanden Program AE]]></translate></item>
+	<item v="popUp_body_text_77"><translate><![CDATA[Program AE-tilstanden fastsætter de optimale indstillinger af blænderåbning og  lukkerhastighed for dig. Du kan bruge Programskift til at holde eksponeringen på det samme og skifte lukkerhastighed og blænderindstilinger.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_78"><translate><![CDATA[En anden vinkel]]></translate></item>
+	<item v="popUp_subtitle_78"><translate><![CDATA[Kreativitet]]></translate></item>
+	<item v="popUp_body_text_78"><translate><![CDATA[Det betaler sig somme tider at betragte motivet i en anden vinkel. Gentagelsen af tribunepladserne, der fortaber sig i det fjerne, skaber et andet perspektiv.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_79"><translate><![CDATA[Kraftig zoom]]></translate></item>
+	<item v="popUp_subtitle_79"><translate><![CDATA[Kraftig zoom]]></translate></item>
+	<item v="popUp_body_text_79"><translate><![CDATA[I 3 megapixel-opløsning kan objektivets zoomområde udvides til 16,5x ekstra zoomfunktion med minimal billedforringelse ved bevidst brug af den centrale del af CCD’en.]]></translate></item>	
+<!-- new --><item v="popUp_caption_79_0"><translate><![CDATA[1X Zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_79_1"><translate><![CDATA[6X Zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_79_2"><translate><![CDATA[12X Zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_79_3"><translate><![CDATA[16.5X Zoom]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_80"><translate><![CDATA[Stor LCD]]></translate></item>
+	<item v="popUp_subtitle_80"><translate><![CDATA[Stor LCD]]></translate></item>
+	<item v="popUp_body_text_80"><translate><![CDATA[Den store LCD lader dig kontrollere fokusering, indfange motivet og bruge funktioner som f.eks. visning af 25 minaturebilleder og kalendervisning på en bekvem måde uden at anstrenge øjnene.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_81"><translate><![CDATA[Afspilning]]></translate></item>
+	<item v="popUp_subtitle_81"><translate><![CDATA[Afspilningstilstand]]></translate></item>
+	<item v="popUp_body_text_81"><translate><![CDATA[Det er sjovt og nemt at se sine billeder. Vælg diasshow med 1, 9 eller 25 billeder pr. vindue eller i en kalendervisning, der viser et miniaturebillede af alle de billeder, der er taget på en bestemt dato.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_82"><translate><![CDATA[12x optisk zoom]]></translate></item>
+	<item v="popUp_subtitle_82"><translate><![CDATA[Kraftig zoom]]></translate></item>
+	<item v="popUp_body_text_82"><translate><![CDATA[FZ7 er udstyret med et Leica DC-objektiv med en bemærkelsesværdig 12X optisk zoom, der svarer til et 35 mm – 432 mm objektiv på et 35 mm kamera. Et konventionelt kamera med en optisk zoom, der er så kraftigt, ville være så stort og tungt, at du ikke kunne betjene det med én hånd.]]></translate></item>	
+<!-- new --><item v="popUp_caption_82_0"><translate><![CDATA[1X Zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_82_1"><translate><![CDATA[6X Zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_82_2"><translate><![CDATA[12X Zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_82_3"><translate><![CDATA[16.5X Zoom]]></translate></item>
+	
+	<item v="popUp_hotspot_text_83"><translate><![CDATA[Hurtigfokus]]></translate></item>
+	<item v="popUp_subtitle_83"><translate><![CDATA[Hurtigfokus]]></translate></item>
+	<item v="popUp_body_text_83"><translate><![CDATA[Med FZ7 kan du vælge mellem flere autofokusindstillinger som f.eks. spot, 1-punkt, 3-punkt og 9-punkt. Du kan også bruge autofokushjælpelys til at gøre fokusering nemmere under lave belysningsforhold.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_84"><translate><![CDATA[Landskab]]></translate></item>
+	<item v="popUp_subtitle_84"><translate><![CDATA[Landskabstilstand]]></translate></item>
+	<item v="popUp_body_text_84"><translate><![CDATA[I landskabstilstand fokuserer kameraet primært på et fjerntliggende motiv. Dette gør det muligt at tage billeder af et vidtstrakt landskab.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_85"><translate><![CDATA[Solnedgang]]></translate></item>
+	<item v="popUp_subtitle_85"><translate><![CDATA[Manuel tilstand]]></translate></item>
+	<item v="popUp_body_text_85"><translate><![CDATA[På denne optagelse blev funktionsvælgeren indstillet til Manuel og en høj blænderværdi for at kompensere for det direkte sollys ind i objektivet. Med O.I.S. aktiveret, zoom direkte ind i træet opnås der en rolig optagelse, og der genereres et fremragende billede.]]></translate></item>	
+<!-- new --><item v="popUp_caption_85_0"><translate><![CDATA[]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_86"><translate><![CDATA[Brugervenlig joystick]]></translate></item>
+	<item v="popUp_subtitle_86"><translate><![CDATA[Brugervenlig joystick]]></translate></item>
+	<item v="popUp_body_text_86"><translate><![CDATA[Ved at trykke på joysticken og holde den nedtrykket kan du øjeblikkeligt ændre hvidbalance, ISO-følsomhed, billedstørrelse og billedkvalitet uden behov for skift til menuskærmen.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_87"><translate><![CDATA[Objektivdæksel]]></translate></item>
+	<item v="popUp_subtitle_87"><translate><![CDATA[Ekstraudstyr]]></translate></item>
+	<item v="popUp_body_text_87"><translate><![CDATA[I forbindelse med meget velbelyste fotografiske situationer kan det være gavnligt at bruge objektivdækslet for at forhindre for stor lysindtrængen i objektivet.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_88"><translate><![CDATA[Kraftig zoom]]></translate></item>
+	<item v="popUp_subtitle_88"><translate><![CDATA[Kraftig zoom]]></translate></item>
+	<item v="popUp_body_text_88"><translate><![CDATA[FZ7 er udstyret med et Leica DC-objektiv med en bemærkelsesværdig 12X optisk zoom, der svarer til et 35 mm – 432 mm objektiv på et 35 mm kamera. Et konventionelt kamera med en optisk zoom, der er så kraftigt, ville være så stort og tungt, at du ikke kunne betjene det med én hånd.]]></translate></item>	
+<!-- new --><item v="popUp_caption_88_0"><translate><![CDATA[1X Zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_88_1"><translate><![CDATA[6X Zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_88_2"><translate><![CDATA[12X Zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_88_3"><translate><![CDATA[16.5X Zoom]]></translate></item>
+
+	<item v="popUp_hotspot_text_89"><translate><![CDATA[Seneftermiddagslys]]></translate></item>
+	<item v="popUp_subtitle_89"><translate><![CDATA[Kreativitet]]></translate></item>
+	<item v="popUp_body_text_89"><translate><![CDATA[Dette billede blev taget sidst på eftermiddagen med solen direkte bag bilen. På grund af mængden af lys, der rammer objektivet, fremstår bilen som en silhuet, og asfalten gløder i det funklende lys.]]></translate></item>			
+
+
+
+	<!-- Key technology pop ups -->
+	<item v="popUp_tech_subtitle_0"><translate><![CDATA[Optisk billedstabilisator]]></translate></item>
+	<item v="popUp_tech_body_text_0"><translate><![CDATA[MEGA O.I.S. undertrykker rysten på hånden og giver dig bemærkelsesværdigt klare, skarpe optagelser selv i situationer, hvor slør typisk er et problem. Lumix med MEGA O.I.S.’ avancerede undertrykkelse af håndrystelser fastlægger en fremragende ny standard for digitalkameraers præstationer. Bevæg dig op på et billedkvalitetsniveau, der ikke blot kan måles i pixels eller objektivspecifikationer.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_1"><translate><![CDATA[Leica DC-objektiv]]></translate></item>
+	<item v="popUp_tech_body_text_1"><translate><![CDATA[Hvert af disse avancerede objektivsystemer omfatter flere asfæriske linser for af kompensere for sfærisk linsefejl. Der anvendes også i begge en avanceret multi-coating proces af linseoverflader for at undgå tågedannelse forårsaget af overstråling og ghosting.
+
+*Leica er et registreret varemærke for Leica Microsystems IR GmbH.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_2"><translate><![CDATA[Venus Engine Plus, II and III]]></translate></item>
+	<item v="popUp_tech_body_text_2"><translate><![CDATA[Alle Venus Engine billedbehandlingteknologier giver en højere responshastighed og forbedret diagonal opløsning på 50 % i form af smukke billeder. Venus Engine II og III har forbedret den vertikale opløsning yderligere med ca. 10 % og har forbedret korrekt farveaberration, der ofte forekommer i kraftige zoomoptagelser. Venus Engine Plus og III har forbedret energiudnyttelse.]]></translate></item>			
+
+
+</root>

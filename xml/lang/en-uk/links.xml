@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<links>
+	<camera name="DMC-LZ5" url="http://www.panasonic.co.uk/digital-cameras/dmc-lz5eb-s/index.htm "/>
+	<camera name="DMC-LZ3" url="http://www.panasonic.co.uk/digital-cameras/dmc-lz3eb-s/index.htm"/>
+	<camera name="DMC-LS2" url="http://www.panasonic.co.uk/digital-cameras/dmc-ls2eb-s/index.htm"/>
+	<camera name="DMC-FX01" url="http://www.panasonic.co.uk/digital-cameras/dmc-fx01eb-s/index.htm"/>
+	<camera name="DMC-FX07" url="http://www.panasonic.co.uk/digital-cameras/dmc-fx07eb-k/index.htm"/>
+	<camera name="DMC-FX50" url="http://www.panasonic.co.uk/digital-cameras/dmc-fx50eb-k/index.htm"/>
+	<camera name="DMC-LX2" url="http://www.panasonic.co.uk/digital-cameras/dmc-lx2eb-k/index.htm"/>
+	<camera name="DMC-FZ50" url="http://www.panasonic.co.uk/digital-cameras/dmc-fz50eb-k/index.htm"/>
+	<camera name="DMC-FZ7" url="http://www.panasonic.co.uk/digital-cameras/dmc-fz7eb-k/index.htm"/>
+	<camera name="DMC-TZ1" url="http://www.panasonic.co.uk/digital-cameras/dmc-tz1eb-s/index.htm "/>
+	<camera name="DMC-L1" url="http://www.panasonic.co.uk/digital-cameras/dmc-l1keb-k/index.htm"/>
+	<camera name="DMC-FX3" url="http://www.panasonic.co.uk/digital-cameras/dmc-fx3eb-k/index.htm"/>
+	
+	<lumixAward url="http://www.lumixaward.com"/>
+</links>

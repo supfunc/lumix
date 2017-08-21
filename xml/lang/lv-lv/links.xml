@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<links>
+	<camera name="DMC-LZ5" url=""/>
+	<camera name="DMC-LZ3" url=""/>
+	<camera name="DMC-LS2" url=""/>
+	<camera name="DMC-FX01" url=""/>
+	<camera name="DMC-FX07" url=""/>
+	<camera name="DMC-FX50" url=""/>
+	<camera name="DMC-LX2" url=""/>
+	<camera name="DMC-FZ50" url=""/>
+	<camera name="DMC-FZ7" url=""/>
+	<camera name="DMC-TZ1" url=""/>
+	<camera name="DMC-L1" url=""/>
+	<camera name="DMC-FX3" url=""/>
+	
+	<lumixAward url="http://www.lumixaward.com"/>
+</links>

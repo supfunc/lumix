@@ -1,0 +1,772 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<!-- 'Loading' website data -->
+	<item v="loading"><translate><![CDATA[LOADING]]></translate></item>
+<!-- new --><item v="disclaimer"><translate><![CDATA[© 2006 Panasonic Marketing Europe GmbH]]></translate></item>
+<!-- new --><item v="select_language"><translate><![CDATA[Válasszon nyelvet]]></translate></item>
+
+	<!-- SECTION: HOME PAGE -->
+	
+	<item v="home_title"><translate><![CDATA[Fedezze fel a Lumix egyediségét!]]></translate></item>
+	<item v="home_subtitle"><translate><![CDATA[A Lumix digitális fényképezőgépek megkönnyítik a jó képek készítését. Kísérletezzen, tegyen szert új perspektívára, hagyja, hogy a Lumix végezze a munkát. 
+Kísérje figyelemmel történeteinket, és keresse, hogy mitől más a Lumix!]]></translate></item>
+
+	<!-- panels -->
+	<item v="section0_title"><translate><![CDATA[Lumix-díj]]></translate></item>
+	<item v="section0_subtitle"><translate><![CDATA[Nevezze be fotóit a digitális fotópályázatra]]></translate></item>
+	
+	<item v="section1_title"><translate><![CDATA[Termékskála]]></translate></item>
+	<item v="section1_subtitle"><translate><![CDATA[Tekintse meg a teljes Lumix termékskálát]]></translate></item>
+	
+	<item v="section2_subtitle"><translate><![CDATA[Szórakozás közben Londonban, két baráttal]]></translate></item>
+
+	<item v="section3_subtitle"><translate><![CDATA[Barátnőjével Barcelonában]]></translate></item>
+	
+	<item v="section4_subtitle"><translate><![CDATA[Egy Forma-1-es teszten, Jerezben]]></translate></item>
+
+	<!-- FEATURING THE [CAMERA NAME] -->
+	<item v="featuring"><translate><![CDATA[LUMIX-TÁRS]]></translate></item>
+	<item v="the"><translate><![CDATA[:]]></translate></item>
+	
+	<!-- FLOATING MAIN MENU -->
+	
+	<item v="menu_overview"><translate><![CDATA[Áttekintés]]></translate></item>
+	<item v="menu_scene"><translate><![CDATA[Jelenet]]></translate></item>
+	<item v="menu_lumix_award"><translate><![CDATA[Nevezzen be a Lumix Fotópályázatra]]></translate></item>
+	<item v="menu_product_range"><translate><![CDATA[2006 Lumix termékcsalád]]></translate></item>
+	<!-- menu items -->
+	<item v="menu_0"><translate><![CDATA[Otthon]]></translate></item>
+	<item v="menu_1"><translate><![CDATA[Kísérje figyelemmel Annát, amint Londonban szórakozik]]></translate></item>
+	<item v="menu_2"><translate><![CDATA[Kísérje figyelemmel Pietro-t Barcelonában]]></translate></item>
+	<item v="menu_3"><translate><![CDATA[Kísérje figyelemmel Thomast a Forma-1-es teszten]]></translate></item>
+	<item v="menu_4"><translate><![CDATA[Lumix termékcsalád]]></translate></item>
+	<item v="menu_5"><translate><![CDATA[Nevezzen be a Lumix Fotópályázatra]]></translate></item>
+	
+	<!-- PRODUCT INFO -->
+	<!-- Launch product info panel-->
+	<item v="find_out_more_DMC-FX01"><translate><![CDATA[Tudjon meg többet a DMC-FX01 modellről]]></translate></item>
+	<item v="find_out_more_DMC-FZ7"><translate><![CDATA[Tudjon meg többet a DMC-FZ7 modellről]]></translate></item>
+	<item v="find_out_more_DMC-TZ1"><translate><![CDATA[Tudjon meg többet a DMC-TZ1 modellről]]></translate></item>
+	
+	<!-- Camera types -->
+	<item v="cam_type_0"><translate><![CDATA[Könnyen kezelhető kompakt]]></translate></item>
+	<item v="cam_type_1"><translate><![CDATA[Elegáns és kompakt]]></translate></item>
+	<item v="cam_type_2"><translate><![CDATA[A világutazó]]></translate></item>
+	<item v="cam_type_3"><translate><![CDATA[A félprofi]]></translate></item>
+	<item v="cam_type_4"><translate><![CDATA[Profi]]></translate></item>
+	<item v="cam_type_5"><translate><![CDATA[ProfiL SLR]]></translate></item>
+	
+	<!-- Camera specifications. In main.xml, specify id for each spec that applies to a camera -->
+	<item v="spec_0"><translate><![CDATA[Optikai zoom]]></translate></item>
+	<item v="spec_1"><translate><![CDATA[Optikai képstabilizátor]]></translate></item>
+	<item v="spec_2"><translate><![CDATA[Leica objektív]]></translate></item>
+	<item v="spec_3"><translate><![CDATA[Venus Engine]]></translate></item>
+	<item v="spec_4"><translate><![CDATA[megapixel]]></translate></item>
+	<item v="spec_5"><translate><![CDATA[Manuális funkciók]]></translate></item>
+	<item v="spec_6"><translate><![CDATA[Nagy nézési szögű LCD-kijelző]]></translate></item>
+	<item v="spec_7"><translate><![CDATA[Nagylátószög]]></translate></item>
+	<item v="spec_8"><translate><![CDATA[SLR]]></translate></item>
+	<item v="spec_9"><translate><![CDATA[Nagyméretű LCD-kijelző]]></translate></item>
+	<item v="spec_10"><translate><![CDATA[16:9 CCD]]></translate></item>
+	
+	<!-- SECTION: LUMIX AWARD -->
+	
+	<item v="lumix_award_title"><translate><![CDATA[A 2006-os Lumix díj]]></translate></item>
+	<item v="lumix_award_subtitle"><translate><![CDATA[A Lumix-díj immár ötödik éve kerül átadásra. Mindenkit szívesen látnak az egész Európát felölelő digitális fotópályázat nevezői között.]]></translate></item>
+	<item v="previous_winners"><translate><![CDATA[Korábbi nyertesek]]></translate></item>
+	<item v="enter_award"><translate><![CDATA[Nevezzen be a Lumix Fotópályázatra]]></translate></item>
+	
+	<!-- Image navigation -->
+	<item v="close"><translate><![CDATA[Bezár]]></translate></item>
+	<item v="prev_image"><translate><![CDATA[Előző kép]]></translate></item>
+	<item v="next_image"><translate><![CDATA[Következő kép]]></translate></item>
+	
+	
+	<!-- SECTION: PRODUCT RANGE -->
+	<item v="featured"><translate><![CDATA[bemutató]]></translate></item>
+	<item v="product_range_title"><translate><![CDATA[2006-os Lumix termékcsalád]]></translate></item>
+	<item v="product_range_subtitle"><translate><![CDATA[Az ez évi termékcsalád az igényeinek megfelelő fényképezőgépet nyújtja. Tudjon meg többet a kulcsfontosságú jellemzőkről és technológiákról itt.]]></translate></item>
+	
+	<!-- Camera features -->
+	<item v="leica_lens"><translate><![CDATA[Leica DC objektív]]></translate></item>
+	
+	<!-- Camera info menu -->
+	<item v="want_to_buy"><translate><![CDATA[Vásárolja meg ezt a fényképezőgépet]]></translate></item>
+	<item v="tech_specs"><translate><![CDATA[Részletes ismertető]]></translate></item>
+	
+	<!-- Camera navigation -->
+	<item v="close_camera"><translate><![CDATA[Fényképezőgép bezárása]]></translate></item>
+	<item v="prev_camera"><translate><![CDATA[Előző fényképezőgép]]></translate></item>
+	<item v="next_camera"><translate><![CDATA[Következő fényképezőgép]]></translate></item>
+
+	<!-- menu -->
+	<item v="see_in_action_DMC-FX01"><translate><![CDATA[FX01 - Tudjon meg többet]]></translate></item>
+	<item v="see_in_action_DMC-FZ7"><translate><![CDATA[FZ7 - Tudjon meg többet]]></translate></item>
+	<item v="see_in_action_DMC-TZ1"><translate><![CDATA[TZ1 - Tudjon meg többet]]></translate></item>
+	<item v="buy_this_camera"><translate><![CDATA[Vásárolja meg ezt a fényképezőgépet]]></translate></item>
+	<item v="more_info"><translate><![CDATA[Részletes ismertető]]></translate></item>
+	
+	<!-- Technologies -->
+<!-- new --><item v="key_technologies"><translate><![CDATA[LUMIX TECHNOLÓGIA]]></translate></item>
+	
+	<item v="enter_award"><translate><![CDATA[Nevezzen be a Lumix Fotópályázatra]]></translate></item>
+	
+	
+	<!-- Video stories -->
+	<!-- Anna -->
+	<item v="anna_ch1_title"><translate><![CDATA[Találkozás Annánál]]></translate></item>
+	<item v="anna_ch2_title"><translate><![CDATA[Felkészülés]]></translate></item>
+	<item v="anna_ch3_title"><translate><![CDATA[A szerkezet nyújtotta öröm]]></translate></item>
+	<item v="anna_ch4_title"><translate><![CDATA[Taxival a klubba]]></translate></item>
+	<item v="anna_ch5_title"><translate><![CDATA[A kidobó]]></translate></item>
+	<item v="anna_ch6_title"><translate><![CDATA[A függöny]]></translate></item>
+	<item v="anna_ch7_title"><translate><![CDATA[Flört a csapossal]]></translate></item>
+	<item v="anna_ch8_title"><translate><![CDATA[Beszélgetés a kanapén]]></translate></item>
+	<item v="anna_ch9_title"><translate><![CDATA[A táncparketten]]></translate></item>
+	
+	<!-- Pietro -->
+	<item v="pietro_ch1_title"><translate><![CDATA[Barcelona külvárosaiban]]></translate></item>
+	<item v="pietro_ch2_title"><translate><![CDATA[A középpont felé tartva]]></translate></item>
+	<item v="pietro_ch3_title"><translate><![CDATA[A Placa Real-on]]></translate></item>
+	<item v="pietro_ch4_title"><translate><![CDATA[A kávéház előtt]]></translate></item>
+	<item v="pietro_ch5_title"><translate><![CDATA[A hotelben]]></translate></item>
+	<item v="pietro_ch6_title"><translate><![CDATA[A parton]]></translate></item>
+	<item v="pietro_ch7_title"><translate><![CDATA[modern szerkesztés felé]]></translate></item>
+	<item v="pietro_ch8_title"><translate><![CDATA[A Sagrada család meglátogatása]]></translate></item>
+	<item v="pietro_ch9_title"><translate><![CDATA[Étterem kilátással]]></translate></item>
+	
+	<!-- Tim -->
+	<item v="thomas_ch1_title"><translate><![CDATA[Megérkezés a Jerez pályára]]></translate></item>
+	<item v="thomas_ch2_title"><translate><![CDATA[A boxutcában]]></translate></item>
+	<item v="thomas_ch3_title"><translate><![CDATA[A garázsban]]></translate></item>
+	<item v="thomas_ch4_title"><translate><![CDATA[A paddock tetején]]></translate></item>
+	<item v="thomas_ch5_title"><translate><![CDATA[A boxutca végén]]></translate></item>
+	<item v="thomas_ch6_title"><translate><![CDATA[A pálya második kanyarjában]]></translate></item>
+	<item v="thomas_ch7_title"><translate><![CDATA[Lelátói nézet]]></translate></item>
+	<item v="thomas_ch8_title"><translate><![CDATA[Torre Tio Pepe]]></translate></item>
+	<item v="thomas_ch9_title"><translate><![CDATA[Stadion-kanyar]]></translate></item>
+	
+	<!-- video navigation -->
+	<item v="play"><translate><![CDATA[Lejátszás]]></translate></item>
+	<item v="pause"><translate><![CDATA[Szünet]]></translate></item>
+	<item v="close_scene"><translate><![CDATA[Jelenet bezárása]]></translate></item>
+	<item v="prev_scene"><translate><![CDATA[Előző jelenet]]></translate></item>
+	<item v="next_scene"><translate><![CDATA[Következő jelenet]]></translate></item>
+
+
+	
+	<!-- TABS -->
+	<item v="more_info_image"><translate><![CDATA[Tudjon meg többet]]></translate></item>
+	
+	<!-- Hotspot rollover text -->
+	<!-- Photo hint and tips -->
+	<item v="phototip1_roll"><translate><![CDATA[LEARN MORE ABOUT LENS FLARE AND THE EFFECTS OF BACKLIGHT
+FROM A STRONG LIGHT SOURCE]]></translate></item>
+	<item v="phototip2_roll"><translate><![CDATA[Here is photo tip 2]]></translate></item>
+	<item v="phototip3_roll"><translate><![CDATA[Here is photo tip 3]]></translate></item>
+	<!-- picture -->
+	<item v="picture_roll"><translate><![CDATA[Lumix kép]]></translate></item>
+
+	<!-- Camera settings -->
+	<!-- modes -->
+	<item v="portrait_mode"><translate><![CDATA[Portré-mód]]></translate></item>
+	<item v="simple_mode"><translate><![CDATA[Egyszerűsített mód]]></translate></item>
+	<item v="macro_mode"><translate><![CDATA[MACRO-mód]]></translate></item>
+	<item v="high_sens_mode"><translate><![CDATA[Nagy érzékenységű mód]]></translate></item>
+	<item v="night_port_mode"><translate><![CDATA[Éjszakai portré mód]]></translate></item>
+	<item v="beach_mode"><translate><![CDATA[Part funkció]]></translate></item>
+	<item v="sports_mode"><translate><![CDATA[Sport mód]]></translate></item>
+	<item v="manual_mode"><translate><![CDATA[Manuális mód]]></translate></item>
+	<item v="scenery_mode"><translate><![CDATA[Tájkép-mód]]></translate></item>
+	
+	<!-- Other settings -->
+	<item v="on"><translate><![CDATA[Be]]></translate></item>
+	<item v="off"><translate><![CDATA[Ki]]></translate></item>
+	<!-- camera flash -->
+	<item v="flash"><translate><![CDATA[Vaku]]></translate></item>
+	
+	<item v="wide_angle"><translate><![CDATA[Nagy látószög]]></translate></item>
+	<item v="auto_red_eye"><translate><![CDATA[Automata vörösszemhatás-csökkentés]]></translate></item>
+	
+	<item v="zoom"><translate><![CDATA[zoom]]></translate></item>
+	<item v="optical_zoom"><translate><![CDATA[Optikai zoom]]></translate></item>
+	<item v="extra_optical_zoom"><translate><![CDATA[extra optikai zoom]]></translate></item>
+	
+	<item v="spot_metering"><translate><![CDATA[Szpot mérés]]></translate></item>
+	<item v="backlight_compensation"><translate><![CDATA[Ellenfény-kompenzáció]]></translate></item>
+	
+	
+	
+	
+	<!-- hotspot types -->
+	<item v="hotspot_type0"><translate><![CDATA[Termékjellemző]]></translate></item>
+	<item v="hotspot_type1"><translate><![CDATA[Tip]]></translate></item>
+	<item v="hotspot_type2"><translate><![CDATA[Lumix
+kép]]></translate></item>
+
+	<!-- new -->
+	<!-- as displayed in end of video summary -->
+	<item v="hotspot_summary_type0"><translate><![CDATA[Termékjellemző]]></translate></item>
+	<item v="hotspot_summary_type1"><translate><![CDATA[Fotó Tip]]></translate></item>
+	<item v="hotspot_summary_type2"><translate><![CDATA[Lumix kép]]></translate></item>
+	
+	<item v="prev_scene_summary"><translate><![CDATA[Előző jelenet]]></translate></item>
+	<item v="next_scene_summary"><translate><![CDATA[Következő jelenet]]></translate></item>
+	<!-- /new -->
+	
+	<!-- Pop up animation text -->
+	<item v="secs"><translate><![CDATA[Másodpercek]]></translate></item><!-- an abreviation of "SECONDS" -->
+	<item v="ready"><translate><![CDATA[üzemkész]]></translate></item>
+
+<!-- new start -->	
+<!-- Camera dimensions - Width, Height, Depth -->
+	<item v="width_abbr"><translate><![CDATA[W]]></translate></item>
+	<item v="height_abbr"><translate><![CDATA[H]]></translate></item>
+	<item v="depth_abbr"><translate><![CDATA[D]]></translate></item>
+	
+	<item v="large_screen_display"><translate><![CDATA[nagyméretű kijelző]]></translate></item>
+	<!-- Camera screen size ratio -->
+	<item v="normal_format"><translate><![CDATA[normál nézet]]></translate></item>
+	<item v="wide_format"><translate><![CDATA[szélesképernyős nézet]]></translate></item>
+	
+	<item v="window"><translate><![CDATA[kép]]></translate></item>
+	<item v="calendar_view"><translate><![CDATA[Naptár nézet]]></translate></item>
+	
+	<item v="normal_mode"><translate><![CDATA[normál nézet]]></translate></item>
+	<item v="wide_mode"><translate><![CDATA[szélesképernyős nézet]]></translate></item>
+	
+	<item v="normal_lens"><translate><![CDATA[Normál]]></translate></item>
+	<item v="wide_lens"><translate><![CDATA[Nagy látószög]]></translate></item>
+	<!-- a camera feature -->
+	<item v="power_lcd"><translate><![CDATA[Power LCD]]></translate></item>
+	<item v="button"><translate><![CDATA[Gomb]]></translate></item>
+	
+	<item v="viewfinder_aligned"><translate><![CDATA[Egyvonalba helyezett kereső és LCD-kijelző]]></translate></item>
+	<item v="slow_shutter"><translate><![CDATA[Alacsony zársebesség]]></translate></item>
+	<item v="joystick"><translate><![CDATA[Joystick]]></translate></item>
+<!-- new end -->
+
+
+	<!-- Pop up titles -->
+	<item v="popUp_title_feature"><translate><![CDATA[Termékjellemző]]></translate></item>
+	<item v="popUp_title_tip"><translate><![CDATA[Fotó Tip]]></translate></item>
+	<item v="popUp_title_picture"><translate><![CDATA[Lumix kép]]></translate></item>
+	
+	
+	<!-- Pop ups -->
+	<!-- Including hotspot roll over text -->
+	<item v="popUp_hotspot_text_0"><translate><![CDATA[Kiegészítő]]></translate></item>
+	<item v="popUp_subtitle_0"><translate><![CDATA[Elegáns kivitel]]></translate></item>
+	<item v="popUp_body_text_0"><translate><![CDATA[A FX01 – elegáns és kompakt kivitelének köszönhetően – minden alkalomra tökéletes kiegészítő.]]></translate></item>
+	<item v="popUp_caption_0_0"><translate><![CDATA[Ezüst]]></translate></item>
+	<item v="popUp_caption_0_1"><translate><![CDATA[Rózsaszín]]></translate></item>
+	<item v="popUp_caption_0_2"><translate><![CDATA[Fekete]]></translate></item>
+	<item v="popUp_caption_0_3"><translate><![CDATA[Fehér]]></translate></item>
+	
+	<item v="popUp_hotspot_text_1"><translate><![CDATA[Egyszerű használhatóság]]></translate></item>
+	<item v="popUp_subtitle_1"><translate><![CDATA[Egyszerűsített mód]></translate></item>
+	<item v="popUp_body_text_1"><translate><![CDATA[Egyszerűsített módban minden beállítás automatikusan történik, így akkor is csodálatos fotókat készíthet, ha még sohasem használta a fényképezőgépet korábban. Csak célozzon, és nyomja meg a kioldó gombot.]]></translate></item>
+
+	<item v="popUp_hotspot_text_2"><translate><![CDATA[Tökéletes portré]]></translate></item>
+	<item v="popUp_subtitle_2"><translate><![CDATA[Portré-mód]]></translate></item>
+	<item v="popUp_body_text_2"><translate><![CDATA[Ez a funkció segít, hogy szép portrékat készíthessen természetes bőrárnyalatokkal. Így Ön és barátai mindig jól festenek majd.]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_3"><translate><![CDATA[Fotózásra készen]]></translate></item>
+	<item v="popUp_subtitle_3"><translate><![CDATA[Gyors indítás]]></translate></item>
+	<item v="popUp_body_text_3"><translate><![CDATA[Előfordul, hogy fényképezőgépére azonnal szüksége van. Az FX01 a bekapcsolás után 1,6 másodperccel teljesen üzemkész.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_4"><translate><![CDATA[Fejtetőre állítva]]></translate></item>
+	<item v="popUp_subtitle_4"><translate><![CDATA[Automatikus képelforgatás]]></translate></item>
+	<item v="popUp_body_text_4"><translate><![CDATA[Vízszintes, vagy függőleges – melyik a jobb? A fotó elkészítése után a kép az LCD-kijelzőn mindig normális helyzetben látható, bárhogyan is készítette a képet.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_5"><translate><![CDATA[A divat pillanata]]></translate></item>
+	<item v="popUp_subtitle_5"><translate><![CDATA[O.I.S. zárt helyen]]></translate></item>
+	<item v="popUp_body_text_5"><translate><![CDATA[A zárt helyen használt vaku fénye természetellenesen kifehérítheti az előteret, és sötétté teheti a hátteret. Az O.I.S. (optikai képstabilizátor) technológiával vaku nélkül is kiváló képeket készíthet.]]></translate></item>
+	<item v="popUp_caption_5_0"><translate><![CDATA[O.I.S. Ki]]></translate></item>
+	<item v="popUp_caption_5_1"><translate><![CDATA[O.I.S. Be]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_6"><translate><![CDATA[A méret számít]]></translate></item>
+	<item v="popUp_subtitle_6"><translate><![CDATA[Kicsi és kompakt]]></translate></item>
+	<item v="popUp_body_text_6"><translate><![CDATA[Az FX01 – elegáns és kompakt kivitelének köszönhetően – bármilyen kézitáskában elfér, bárhová is utazik.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_7"><translate><![CDATA[Közelítsen]]></translate></item>
+	<item v="popUp_subtitle_7"><translate><![CDATA[O.I.S. közeli képek]]></translate></item>
+	<item v="popUp_body_text_7"><translate><![CDATA[Az igazán közeli felvételek mozdulatlanságot követelnek meg. Az O.I.S. (optikai képstabilizátor) technológia segítségével elmosódástól mentes képeket készíthet bármilyen közelségből.]]></translate></item>
+	<item v="popUp_caption_7_0"><translate><![CDATA[O.I.S. Ki]]></translate></item>
+	<item v="popUp_caption_7_1"><translate><![CDATA[O.I.S. Be]]></translate></item>
+	
+	<item v="popUp_hotspot_text_8"><translate><![CDATA[Ossza meg mindenkivel]]></translate></item>
+	<item v="popUp_subtitle_8"><translate><![CDATA[Nagyméretű LCD-kijelző]]></translate></item>
+	<item v="popUp_body_text_8"><translate><![CDATA[Az öröm akkor az igazi, ha megosztható másokkal. A nagyméretű, nagyfelbontású LCD-kijelző segítségével bárki könnyedén megtekintheti fotóit, miután elkészítette őket.]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_9"><translate><![CDATA[Örökítse meg legjobb oldalát]]></translate></item>
+	<item v="popUp_subtitle_9"><translate><![CDATA[Önarckép-készítés]]></translate></item>
+	<item v="popUp_body_text_9"><translate><![CDATA[Az önarckép készítése már nem is lehetne könnyebb. Irányítsa magára a fényképezőgépet, és a piros LED jelzi, ha fókuszban van. Mosolyogjon, és fotózzon.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_10"><translate><![CDATA[Nagy látószög]]></translate></item>
+	<item v="popUp_subtitle_10"><translate><![CDATA[Nagy látószögű lencsék]]></translate></item>
+	<item v="popUp_body_text_10"><translate><![CDATA[Gyakran nagyon nehéz elérni, hogy mindenki beleférjen a képbe. A 28 mm-es, nagylátószögű objektívvel azonban több barátot vehet be a képbe, így senki sem lesz csalódott.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_11"><translate><![CDATA[Nézze széles képernyőn]]></translate></item>
+	<item v="popUp_subtitle_11"><translate><![CDATA[Képarányok]]></translate></item>
+	<item v="popUp_body_text_11"><translate><![CDATA[Készíthet fotókat akár szélesképernyős, 16:9 formátumban is. Bizonyos fotótémáknál hasznos!]]></translate></item>
+	
+	<item v="popUp_hotspot_text_12"><translate><![CDATA[Élesítsen]]></translate></item>
+	<item v="popUp_subtitle_12"><translate><![CDATA[Gyors autófókusz]]></translate></item>
+	<item v="popUp_body_text_12"><translate><![CDATA[Az 1-pontos, nagy sebességű autófókusszal gyorsan, könnyen, és hatékonyan fotózhat minden esetben.]]></translate></item>
+
+	<item v="popUp_hotspot_text_13"><translate><![CDATA[A kidobók használják]]></translate></item>
+	<item v="popUp_subtitle_13"><translate><![CDATA[Egyszerűsített mód]]></translate></item>
+	<item v="popUp_body_text_13"><translate><![CDATA[Minden beállítás automatikusan történik, így akkor is könnyen készíthetők szép fotók, ha valaki másnak adja oda a fényképezőgépet. Csak célozzon, és nyomja meg a kioldó gombot.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_14"><translate><![CDATA[Legyen kreatív]]></translate></item>
+	<item v="popUp_subtitle_14"><translate><![CDATA[Különböző nézőpontok]]></translate></item>
+	<item v="popUp_body_text_14"><translate><![CDATA[Néha a szokatlan kellékek használata a kulcs a fotók egyediségéhez. Legyen egyszerre játékos, kreatív, és bolondos.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_15"><translate><![CDATA[Buli van]]></translate></item>
+	<item v="popUp_subtitle_15"><translate><![CDATA[Party mód]]></translate></item>
+	<item v="popUp_body_text_15"><translate><![CDATA[Amikor szórakozni támad kedve, nem szeretné, ha a technika akadályozná. Válassza ki a "Party” funkciót, és a fényképezőgép automatikusan elvégzi a szükséges beállításokat.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_16"><translate><![CDATA[Függöny fel]]></translate></item>
+	<item v="popUp_subtitle_16"><translate><![CDATA[Vakus vörösszem-hatás csökkentés]]></translate></item>
+	<item v="popUp_body_text_16"><translate><![CDATA[A vaku használatához gyakran vörösszem-effektus is társul. A vaku automatikus vörösszem-effektus csökkentő funkciójával – két gyors villantással – megoldhatja a problémát.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_17"><translate><![CDATA[Élet a lencséken keresztül]]></translate></item>
+	<item v="popUp_subtitle_17"><translate><![CDATA[Leica DC objektív]]></translate></item>
+	<item v="popUp_body_text_17"><translate><![CDATA[Az FX01-ben alkalmazott, világszerte ismert Leica DC objektív kimagasló részletességű, kifogástalan minőségű képek készítésére ad lehetőséget.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_18"><translate><![CDATA[Ne villogjon]]></translate></item>
+	<item v="popUp_subtitle_18"><translate><![CDATA[O.I.S. zárt helyen]]></translate></item>
+	<item v="popUp_body_text_18"><translate><![CDATA[Néha a vaku használata nem a megfelelő megközelítés. Az O.I.S. (optikai képstabilizátor technológia segítségével, lassabb zársebességgel, vaku nélkül készíthet fotókat.]]></translate></item>	
+	<item v="popUp_caption_18_0"><translate><![CDATA[Vaku Ki]]></translate></item>
+	<item v="popUp_caption_18_1"><translate><![CDATA[Vaku Be]]></translate></item>
+
+	<item v="popUp_hotspot_text_19"><translate><![CDATA[Ossza meg mindenkivel]]></translate></item>
+	<item v="popUp_subtitle_19"><translate><![CDATA[Nagyméretű LCD-kijelző]]></translate></item>
+	<item v="popUp_body_text_19"><translate><![CDATA[A fotók megosztása része az örömnek. A nagyméretű, nagyfelbontású LCD-kijelző segítségével bárki megtekintheti fotóit, miután elkészítette őket.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_20"><translate><![CDATA[Nagy látószög]]></translate></item>
+	<item v="popUp_subtitle_20"><translate><![CDATA[Nagylátószögű objektív]]></translate></item>
+	<item v="popUp_body_text_20"><translate><![CDATA[Gyakran nagyon nehéz elérni, hogy mindenki beleférjen a képbe. A 28 mm-es, nagy látószögű objektívvel azonban több barátot vehet be a képbe, így senki sem lesz csalódott.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_21"><translate><![CDATA[Zoom zoom]]></translate></item>
+	<item v="popUp_subtitle_21"><translate><![CDATA[3,6-szoros zoom]]></translate></item>
+	<item v="popUp_body_text_21"><translate><![CDATA[Néha szeretnénk közelebb lenni a történésekhez. A 3,6-szoros zoommal megörökítheti, amint barátai csínytevésre készülnek.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_22"><translate><![CDATA[A lejátszás]]></translate></item>
+	<item v="popUp_subtitle_22"><translate><![CDATA[Lejátszás]]></translate></item>
+	<item v="popUp_body_text_22"><translate><![CDATA[A fotók megtekintése vidám, és könnyű. Választhat diavetítés, 1-képes-, 25-képes-, ill. naptári megjelenítés közül, ami az adott dátumon készült összes képet megjeleníti.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_23"><translate><![CDATA[Illeszkedés]]></translate></item>
+	<item v="popUp_subtitle_23"><translate><![CDATA[Kompakt kivitel]]></translate></item>
+	<item v="popUp_body_text_23"><translate><![CDATA[Az FX01 – a kicsi, kompakt kivitelének köszönhetően – a legszűkebb farmer zsebében is könnyedén elfér.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_24"><translate><![CDATA[Maradjon részese az eseménynek]]></translate></item>
+	<item v="popUp_subtitle_24"><translate><![CDATA[O.I.S. kézremegés]]></translate></item>
+	<item v="popUp_body_text_24"><translate><![CDATA[Az esemény részese maradhat, miközben megörökíti azt. Az O.I.S. (optikai képstabilizátor) technológiának köszönhetően nem kell többé a kézremegés miatt aggódni.]]></translate></item>	
+	<item v="popUp_caption_24_0"><translate><![CDATA[O.I.S. Ki]]></translate></item>
+	<item v="popUp_caption_24_1"><translate><![CDATA[O.I.S. Be]]></translate></item>
+	
+
+	<item v="popUp_hotspot_text_25"><translate><![CDATA[Ossza meg mindenkivel]]></translate></item>
+	<item v="popUp_subtitle_25"><translate><![CDATA[Nagyméretű LCD-kijelző]]></translate></item>
+	<item v="popUp_body_text_25"><translate><![CDATA[A fotók megosztása része az örömnek. A nagyméretű, nagyfelbontású LCD-kijelző segítségével bárki megtekintheti fotóit, miután elkészítette őket.]]></translate></item>	
+
+
+
+<!-- new onwards 17-03-06 --><!-- BARCELONA -->
+
+	<item v="popUp_hotspot_text_26"><translate><![CDATA[Utazzon könnyedén]]></translate></item>
+	<item v="popUp_subtitle_26"><translate><![CDATA[kompakt kivitel]]></translate></item>
+	<item v="popUp_body_text_26"><translate><![CDATA[Elegáns és kompakt formájának köszönhetően a TZ1 elfér egy zsebben, így nem lesz terhére az utazás során, sőt bármikor egy pillanat alatt előveheti.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_27"><translate><![CDATA[Nagyszerű zoom felvételek]]></translate></item>
+	<item v="popUp_subtitle_27"><translate><![CDATA[O.I.S. nagy teljesítményű zoom]]></translate></item>
+	<item v="popUp_body_text_27"><translate><![CDATA[Nagy zoommal történő fotózáskor a fényképezőgép minden apró rezdülése többszörösére erősödik. Az O.I.S. (optikai képstabilizátor) technológiával minden helyzetben éles, elmosódástól mentes képeket készíthet nagy zoomátfogással is.]]></translate></item>	
+<!-- new --><item v="popUp_caption_27_0"><translate><![CDATA[O.I.S. Be]]></translate></item>
+<!-- new --><item v="popUp_caption_27_1"><translate><![CDATA[O.I.S. Ki]]></translate></item>
+	
+	<item v="popUp_hotspot_text_28"><translate><![CDATA[Nagy zoom kis gépben]]></translate></item>
+	<item v="popUp_subtitle_28"><translate><![CDATA[Nagy zoom]]></translate></item>
+	<item v="popUp_body_text_28"><translate><![CDATA[10-szeres optikai zoommal rendelkező objektív (35 mm ekv.: 35-350 mm) rendkívül kompakt kameravázban.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_28_0"><translate><![CDATA[1-szeres zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_1"><translate><![CDATA[3-szoros zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_2"><translate><![CDATA[6-szoros zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_3"><translate><![CDATA[10-szeres zoom]]></translate></item>
+	
+	<item v="popUp_hotspot_text_29"><translate><![CDATA[Időzítsen]]></translate></item>
+	<item v="popUp_subtitle_29"><translate><![CDATA[Utazási dátum beállítása]]></translate></item>
+	<item v="popUp_body_text_29"><translate><![CDATA[A TZ1 modellen beállíthatja utazásának kezdőnapját, majd megjeleníthet, hogy az utazás mely napján készült a fotó. A funkció segítségével könnyen rendszerezheti képeit.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_29_0"><translate><![CDATA[1. nap]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_1"><translate><![CDATA[2. nap]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_2"><translate><![CDATA[]]></translate></item>
+
+
+
+
+	<item v="popUp_hotspot_text_30"><translate><![CDATA[Nézőpont kérdése]]></translate></item>
+	<item v="popUp_subtitle_30"><translate><![CDATA[Különböző nézőpontok]]></translate></item>
+	<item v="popUp_body_text_30"><translate><![CDATA[Néha megéri a fotóalanyt részletesebben is megvizsgálni. Az alanyt körbejárva, különböző nézőpontokat megvizsgálva igazán különleges képeket készíthet.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_30_0"><translate><![CDATA[Nézet 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_1"><translate><![CDATA[Nézet 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_2"><translate><![CDATA[Nézet 3]]></translate></item>
+		
+	<item v="popUp_hotspot_text_31"><translate><![CDATA[Mozgásban]]></translate></item>
+	<item v="popUp_subtitle_31"><translate><![CDATA[O.I.S. kézremegés]]></translate></item>
+	<item v="popUp_body_text_31"><translate><![CDATA[Mozgás közben keze könnyen megremeghet, és képei elmosódottak lesznek. A gyroszenzoros elven működő O.I.S. (optikai képstabilizátor) technológia kompenzálja a kézremegés hatását az objektívben található O.I.S.-lencsetag megfelelő irányú és mértékű elmozdításával. Így tiszta, éles képeket készíthet.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_31_0"><translate><![CDATA[O.I.S. Ki]]></translate></item>
+	<!-- new --><item v="popUp_caption_31_1"><translate><![CDATA[O.I.S. Be]]></translate></item>
+
+	<item v="popUp_hotspot_text_32"><translate><![CDATA[Gyors indítás]]></translate></item>
+	<item v="popUp_subtitle_32"><translate><![CDATA[Gyors indítás]]></translate></item>
+	<item v="popUp_body_text_32"><translate><![CDATA[Előfordul, hogy fényképezőgépére azonnal szüksége van. A TZ1 a bekapcsolás után 0,95 másodperccel teljesen üzemkész.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_33"><translate><![CDATA[Csillogtassa meg tudását]]></translate></item>
+	<item v="popUp_subtitle_33"><translate><![CDATA[Fényvisszaverődés]]></translate></item>
+	<item v="popUp_body_text_33"><translate><![CDATA[A fényvisszaverődéseket kihasználva érdekes kompozíciókat készíthet. A járdán lévő víz, az autók ablakai, vagy az üvegből készült épülethomlokzatok mind más és más érzést kölcsönöznek a képeknek.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_34"><translate><![CDATA[Pontos portrék]]></translate></item>
+	<item v="popUp_subtitle_34"><translate><![CDATA[Nagy érzékenységű mód]]></translate></item>
+	<item v="popUp_body_text_34"><translate><![CDATA[Ha fotóalanya mozog, akkor a mozgás miatt elmosódhat a kép. A nagy érzékenység funkciót használva, a zársebesség automatikus növelésével csökkentheti ezt a hatást, így tiszta, éles képeket kaphat.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_34_0"><translate><![CDATA[Nagy érzékenység nélkül]]></translate></item>
+	<!-- new --><item v="popUp_caption_34_1"><translate><![CDATA[Nagy érzékenységgel]]></translate></item>
+	
+	<item v="popUp_hotspot_text_35"><translate><![CDATA[Leica DC objektív]]></translate></item>
+	<item v="popUp_subtitle_35"><translate><![CDATA[Leica DC objektív]]></translate></item>
+	<item v="popUp_body_text_35"><translate><![CDATA[A TZ1-ben alkalmazott, világszerte ismert és elismert Leica DC objektívvel kiváló képminőségű, részletgazdag fotók készíthetők.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_36"><translate><![CDATA[Összpontosítson]]></translate></item>
+	<item v="popUp_subtitle_36"><translate><![CDATA[AF-segédfény]]></translate></item>
+	<item v="popUp_body_text_36"><translate><![CDATA[A gyenge fényviszonyok gyakran az autófókusz hatékonyságának csökkenését eredményezik. Az AF-segédfénnyel az élességállítás kritikus fényhelyzetekben is lehetséges.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_37"><translate><![CDATA[Hogy mondta?]]></translate></item>
+	<item v="popUp_subtitle_37"><translate><![CDATA[Egyszerűsített mód]]></translate></item>
+	<item v="popUp_body_text_37"><translate><![CDATA[Egyszerűsített módban minden beállítás automatikusan történik, így akkor is csodálatos fotókat készíthet, ha még sohasem használta a fényképezőgépet korábban. Csak célozzon, és nyomja meg a kioldó gombot.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_38"><translate><![CDATA[Nagymérető LCD-kijelző]]></translate></item>
+	<item v="popUp_subtitle_38"><translate><![CDATA[Nagymérető LCD-kijelző]]></translate></item>
+	<item v="popUp_body_text_38"><translate><![CDATA[A nagyméretű LCD-kijelzőn azonnal megnézheti képeit. A 2,5”-os, 207 000 pixel felbontású kijelzőn a szöveg, és az indexképek is jól láthatók.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_39"><translate><![CDATA[A kék órában]]></translate></item>
+	<item v="popUp_subtitle_39"><translate><![CDATA[A fény használata]]></translate></item>
+	<item v="popUp_body_text_39"><translate><![CDATA[Ahogyan leszáll az este egy tiszta fényes nap után, a fény mássá válik. Ezt az időszakot gyakran nevezik "kék órának". Az ebben a fényben készült képek különlegesen színgazdagok lesznek.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_40"><translate><![CDATA[Gyors fókusz]]></translate></item>
+	<item v="popUp_subtitle_40"><translate><![CDATA[Gyors autofókusz]]></translate></item>
+	<item v="popUp_body_text_40"><translate><![CDATA[Válasszon a számos autofókusz funkció közül; szpot, 1-pontos, 3-pontos, illetve 9-pontos, fotótémától függően. Gyorsan, könnyen, és pontosan fotózhat minden alkalommal.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_40_0"><translate><![CDATA[9-pontos]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_1"><translate><![CDATA[3-pontos]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_2"><translate><![CDATA[1-pontos]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_3"><translate><![CDATA[1. szpot]]></translate></item>
+	
+	<item v="popUp_hotspot_text_41"><translate><![CDATA[Az éjszaka szerelmese]]></translate></item>
+	<item v="popUp_subtitle_41"><translate><![CDATA[Éjszakai portré mód]]></translate></item>
+	<item v="popUp_body_text_41"><translate><![CDATA[A vaku használatával sötétben elveszítheti a kép igazi megvilágítását. Az O.I.S. technológiának köszönhetően a vaku használatával kombinált lassabb zársebesség lehetővé teszi, hogy a fényképezőgép több fényt engedjen be. Az éjszakai portré funkcióval megörökítheti az igazi hangulatot.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_42"><translate><![CDATA[Fényes LCD-kijelző]]></translate></item>
+	<item v="popUp_subtitle_42"><translate><![CDATA[Fényes LCD-kijelző]]></translate></item>
+	<item v="popUp_body_text_42"><translate><![CDATA[Ha erős külső fényben nehezen látható az LCD-kijelző, egyszerűen nyomja meg a Power LCD gombot, és a kijelző 40%-kal fényesebb lesz.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_43"><translate><![CDATA[Élet a parton]]></translate></item>
+	<item v="popUp_subtitle_43"><translate><![CDATA[Part funkció]]></translate></item>
+	<item v="popUp_body_text_43"><translate><![CDATA[Ha a parton vagyunk, élvezzük a napfényt, ez azonban néha sötét fotókat eredményezhet. A “Part” funkció kiválasztásával nem kell mással törődnie, csak a barnulással.]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_0"><translate><![CDATA[Part funkció nélkül]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_1"><translate><![CDATA[Part funkcióval]]></translate></item>
+
+	<item v="popUp_hotspot_text_44"><translate><![CDATA[Örökítse meg a mozdulatot]]></translate></item>
+	<item v="popUp_subtitle_44"><translate><![CDATA[Mega Burst sorozatfelvétel]]></translate></item>
+	<item v="popUp_body_text_44"><translate><![CDATA[Készíthet öt képből álló sorozatfelvételt, alapbeállítással 3 kép/mp sebességgel. A TZ1 akár folyamatos sorozatfelvétel készítésére is alkalmas, aminek csak az SD-memóriakártya szab határt.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_44_0"><translate><![CDATA[Keret 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_1"><translate><![CDATA[Keret 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_2"><translate><![CDATA[Keret 3]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_3"><translate><![CDATA[Keret 4]]></translate></item>
+	
+
+
+	<item v="popUp_hotspot_text_45"><translate><![CDATA[Absztrakt gondolkodás]]></translate></item>
+	<item v="popUp_subtitle_45"><translate><![CDATA[Különböző nézőpontok]]></translate></item>
+	<item v="popUp_body_text_45"><translate><![CDATA[A különböző nézőpontok igen meglepő eredményekhez vezethetnek. Kísérletezzen fotóival, válasszon különböző beállításokat és kompozíciót.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_45_0"><translate><![CDATA[Nézet 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_1"><translate><![CDATA[Nézet 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_2"><translate><![CDATA[Nézet 3]]></translate></item>
+
+	<item v="popUp_hotspot_text_46"><translate><![CDATA[Előtér és háttér]]></translate></item>
+	<item v="popUp_subtitle_46"><translate><![CDATA[Composition]]></translate></item>
+	<item v="popUp_body_text_46"><translate><![CDATA[Juxtaposing foreground and background elements can create to interesting compositions.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_47"><translate><![CDATA[Absztrakt zoom]]></translate></item>
+	<item v="popUp_subtitle_47"><translate><![CDATA[Absztrakt]]></translate></item>
+	<item v="popUp_body_text_47"><translate><![CDATA[A nagy teljesítményű zoom használatával bármihez közel kerülhet. Egész apró, absztrakt részleteket örökíthet meg.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_48"><translate><![CDATA[Késő délutáni fény]]></translate></item>
+	<item v="popUp_subtitle_48"><translate><![CDATA[Késői fény]]></translate></item>
+	<item v="popUp_body_text_48"><translate><![CDATA[Tiszta napokon a késő délutáni fény mélykék árnyalattal bír, ami melegséget kölcsönöz a képeknek.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_49"><translate><![CDATA[Meglátni a fényt]]></translate></item>
+	<item v="popUp_subtitle_49"><translate><![CDATA[Mérés]]]></translate></item>
+	<item v="popUp_body_text_49"><translate><![CDATA[Használhat egyedi fényforrást az eredmény javításához. Szpot fénymérés esetén, pl. egy irodaházról visszaverődő fény mérésére, egy más megvilágítású fotókat készíthetünk.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_50"><translate><![CDATA[Utazzon könnyedén]]></translate></item>
+	<item v="popUp_subtitle_50"><translate><![CDATA[Kompakt kivitel]]></translate></item>
+	<item v="popUp_body_text_50"><translate><![CDATA[Elegáns és kompakt formájának köszönhetően a TZ1 elfér egy zsebben, így nem lesz terhére az utazás során, sőt bármikor egy pillanat alatt előveheti.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_51"><translate><![CDATA[Nagy zoom kis gépben]]></translate></item>
+	<item v="popUp_subtitle_51"><translate><![CDATA[10-szeres optikai zoom]]></translate></item>
+	<item v="popUp_body_text_51"><translate><![CDATA[10-szeres optikai zoommal rendelkező objektív (35 mm ekv.: 35-350 mm) rendkívül kompakt kameravázban.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_51_0"><translate><![CDATA[1-szeres zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_1"><translate><![CDATA[2-szeres zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_2"><translate><![CDATA[5-szörös zoom]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_3"><translate><![CDATA[10-szeres zoom]]></translate></item>
+	
+	<item v="popUp_hotspot_text_52"><translate><![CDATA[Nagyszerű zoom felvételek]]></translate></item>
+	<item v="popUp_subtitle_52"><translate><![CDATA[O.I.S. nagy teljesítményű zoom]]></translate></item>
+	<item v="popUp_body_text_52"><translate><![CDATA[Nagy zoommal történő fotózáskor a fényképezőgép minden apró rezdülése többszörösére erősödik. Az O.I.S. (optikai képstabilizátor) technológiával minden helyzetben éles, elmosódástól mentes képeket készíthet nagy zoomátfogással is.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_52_0"><translate><![CDATA[O.I.S. Ki]]></translate></item>
+	<!-- new --><item v="popUp_caption_52_1"><translate><![CDATA[O.I.S. Be]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_53"><translate><![CDATA[Nézze széles képernyőn]]></translate></item>
+	<item v="popUp_subtitle_53"><translate><![CDATA[Képarányok]]></translate></item>
+	<item v="popUp_body_text_53"><translate><![CDATA[Készíthet fotókat akár szélesképernyős, 16:9 formátumban is. A használt SD-kártyát helyezze egy kártyaolvasóval felszerelt TV-készülékbe, és tekintse meg a teljes képernyőt betöltő fotóit.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_54"><translate><![CDATA[Tökéletes kifejezés]]></translate></item>
+	<item v="popUp_subtitle_54"><translate><![CDATA[Vakus vörösszem-hatás csökkentés]]></translate></item>
+	<item v="popUp_body_text_54"><translate><![CDATA[A vaku használatához gyakran vörösszem-effektus is társul. A vaku automatikus vörösszem-effektus csökkentő funkciójával – két gyors villantással – megoldhatja a problémát.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_54_0"><translate><![CDATA[Vörösszemhatás-csökkentés nélkül]]></translate></item>
+	<!-- new --><item v="popUp_caption_54_1"><translate><![CDATA[Vörösszemhatás-csökkentéssel]]></translate></item>
+
+	<item v="popUp_hotspot_text_55"><translate><![CDATA[Dátum szerinti rendezés]]></translate></item>
+	<item v="popUp_subtitle_55"><translate><![CDATA[Naptár szerinti kijelzés]]></translate></item>
+	<item v="popUp_body_text_55"><translate><![CDATA[A TZ1 képes dátum szerint rendezni a fotókat. Ez nagy segítség lehet, ha sok fotót kell elrendeznie.]]></translate></item>	
+
+
+
+
+
+	<!-- F1 -->
+
+	<item v="popUp_hotspot_text_56"><translate><![CDATA[Kreatív fókusz]]></translate></item>
+	<item v="popUp_subtitle_56"><translate><![CDATA[Mélységélesség]]></translate></item>
+	<item v="popUp_body_text_56"><translate><![CDATA[A digitális fényképezőgépek apró méretüknél fogva kevésbé alkalmasak alacsony mélységélesség produkálására. A 12-szeres zoom alkalmazásával csökkentheti a mélységélességet, ezáltal élesen kiemelve a fotótémát a gyengén fókuszált háttérből.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_57"><translate><![CDATA[Intelligens kivitel]]></translate></item>
+	<item v="popUp_subtitle_57"><translate><![CDATA[Kivitel]]></translate></item>
+	<item v="popUp_body_text_57"><translate><![CDATA[A gondos tervezésnek köszönhetően a gép fogása jó, könnyen tartható és minden kezelőszerv a megfelelő helyre került. Az elektronikus kereső és az LCD-kijelző egyvonalban van, hogy csökkentse a látott kép és a kereső közötti különbséget.]]></translate></item>	
+<!-- new 22-03-2006 --><item v="popUp_caption_57_0"><translate><![CDATA[Kezelőszervek]]></translate></item>
+	
+	<item v="popUp_hotspot_text_58"><translate><![CDATA[Éles közeli képek]]></translate></item>
+	<item v="popUp_subtitle_58"><translate><![CDATA[O.I.S. makró]]></translate></item>
+	<item v="popUp_body_text_58"><translate><![CDATA[Az igazán közeli felvételek mozdulatlanságot követelnek meg. Az O.I.S. (optikai képstabilizátor) technológia segítségével elmosódástól mentes képeket készíthet bármilyen közelségből.]]></translate></item>	
+<!-- new --><item v="popUp_caption_58_0"><translate><![CDATA[O.I.S. Be]]></translate></item>
+<!-- new --><item v="popUp_caption_58_1"><translate><![CDATA[O.I.S. Ki]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_59"><translate><![CDATA[Erős ellenfény]]></translate></item>
+	<item v="popUp_subtitle_59"><translate><![CDATA[Ellenfény-kompenzáció]]></translate></item>
+	<item v="popUp_body_text_59"><translate><![CDATA[A közvetlen napsütéshez hasonló erős ellenfény kedvezőtlen fotózási feltételeket teremt. A probléma megoldható ellenfény-kiegyenlítéssel - nyomja meg a felső kurzorgombot egyszerűsített módban.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_60"><translate><![CDATA[Könnyen kezelhető üzemmódválasztó tárcsa]]></translate></item>
+	<item v="popUp_subtitle_60"><translate><![CDATA[Üzemmódválasztó tárcsal]]></translate></item>
+	<item v="popUp_body_text_60"><translate><![CDATA[Az üzemmódválasztó tárcsa a környezetnek megfelelő, rugalmas fotózást tesz lehetővé. Választhat a Program AE, rekeszprioritás AE, zárprioritás AE, manuális, egyszerűsített, makró, mozgókép, motívumprogramok, és lejátszás funkciók közül.]]></translate></item>	
+<!-- new --><item v="popUp_caption_60_0"><translate><![CDATA[Üzemmódválasztó tárcsa]]></translate></item>
+
+	<item v="popUp_hotspot_text_61"><translate><![CDATA[Éles közeli képek]]></translate></item>
+	<item v="popUp_subtitle_61"><translate><![CDATA[O.I.S. makró]]></translate></item>
+	<item v="popUp_body_text_61"><translate><![CDATA[Az igazán közeli felvételek mozdulatlanságot követelnek meg. Az O.I.S. (optikai képstabilizátor) technológia segítségével elmosódástól mentes képeket készíthet bármilyen közelségből, állvány nélkül is.]]></translate></item>	
+<!-- new --><item v="popUp_caption_61_0"><translate><![CDATA[O.I.S. Be]]></translate></item>
+<!-- new --><item v="popUp_caption_61_1"><translate><![CDATA[O.I.S. Ki]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_62"><translate><![CDATA[Fehéregyensúly]]></translate></item>
+	<item v="popUp_subtitle_62"><translate><![CDATA[Fehéregyensúly]]></translate></item>
+	<item v="popUp_body_text_62"><translate><![CDATA[A különböző fényforrásoknak eltérő színhőmérsékletük van, amik a kép természetellenes színezését eredményezhetik. A garázs fénycsővilágítása nagyon zölddé tenné a képet. Az automatikus fehéregyensúly kiválasztásával a fényképezőgép alkalmazkodik az új fényviszonyokhoz.]]></translate></item>	
+<!-- new --><item v="popUp_caption_62_0"><translate><![CDATA[Automata fehéregyensúly]]></translate></item>
+<!-- new --><item v="popUp_caption_62_1"><translate><![CDATA[]]></translate></item>
+
+	<item v="popUp_hotspot_text_63"><translate><![CDATA[Gyenge fényviszonyok]]></translate></item>
+	<item v="popUp_subtitle_63"><translate><![CDATA[O.I.S. beltéren]]></translate></item>
+	<item v="popUp_body_text_63"><translate><![CDATA[A zárt helyen használt vaku fénye természetellenesen kifehérítheti az előteret, és sötétté teheti a hátteret. Az O.I.S. (optikai képstabilizátor) technológiának köszönhető lassú zársebességgel vaku nélkül is megörökítheti a valódi fényviszonyokat.]]></translate></item>	
+<!-- new --><item v="popUp_caption_63_0"><translate><![CDATA[Vaku be]]></translate></item>
+<!-- new --><item v="popUp_caption_63_1"><translate><![CDATA[vaku ki]]></translate></item>
+
+	<item v="popUp_hotspot_text_64"><translate><![CDATA[Sorozatfelvétel]]></translate></item>
+	<item v="popUp_subtitle_64"><translate><![CDATA[Sorozatfelvétel]]></translate></item>
+	<item v="popUp_body_text_64"><translate><![CDATA[Akár 13 felvételt is készíthet egymás után, 3 kép/mp sebességgel, alapbeállításokkal. Az FZ7 képes végtelen sorozatfelvétel készítésére, aminek csak az SD-memóriakártya kapacitása szab határt.]]></translate></item>	
+<!-- new --><item v="popUp_caption_64_0"><translate><![CDATA[Keret 1]]></translate></item>
+<!-- new --><item v="popUp_caption_64_1"><translate><![CDATA[Keret 2]]></translate></item>
+<!-- new --><item v="popUp_caption_64_2"><translate><![CDATA[Keret 3]]></translate></item>
+<!-- new --><item v="popUp_caption_64_3"><translate><![CDATA[Keret 4]]></translate></item>
+
+	<item v="popUp_hotspot_text_65"><translate><![CDATA[Nagy nézési szögű LCD-kijelző]]></translate></item>
+	<item v="popUp_subtitle_65"><translate><![CDATA[Nagy nézési szögű LCD-kijelző]]></translate></item>
+	<item v="popUp_body_text_65"><translate><![CDATA[Ez a funkció lehetővé teszi, hogy akkor is jól lássa a kijelzőt, amikor a készüléket a magasba emelve készít fotókat.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_66"><translate><![CDATA[Nagy zársebesség]]></translate></item>
+	<item v="popUp_subtitle_66"><translate><![CDATA[Nagy zársebesség]]></translate></item>
+	<item v="popUp_body_text_66"><translate><![CDATA[Gyorsan mozgó tárgy, pl. egy 320km/h-nál gyorsabban haladó forma-1-es versenyautó fotózásakor nagy zársebességre van szükség, hogy az előrehaladó mozgást kimerevítsük.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_67"><translate><![CDATA[Témakövetés]]></translate></item>
+	<item v="popUp_subtitle_67"><translate><![CDATA[Témakövetés]]></translate></item>
+	<item v="popUp_body_text_67"><translate><![CDATA[A témakövetés funkcióval követhetjük a mozgó tárgy - pl. autó - mozgását a fényképezőgéppel. A háttér elmosódik, a téma pedig a fókuszban marad. A témakövetés csökkenti a zársebességet, hogy a sebesség érzését biztosítsa.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_68"><translate><![CDATA[Nagy zoom]]></translate></item>
+	<item v="popUp_subtitle_68"><translate><![CDATA[Nagy teljesítményű zoom]]></translate></item>
+	<item v="popUp_body_text_68"><translate><![CDATA[Az FZ7 12-szeres optikai zoomos Leica DC objektívvel rendelkezik (35 mm ekv.: 36-432 mm). Egy hasonló képességű, filmet használó fényképezőgép olyan nagy és nehéz lenne, hogy egy kézzel el sem bírná.]]></translate></item>	
+<!-- new --><item v="popUp_caption_68_0"><translate><![CDATA[1-szeres zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_68_1"><translate><![CDATA[6-szörös zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_68_2"><translate><![CDATA[12-szeres zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_68_3"><translate><![CDATA[16,5-szeres extra zoom]]></translate></item>
+
+	<item v="popUp_hotspot_text_69"><translate><![CDATA[Gyors zárkioldás]]></translate></item>
+	<item v="popUp_subtitle_69"><translate><![CDATA[Gyors zárkioldás]]></translate></item>
+	<item v="popUp_body_text_69"><translate><![CDATA[Az FZ7 kiemelkedően gyors válaszidővel rendelkezik – ez mindössze 0,008 másodperces kioldási késedelmet jelent. Minden esetben gyorsan, kényelmesen, és pontosan fotózhat.]]></translate></item>	
+<!-- new --><item v="popUp_caption_69_0"><translate><![CDATA[0.0008 Másodperc]]></translate></item>
+<!-- new --><item v="popUp_caption_69_1"><translate><![CDATA[0.0016 Másodperc]]></translate></item>
+<!-- new --><item v="popUp_caption_69_2"><translate><![CDATA[0.0024 Másodperc]]></translate></item>
+<!-- new --><item v="popUp_caption_69_3"><translate><![CDATA[0.0032 Másodperc]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_70"><translate><![CDATA[Fényvisszaverődés]]></translate></item>
+	<item v="popUp_subtitle_70"><translate><![CDATA[Kreativitás]]></translate></item>
+	<item v="popUp_body_text_70"><translate><![CDATA[A fényvisszaverődéseket kihasználva érdekes kompozíciókat készíthet. A járdán lévő víz, az autók ablakai, vagy az üvegből készült épülethomlokzatok mind más és más érzést kölcsönöznek a képeknek.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_71"><translate><![CDATA[Manuális fókusz]]></translate></item>
+	<item v="popUp_subtitle_71"><translate><![CDATA[Manuális funkciók]]></translate></item>
+	<item v="popUp_body_text_71"><translate><![CDATA[A hátoldalon található joystick segítségével a manuális fókuszálás könnyű, gyors, és pontos. Használhatja továbbá a manuális fókuszsegéd funkciót, ami az LCD-kijelző közepének kinagyításával segíti az élességállítást.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_72"><translate><![CDATA[Egyszerű működtetés joystickkal]]></translate></item>
+	<item v="popUp_subtitle_72"><translate><![CDATA[Joystick – alacsony zársebessé]]></translate></item>
+	<item v="popUp_body_text_72"><translate><![CDATA[A joystickkal beállíthatja a zár- és rekeszértékeket, és a fókuszt, miközben az LCD-kijelzőn komponálja a képet.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_73"><translate><![CDATA[Leica DC objektív]]></translate></item>
+	<item v="popUp_subtitle_73"><translate><![CDATA[Leica DC objektív]]></translate></item>
+	<item v="popUp_body_text_73"><translate><![CDATA[Az FZ7 2,5”-os LCD-kijelzővel rendelkezik, Power LCD funkcióval. Egyszerűen nyomja meg a Power LCD gombot, és a kijelző 40%-kal fényesebb lesz, hogy erős külső fényben is jól láthassa.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_74"><translate><![CDATA[Sport mód]]></translate></item>
+	<item v="popUp_subtitle_74"><translate><![CDATA[Sport mód]]></translate></item>
+	<item v="popUp_body_text_74"><translate><![CDATA[Ebben a módban gyorsabb zársebességgel dolgozik a gép, a rekesz pedig automatára van állítva, így Ön arra koncentrálhat, hogy jókor nyomja meg a kioldó gombját.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_75"><translate><![CDATA[Absztrakt]]></translate></item>
+	<item v="popUp_subtitle_75"><translate><![CDATA[ Kreativitás]]></translate></item>
+	<item v="popUp_body_text_75"><translate><![CDATA[Az FZ7 nagyfokú zoom képességét használva absztrakt kép készíthető a kerékvetőkről. A képek ilyen szűken történő vágása nagyon érdekes, és szokatlan eredményt hozhat.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_76"><translate><![CDATA[Fényes LCD-kijelző]]></translate></item>
+	<item v="popUp_subtitle_76"><translate><![CDATA[Fényes LCD-kijelző]]></translate></item>
+	<item v="popUp_body_text_76"><translate><![CDATA[The FZ7 features a 2.5” high resolution LCD with Power LCD function. Simply touch the Power LCD button and the display becomes about 40% brighter for easier viewing on sunny days.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_77"><translate><![CDATA[Automata expozíció]]></translate></item>
+	<item v="popUp_subtitle_77"><translate><![CDATA[Automata expozíció]]></translate></item>
+	<item v="popUp_body_text_77"><translate><![CDATA[A Program AE mód meghatározza az optimális rekesz- és zársebességet. Használhatja a program shift funkciót, hogy azonos expozíciós érték megtartása mellett a zár és rekesz más kombinációját alkalmazza.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_78"><translate><![CDATA[Különböző nézet]]></translate></item>
+	<item v="popUp_subtitle_78"><translate><![CDATA[Kreativitás]]></translate></item>
+	<item v="popUp_body_text_78"><translate><![CDATA[Néha megéri több szemszögből is megvizsgálni a dolgokat. Az egymás után sorakozó lelátói székek távolba nyúló látványa eltérő perspektívát ad.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_79"><translate><![CDATA[Nagy zoom]]></translate></item>
+	<item v="popUp_subtitle_79"><translate><![CDATA[Nagy zoom]]></translate></item>
+	<item v="popUp_body_text_79"><translate><![CDATA[Három megapixeles felbontás mellett akár 16,5-szeres nagyítást is elérhet az Extra optikai zoom használatával. A gép ezt a CCD középső részének tudatos használatával éri el.]]></translate></item>	
+<!-- new --><item v="popUp_caption_79_0"><translate><![CDATA[1-szeres zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_79_1"><translate><![CDATA[6-szörös zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_79_2"><translate><![CDATA[12-szeres zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_79_3"><translate><![CDATA[16,5-szeres extra zoom]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_80"><translate><![CDATA[Nagyméretű LCD-kijelző]]></translate></item>
+	<item v="popUp_subtitle_80"><translate><![CDATA[Nagyméretű LCD-kijelző]]></translate></item>
+	<item v="popUp_body_text_80"><translate><![CDATA[A nagyméretű LCD-kijelzőn ellenőrizheti a fókuszt, beállíthatja a képet, és olyan funkciókat használhat, mint a 25-képes megjelenítés, vagy a Naptár nézet.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_81"><translate><![CDATA[Lejátszás]]></translate></item>
+	<item v="popUp_subtitle_81"><translate><![CDATA[Lejátszás]]></translate></item>
+	<item v="popUp_body_text_81"><translate><![CDATA[A fotók megtekintése vidám, és könnyű. Választhat diavetítés, 1-képes, 25-képes, ill. naptári megjelenítés közül, ami az adott dátumon készült összes képet megjeleníti.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_82"><translate><![CDATA[Nagy zoom]]></translate></item>
+	<item v="popUp_subtitle_82"><translate><![CDATA[16,5-szeres optikai zoom]]></translate></item>
+	<item v="popUp_body_text_82"><translate><![CDATA[Az FZ7 12-szeres optikai zoomos Leica DC objektívvel rendelkezik (35 mm ekv.: 36-432 mm). Egy hasonló képességű, filmet használó fényképezőgép olyan nagy és nehéz lenne, hogy egy kézzel el sem bírná.]]></translate></item>	
+<!-- new --><item v="popUp_caption_82_0"><translate><![CDATA[1-szeres zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_82_1"><translate><![CDATA[6-szoros zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_82_2"><translate><![CDATA[12-szeres zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_82_3"><translate><![CDATA[16,5-szeres zoom]]></translate></item>
+	
+	<item v="popUp_hotspot_text_83"><translate><![CDATA[Gyors autófókusz]]></translate></item>
+	<item v="popUp_subtitle_83"><translate><![CDATA[Gyors autófókusz]]></translate></item>
+	<item v="popUp_body_text_83"><translate><![CDATA[Az FZ7 modellen választhat néhány autófókusz mód közül: szpot, 1-pontos (normál vagy nagysebességű), 3-pontos nagysebességű, és 9-pontos. Lehetőség van az AF-segédfény használatára gyenge fényviszonyok között.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_84"><translate><![CDATA[Tájkép]]></translate></item>
+	<item v="popUp_subtitle_84"><translate><![CDATA[Tájkép-mód]]></translate></item>
+	<item v="popUp_body_text_84"><translate><![CDATA[Tájkép üzemmódban a készülék egy távoli tárgyra fókuszál.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_85"><translate><![CDATA[Napnyugta]]></translate></item>
+	<item v="popUp_subtitle_85"><translate><![CDATA[Manuális mód]]></translate></item>
+	<item v="popUp_body_text_85"><translate><![CDATA[Az üzemmódválasztó tárcsát manuális módra állítva, magas rekeszérték mellett készült a fotó, így csökkentve az objektíven keresztül a fényképezőgépbe jutó fény mennyiségét Az O.I.S. bekapcsolásával, ráközelítve a fára biztos fotózás, és nagyszerű kép érhető el.]]></translate></item>	
+<!-- new --><item v="popUp_caption_85_0"><translate><![CDATA[]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_86"><translate><![CDATA[Egyszerű működtetés joystickkal]]></translate></item>
+	<item v="popUp_subtitle_86"><translate><![CDATA[Egyszerű működtetés joystickkal]]></translate></item>
+	<item v="popUp_body_text_86"><translate><![CDATA[Nyomja le és tartsa nyomva a joystickot, hogy azonnal megváltoztathassa a fehéregyensúlyt, az ISO-érzékenységet, a képméretet, illetve a felbontást anélkül, hogy belépne a menübe.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_87"><translate><![CDATA[Napellenző]]></translate></item>
+	<item v="popUp_subtitle_87"><translate><![CDATA[Kiegészítő]]></translate></item>
+	<item v="popUp_body_text_87"><translate><![CDATA[Nagyon erős fényviszonyok között előnyös lehet a napellenző használata, hogy ne jusson túl sok fény az objektívbe.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_88"><translate><![CDATA[Nagy zoom]]></translate></item>
+	<item v="popUp_subtitle_88"><translate><![CDATA[OIS zoom]]></translate></item>
+	<item v="popUp_body_text_88"><translate><![CDATA[Az FZ7 12-szeres optikai zoomos Leica DC objektívvel rendelkezik (35 mm ekv.: 36-432 mm). Egy hasonló képességű, filmet használó fényképezőgép olyan nagy és nehéz lenne, hogy egy kézzel el sem bírná.]]></translate></item>	
+<!-- new --><item v="popUp_caption_88_0"><translate><![CDATA[1-szeres zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_88_1"><translate><![CDATA[6-szoros zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_88_2"><translate><![CDATA[12-szeres zoom]]></translate></item>
+<!-- new --><item v="popUp_caption_88_3"><translate><![CDATA[16,5-szeres zoom]]></translate></item>
+
+	<item v="popUp_hotspot_text_89"><translate><![CDATA[Késő délutáni fény]]></translate></item>
+	<item v="popUp_subtitle_89"><translate><![CDATA[Kreativitás]]></translate></item>
+	<item v="popUp_body_text_89"><translate><![CDATA[Ez a kép késő délután készült – a nap közvetlenül az autó mögött van. Az objektívbe érkező fény mennyisége miatt az autó csak árnyképnek látszódik, ahogy az aszfalt ragyog a fényben.]]></translate></item>			
+
+
+
+	<!-- Key technology pop ups -->
+	<item v="popUp_tech_subtitle_0"><translate><![CDATA[Optikai képstabilizáltor]]></translate></item>
+	<item v="popUp_tech_body_text_0"><translate><![CDATA[A MEGA O.I.S. csökkenti a kézremegés hatásait, így rendkívül tiszta, éles fotókat készíthet még olyan helyzetekben is, ahol az elmosódás tipikus probléma. A Lumix – a MEGA O.I.S. fejlett kézremegés-kiegyenlítő technológiával – kimagasló, új szabványt állít fel a digitális fényképezőgépek teljesítményét illetően. Lépjen a képminőség olyan szintjére, mely nem csupán a pixelek számával és az objektív tulajdonságaival jellemezhető.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_1"><translate><![CDATA[Leica DC objektív]]></translate></item>
+	<item v="popUp_tech_body_text_1"><translate><![CDATA[Mindkét kiváló lencserendszer tartalmaz aszférikus lencsetagokat a szférikus torzízést kiküszöbölendő. Továbbá rendelkeznek többrétegű lencsebevonattal, hogy a nem kívánt tükröződést és a szellemképképződést kiküszöböljék.
+
+*A Leica a Leica Microsystems IR GmbH bejegyzett védjegye.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_2"><translate><![CDATA[Venus Engine Plus, II és III]]></translate></item>
+	<item v="popUp_tech_body_text_2"><translate><![CDATA[Minden Venus Engine képfeldolgozó áramkör gyors válaszidővel, és 50%-kal javított átlós felbontással rendelkezik, hogy csodálatos képek készülhessenek. A Venus Engine II és III további 10%-kal növeli a függőleges felbontást, és megszűnteti a kromatikus aberráció jelenségét, mely különösen nagy zoom használatakor gyakori jelenség. A Venus Engine Plus és III csökkentett energiafelhasználással bír.]]></translate></item>			
+
+
+</root>

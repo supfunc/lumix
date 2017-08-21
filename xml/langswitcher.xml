@@ -1,0 +1,34 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<lang iso="de-AT"><![CDATA[Austria]]></lang>
+	<lang iso="fr-BE"><![CDATA[Belgium - French]]></lang>
+	<lang iso="nl-BE"><![CDATA[Belgium - Dutch]]></lang>
+	<lang iso="bg-BG"><![CDATA[Bulgaria]]></lang>
+	<lang iso="hr-HR"><![CDATA[Croatia]]></lang>
+	<lang iso="cs-CZ"><![CDATA[Czech Republic]]></lang>
+	<lang iso="da-DK"><![CDATA[Denmark]]></lang>
+	<lang iso="fi-FI"><![CDATA[Finland]]></lang>
+	<lang iso="fr-FR"><![CDATA[France]]></lang>
+	<!--<lang iso="de-DE"><![CDATA[Germany]]></lang>
+	<lang iso="en-GR"><![CDATA[Greece]]></lang>-->
+	<lang iso="hu-HU"><![CDATA[Hungary]]></lang>
+	<lang iso="it-IT"><![CDATA[Italy]]></lang>
+	<!--<lang iso="en-IE"><![CDATA[Ireland]]></lang>
+	<lang iso="lv-LV"><![CDATA[Latvia]]></lang> -->
+	<lang iso="lt-LT"><![CDATA[Lithuania]]></lang>
+	<!--<lang iso="fr-LU"><![CDATA[Luxembourg]]></lang>-->
+	<lang iso="nl-NL"><![CDATA[Netherlands]]></lang>
+	<lang iso="no-NO"><![CDATA[Norway]]></lang>
+	<lang iso="pl-PL"><![CDATA[Poland]]></lang>
+	<lang iso="pt-PT"><![CDATA[Portugal]]></lang>
+	<lang iso="ro-RO"><![CDATA[Romania]]></lang>
+	<lang iso="sr-CS"><![CDATA[Serbia & Montenegro]]></lang>
+	<lang iso="sk-SK"><![CDATA[Slovakia]]></lang>
+	<lang iso="si-SI"><![CDATA[Slovenia]]></lang>
+	<lang iso="es-ES"><![CDATA[Spain]]></lang>
+	<lang iso="sv-SE"><![CDATA[Sweden]]></lang>
+	<lang iso="de-CH"><![CDATA[Switzerland - German]]></lang>
+	<lang iso="fr-CH"><![CDATA[Switzerland - French]]></lang>
+	<lang iso="tr-TR"><![CDATA[Turkey]]></lang>
+	<lang iso="en-UK"><![CDATA[United Kingdom]]></lang>
+</root>

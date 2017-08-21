@@ -1,0 +1,774 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<!-- 'Loading' website data -->
+	<item v="loading"><translate><![CDATA[LOADING]]></translate></item>
+<!-- new --><item v="disclaimer"><translate><![CDATA[© 2006 Panasonic Marketing Europe GmbH]]></translate></item>
+<!-- new --><item v="select_language"><translate><![CDATA[Selecteaza limba]]></translate></item>
+
+	<!-- SECTION: HOME PAGE -->
+	
+	<item v="home_title"><translate><![CDATA[Exploreaza diferenta Lumix]]></translate></item>
+	<item v="home_subtitle"><translate><![CDATA[Camerele foto digitale Lumix permit realizarea de fotografii excelente. Experimenteaza, obtine perspective interesante si lasa camera sa faca toata treaba.
+
+Urmareste povestirile noastre si cauta Diferenta Lumix!]]></translate></item>
+
+	<!-- panels -->
+	<item v="section0_title"><translate><![CDATA[LUMIX AWARD]]></translate></item>
+	<item v="section0_subtitle"><translate><![CDATA[Introdu fotografiile tale in concursul foto]]></translate></item>
+	
+	<item v="section1_title"><translate><![CDATA[Gama de produse]]></translate></item>
+	<item v="section1_subtitle"><translate><![CDATA[Vezi gama de produse si beneficiile Lumix]]></translate></item>
+	
+	<item v="section2_subtitle"><translate><![CDATA[Iesind in Londra cu doua prietene]]></translate></item>
+
+	<item v="section3_subtitle"><translate><![CDATA[Vizitand Barcelona cu prietena sa]]></translate></item>
+	
+	<item v="section4_subtitle"><translate><![CDATA[La testele F1 de la Jerez]]></translate></item>
+
+	<!-- FEATURING THE [CAMERA NAME] -->
+	<item v="featuring"><translate><![CDATA[Modelul]]></translate></item>
+	<item v="the"><translate><![CDATA[]]></translate></item>
+	
+	<!-- FLOATING MAIN MENU -->
+	
+	<item v="menu_overview"><translate><![CDATA[Detalii]]></translate></item>
+	<item v="menu_scene"><translate><![CDATA[SCENE]]></translate></item>
+	<item v="menu_lumix_award"><translate><![CDATA[Intra in competitia Lumix]]></translate></item>
+	<item v="menu_product_range"><translate><![CDATA[Gama de produse Lumix]]></translate></item>
+	<!-- menu items -->
+	<item v="menu_0"><translate><![CDATA[Acasa]]></translate></item>
+	<item v="menu_1"><translate><![CDATA[Urmareste-o pe Anna in Londra]]></translate></item>
+	<item v="menu_2"><translate><![CDATA[Urmareste-l pe Pietro in Barcelona]]></translate></item>
+	<item v="menu_3"><translate><![CDATA[Urmareste-l pe Thomas la testele F1]]></translate></item>
+	<item v="menu_4"><translate><![CDATA[Gama de produse Lumix]]></translate></item>
+	<item v="menu_5"><translate><![CDATA[Intra in competitia Lumix]]></translate></item>
+	
+	<!-- PRODUCT INFO -->
+	<!-- Launch product info panel-->
+	<item v="find_out_more_DMC-FX01"><translate><![CDATA[Afla mai multe despre DMC-FX01]]></translate></item>
+	<item v="find_out_more_DMC-FZ7"><translate><![CDATA[Afla mai multe despre DMC-FZ7]]></translate></item>
+	<item v="find_out_more_DMC-TZ1"><translate><![CDATA[Afla mai multe despre DMC-TZ1]]></translate></item>
+	
+	<!-- Camera types -->
+	<item v="cam_type_0"><translate><![CDATA[Amuzant si usor]]></translate></item>
+	<item v="cam_type_1"><translate><![CDATA[Stilat si compact]]></translate></item>
+	<item v="cam_type_2"><translate><![CDATA[Special pentru calatorii]]></translate></item>
+	<item v="cam_type_3"><translate><![CDATA[Semi-profesional]]></translate></item>
+	<item v="cam_type_4"><translate><![CDATA[Profesional]></translate></item>
+	<item v="cam_type_5"><translate><![CDATA[PROFESSIONAL SLR]]></translate></item>
+	
+	<!-- Camera specifications. In main.xml, specify id for each spec that applies to a camera -->
+	<item v="spec_0"><translate><![CDATA[Zoom optic]]></translate></item>
+	<item v="spec_1"><translate><![CDATA[Stabilizator optic de imagine]]></translate></item>
+	<item v="spec_2"><translate><![CDATA[Obiectiv Leica DC]]></translate></item>
+	<item v="spec_3"><translate><![CDATA[Venus Engine]]></translate></item>
+	<item v="spec_4"><translate><![CDATA[Megapixeli]]></translate></item>
+	<item v="spec_5"><translate><![CDATA[Functii manuale]]></translate></item>
+	<item v="spec_6"><translate><![CDATA[LCD High Angle]]></translate></item>
+	<item v="spec_7"><translate><![CDATA[wide angle]]></translate></item>
+	<item v="spec_8"><translate><![CDATA[SLR]]></translate></item>
+	<item v="spec_9"><translate><![CDATA[LCD mare]]></translate></item>
+	<item v="spec_10"><translate><![CDATA[16:9 CCD]]></translate></item>
+	
+	<!-- SECTION: LUMIX AWARD -->
+	
+	<item v="lumix_award_title"><translate><![CDATA[Premiul Lumix 2006]]></translate></item>
+	<item v="lumix_award_subtitle"><translate><![CDATA[Premiul Lumix este in al cincilea an si invita pe toti cei interesati sa participe la acest concurs de fotografie digitala.]]></translate></item>
+	<item v="previous_winners"><translate><![CDATA[Castigatorii editiilor anterioare]]></translate></item>
+	<item v="enter_award"><translate><![CDATA[Intra in competitia Lumix]></translate></item>
+	
+	<!-- Image navigation -->
+	<item v="close"><translate><![CDATA[Inapoi]]></translate></item>
+	<item v="prev_image"><translate><![CDATA[Anterior]]></translate></item>
+	<item v="next_image"><translate><![CDATA[Urmatorul]]></translate></item>
+	
+	
+	<!-- SECTION: PRODUCT RANGE -->
+	<item v="featured"><translate><![CDATA[Beneficii]]></translate></item>
+	<item v="product_range_title"><translate><![CDATA[Gama de produse Lumix]]></translate></item>
+	<item v="product_range_subtitle"><translate><![CDATA[Gama Lumix iti ofera exact camera de care ai nevoie. Afla mai multe despre beneficii si tehnologii aici.]]></translate></item>
+	
+	<!-- Camera features -->
+	<item v="leica_lens"><translate><![CDATA[Lentile Leica DC]]></translate></item>
+	
+	<!-- Camera info menu -->
+	<item v="want_to_buy"><translate><![CDATA[Cumpara camera]]></translate></item>
+	<item v="tech_specs"><translate><![CDATA[Specificatii detaliate]]></translate></item>
+	
+	<!-- Camera navigation -->
+	<item v="close_camera"><translate><![CDATA[Inapoi]]></translate></item>
+	<item v="prev_camera"><translate><![CDATA[Anterior]]></translate></item>
+	<item v="next_camera"><translate><![CDATA[Urmatorul]]></translate></item>
+
+	<!-- menu -->
+	<item v="see_in_action_DMC-FX01"><translate><![CDATA[Afla mai multe despre DMC-FX01]]></translate></item>
+	<item v="see_in_action_DMC-FZ7"><translate><![CDATA[Afla mai multe despre DMC-FZ7]]></translate></item>
+	<item v="see_in_action_DMC-TZ1"><translate><![CDATA[Afla mai multe despre DMC-TZ1]]></translate></item>
+	<item v="buy_this_camera"><translate><![CDATA[Cumpara camera]]></translate></item>
+	<item v="more_info"><translate><![CDATA[Specificatii detaliate]]></translate></item>
+	
+	<!-- Technologies -->
+<!-- new --><item v="key_technologies"><translate><![CDATA[Tehnolgiile Lumix]]></translate></item>
+	
+	<item v="enter_award"><translate><![CDATA[Intra in competitia Lumix]]></translate></item>
+	
+	
+	<!-- Video stories -->
+	<!-- Anna -->
+	<item v="anna_ch1_title"><translate><![CDATA[INTALNIREA LA APARTAMENT]]></translate></item>
+	<item v="anna_ch2_title"><translate><![CDATA[Pregateste-te]]></translate></item>
+	<item v="anna_ch3_title"><translate><![CDATA[Distractie la machiaj]]></translate></item>
+	<item v="anna_ch4_title"><translate><![CDATA[Taxi catre club]]></translate></item>
+	<item v="anna_ch5_title"><translate><![CDATA[Laudarosul]]></translate></item>
+	<item v="anna_ch6_title"><translate><![CDATA[Cortina]]></translate></item>
+	<item v="anna_ch7_title"><translate><![CDATA[Flirtand cu barman-ul]]></translate></item>
+	<item v="anna_ch8_title"><translate><![CDATA[Sporovaind pe canapea]]></translate></item>
+	<item v="anna_ch9_title"><translate><![CDATA[Pe ringul de dans]]></translate></item>
+	
+	<!-- Pietro -->
+	<item v="pietro_ch1_title"><translate><![CDATA[Pe strazile din Barcelona]]></translate></item>
+	<item v="pietro_ch2_title"><translate><![CDATA[Catre centru]]></translate></item>
+	<item v="pietro_ch3_title"><translate><![CDATA[La Placa Real]]></translate></item>
+	<item v="pietro_ch4_title"><translate><![CDATA[La cafenea]]></translate></item>
+	<item v="pietro_ch5_title"><translate><![CDATA[La hotel]]></translate></item>
+	<item v="pietro_ch6_title"><translate><![CDATA[La plaja]]></translate></item>
+	<item v="pietro_ch7_title"><translate><![CDATA[Arhitectura moderna]]></translate></item>
+	<item v="pietro_ch8_title"><translate><![CDATA[Vizitand La Sagrada Familia]]></translate></item>
+	<item v="pietro_ch9_title"><translate><![CDATA[Restaurant cu panorama superba]]></translate></item>
+	
+	<!-- Tim -->
+	<item v="thomas_ch1_title"><translate><![CDATA[Sosirea la circuitul Jerez]]></translate></item>
+	<item v="thomas_ch2_title"><translate><![CDATA[La standuri]]></translate></item>
+	<item v="thomas_ch3_title"><translate><![CDATA[In garaj]]></translate></item>
+	<item v="thomas_ch4_title"><translate><![CDATA[Pe acoperisul standului]]></translate></item>
+	<item v="thomas_ch5_title"><translate><![CDATA[La capatul liniei standurilor]]></translate></item>
+	<item v="thomas_ch6_title"><translate><![CDATA[Pe circuit, turul 2]]></translate></item>
+	<item v="thomas_ch7_title"><translate><![CDATA[Vedere la tribuna centrala]]></translate></item>
+	<item v="thomas_ch8_title"><translate><![CDATA[TORRE TIO PEPE]]></translate></item>
+	<item v="thomas_ch9_title"><translate><![CDATA[Sicana]]></translate></item>
+	
+	<!-- video navigation -->
+	<item v="play"><translate><![CDATA[Ruleaza]]></translate></item>
+	<item v="pause"><translate><![CDATA[Pauza]]></translate></item>
+	<item v="close_scene"><translate><![CDATA[Scena apropiata]]></translate></item>
+	<item v="prev_scene"><translate><![CDATA[Scena anterioara]]></translate></item>
+	<item v="next_scene"><translate><![CDATA[Scena urmatoare]]></translate></item>
+
+
+	
+	<!-- TABS -->
+	<item v="more_info_image"><translate><![CDATA[MAI MULTE INFORMATII DESPRE ACEASTA IMAGINE]]></translate></item>
+	
+	<!-- Hotspot rollover text -->
+	<!-- Photo hint and tips -->
+	<item v="phototip1_roll"><translate><![CDATA[LEARN MORE ABOUT LENS FLARE AND THE EFFECTS OF BACKLIGHT
+FROM A STRONG LIGHT SOURCE]]></translate></item>
+	<item v="phototip2_roll"><translate><![CDATA[Here is photo tip 2]]></translate></item>
+	<item v="phototip3_roll"><translate><![CDATA[Here is photo tip 3]]></translate></item>
+	<!-- picture -->
+	<item v="picture_roll"><translate><![CDATA[Imaginea Lumix]]></translate></item>
+
+	<!-- Camera settings -->
+	<!-- modes -->
+	<item v="portrait_mode"><translate><![CDATA[Modul portret]]></translate></item>
+	<item v="simple_mode"><translate><![CDATA[Modul „automat”]]></translate></item>
+	<item v="macro_mode"><translate><![CDATA[Modul macro]]></translate></item>
+	<item v="high_sens_mode"><translate><![CDATA[modul HIGH SENSITIVITY]]></translate></item>
+	<item v="night_port_mode"><translate><![CDATA[Modul portret nocturn]]></translate></item>
+	<item v="beach_mode"><translate><![CDATA[Modul plaja]]></translate></item>
+	<item v="sports_mode"><translate><![CDATA[Modul sport]]></translate></item>
+	<item v="manual_mode"><translate><![CDATA[Modul manual]]></translate></item>
+	<item v="scenery_mode"><translate><![CDATA[Modul perisaj]]></translate></item>
+	
+	<!-- Other settings -->
+	<item v="on"><translate><![CDATA[Pornit]]></translate></item>
+	<item v="off"><translate><![CDATA[Oprit]]></translate></item>
+	<!-- camera flash -->
+	<item v="flash"><translate><![CDATA[FLASH]]></translate></item>
+	
+	<item v="wide_angle"><translate><![CDATA[Unghi larg]]></translate></item>
+	<item v="auto_red_eye"><translate><![CDATA[functie de reducere a efectului de ochi rosii]]></translate></item>
+	
+	<item v="zoom"><translate><![CDATA[ZOOM]]></translate></item>
+	<item v="optical_zoom"><translate><![CDATA[zoom optic]]></translate></item>
+	<item v="extra_optical_zoom"><translate><![CDATA[Extra zoom x16,5]]></translate></item>
+	
+	<item v="spot_metering"><translate><![CDATA[Sursele]]></translate></item>
+	<item v="backlight_compensation"><translate><![CDATA[compensare lumina din spate]]></translate></item>
+	
+	
+	
+	
+	<!-- hotspot types -->
+	<item v="hotspot_type0"><translate><![CDATA[Beneficiu]]></translate></item>
+	<item v="hotspot_type1"><translate><![CDATA[Sfat 
+foto]]></translate></item>
+	<item v="hotspot_type2"><translate><![CDATA[Imaginea 
+Lumix]]></translate></item>
+
+	<!-- new -->
+	<!-- as displayed in end of video summary -->
+	<item v="hotspot_summary_type0"><translate><![CDATA[Beneficiu]]></translate></item>
+	<item v="hotspot_summary_type1"><translate><![CDATA[Sfat foto]]></translate></item>
+	<item v="hotspot_summary_type2"><translate><![CDATA[Imaginea Lumix]]></translate></item>
+	
+	<item v="prev_scene_summary"><translate><![CDATA[Scena anterioara]]></translate></item>
+	<item v="next_scene_summary"><translate><![CDATA[Scena urmatoare]]></translate></item>
+	<!-- /new -->
+	
+	<!-- Pop up animation text -->
+	<item v="secs"><translate><![CDATA[Secunde]]></translate></item><!-- an abreviation of "SECONDS" -->
+	<item v="ready"><translate><![CDATA[Gata]]></translate></item>
+
+<!-- new start -->	
+<!-- Camera dimensions - Width, Height, Depth -->
+	<item v="width_abbr"><translate><![CDATA[W]]></translate></item>
+	<item v="height_abbr"><translate><![CDATA[H]]></translate></item>
+	<item v="depth_abbr"><translate><![CDATA[D]]></translate></item>
+	
+	<item v="large_screen_display"><translate><![CDATA[Ecran 2,5 inch]]></translate></item>
+	<!-- Camera screen size ratio -->
+	<item v="normal_format"><translate><![CDATA[Mod normal, 4:3]]></translate></item>
+	<item v="wide_format"><translate><![CDATA[Mod larg, 16:9]]></translate></item>
+	
+	<item v="window"><translate><![CDATA[cadru]]></translate></item>
+	<item v="calendar_view"><translate><![CDATA[Vedere calendar]]></translate></item>
+	
+	<item v="normal_mode"><translate><![CDATA[Mod normal]]></translate></item>
+	<item v="wide_mode"><translate><![CDATA[Mod 16:9]]></translate></item>
+	
+	<item v="normal_lens"><translate><![CDATA[lentille normal]]></translate></item>
+	<item v="wide_lens"><translate><![CDATA[Unghi larg]]></translate></item>
+	<!-- a camera feature -->
+	<item v="power_lcd"><translate><![CDATA[POWER LCD]]></translate></item>
+	<item v="button"><translate><![CDATA[Buton]]></translate></item>
+	
+	<item v="viewfinder_aligned"><translate><![CDATA[Vizor si LDC aliniate]]></translate></item>
+	<item v="slow_shutter"><translate><![CDATA[Timp de expunere mare]]></translate></item>
+	<item v="joystick"><translate><![CDATA[JOYSTICK]]></translate></item>
+<!-- new end -->
+
+
+	<!-- Pop up titles -->
+	<item v="popUp_title_feature"><translate><![CDATA[Beneficiu]]></translate></item>
+	<item v="popUp_title_tip"><translate><![CDATA[Sfat foto]]></translate></item>
+	<item v="popUp_title_picture"><translate><![CDATA[Imaginea Lumix]]></translate></item>
+	
+	
+	<!-- Pop ups -->
+	<!-- Including hotspot roll over text -->
+	<item v="popUp_hotspot_text_0"><translate><![CDATA[Accesoriu]]></translate></item>
+	<item v="popUp_subtitle_0"><translate><![CDATA[Design]]></translate></item>
+	<item v="popUp_body_text_0"><translate><![CDATA[Datorita dimensiunilor compacte FX01 este accesoriul ideal pentru fiecare ocazie.]]></translate></item>
+	<item v="popUp_caption_0_0"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_1"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_2"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_3"><translate><![CDATA[]]></translate></item>
+	
+	<item v="popUp_hotspot_text_1"><translate><![CDATA[Usurinta in utilizare]]></translate></item>
+	<item v="popUp_subtitle_1"><translate><![CDATA[Modul automat]]></translate></item>
+	<item v="popUp_body_text_1"><translate><![CDATA[Toate setarile pot fi realizate automat, asa ca este usor sa faci fotografii chiar daca nu ai mai folosit vreodata o camera foto.]]></translate></item>
+
+	<item v="popUp_hotspot_text_2"><translate><![CDATA[Portret perfect]]></translate></item>
+	<item v="popUp_subtitle_2"><translate><![CDATA[Modul portret]]></translate></item>
+	<item v="popUp_body_text_2"><translate><![CDATA[Acest mod predefinit iti permite sa realizezi portrete perfecte, cu nuante naturale pentru piele.]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_3"><translate><![CDATA[Gata de fotografiere]]></translate></item>
+	<item v="popUp_subtitle_3"><translate><![CDATA[Start rapid]]></translate></item>
+	<item v="popUp_body_text_3"><translate><![CDATA[Cateodata este nevoie ca aparatul foto sa fie gata imediat de fotografiere. FX01 este pregatit in 1,6 secunde de cand este pornit.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_4"><translate><![CDATA[Intors la 90 de grade]]></translate></item>
+	<item v="popUp_subtitle_4"><translate><![CDATA[LCD cu detectare unghi de fotografiere]]></translate></item>
+	<item v="popUp_body_text_4"><translate><![CDATA[Orizontal sau vertical, cum este mai bine? Dupa ce faceti o fotografie, ea va fi afisata in mod corect pe LCD, indiferent de pozitia in care ati tinut camera.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_5"><translate><![CDATA[Prezentarea de moda]]></translate></item>
+	<item v="popUp_subtitle_5"><translate><![CDATA[O.I.S in interior]]></translate></item>
+	<item v="popUp_body_text_5"><translate><![CDATA[Folosirea blit-ului in interior poate crea un efect nenatural. Datorita tehnologiei O.I.S (stabilizator optic de imagine), puteti realiza fotografii excelente fara blit.]]></translate></item>
+	<item v="popUp_caption_5_0"><translate><![CDATA[Fara O.I.S]]></translate></item>
+	<item v="popUp_caption_5_1"><translate><![CDATA[Cu O.I.S]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_6"><translate><![CDATA[Marimea conteaza]]></translate></item>
+	<item v="popUp_subtitle_6"><translate><![CDATA[Mic si compact]]></translate></item>
+	<item v="popUp_body_text_6"><translate><![CDATA[Datorita dimensiunilor compate, FX01 incape in orice geanta.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_7"><translate><![CDATA[Fotografii macro]]></translate></item>
+	<item v="popUp_subtitle_7"><translate><![CDATA[folosirea O.I.S la fotografierea macro]]></translate></item>
+	<item v="popUp_body_text_7"><translate><![CDATA[Fotografierea in modul macro necesita o camera nemiscata. Datorita tehnologiei O.I.S puteti face fotografii clare in orice situatie, incluisv la fotografierea de aproape.]]></translate></item>
+	<item v="popUp_caption_7_0"><translate><![CDATA[Fara O.I.S]]></translate></item>
+	<item v="popUp_caption_7_1"><translate><![CDATA[Cu O.I.S]]></translate></item>
+	
+	<item v="popUp_hotspot_text_8"><translate><![CDATA[Vizualizeaza imaginile]]></translate></item>
+	<item v="popUp_subtitle_8"><translate><![CDATA[Ecran mare LCD]]></translate></item>
+	<item v="popUp_body_text_8"><translate><![CDATA[Datorita ecranului LCD de dimensiune mare, poti vedea imaginile cu claritate.]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_9"><translate><![CDATA[Capteaza partea cea mai buna]]></translate></item>
+	<item v="popUp_subtitle_9"><translate><![CDATA[Modul autoportret]]></translate></item>
+	<item v="popUp_body_text_9"><translate><![CDATA[Un auto portret nu putea fi realizat mai usor. Indreapta camera catre tine si led-ul rosu iti va indica momentul in care poti declansa.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_10"><translate><![CDATA[Unghi larg]]></translate></item>
+	<item v="popUp_subtitle_10"><translate><![CDATA[Lentile cu unghi larg]]></translate></item>
+	<item v="popUp_body_text_10"><translate><![CDATA[Incercarea de a-i prinde pe toti in poza se poate dovedi extrem de dificila. Datorita lentilelor cu unghi larg de cuprindere, poti face acum acest lucru cu usurinta.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_11"><translate><![CDATA[Vezi in unghi larg]]></translate></item>
+	<item v="popUp_subtitle_11"><translate><![CDATA[Fotografierea in mod 16:9, 3:2, 4:3]]></translate></item>
+	<item v="popUp_body_text_11"><translate><![CDATA[Poti face fotografii in format 16:9. Util pentru anumite subiecte.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_12"><translate><![CDATA[Focuseaza]]></translate></item>
+	<item v="popUp_subtitle_12"><translate><![CDATA[Focus rapid]]></translate></item>
+	<item v="popUp_body_text_12"><translate><![CDATA[Cu focusarea rapida intr-un punct poti face fotografii clare de fiecare data.]]></translate></item>
+
+	<item v="popUp_hotspot_text_13"><translate><![CDATA[Folosit de laudarosi]]></translate></item>
+	<item v="popUp_subtitle_13"><translate><![CDATA[Modul automat]]></translate></item>
+	<item v="popUp_body_text_13"><translate><![CDATA[Toate setarile sunt realizate in mod automat, asa ca este usor sa faci fotografii excelente in orice situarie.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_14"><translate><![CDATA[Fii creativ]]></translate></item>
+	<item v="popUp_subtitle_14"><translate><![CDATA[Vezi diferit]]></translate></item>
+	<item v="popUp_body_text_14"><translate><![CDATA[Gasirea unor locatii mai putin uzuale poate face diferenta intr-o fotografie. Fii creativ si vei obtine imagini de calitate.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_15"><translate><![CDATA[Timpul pentru petrecere]]></translate></item>
+	<item v="popUp_subtitle_15"><translate><![CDATA[Modul “petrecere”]]></translate></item>
+	<item v="popUp_body_text_15"><translate><![CDATA[Atunci cand ai chef de dans, nu vrei ca tehnologia sa te incurce. Muta pe modul “petrecere” si camera face toate setarile necesare.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_16"><translate><![CDATA[Ridicarea cortinei]]></translate></item>
+	<item v="popUp_subtitle_16"><translate><![CDATA[reducerea efectului de ochi rosii]]></translate></item>
+	<item v="popUp_body_text_16"><translate><![CDATA[Atunci cand folosesti blit-ul poti obtine un efect de ochi rosi. Cu ajutorul modului de reducere a acestui efect puteti face fotografii naturale.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_17"><translate><![CDATA[Viata prin obiectivul foto]]></translate></item>
+	<item v="popUp_subtitle_17"><translate><![CDATA[Obiectiv Leica]]></translate></item>
+	<item v="popUp_body_text_17"><translate><![CDATA[Lentilele Leica DC folosite la FX01 permit obtinerea unor imagini pline de detalii si expresive.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_18"><translate><![CDATA[Nu abuza de blit]]></translate></item>
+	<item v="popUp_subtitle_18"><translate><![CDATA[interioare cu O.I.S.]]></translate></item>
+	<item v="popUp_body_text_18"><translate><![CDATA[In anumite situatii, utilizarea blit-ului se poate dovedi o alegere neinspirata. Cu ajutorul O.I.S poti folosi timpi de expunere mai mari, pentru a fotografia fara blit.]]></translate></item>	
+	<item v="popUp_caption_18_0"><translate><![CDATA[FLASH Oprit]]></translate></item>
+	<item v="popUp_caption_18_1"><translate><![CDATA[FLASH Pornit]]></translate></item>
+
+	<item v="popUp_hotspot_text_19"><translate><![CDATA[Vizualizeaza imaginile]]></translate></item>
+	<item v="popUp_subtitle_19"><translate><![CDATA[LCD mare]]></translate></item>
+	<item v="popUp_body_text_19"><translate><![CDATA[Ecranul LCD de mare dimensiune si rezolutie permite o vizualizare usoara a imaginilor, imediat dupa ce le-ai facut.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_20"><translate><![CDATA[Unghi larg]]></translate></item>
+	<item v="popUp_subtitle_20"><translate><![CDATA[Lentile cu unghi larg]]></translate></item>
+	<item v="popUp_body_text_20"><translate><![CDATA[Incercarea de a-i prinde pe toti in poza se poate dovedi extrem de dificila. Datorita lentilelor cu unghi larg de cuprindere, poti face acum acest lucru cu usurinta.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_21"><translate><![CDATA[Zoom]]></translate></item>
+	<item v="popUp_subtitle_21"><translate><![CDATA[zoom optic x3,6]]></translate></item>
+	<item v="popUp_body_text_21"><translate><![CDATA[Sunt momente in care vrei sa fi mai aproape de actiune. Atunci poti folosi zoom-ul optic x3,6.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_22"><translate><![CDATA[Vizualizare imagini]]></translate></item>
+	<item v="popUp_subtitle_22"><translate><![CDATA[Modul de vizualizare imagini]]></translate></item>
+	<item v="popUp_body_text_22"><translate><![CDATA[Sa vezi pozele pe care le-ai facut se poate dovedi extrem de distractiv, datorita modului de vizualizare a 1, 9 sau 25 de cadre pe ecranul LCD, sau datorita modului calendar.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_23"><translate><![CDATA[Se potriveste bine]]></translate></item>
+	<item v="popUp_subtitle_23"><translate><![CDATA[Design compact]]></translate></item>
+	<item v="popUp_body_text_23"><translate><![CDATA[Dimensiunile compacte ale camerei ii dau voie sa incapa si in cei mai stramti jeansi.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_24"><translate><![CDATA[Ramai pe scena]]></translate></item>
+	<item v="popUp_subtitle_24"><translate><![CDATA[O.I.S.]]></translate></item>
+	<item v="popUp_body_text_24"><translate><![CDATA[Poti sa dansezi in continuare, in timp ce faci poze. Tremurul mainii este eliminat de stabilizatorul optic de imagine O.I.S.]]></translate></item>	
+	<item v="popUp_caption_24_0"><translate><![CDATA[Fara O.I.S.]]></translate></item>
+	<item v="popUp_caption_24_1"><translate><![CDATA[Cu O.I.S.]]></translate></item>
+	
+
+	<item v="popUp_hotspot_text_25"><translate><![CDATA[Vizualizeaza imaginile]]></translate></item>
+	<item v="popUp_subtitle_25"><translate><![CDATA[LCD mare]]></translate></item>
+	<item v="popUp_body_text_25"><translate><![CDATA[Ecranul LCD de mare dimensiune si rezolutie permite o vizualizare usoara a imaginilor, imediat dupa ce le-ai facut.]]></translate></item>	
+
+
+
+<!-- new onwards 17-03-06 --><!-- BARCELONA -->
+
+	<item v="popUp_hotspot_text_26"><translate><![CDATA[Fara bagaj suplimentar]]></translate></item>
+	<item v="popUp_subtitle_26"><translate><![CDATA[Design compact]]></translate></item>
+	<item v="popUp_body_text_26"><translate><![CDATA[Cu design-ul sau compact TZ1 incape cu usurinta in buzunar permitand o calatorie fara bagaje suplimentare.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_27"><translate><![CDATA[Fotografii grozave la zoom mare]]></translate></item>
+	<item v="popUp_subtitle_27"><translate><![CDATA[O.I.S]]></translate></item>
+	<item v="popUp_body_text_27"><translate><![CDATA[Fotografierea la zoom mare accentueaza orice miscare. Datorita tehnologiei O.I.S (stabilizator optic de imagine) puteti face fotografii clare.]]></translate></item>	
+<!-- new --><item v="popUp_caption_27_0"><translate><![CDATA[Cu O.I.S]]></translate></item>
+<!-- new --><item v="popUp_caption_27_1"><translate><![CDATA[Fara O.I.S]]></translate></item>
+	
+	<item v="popUp_hotspot_text_28"><translate><![CDATA[Dimensiuni mici, zoom mare]]></translate></item>
+	<item v="popUp_subtitle_28"><translate><![CDATA[Zoom mare]]></translate></item>
+	<item v="popUp_body_text_28"><translate><![CDATA[Puternicul zoom optic x10, echivalent 35-350 mm la o camera pe 35 mm se regaseste intr-o camera de dimensiuni compacte.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_28_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_1"><translate><![CDATA[3X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_2"><translate><![CDATA[6X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_3"><translate><![CDATA[10X ZOOM]]></translate></item>
+	
+	<item v="popUp_hotspot_text_29"><translate><![CDATA[Seteaza data]]></translate></item>
+	<item v="popUp_subtitle_29"><translate><![CDATA[Setare data calatorie]]></translate></item>
+	<item v="popUp_body_text_29"><translate><![CDATA[Puteti seta data plecarii in calatorie si dupa aceea puteti organiza fotografiile realizate in fiecare zi a excursiei.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_29_0"><translate><![CDATA[1 Zi]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_1"><translate><![CDATA[2 Zi]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_2"><translate><![CDATA[]]></translate></item>
+
+
+
+
+	<item v="popUp_hotspot_text_30"><translate><![CDATA[Gaseste un cadru]]></translate></item>
+	<item v="popUp_subtitle_30"><translate><![CDATA[Investigheaza diverse unghiuri]]></translate></item>
+	<item v="popUp_body_text_30"><translate><![CDATA[Cateodata este bine sa te uiti la subiect cu mai multa atentie. Investigand diferite unghiuri de fotografiere puteti realiza imagini interesante.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_30_0"><translate><![CDATA[Vezi 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_1"><translate><![CDATA[Vezi 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_2"><translate><![CDATA[Vezi 3]]></translate></item>
+		
+	<item v="popUp_hotspot_text_31"><translate><![CDATA[In miscare]]></translate></item>
+	<item v="popUp_subtitle_31"><translate><![CDATA[O.I.S]]></translate></item>
+	<item v="popUp_body_text_31"><translate><![CDATA[Atunci cand esti in miscare fotografiile neclare sunt uzuale. Tehnologia O.I.S (stabilizator optic de imagine) compenseaza miscarea prin utilizarea unor giro-senzori care misca lentilele in directia opusa miscarii.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_31_0"><translate><![CDATA[Fara O.I.S.]]></translate></item>
+	<!-- new --><item v="popUp_caption_31_1"><translate><![CDATA[Cu O.I.S.]]></translate></item>
+
+	<item v="popUp_hotspot_text_32"><translate><![CDATA[Pornire rapida]]></translate></item>
+	<item v="popUp_subtitle_32"><translate><![CDATA[Pornire rapida]]></translate></item>
+	<item v="popUp_body_text_32"><translate><![CDATA[Sunt momente in care ai nevoie de aparatul foto instant. TZ1 este gata de fotografiere in numai 0,95 secunde de cand o pornesti.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_33"><translate><![CDATA[Da dovada de imaginatie]]></translate></item>
+	<item v="popUp_subtitle_33"><translate><![CDATA[Utilizeaza reflectiile]]></translate></item>
+	<item v="popUp_body_text_33"><translate><![CDATA[Folosind reflectiile, puteti realiza compozitii interesante. Apa de pe strada, geamurile masinilor, fatadele de sticla – toate pot crea fotografii interesante.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_34"><translate><![CDATA[Portrete precise]]></translate></item>
+	<item v="popUp_subtitle_34"><translate><![CDATA[High Sensitivity]]></translate></item>
+	<item v="popUp_body_text_34"><translate><![CDATA[Imaginle pot fi neclare daca subiectul se misca atunci cand faceti fotografia. Folosind noul mod High Sensitivity puteti realiza imagini clare chiar si in astfel de situatii.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_34_0"><translate><![CDATA[Fara High Sensitivity]]></translate></item>
+	<!-- new --><item v="popUp_caption_34_1"><translate><![CDATA[Modul High Sensitivity]]></translate></item>
+	
+	<item v="popUp_hotspot_text_35"><translate><![CDATA[Obiectiv leica DC]]></translate></item>
+	<item v="popUp_subtitle_35"><translate><![CDATA[Obiectiv leica DC]]></translate></item>
+	<item v="popUp_body_text_35"><translate><![CDATA[Obiectivul Leica DC folosit la TZ1 produce imagini expresive si pline de culoare.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_36"><translate><![CDATA[Focuseaza]]></translate></item>
+	<item v="popUp_subtitle_36"><translate><![CDATA[Lampa de asistenta la focusare]]></translate></item>
+	<item v="popUp_body_text_36"><translate><![CDATA[In conditiile unei lumini slabe, focusarea este dificil de realizat. Cu ajutorul lampii de asistenta la focusare, acuratetea este imbunatatita.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_37"><translate><![CDATA[Pardon?]]></translate></item>
+	<item v="popUp_subtitle_37"><translate><![CDATA[Modul „automat”]]></translate></item>
+	<item v="popUp_body_text_37"><translate><![CDATA[In modul „automat”, toate setarile se fac de catre camera, asa ca este usor sa faci fotografii, chiar daca esti incepator.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_38"><translate><![CDATA[LCD mare]]></translate></item>
+	<item v="popUp_subtitle_38"><translate><![CDATA[LCD mare]]></translate></item>
+	<item v="popUp_body_text_38"><translate><![CDATA[Faptul ca TZ1 are un LCD mare, permite o buna vizualizare a colectiei de fotografii realizate. Dimensiunea LCD-ului este de 2,5 inch si rezolutia de 207.000 pixeli.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_39"><translate><![CDATA[Apusul]]></translate></item>
+	<item v="popUp_subtitle_39"><translate><![CDATA[Foloseste lumina]]></translate></item>
+	<item v="popUp_body_text_39"><translate><![CDATA[In timpul apusului lumina exterioara permite realizarea unor fotografii cu o bogatie unica de culori.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_40"><translate><![CDATA[Focus rapid]]></translate></item>
+	<item v="popUp_subtitle_40"><translate><![CDATA[Focus rapid]]></translate></item>
+	<item v="popUp_body_text_40"><translate><![CDATA[Alege unul din modurile de Auto Focus: spot, 1-point, 3-point, 9-point, in functie de scena pe care o fotografiezi.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_40_0"><translate><![CDATA[9-point]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_1"><translate><![CDATA[3-point]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_2"><translate><![CDATA[1-point]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_3"><translate><![CDATA[1-spot]]></translate></item>
+	
+	<item v="popUp_hotspot_text_41"><translate><![CDATA[Ambianta noctura]]></translate></item>
+	<item v="popUp_subtitle_41"><translate><![CDATA[Modul portret nocturn]]></translate></item>
+	<item v="popUp_body_text_41"><translate><![CDATA[Folosind blit-ul camerei puteti elimina lumina ambientala. Timpii mari de expunere obtinuti datorita O.I.S, alaturi de blit, permit captarea atmosferei reale.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_42"><translate><![CDATA[LCD luminos]]></translate></item>
+	<item v="popUp_subtitle_42"><translate><![CDATA[LCD luminos]]></translate></item>
+	<item v="popUp_body_text_42"><translate><![CDATA[Vizualizarea LCD-ului se poate dovedi dificila in timpul unei zile cu soare puternic. Datorita functiei PowerLCD, care creste luminoztatea ecranului cu pana la 45%, aceasta problema este eliminata.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_43"><translate><![CDATA[Viata la plaja]]></translate></item>
+	<item v="popUp_subtitle_43"><translate><![CDATA[Modul plaja]]></translate></item>
+	<item v="popUp_body_text_43"><translate><![CDATA[Soarele puternic este binevenit la plaja, dar in acelasi timp acest lucru poate insemna fotografii intunecate. De aceea TZ1 beneficiaza de noul mod presetat pentru fotografii la plaja.]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_0"><translate><![CDATA[Modul plaja dezactivat]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_1"><translate><![CDATA[Modul plaja activate]]></translate></item>
+
+	<item v="popUp_hotspot_text_44"><translate><![CDATA[Capteaza momentul]]></translate></item>
+	<item v="popUp_subtitle_44"><translate><![CDATA[Fotografiere in cascada]]></translate></item>
+	<item v="popUp_body_text_44"><translate><![CDATA[Puteti realiza pana la 5 fotografii consecutive, 3 cadre pe secunda in modul standard. De asemenea TZ1 poate realiza fotografii pana la umplerea cardului de memorie.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_44_0"><translate><![CDATA[Cadru 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_1"><translate><![CDATA[Cadru 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_2"><translate><![CDATA[Cadru 3]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_3"><translate><![CDATA[Cadru 4]]></translate></item>
+	
+
+
+	<item v="popUp_hotspot_text_45"><translate><![CDATA[Gandire abstracta]]></translate></item>
+	<item v="popUp_subtitle_45"><translate><![CDATA[Vezi diferit]]></translate></item>
+	<item v="popUp_body_text_45"><translate><![CDATA[Privind lucrurile in mod diferit, puteti obtine rezultate suprinzatoare. Experimentati acest lucru cu fotografiile voastre prin colarea a diferite elemente.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_45_0"><translate><![CDATA[Vezi 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_1"><translate><![CDATA[Vezi 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_2"><translate><![CDATA[Vezi 3]]></translate></item>
+
+	<item v="popUp_hotspot_text_46"><translate><![CDATA[Prin plan si fundal]]></translate></item>
+	<item v="popUp_subtitle_46"><translate><![CDATA[Compozitia]]></translate></item>
+	<item v="popUp_body_text_46"><translate><![CDATA[Suprapunad elemente de prin plan si de fundal, poti crea compozitii interesante.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_47"><translate><![CDATA[Zoom abstract]]></translate></item>
+	<item v="popUp_subtitle_47"><translate><![CDATA[Abstract]]></translate></item>
+	<item v="popUp_body_text_47"><translate><![CDATA[Folosirea zoom-ului la valori mari permite captarea unor detalii abstracte.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_48"><translate><![CDATA[Lumina de amiaza tarzie]]></translate></item>
+	<item v="popUp_subtitle_48"><translate><![CDATA[Lumina tarzie]]></translate></item>
+	<item v="popUp_body_text_48"><translate><![CDATA[Intr-o zi senina, lumina de amiaza tarzie are o anumita nuanta de albastru, care poate adauga un efect intersant fotografiei.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_49"><translate><![CDATA[Vezi lumina]]></translate></item>
+	<item v="popUp_subtitle_49"><translate><![CDATA[Sursele de lumina]]></translate></item>
+	<item v="popUp_body_text_49"><translate><![CDATA[Poti folosi o sursa specifica de lumina in propriul avantaj. Puteti obtine fotografii mai mult decat interesante fiind atenti la sursele de lumina.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_50"><translate><![CDATA[Fara bagaj]]></translate></item>
+	<item v="popUp_subtitle_50"><translate><![CDATA[Design compact]]></translate></item>
+	<item v="popUp_body_text_50"><translate><![CDATA[Datorita dimensiunilor compacte TZ1 incape cu usurinta in buzunar, permitand o calatorie fara multe bagaje.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_51"><translate><![CDATA[Zoom mare]]></translate></item>
+	<item v="popUp_subtitle_51"><translate><![CDATA[zoom optic x10]]></translate></item>
+	<item v="popUp_body_text_51"><translate><![CDATA[Puternicul zoom optic x10, echivalent 35-350 mm la o camera pe 35 mm se regaseste intr-o camera cu dimensiuni compacte.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_51_0"><translate><![CDATA[1 X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_1"><translate><![CDATA[2 X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_2"><translate><![CDATA[5 X ZOOM]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_3"><translate><![CDATA[10 X ZOOM]]></translate></item>
+	
+	<item v="popUp_hotspot_text_52"><translate><![CDATA[Fotografii grozave la zoom mare]]></translate></item>
+	<item v="popUp_subtitle_52"><translate><![CDATA[O.I.S]]></translate></item>
+	<item v="popUp_body_text_52"><translate><![CDATA[Fotografierea la zoom mare accentueaza orice miscare. Datorita tehnologiei O.I.S (stabilizator optic de imagine) puteti face fotografii clare.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_52_0"><translate><![CDATA[Fara O.I.S.]]></translate></item>
+	<!-- new --><item v="popUp_caption_52_1"><translate><![CDATA[Cu O.I.S.]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_53"><translate><![CDATA[Vezi panoramic]]></translate></item>
+	<item v="popUp_subtitle_53"><translate><![CDATA[Fotografierea in mod 16:9, 3:2, 4:3]]></translate></item>
+	<item v="popUp_body_text_53"><translate><![CDATA[Puteti realiza fotografii chiar si in format wide 16:9. Inserati cardul SD in slotul special al unui televizor care poate reda imagini de pe SD si va puteti bucura de intreaga panorama captata de TZ1.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_54"><translate><![CDATA[Expresia perfecta]]></translate></item>
+	<item v="popUp_subtitle_54"><translate><![CDATA[reducerea efectului de ochi rosii]]></translate></item>
+	<item v="popUp_body_text_54"><translate><![CDATA[Folositi functia de reducerea a efectului de ochi rosii, pentru a obtine imagini perfecte.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_54_0"><translate><![CDATA[Fara functie de reducere a efectului de ochi rosii]]></translate></item>
+	<!-- new --><item v="popUp_caption_54_1"><translate><![CDATA[Cu functie de reducere a efectului de ochi rosii]]></translate></item>
+
+	<item v="popUp_hotspot_text_55"><translate><![CDATA[Sortare dupa data]]></translate></item>
+	<item v="popUp_subtitle_55"><translate><![CDATA[Afisarea calendar]]></translate></item>
+	<item v="popUp_body_text_55"><translate><![CDATA[TZ1 permite sortarea imaginilor dupa data la care au fost realizate. Acest lucru va ajuta atunci cand aveti un mare numar de fotografii.]]></translate></item>	
+
+
+
+
+
+	<!-- F1 -->
+
+	<item v="popUp_hotspot_text_56"><translate><![CDATA[Focus creativ]]></translate></item>
+	<item v="popUp_subtitle_56"><translate><![CDATA[Profunzimea campului]]></translate></item>
+	<item v="popUp_body_text_56"><translate><![CDATA[Cu ajutorul zoom-ului optic x12 poti micsora profunzimea campului din jurul subiectului, pentru a crea un efect artistic specific.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_57"><translate><![CDATA[Design inteligent]]></translate></item>
+	<item v="popUp_subtitle_57"><translate><![CDATA[Design]]></translate></item>
+	<item v="popUp_body_text_57"><translate><![CDATA[Design-ul camerei pune toate butoanele de control acolo unde ai nevoie de ele. Vizorul electronic si ecranul LCD sunt aliniate, pentru a elimina diferentele dintre imagini.]]></translate></item>	
+<!-- new 22-03-2006 --><item v="popUp_caption_57_0"><translate><![CDATA[Butoane control]]></translate></item>
+	
+	<item v="popUp_hotspot_text_58"><translate><![CDATA[Fotografii macro clare]]></translate></item>
+	<item v="popUp_subtitle_58"><translate><![CDATA[O.I.S. in mod macro]]></translate></item>
+	<item v="popUp_body_text_58"><translate><![CDATA[Fotografierea de macro necesita o camera complet nemiscata. Cu ajutorul stabilizatorului optic de imagine O.I.S poti realiza imagini clare chiar si fara trepied.]]></translate></item>	
+<!-- new --><item v="popUp_caption_58_0"><translate><![CDATA[Cu O.I.S.]]></translate></item>
+<!-- new --><item v="popUp_caption_58_1"><translate><![CDATA[Fara O.I.S.]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_59"><translate><![CDATA[Lumina de fundal puternica]]></translate></item>
+	<item v="popUp_subtitle_59"><translate><![CDATA[Backlight compensation]]></translate></item>
+	<item v="popUp_body_text_59"><translate><![CDATA[Lumina de fundal puternica – de exemplu lumina soarelui, poate si rezolvata prin compensare, apasand in modul automat pe butonul specific din partea superioara a camerei.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_60"><translate><![CDATA[Setari multiple]]></translate></item>
+	<item v="popUp_subtitle_60"><translate><![CDATA[Setari multiple]]></translate></item>
+	<item v="popUp_body_text_60"><translate><![CDATA[FZ7 permite setarea in functie de diafragma, functie de timp, manuala, mod automat, macro, imagini in miscare sau moduri predefinte.]]></translate></item>	
+<!-- new --><item v="popUp_caption_60_0"><translate><![CDATA[Setari]]></translate></item>
+
+	<item v="popUp_hotspot_text_61"><translate><![CDATA[Fotografii macro clare]]></translate></item>
+	<item v="popUp_subtitle_61"><translate><![CDATA[O.I.S. in mod macro]]></translate></item>
+	<item v="popUp_body_text_61"><translate><![CDATA[Fotografierea de macro necesita o camera complet nemiscata. Cu ajutorul stabilizatorului optic de imagine O.I.S poti realiza imagini clare chiar si fara trepied.]]></translate></item>	
+<!-- new --><item v="popUp_caption_61_0"><translate><![CDATA[Cu O.I.S.]]></translate></item>
+<!-- new --><item v="popUp_caption_61_1"><translate><![CDATA[Fara O.I.S.]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_62"><translate><![CDATA[Balansul de alb]]></translate></item>
+	<item v="popUp_subtitle_62"><translate><![CDATA[Balansul de alb]]></translate></item>
+	<item v="popUp_body_text_62"><translate><![CDATA[Diferitele surse de lumina au diferite temperaturi de culoare, ceea ce poate cauza diverse nuante de culoare nedorite. Poti seta balansul de alb pe automat si camera rezolva aceasta problema pentru tine.]]></translate></item>	
+<!-- new --><item v="popUp_caption_62_0"><translate><![CDATA[Balansul de alb]]></translate></item>
+<!-- new --><item v="popUp_caption_62_1"><translate><![CDATA[]]></translate></item>
+
+	<item v="popUp_hotspot_text_63"><translate><![CDATA[Lumina slaba]]></translate></item>
+	<item v="popUp_subtitle_63"><translate><![CDATA[O.I.S. in interior]]></translate></item>
+	<item v="popUp_body_text_63"><translate><![CDATA[Folosirea blitului in interior poate cauza efecte nedorite de lumina. Prin folosirea unui timp de expunere mai mare, combinat cu O.I.S. – stabilizatorul optic de imagine, poti capta o atmosfera mult mai calda.]]></translate></item>	
+<!-- new --><item v="popUp_caption_63_0"><translate><![CDATA[FLASH Oprit]]></translate></item>
+<!-- new --><item v="popUp_caption_63_1"><translate><![CDATA[FLASH Pornit]]></translate></item>
+
+	<item v="popUp_hotspot_text_64"><translate><![CDATA[Modul fotografie in cascada]]></translate></item>
+	<item v="popUp_subtitle_64"><translate><![CDATA[Fotografie in cascada]]></translate></item>
+	<item v="popUp_body_text_64"><translate><![CDATA[Poti face pana la 13 fotografii consecutive la 3 cadre pe secunda in modul standard. FZ7 permite si modul de fotografiere nelimitat, pana la umplerea cardului de memorie.]]></translate></item>	
+<!-- new --><item v="popUp_caption_64_0"><translate><![CDATA[Cadru 1]]></translate></item>
+<!-- new --><item v="popUp_caption_64_1"><translate><![CDATA[Cadru 2]]></translate></item>
+<!-- new --><item v="popUp_caption_64_2"><translate><![CDATA[Cadru 3]]></translate></item>
+<!-- new --><item v="popUp_caption_64_3"><translate><![CDATA[Cadru 4]]></translate></item>
+
+	<item v="popUp_hotspot_text_65"><translate><![CDATA[LCD High Angle]]></translate></item>
+	<item v="popUp_subtitle_65"><translate><![CDATA[LCD High Angle]]></translate></item>
+	<item v="popUp_body_text_65"><translate><![CDATA[Aceasta facilitate iti permite sa vezi imaginea de pe ecranul LCD chiar si in situatia in care camera este tinuta deasupra capului.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_66"><translate><![CDATA[Timp de expunere rapid]]></translate></item>
+	<item v="popUp_subtitle_66"><translate><![CDATA[Timp de expunere rapid]]></translate></item>
+	<item v="popUp_body_text_66"><translate><![CDATA[Atunci cand fotografiezi un subiect in miscare, cum ar fi o masina de Formula 1 care se misca cu 300km/h, ai nevoie de un timp rapid de expunere pentru a capta imaginea.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_67"><translate><![CDATA[Urmarirea]]></translate></item>
+	<item v="popUp_subtitle_67"><translate><![CDATA[Modul urmarire]]></translate></item>
+	<item v="popUp_body_text_67"><translate><![CDATA[Urmarind un subiect cu camera fundalul va deveni neclar, in timp ce subiectul se mentine clar. Acest „artificiu” poate fi utilizat pentru a da o senzatie de viteza.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_68"><translate><![CDATA[Zoom mare]]></translate></item>
+	<item v="popUp_subtitle_68"><translate><![CDATA[Zoom mare]]></translate></item>
+	<item v="popUp_body_text_68"><translate><![CDATA[FZ7 beneficiaza de obiectiv Leica cu un zoom optic x12, echivalentul a 36-432 mm la o camera clasica.]]></translate></item>	
+<!-- new --><item v="popUp_caption_68_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_68_1"><translate><![CDATA[6X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_68_2"><translate><![CDATA[12X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_68_3"><translate><![CDATA[16.5X EXTRA ZOOM]]></translate></item>
+
+	<item v="popUp_hotspot_text_69"><translate><![CDATA[Timp de declansare rapid]]></translate></item>
+	<item v="popUp_subtitle_69"><translate><![CDATA[Timp de declansare rapid]]></translate></item>
+	<item v="popUp_body_text_69"><translate><![CDATA[FZ7 ofera un timp de declansare de numai 0,08 secunde, asa ca poti face fotografii fara nici o problema.]]></translate></item>	
+<!-- new --><item v="popUp_caption_69_0"><translate><![CDATA[0.0008 S]]></translate></item>
+<!-- new --><item v="popUp_caption_69_1"><translate><![CDATA[0.0016 S]]></translate></item>
+<!-- new --><item v="popUp_caption_69_2"><translate><![CDATA[0.0024 S]]></translate></item>
+<!-- new --><item v="popUp_caption_69_3"><translate><![CDATA[0.0032 S]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_70"><translate><![CDATA[Da dovada de imaginatie]]></translate></item>
+	<item v="popUp_subtitle_70"><translate><![CDATA[Creativitate]]></translate></item>
+	<item v="popUp_body_text_70"><translate><![CDATA[Folosind reflectiile, puteti realiza compozitii interesante. Apa de pe strada, geamurile masinilor, fatadele de sticla – toate pot crea fotografii interesante.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_71"><translate><![CDATA[Focus manual]]></translate></item>
+	<item v="popUp_subtitle_71"><translate><![CDATA[Functii manuale]]></translate></item>
+	<item v="popUp_body_text_71"><translate><![CDATA[Joystick-ul din spatele camerei iti ofera acces rapid la functia de focus manual. Poti folosi si functia de asistenta la Focus Manual care te ajuta prin marirea imaginii de pe centrul ecranului LCD.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_72"><translate><![CDATA[Joystick pentru operare facila]]></translate></item>
+	<item v="popUp_subtitle_72"><translate><![CDATA[Setarile rapide cu ajutorul joystick-ului]]></translate></item>
+	<item v="popUp_body_text_72"><translate><![CDATA[Poti seta diafragma, timpul de expunere si focus-ul cu ajutorul joystick-ului, in timp ce incadrezi subiectul. ]]></translate></item>	
+
+	<item v="popUp_hotspot_text_73"><translate><![CDATA[Obiectiv Leica DC]]></translate></item>
+	<item v="popUp_subtitle_73"><translate><![CDATA[Obiectiv Leica DC]]></translate></item>
+	<item v="popUp_body_text_73"><translate><![CDATA[Performanta lentilelor este cruciala pentru o fotografie buna. Leica face obiective apreciate de fotografii din intreaga lume, din 1913.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_74"><translate><![CDATA[Modul sport]]></translate></item>
+	<item v="popUp_subtitle_74"><translate><![CDATA[Modul sport]]></translate></item>
+	<item v="popUp_body_text_74"><translate><![CDATA[In acest mod predefinit, timpul de expunere este foarte scurt, iar diafragma este setata pe automat astfel incat sa surprinzi exact momentul oportun.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_75"><translate><![CDATA[Abstract]]></translate></item>
+	<item v="popUp_subtitle_75"><translate><![CDATA[Creativitate]]></translate></item>
+	<item v="popUp_body_text_75"><translate><![CDATA[Foloseste zoom-ul x12 al modelului FZ7 pentru a surpinde chiar si cele mai indepartate si abstracte situatii.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_76"><translate><![CDATA[LCD luminos]]></translate></item>
+	<item v="popUp_subtitle_76"><translate><![CDATA[LCD luminos]]></translate></item>
+	<item v="popUp_body_text_76"><translate><![CDATA[FZ7 ofera un ecran LCD luminos, de 2,5 inch, cu functie PowerLCD care poate creste luminozitatea ecranului cu pana la 40% pentru a fi vazut mai bine, in zilele insorite.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_77"><translate><![CDATA[Expunere automata]]></translate></item>
+	<item v="popUp_subtitle_77"><translate><![CDATA[Modul auto expunere]]></translate></item>
+	<item v="popUp_body_text_77"><translate><![CDATA[Modul Program AE determina timpul de expunere si diafragma optima pentru ceea ce ai nevoie. In acelasi timp poti folosi Program Shift pentru a mentine expunerea in timp ce modifici diafragma.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_78"><translate><![CDATA[Unghiuri de vedere diferite]]></translate></item>
+	<item v="popUp_subtitle_78"><translate><![CDATA[Creativitatea]]></translate></item>
+	<item v="popUp_body_text_78"><translate><![CDATA[Cateodata merita sa vezi lucrurile in mod diferit. Repetitia scaunelor de la tribuna centrala creeaza o perspectiva interesanta.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_79"><translate><![CDATA[Zoom mare]]></translate></item>
+	<item v="popUp_subtitle_79"><translate><![CDATA[Zoom mare]]></translate></item>
+	<item v="popUp_body_text_79"><translate><![CDATA[La o rezolutie de 3 Megapixeli, zoom-ul optic poate fi extins pana la 16,5x cu minime deteriorari, folosind partea centrala a CCD-ului.]]></translate></item>	
+<!-- new --><item v="popUp_caption_79_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_79_1"><translate><![CDATA[6X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_79_2"><translate><![CDATA[12X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_79_3"><translate><![CDATA[16.5X ZOOM]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_80"><translate><![CDATA[LCD mare]]></translate></item>
+	<item v="popUp_subtitle_80"><translate><![CDATA[LCD mare]]></translate></item>
+	<item v="popUp_body_text_80"><translate><![CDATA[LCD-ul de dimensiuni mari iti permite sa verifci fiecare cadru, chiar si in modul de 25 de cadre afisate pe ecran.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_81"><translate><![CDATA[Vizualizare]]></translate></item>
+	<item v="popUp_subtitle_81"><translate><![CDATA[Mod vizualizare]]></translate></item>
+	<item v="popUp_body_text_81"><translate><![CDATA[Sa vezi ceea ce ai pozat se poate dovedi extrem de amuzant. Alege modul slideshow, 1, 9 sau 25 de cadre pe ecran, sau modul calendar.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_82"><translate><![CDATA[Zoom optic x12]]></translate></item>
+	<item v="popUp_subtitle_82"><translate><![CDATA[Zoom mare]]></translate></item>
+	<item v="popUp_body_text_82"><translate><![CDATA[FZ7 beneficiaza de lentile Leica DC cu un remarcabil zoom optic x12, echivalent a 36-432mm la o camera clasica. Aceasta la un asemenea zoom ar fi trebuit sa aiba dimensiuni foarte mari.]]></translate></item>	
+<!-- new --><item v="popUp_caption_82_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_82_1"><translate><![CDATA[6X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_82_2"><translate><![CDATA[12X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_82_3"><translate><![CDATA[16.5X ZOOM]]></translate></item>
+	
+	<item v="popUp_hotspot_text_83"><translate><![CDATA[Auto focus rapid]]></translate></item>
+	<item v="popUp_subtitle_83"><translate><![CDATA[Auto focus rapid]]></translate></item>
+	<item v="popUp_body_text_83"><translate><![CDATA[FZ7 ofera mai multe moduri de autofocus: spot, 1-point (normal sau de rapid), 3-point rapid, si 9-point. Poti folosi de asemenea lampa de asistenta la auto-focus.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_84"><translate><![CDATA[Peisaj]]></translate></item>
+	<item v="popUp_subtitle_84"><translate><![CDATA[Modul perisaj]]></translate></item>
+	<item v="popUp_body_text_84"><translate><![CDATA[In modul de fotografiere a peisajelor, camera focuseaza pe un subiect aflat la distanta, ceea ce iti permite sa fotografiezi peisaje superbe.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_85"><translate><![CDATA[Asfintit]]></translate></item>
+	<item v="popUp_subtitle_85"><translate><![CDATA[Modul manual]]></translate></item>
+	<item v="popUp_body_text_85"><translate><![CDATA[Pentru astfel de fotografii, am ales setari manuale si am setat o diafragma mare pentru a compensa soarele care bate direct in lentile. Cu ajutorul O.I.S puteti realiza o imagine perfecta.]]></translate></item>	
+<!-- new --><item v="popUp_caption_85_0"><translate><![CDATA[]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_86"><translate><![CDATA[Operare usoara prin joystick]]></translate></item>
+	<item v="popUp_subtitle_86"><translate><![CDATA[Operare usoara prin joystick]]></translate></item>
+	<item v="popUp_body_text_86"><translate><![CDATA[Tine apasat joystick-ul pentru 1 secunda si vei avea acces rapid la setarea balansului de alb, sensibilitatea ISO, marimea imaginii si calitatea imaginii.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_87"><translate><![CDATA[Parasolar lentile]]></translate></item>
+	<item v="popUp_subtitle_87"><translate><![CDATA[Accesoriile]]></translate></item>
+	<item v="popUp_body_text_87"><translate><![CDATA[In situatii in care atmosfera este foarte luminoasa, poti folosi parasolarul pentru a limita lumina care intra in obiectiv.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_88"><translate><![CDATA[Zoom mare]]></translate></item>
+	<item v="popUp_subtitle_88"><translate><![CDATA[O.I.S. zoom]]></translate></item>
+	<item v="popUp_body_text_88"><translate><![CDATA[FZ7 beneficiaza de lentile Leica DC cu un remarcabil zoom optic x12, echivalent a 36-432mm la o camera clasica. Aceasta, la un asemenea zoom ar fi trebuit sa aiba dimensiuni foarte mari.]]></translate></item>	
+<!-- new --><item v="popUp_caption_88_0"><translate><![CDATA[1X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_88_1"><translate><![CDATA[6X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_88_2"><translate><![CDATA[12X ZOOM]]></translate></item>
+<!-- new --><item v="popUp_caption_88_3"><translate><![CDATA[16.5X ZOOM]]></translate></item>
+
+	<item v="popUp_hotspot_text_89"><translate><![CDATA[Lumina de dupa-amiaza tarziu]]></translate></item>
+	<item v="popUp_subtitle_89"><translate><![CDATA[Creativitatea]]></translate></item>
+	<item v="popUp_body_text_89"><translate><![CDATA[Fotografia a fost luata dupa-amiaza tarziu, cu lumina soarelui in spatele masinii. Datorita cantitatii de lumina care a intrat in obiectiv, masina apare ca o silueta in lumina stralucitoare.]]></translate></item>			
+
+
+
+	<!-- Key technology pop ups -->
+	<item v="popUp_tech_subtitle_0"><translate><![CDATA[Stabilizator optic de imagine]]></translate></item>
+	<item v="popUp_tech_body_text_0"><translate><![CDATA[MEGA O.I.S. elimina tremurul mainii oferind imagini clare chiar si in situatiile in care  problema tremurului este evidenta. Cu ajutorul mecanismului de eliminare a tremurului mainii, camerele foto Lumix stabilesc un nou standard in industria digitala, catre un nivel care nu poate fi masurat numai prin rezolutie sau specificatiile lentilelor.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_1"><translate><![CDATA[Lentile Leica DC]]></translate></item>
+	<item v="popUp_tech_body_text_1"><translate><![CDATA[Fiecare din aceste obiective include un numar de lentile asferice pentru a compensa aberatiile sferice. De asemenea, pentru fiecare s-a folosit un proces de acoperiri multiple, pentru a elimina aberatiile optice.
+
+*Leica este o marca inregistrata a Leica Microsystems IR GmbH]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_2"><translate><![CDATA[Venus Engine Plus, II si III]]></translate></item>
+	<item v="popUp_tech_body_text_2"><translate><![CDATA[Toate tehnologiile de procesare a imaginii Venus Engine, aduc un plus de viteza si cresc rezolutia diagonala cu pana la 50%, pentru imagini superbe. Venus Engine II si II cresc rezolutia verticala cu pana la 10% mai mult si corecteaza aberatiile de culoare care se observa mai ales la zoom mare. Venus Engine Plus si III imbunatatesc si consumul de energie.]]></translate></item>			
+
+
+</root>

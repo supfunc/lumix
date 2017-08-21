@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<links>
+	<camera name="DMC-LZ5" url="http://www.panasonic.fr/servlet/PB/menu/1219469_l3/index.html"/>
+	<camera name="DMC-LZ3" url="http://www.panasonic.fr/servlet/PB/menu/1219471_l3/index.html"/>
+	<camera name="DMC-LS2" url="http://www.panasonic.fr/servlet/PB/menu/1219472_l3/index.html"/>
+	<camera name="DMC-FX01" url="http://www.panasonic.fr/servlet/PB/menu/1221581_l3/index.html"/>
+	<camera name="DMC-FX07" url="http://www.panasonic.fr:80/servlet/PB/menu/1239854_l3/index.html"/>
+	<camera name="DMC-FX50" url="http://www.panasonic.fr:80/servlet/PB/menu/1239855_l3/index.html"/>
+	<camera name="DMC-LX2" url="http://www.panasonic.fr:80/servlet/PB/menu/1239859_l3/index.html"/>
+	<camera name="DMC-FZ50" url="http://www.panasonic.fr:80/servlet/PB/menu/1239857_l3/index.html"/>
+	<camera name="DMC-FZ7" url="http://www.panasonic.fr/servlet/PB/menu/1220340_l3/index.html"/>
+	<camera name="DMC-TZ1" url="http://www.panasonic.fr/servlet/PB/menu/1221577_l3/index.html"/>
+	<camera name="DMC-L1" url="http://www.panasonic.fr/servlet/PB/menu/1222373_l3/index.html"/>
+	<camera name="DMC-FX3" url="http://www.panasonic.fr:80/servlet/PB/menu/1239852_l3/index.html"/>
+	
+	<lumixAward url="http://www.lumixaward.com"/>
+</links>

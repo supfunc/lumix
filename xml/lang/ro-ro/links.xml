@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<links>
+	<camera name="DMC-LZ5" url="http://www.panasonic.ro/products/product.jsp?id=515"/>
+	<camera name="DMC-LZ3" url="http://www.panasonic.ro/products/product.jsp?id=516"/>
+	<camera name="DMC-LS2" url="http://www.panasonic.ro/products/product.jsp?id=518"/>
+	<camera name="DMC-FX01" url="http://www.panasonic.ro/products/product.jsp?id=531"/>
+	<camera name="DMC-FX07" url="http://www.panasonic.ro/products/product.jsp?id=631"/>
+	<camera name="DMC-FX50" url="http://www.panasonic.ro/products/product.jsp?id=373"/>
+	<camera name="DMC-LX2" url="http://www.panasonic.ro/products/product.jsp?id=626"/>
+	<camera name="DMC-FZ50" url="http://www.panasonic.ro/products/product.jsp?id=624"/>
+	<camera name="DMC-FZ7" url="http://www.panasonic.ro/products/product.jsp?id=519"/>
+	<camera name="DMC-TZ1" url="http://www.panasonic.ro/products/product.jsp?id=528"/>
+	<camera name="DMC-L1" url="http://www.panasonic.ro/products/product.jsp?id=607"/>
+	<camera name="DMC-FX3" url="http://www.panasonic.ro/products/product.jsp?id=634"/>
+	
+	<lumixAward url="http://www.lumixaward.com"/>
+</links>

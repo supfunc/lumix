@@ -1,0 +1,772 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<!-- 'Loading' website data -->
+	<item v="loading"><translate><![CDATA[IELĀDĒ]]></translate></item>
+<!-- new --><item v="disclaimer"><translate><![CDATA[© 2006 Panasonic Marketing Europe GmbH]]></translate></item>
+<!-- new --><item v="select_language"><translate><![CDATA[Izvēlēties valodu]]></translate></item>
+
+	<!-- SECTION: HOME PAGE -->
+	
+	<item v="home_title"><translate><![CDATA[Izpētiet Lumix Difference.]]></translate></item>
+	<item v="home_subtitle"><translate><![CDATA[Ar Lumix digitālajām fotokamerām uzņemt labus attēlus ir vienkārši. Eksperimentējiet ar fotogrāfijām, iegūstiet jaunu perspektīvu un ļaujiet Lumix paveikt darbu. Izvērtējiet mūsu piezīmes un atklājiet sev Lumix Difference!]]></translate></item>
+
+	<!-- panels -->
+	<item v="section0_title"><translate><![CDATA[Lumix godalga]]></translate></item>
+	<item v="section0_subtitle"><translate><![CDATA[Iesniedziet savus attēlus digitālo fotogrāfiju godalgai]]></translate></item>
+	
+	<item v="section1_title"><translate><![CDATA[Izstrādājumu klāsts]]></translate></item>
+	<item v="section1_subtitle"><translate><![CDATA[Apskatiet piedāvājumu un pieņemiet Lumix priekšrocības.]]></translate></item>
+	
+	<item v="section2_subtitle"><translate><![CDATA[LONDONAS IELĀS AR DIVĀM DRAUDZENĒM]]></translate></item>
+
+	<item v="section3_subtitle"><translate><![CDATA[Apceļo Barselonu ar draudzeni]]></translate></item>
+	
+	<item v="section4_subtitle"><translate><![CDATA[VĒRO FORMULA 1 TESTA BRAUCIENU HERESĀ]]></translate></item>
+
+	<!-- FEATURING THE [CAMERA NAME] -->
+	<item v="featuring"><translate><![CDATA[Reklamē]]></translate></item>
+	<item v="the"><translate><![CDATA[]]></translate></item>
+	
+	<!-- FLOATING MAIN MENU -->
+	
+	<item v="menu_overview"><translate><![CDATA[Pārskats]]></translate></item>
+	<item v="menu_scene"><translate><![CDATA[Skats]]></translate></item>
+	<item v="menu_lumix_award"><translate><![CDATA[Atveriet Lumix godalga]]></translate></item>
+	<item v="menu_product_range"><translate><![CDATA[Lumix izstrādājumu klāsts]]></translate></item>
+	<!-- menu items -->
+	<item v="menu_0"><translate><![CDATA[Uz sākumu]]></translate></item>
+	<item v="menu_1"><translate><![CDATA[Sekojiet Annai Londonas gaitās]]></translate></item>
+	<item v="menu_2"><translate><![CDATA[SEKOJIET PIETRO, KAS APCEĻO BARSELONU]]></translate></item>
+	<item v="menu_3"><translate><![CDATA[SEKOJIET TOMASAM F1 TESTA BRAUCIENA LAIKĀ]]></translate></item>
+	<item v="menu_4"><translate><![CDATA[Lumix izstrādājumu klāsts]]></translate></item>
+	<item v="menu_5"><translate><![CDATA[ATVĒRIET Lumix godalga]]></translate></item>
+	
+	<!-- PRODUCT INFO -->
+	<!-- Launch product info panel-->
+	<item v="find_out_more_DMC-FX01"><translate><![CDATA[Vairāk par DMC-FX01]]></translate></item>
+	<item v="find_out_more_DMC-FZ7"><translate><![CDATA[Vairāk par DMC-FZ7]]></translate></item>
+	<item v="find_out_more_DMC-TZ1"><translate><![CDATA[Vairāk par DMC-TZ1]]></translate></item>
+	
+	<!-- Camera types -->
+	<item v="cam_type_0"><translate><![CDATA[Jautrība un ērtības]]></translate></item>
+	<item v="cam_type_1"><translate><![CDATA[Stilīgs un kompakts]]></translate></item>
+	<item v="cam_type_2"><translate><![CDATA[Pasaules apceļotājs]]></translate></item>
+	<item v="cam_type_3"><translate><![CDATA[Pusprofesionālis]]></translate></item>
+	<item v="cam_type_4"><translate><![CDATA[Profesionāla]]></translate></item>
+	<item v="cam_type_5"><translate><![CDATA[Profesionāla SLR]]></translate></item>
+	
+	<!-- Camera specifications. In main.xml, specify id for each spec that applies to a camera -->
+	<item v="spec_0"><translate><![CDATA[optiskais palielinājums]]></translate></item>
+	<item v="spec_1"><translate><![CDATA[Optiskā attēla stabilizēšana]]></translate></item>
+	<item v="spec_2"><translate><![CDATA[Leica objektīvs]]></translate></item>
+	<item v="spec_3"><translate><![CDATA[VENUS ENGINE]]></translate></item>
+	<item v="spec_4"><translate><![CDATA[mega attēla elementi]]></translate></item>
+	<item v="spec_5"><translate><![CDATA[MAr roku regulējamas funkcijas]]></translate></item>
+	<item v="spec_6"><translate><![CDATA[Augsta skatu punkta šķidro kristālu ekrāns]]></translate></item>
+	<item v="spec_7"><translate><![CDATA[Platleņķis]]></translate></item>
+	<item v="spec_8"><translate><![CDATA[SLR]]></translate></item>
+	<item v="spec_9"><translate><![CDATA[Liels šķidro kristālu ekrāns]]></translate></item>
+	<item v="spec_10"><translate><![CDATA[16:9 CCD]]></translate></item>
+	
+	<!-- SECTION: LUMIX AWARD -->
+	
+	<item v="lumix_award_title"><translate><![CDATA[Lumix 2006. gada godalga]]></translate></item>
+	<item v="lumix_award_subtitle"><translate><![CDATA[Lumix godalga tiek piešķirta piekto gadu un aicina katru piedalīties Eiropas daudzpusīgajā digitālo fotogrāfiju konkursā.]]></translate></item>
+	<item v="previous_winners"><translate><![CDATA[Iepriekšējo gadu uzvarētāji]]></translate></item>
+	<item v="enter_award"><translate><![CDATA[ATVĒRIET Lumix godalga]]></translate></item>
+	
+	<!-- Image navigation -->
+	<item v="close"><translate><![CDATA[Atpakaļ]]></translate></item>
+	<item v="prev_image"><translate><![CDATA[Iepriekšējais]]></translate></item>
+	<item v="next_image"><translate><![CDATA[Nākamais]]></translate></item>
+	
+	
+	<!-- SECTION: PRODUCT RANGE -->
+	<item v="featured"><translate><![CDATA[Raksturīgais]]></translate></item>
+	<item v="product_range_title"><translate><![CDATA[Lumix izstrādājumu klāsts]]></translate></item>
+	<item v="product_range_subtitle"><translate><![CDATA[Lumix izstrādājumu klāstā noteikti atradīsiet savām vajadzībām vispiemērotāko fotokameru. Uzziniet vairāk par to raksturīgajām funkcijām un tehnoloģijām šeit.]]></translate></item>
+	
+	<!-- Camera features -->
+	<item v="leica_lens"><translate><![CDATA[Leica objektīvs]]></translate></item>
+	
+	<!-- Camera info menu -->
+	<item v="want_to_buy"><translate><![CDATA[Pērciet šo fotokameru]]></translate></item>
+	<item v="tech_specs"><translate><![CDATA[Tehniskais raksturojums
+]]></translate></item>
+	
+	<!-- Camera navigation -->
+	<item v="close_camera"><translate><![CDATA[Atpakaļ]]></translate></item>
+	<item v="prev_camera"><translate><![CDATA[Iepriekšējais]]></translate></item>
+	<item v="next_camera"><translate><![CDATA[Nākamais]]></translate></item>
+
+	<!-- menu -->
+	<item v="see_in_action_DMC-FX01"><translate><![CDATA[Vairāk par DMC-FX01]]></translate></item>
+	<item v="see_in_action_DMC-FZ7"><translate><![CDATA[Vairāk par DMC-FZ7]]></translate></item>
+	<item v="see_in_action_DMC-TZ1"><translate><![CDATA[Vairāk par DMC-TZ1]]></translate></item>
+	<item v="buy_this_camera"><translate><![CDATA[Pērciet šo fotokameru]]></translate></item>
+	<item v="more_info"><translate><![CDATA[Tehniskais raksturojums]]></translate></item>
+	
+	<!-- Technologies -->
+<!-- new --><item v="key_technologies"><translate><![CDATA[Lumix vadošās tehnoloģi-jas]]></translate></item>
+	
+	<item v="enter_award"><translate><![CDATA[ATVĒRIET Lumix godalga]]></translate></item>
+	
+	
+	<!-- Video stories -->
+	<!-- Anna -->
+	<item v="anna_ch1_title"><translate><![CDATA[Tikšanās Annas dzīvoklī]]></translate></item>
+	<item v="anna_ch2_title"><translate><![CDATA[Sagatavošanās]]></translate></item>
+	<item v="anna_ch3_title"><translate><![CDATA[Izklaide ar izdomu]]></translate></item>
+	<item v="anna_ch4_title"><translate><![CDATA[Ar taksi uz klubu]]></translate></item>
+	<item v="anna_ch5_title"><translate><![CDATA[Milzenis]]></translate></item>
+	<item v="anna_ch6_title"><translate><![CDATA[Aizkari]]></translate></item>
+	<item v="anna_ch7_title"><translate><![CDATA[Flirts ar bārmeni]]></translate></item>
+	<item v="anna_ch8_title"><translate><![CDATA[Pļāpāšana dīvānā]]></translate></item>
+	<item v="anna_ch9_title"><translate><![CDATA[Deju zālē]]></translate></item>
+	
+	<!-- Pietro -->
+	<item v="pietro_ch1_title"><translate><![CDATA[Barselonas nomales]]></translate></item>
+	<item v="pietro_ch2_title"><translate><![CDATA[Pozīcija centrā]]></translate></item>
+	<item v="pietro_ch3_title"><translate><![CDATA[Placa Real]]></translate></item>
+	<item v="pietro_ch4_title"><translate><![CDATA[Ārpus kafejnīcas]]></translate></item>
+	<item v="pietro_ch5_title"><translate><![CDATA[Viesnīcā]]></translate></item>
+	<item v="pietro_ch6_title"><translate><![CDATA[Pludmalē]]></translate></item>
+	<item v="pietro_ch7_title"><translate><![CDATA[modernajai arhitektūrai]]></translate></item>
+	<item v="pietro_ch8_title"><translate><![CDATA[Sagrada Familia apmeklējums]]></translate></item>
+	<item v="pietro_ch9_title"><translate><![CDATA[Restorāna skats]]></translate></item>
+	
+	<!-- Tim -->
+	<item v="thomas_ch1_title"><translate><![CDATA[Ierašanās Heresā]]></translate></item>
+	<item v="thomas_ch2_title"><translate><![CDATA[Šaurās ieliņās]]></translate></item>
+	<item v="thomas_ch3_title"><translate><![CDATA[Garāžā]]></translate></item>
+	<item v="thomas_ch4_title"><translate><![CDATA[Uz paaugstinājuma]]></translate></item>
+	<item v="thomas_ch5_title"><translate><![CDATA[Dalībnieku zonā]]></translate></item>
+	<item v="thomas_ch6_title"><translate><![CDATA[Ātrumposma pagriezienā]]></translate></item>
+	<item v="thomas_ch7_title"><translate><![CDATA[Centrālās tribīnes]]></translate></item>
+	<item v="thomas_ch8_title"><translate><![CDATA[TORRE TIO PEPE]]></translate></item>
+	<item v="thomas_ch9_title"><translate><![CDATA[Viltības stadionā]]></translate></item>
+	
+	<!-- video navigation -->
+	<item v="play"><translate><![CDATA[Noskatīties]]></translate></item>
+	<item v="pause"><translate><![CDATA[Apturēt]]></translate></item>
+	<item v="close_scene"><translate><![CDATA[Aizvērt skatu]]></translate></item>
+	<item v="prev_scene"><translate><![CDATA[Iepriekšējais skats]]></translate></item>
+	<item v="next_scene"><translate><![CDATA[Nākamais skats]]></translate></item>
+
+
+	
+	<!-- TABS -->
+	<item v="more_info_image"><translate><![CDATA[Uzzināt vairāk]]></translate></item>
+	
+	<!-- Hotspot rollover text -->
+	<!-- Photo hint and tips -->
+	<item v="phototip1_roll"><translate><![CDATA[LEARN MORE ABOUT LENS FLARE AND THE EFFECTS OF BACKLIGHT
+FROM A STRONG LIGHT SOURCE]]></translate></item>
+	<item v="phototip2_roll"><translate><![CDATA[Here is photo tip 2]]></translate></item>
+	<item v="phototip3_roll"><translate><![CDATA[Here is photo tip 3]]></translate></item>
+	<!-- picture -->
+	<item v="picture_roll"><translate><![CDATA[LUMIX UZŅĒMUMS]]></translate></item>
+
+	<!-- Camera settings -->
+	<!-- modes -->
+	<item v="portrait_mode"><translate><![CDATA[portreta režīms]]></translate></item>
+	<item v="simple_mode"><translate><![CDATA[vienkāršais režīms]]></translate></item>
+	<item v="macro_mode"><translate><![CDATA[MAkRO režīms]]></translate></item>
+	<item v="high_sens_mode"><translate><![CDATA[augsta jutība režīms]]></translate></item>
+	<item v="night_port_mode"><translate><![CDATA[nakts portreta režīms]]></translate></item>
+	<item v="beach_mode"><translate><![CDATA[pludmales režīms]]></translate></item>
+	<item v="sports_mode"><translate><![CDATA[sporta režīms]]></translate></item>
+	<item v="manual_mode"><translate><![CDATA[režīma regulēšana ar roku]]></translate></item>
+	<item v="scenery_mode"><translate><![CDATA[skatu režīms]]></translate></item>
+	
+	<!-- Other settings -->
+	<item v="on"><translate><![CDATA[Ieslēgts]]></translate></item>
+	<item v="off"><translate><![CDATA[Izslēgts]]></translate></item>
+	<!-- camera flash -->
+	<item v="flash"><translate><![CDATA[FLASH]]></translate></item>
+	
+	<item v="wide_angle"><translate><![CDATA[Platleņķis]]></translate></item>
+	<item v="auto_red_eye"><translate><![CDATA[automātisku sarkano acu efekta samazināšanu]]></translate></item>
+	
+	<item v="zoom"><translate><![CDATA[palielinājums]]></translate></item>
+	<item v="optical_zoom"><translate><![CDATA[kārtīgs palielinājums]]></translate></item>
+	<item v="extra_optical_zoom"><translate><![CDATA[kārtīgs papildu palielinājums]]></translate></item>
+	
+	<item v="spot_metering"><translate><![CDATA[mērīšana]]></translate></item>
+	<item v="backlight_compensation"><translate><![CDATA[pretgaismas izlīdzināšanu]]></translate></item>
+	
+	
+	
+	
+	<!-- hotspot types -->
+	<item v="hotspot_type0"><translate><![CDATA[Izstrādājuma]]></translate></item>
+	<item v="hotspot_type1"><translate><![CDATA[padoms]]></translate></item>
+	<item v="hotspot_type2"><translate><![CDATA[LUMIX
+uzņēmums]]></translate></item>
+
+	<!-- new -->
+	<!-- as displayed in end of video summary -->
+	<item v="hotspot_summary_type0"><translate><![CDATA[Izstrādājuma]]></translate></item>
+	<item v="hotspot_summary_type1"><translate><![CDATA[padoms]]></translate></item>
+	<item v="hotspot_summary_type2"><translate><![CDATA[LUMIX uzņēmums]]></translate></item>
+	
+	<item v="prev_scene_summary"><translate><![CDATA[Iepriekšējais skats]]></translate></item>
+	<item v="next_scene_summary"><translate><![CDATA[Nākamais skats]]></translate></item>
+	<!-- /new -->
+	
+	<!-- Pop up animation text -->
+	<item v="secs"><translate><![CDATA[Sekundes]]></translate></item><!-- an abreviation of "SECONDS" -->
+	<item v="ready"><translate><![CDATA[Gatavs]]></translate></item>
+
+<!-- new start -->	
+<!-- Camera dimensions - Width, Height, Depth -->
+	<item v="width_abbr"><translate><![CDATA[W]]></translate></item>
+	<item v="height_abbr"><translate><![CDATA[H]]></translate></item>
+	<item v="depth_abbr"><translate><![CDATA[D]]></translate></item>
+	
+	<item v="large_screen_display"><translate><![CDATA[liels šķidro kristālu ekrāns]]></translate></item>
+	<!-- Camera screen size ratio -->
+	<item v="normal_format"><translate><![CDATA[Parasts]]></translate></item>
+	<item v="wide_format"><translate><![CDATA[Platleņķis]]></translate></item>
+	
+	<item v="window"><translate><![CDATA[logs]]></translate></item>
+	<item v="calendar_view"><translate><![CDATA[Kalendāra skats]]></translate></item>
+	
+	<item v="normal_mode"><translate><![CDATA[parastais režīms]]></translate></item>
+	<item v="wide_mode"><translate><![CDATA[platekrāna režīms]]></translate></item>
+	
+	<item v="normal_lens"><translate><![CDATA[Parasts]]></translate></item>
+	<item v="wide_lens"><translate><![CDATA[Platleņķis]]></translate></item>
+	<!-- a camera feature -->
+	<item v="power_lcd"><translate><![CDATA[Elektroniskā šķidro kristālu ekrāna]]></translate></item>
+	<item v="button"><translate><![CDATA[taustiņš]]></translate></item>
+	
+	<item v="viewfinder_aligned"><translate><![CDATA[Skatu meklētāja un šķidro kristālu ekrāna centrējums]]></translate></item>
+	<item v="slow_shutter"><translate><![CDATA[Lēns aizvara ātrums]]></translate></item>
+	<item v="joystick"><translate><![CDATA[Vadības svira]]></translate></item>
+<!-- new end -->
+
+
+	<!-- Pop up titles -->
+	<item v="popUp_title_feature"><translate><![CDATA[Izstrādājuma]]></translate></item>
+	<item v="popUp_title_tip"><translate><![CDATA[padoms]]></translate></item>
+	<item v="popUp_title_picture"><translate><![CDATA[LUMIX uzņēmums]]></translate></item>
+	
+	
+	<!-- Pop ups -->
+	<!-- Including hotspot roll over text -->
+	<item v="popUp_hotspot_text_0"><translate><![CDATA[Padariet par aksesuāru]]></translate></item>
+	<item v="popUp_subtitle_0"><translate><![CDATA[elegants dizains]]></translate></item>
+	<item v="popUp_body_text_0"><translate><![CDATA[Modelis FX10 ar stilīgo un kompakto dizainu ir aksesuārs, kas piestāv jebkurā situācijā.]]></translate></item>
+	<item v="popUp_caption_0_0"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_1"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_2"><translate><![CDATA[]]></translate></item>
+	<item v="popUp_caption_0_3"><translate><![CDATA[]]></translate></item>
+	
+	<item v="popUp_hotspot_text_1"><translate><![CDATA[Vienkārši lietojams]]></translate></item>
+	<item v="popUp_subtitle_1"><translate><![CDATA[vienkāršais režīms]]></translate></item>
+	<item v="popUp_body_text_1"><translate><![CDATA[Visi noregulējumi tiek veikti automātiski, kas ļauj iegūt lieliskus attēlus pat ja iepriekš nekad neesat digitālo kameru lietojis. Vienkārši pavērsiet objektīvu pret objektu un piespiediet aizvara taustiņu.]]></translate></item>
+
+	<item v="popUp_hotspot_text_2"><translate><![CDATA[Nevainojams portretiem]]></translate></item>
+	<item v="popUp_subtitle_2"><translate><![CDATA[portreta režīms]]></translate></item>
+	<item v="popUp_body_text_2"><translate><![CDATA[Šis režīms ļauj uzņemt skaistus portretus dabiskās krāsās. Jūs un jūsu draugi ikreiz izskatīsies lieliski.]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_3"><translate><![CDATA[Gatavs lietošanai]]></translate></item>
+	<item v="popUp_subtitle_3"><translate><![CDATA[nekavējoša darbība]]></translate></item>
+	<item v="popUp_body_text_3"><translate><![CDATA[Ir reizes, kad fotoaparātam jābūt darba kārtībā nekavējoties. Modelis FX01 ir gatavs darbam 1,6 sekundes pēc ieslēgšanas.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_4"><translate><![CDATA[Ar kājām gaisā]]></translate></item>
+	<item v="popUp_subtitle_4"><translate><![CDATA[ šķidro kristālu ekrāns ar automātisku skatu punktu]]></translate></item>
+	<item v="popUp_body_text_4"><translate><![CDATA[Horizontāli vai vertikāli, - kā ir labāk? Pēc nofotografēšanas, attēls šķidro kristālu ekrānā vienmēr parādās pareizi, neatkarīgi no tā, kā esat turējis fotokameru.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_5"><translate><![CDATA[Uzplaiksnījuma brīdis]]></translate></item>
+	<item v="popUp_subtitle_5"><translate><![CDATA[O.I.S iekštelpās]]></translate></item>
+	<item v="popUp_body_text_5"><translate><![CDATA[Zibspuldzes pielietojums iekštelpās var padarīt nedabiski gaišu priekšplānu un pārāk tumšu fonu. O.I.S tehnoloģija ('attēla optiskā stabilizēšana') ļauj uzņemt lieliskus kadrus nelietojot zibspuldzi.]]></translate></item>
+	<item v="popUp_caption_5_0"><translate><![CDATA[Bez O.I.S.]]></translate></item>
+	<item v="popUp_caption_5_1"><translate><![CDATA[Ar O.I.S.]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_6"><translate><![CDATA[Izmēram ir nozīme]]></translate></item>
+	<item v="popUp_subtitle_6"><translate><![CDATA[mazs un kompakts]]></translate></item>
+	<item v="popUp_body_text_6"><translate><![CDATA[Stilīgais un kompaktais FX01 bez grūtībām ietilpst jebkurā rokassomiņā, tā ceļojot jums vienmēr līdzi.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_7"><translate><![CDATA[Kadri tuvplānā]]></translate></item>
+	<item v="popUp_subtitle_7"><translate><![CDATA[O.I.S tuvplāni]]></translate></item>
+	<item v="popUp_body_text_7"><translate><![CDATA[Lai uzņemtu sīku, asus tuvplānus, fotokamerai jābūt pilnīgi nekustīgai. O.I.S tehnoloģija (‘attēla optiskā stabilizēšana’) ļauj uzņemt neizplūdušus attēlus atrodoties tik tuvu, cik vien vēlaties.]]></translate></item>
+	<item v="popUp_caption_7_0"><translate><![CDATA[bez O.I.S.]]></translate></item>
+	<item v="popUp_caption_7_1"><translate><![CDATA[Ar O.I.S.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_8"><translate><![CDATA[Dalieties ar rezultātu]]></translate></item>
+	<item v="popUp_subtitle_8"><translate><![CDATA[liels šķidro kristālu ekrāns]]></translate></item>
+	<item v="popUp_body_text_8"><translate><![CDATA[Rādiet savas fotogrāfijas arī citiem. Lielais augstas izšķirtspējas šķidro kristālu ekrāns ļauj skatīt attēlus uzreiz pēc to uzņemšanas.]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_9"><translate><![CDATA[Iemūžiniet sevi]]></translate></item>
+	<item v="popUp_subtitle_9"><translate><![CDATA[pašportreta režīms]]></translate></item>
+	<item v="popUp_body_text_9"><translate><![CDATA[Nekas nav vieglāks, kā uzņemt pašportretu! Vērsiet kameru pret sevi; sarkans indikatora izgaismojums norādīs, kad esat fokusēts. Un tad – uztaisiet grimasi un piespiediet podziņu!]]></translate></item>
+	
+	<item v="popUp_hotspot_text_10"><translate><![CDATA[Platleņķis]]></translate></item>
+	<item v="popUp_subtitle_10"><translate><![CDATA[platleņķa objektīvs]]></translate></item>
+	<item v="popUp_body_text_10"><translate><![CDATA[Dažreiz pūles iedabūt kadrā visus klātesošos ir īstas mokas. 28 mm platleņķa objektīvs ietvers visus jūsu draugus, un neviens nebūs sarūgtināts.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_11"><translate><![CDATA[Skatiet kadrus platekrānā]]></translate></item>
+	<item v="popUp_subtitle_11"><translate><![CDATA[formāti]]></translate></item>
+	<item v="popUp_body_text_11"><translate><![CDATA[Attēlus var uzņemt platekrāna 16:9 formātā. Atsevišķos gadījumos īpaši noderīgi!]]></translate></item>
+	
+	<item v="popUp_hotspot_text_12"><translate><![CDATA[Vienmēr fokusēts]]></translate></item>
+	<item v="popUp_subtitle_12"><translate><![CDATA[ātra automātiskā fokusēšana]]></translate></item>
+	<item v="popUp_body_text_12"><translate><![CDATA[1-punkta liela ātruma automātiskā fokusēšana ikreiz ļauj fotografēt ātri, ērti un precīzi.]]></translate></item>
+
+	<item v="popUp_hotspot_text_13"><translate><![CDATA[Tiem, kas mīl padižoties]]></translate></item>
+	<item v="popUp_subtitle_13"><translate><![CDATA[vienkāršais režīms]]></translate></item>
+	<item v="popUp_body_text_13"><translate><![CDATA[Visi noregulējumi tiek veikti automātiski, tāpēc lieliskus attēlus var iegūt arī iedodot savu fotokameru iesācējam. Nepieciešamais paskaidrojums: atrodi objektu un spied!]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_14"><translate><![CDATA[Kļūstiet radošs]]></translate></item>
+	<item v="popUp_subtitle_14"><translate><![CDATA[atšķirīgs skatu punkts]]></translate></item>
+	<item v="popUp_body_text_14"><translate><![CDATA[Dažreiz netipiskas lietas padara attēlus pilnīgi atšķirīgus. Esiet rotaļīgs, radošs un neprātīgs vienlaikus.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_15"><translate><![CDATA[Laiks ballītei]]></translate></item>
+	<item v="popUp_subtitle_15"><translate><![CDATA[ballītes režīms]]></translate></item>
+	<item v="popUp_body_text_15"><translate><![CDATA[Kad jums ir ballītes noskaņojums, nav nepieciešamas nekādas tehnoloģijas. Pārslēdziet ballītes režīmā, un fotokamera veiks visus vakaram nepieciešamos noregulējumus.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_16"><translate><![CDATA[Priekšspēle]]></translate></item>
+	<item v="popUp_subtitle_16"><translate><![CDATA[Priekšspēle]]></translate></item>
+	<item v="popUp_body_text_16"><translate><![CDATA[Lietojot zibspuldzi, kā likums acis būs sarkanas. Ja zibspuldze noregulēta automātiskā sarkano acu efekta samazināšanas režīmā, zibspuldzes darbība tiek pārveidota par diviem īsiem uzplaiksnījumiem un problēma ir atrisināta.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_17"><translate><![CDATA[Dzīve caur objektīva aci]]></translate></item>
+	<item v="popUp_subtitle_17"><translate><![CDATA[Leica DC objektīvs]]></translate></item>
+	<item v="popUp_body_text_17"><translate><![CDATA[Modelī FX01 izmantotais izslavētais Leica DC objektīvs rada attēlus ar izteiksmīgām detaļām un vērā ņemamu piesātinājumu.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_18"><translate><![CDATA[Nekļūstiet uzkrītošs]]></translate></item>
+	<item v="popUp_subtitle_18"><translate><![CDATA[O.I.S. iekštelpās]]></translate></item>
+	<item v="popUp_body_text_18"><translate><![CDATA[Atsevišķos gadījumos zibspuldzes pielietošana var būt nepareiza pieeja. Ar O.I.S tehnoloģiju ('attēla optiskā stabilizēšana') varat izmantot mazāku aizvara ātrumu un fotografēt bez zibspuldzes.]]></translate></item>	
+	<item v="popUp_caption_18_0"><translate><![CDATA[FLASH REŽĪMS IZSLĒGTS]]></translate></item>
+	<item v="popUp_caption_18_1"><translate><![CDATA[FLASH REŽĪMS IESLĒGTS]]></translate></item>
+
+	<item v="popUp_hotspot_text_19"><translate><![CDATA[Dalieties ar rezultātu]]></translate></item>
+	<item v="popUp_subtitle_19"><translate><![CDATA[liels šķidro kristālu ekrāns]]></translate></item>
+	<item v="popUp_body_text_19"><translate><![CDATA[Rādiet savas fotogrāfijas arī citiem. Lielais augstas izšķirtspējas šķidro kristālu ekrāns ļauj apskatīt attēlus uzreiz pēc to uzņemšanas.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_20"><translate><![CDATA[Platleņķis]]></translate></item>
+	<item v="popUp_subtitle_20"><translate><![CDATA[platleņķa objektīvs]]></translate></item>
+	<item v="popUp_body_text_20"><translate><![CDATA[Dažreiz pūles iedabūt kadrā visus klātesošos ir īstas mokas. 28 mm platleņķa objektīvs ietvers visus jūsu draugus, un neviens nebūs sarūgtināts.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_21"><translate><![CDATA[Vēl tuvāk]]></translate></item>
+	<item v="popUp_subtitle_21"><translate><![CDATA[palielinājums 3,6 reizes]]></translate></item>
+	<item v="popUp_body_text_21"><translate><![CDATA[Dažreiz ir nepieciešams piekļūt tuvāk notikuma vietai. Palielinājums 3,6x ļauj fiksēt visas jūsu draugu izdarības.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_22"><translate><![CDATA[Noskatīšanās]]></translate></item>
+	<item v="popUp_subtitle_22"><translate><![CDATA[atskaņošanas režīms]]></translate></item>
+	<item v="popUp_body_text_22"><translate><![CDATA[Fotouzņēmumu noskatīšanās ir patiesa bauda, un tas ir vienkārši. Izvēlieties diapozitīvu režīmu, 1, 9 vai 25 logu rādījumu vai kalendāro režīmu, kad konkrētā datumā uzņemtie kadri tiek rādīti sīkattēlu režīmā.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_23"><translate><![CDATA[Labi pieguļ]]></translate></item>
+	<item v="popUp_subtitle_23"><translate><![CDATA[kompakts]]></translate></item>
+	<item v="popUp_body_text_23"><translate><![CDATA[FX10 ir tik mazs un kompakts, ka to var viegli ielikt vispieguļošāko DŽINSU KABATĀ.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_24"><translate><![CDATA[Paliec uz skatuves]]></translate></item>
+	<item v="popUp_subtitle_24"><translate><![CDATA[Paliec uz skatuves]]></translate></item>
+	<item v="popUp_body_text_24"><translate><![CDATA[Varat piedalīties un vienlaicīgi arī fiksēt notiekošo. O.I.S. tehnoloģija ('attēla optiskā stabilizēšana') ir mazinājusi rūpes par satricinājumiem. Kaut arī pats esat kustībā, attēli tādi nebūs.]]></translate></item>	
+	<item v="popUp_caption_24_0"><translate><![CDATA[bez O.I.S.]]></translate></item>
+	<item v="popUp_caption_24_1"><translate><![CDATA[Ar O.I.S.]]></translate></item>
+	
+
+	<item v="popUp_hotspot_text_25"><translate><![CDATA[Dalieties ar rezultātu]]></translate></item>
+	<item v="popUp_subtitle_25"><translate><![CDATA[liels šķidro kristālu ekrāns]]></translate></item>
+	<item v="popUp_body_text_25"><translate><![CDATA[Rādiet savas fotogrāfijas arī citiem. Lielais augstas izšķirtspējas šķidro kristālu ekrāns ļauj skatīt attēlus uzreiz pēc to uzņemšanas.]]></translate></item>	
+
+
+
+<!-- new onwards 17-03-06 --><!-- BARCELONA -->
+
+	<item v="popUp_hotspot_text_26"><translate><![CDATA[Ceļojiet viegli]]></translate></item>
+	<item v="popUp_subtitle_26"><translate><![CDATA[kompakts dizains]]></translate></item>
+	<item v="popUp_body_text_26"><translate><![CDATA[Pateicoties modeļa TZ1 stilīgajam un kompaktajam dizainam, tas ērti guļ kabatā.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_27"><translate><![CDATA[Lieliski attēli ar palielinājumu]]></translate></item>
+	<item v="popUp_subtitle_27"><translate><![CDATA[O.I.S. augsta transfokācija]]></translate></item>
+	<item v="popUp_body_text_27"><translate><![CDATA[Fotografējot ar ievērojamu palielinājumu, tiek akcentēta ikviena fotokameras kustība. O.I.S  tehnoloģija ('optical image stabilisation’ – attēla optiskā stabilizēšana) ļauj nofotografēt attēlus ar lielu palielinājumu, pie tam neietekmējot attēlu asumu.]]></translate></item>	
+<!-- new --><item v="popUp_caption_27_0"><translate><![CDATA[Ar O.I.S.]]></translate></item>
+<!-- new --><item v="popUp_caption_27_1"><translate><![CDATA[bez O.I.S.]]></translate></item>
+	
+	<item v="popUp_hotspot_text_28"><translate><![CDATA[Mazais spēkavīrs]]></translate></item>
+	<item v="popUp_subtitle_28"><translate><![CDATA[augsta transfokācija]]></translate></item>
+	<item v="popUp_body_text_28"><translate><![CDATA[Jaudīgais 10-kārtīgais optiskais palielinājums, kas līdzvērtīgs 35 mm kinokameras 35 līdz 350 mm objektīvam, ir ievietots ārkārtīgi kompaktā fotokamerā.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_28_0"><translate><![CDATA[1X palielinājums]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_1"><translate><![CDATA[3X palielinājums]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_2"><translate><![CDATA[6X palielinājums]]></translate></item>
+	<!-- new --><item v="popUp_caption_28_3"><translate><![CDATA[10X palielinājums]]></translate></item>
+	
+	<item v="popUp_hotspot_text_29"><translate><![CDATA[Datējiet]]></translate></item>
+	<item v="popUp_subtitle_29"><translate><![CDATA[ceļojuma datuma noregulēšana]]></translate></item>
+	<item v="popUp_body_text_29"><translate><![CDATA[Ar TZ1 varat noregulēt ceļojuma uzsākšanas datumu, lai pēc tam redzētu kurā dienā kurš fotoattēls uzņemts. Lielisks veids ceļojuma fotogrāfiju sakārtošanai.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_29_0"><translate><![CDATA[1 Diena]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_1"><translate><![CDATA[2 Diena]]></translate></item>
+	<!-- new --><item v="popUp_caption_29_2"><translate><![CDATA[]]></translate></item>
+
+
+
+
+	<item v="popUp_hotspot_text_30"><translate><![CDATA[Atrodiet skatu punktu]]></translate></item>
+	<item v="popUp_subtitle_30"><translate><![CDATA[atšķirīgs skatu punkts]]></translate></item>
+	<item v="popUp_body_text_30"><translate><![CDATA[Dažreiz atmaksājas palūkoties uz objektu nedaudz rūpīģāk. Pavirzoties apkārt un pameklējot citu skatu punktu, parasti var atrast patiešām interesantus kadrus.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_30_0"><translate><![CDATA[Skats 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_1"><translate><![CDATA[Skats 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_30_2"><translate><![CDATA[Skats 3]]></translate></item>
+		
+	<item v="popUp_hotspot_text_31"><translate><![CDATA[Esot kustībā]]></translate></item>
+	<item v="popUp_subtitle_31"><translate><![CDATA[O.I.S. satricinājums]]></translate></item>
+	<item v="popUp_body_text_31"><translate><![CDATA[Esot kustībā, satricinājumi un izplūduši kadri nav nekas neparasts. O.S.I tehnoloģija (‘attēla optiskā stabilizēšana’) kompensē jebkuru kustību, izmantojot žiro-sensorus, lai pārvietotu objektīvu pretējā virzienā – nodrošinot viscaur skaidrus un asus attēlus.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_31_0"><translate><![CDATA[bez O.I.S.]]></translate></item>
+	<!-- new --><item v="popUp_caption_31_1"><translate><![CDATA[ar O.I.S.]]></translate></item>
+
+	<item v="popUp_hotspot_text_32"><translate><![CDATA[Gatavs lietošanai]]></translate></item>
+	<item v="popUp_subtitle_32"><translate><![CDATA[nekavējoša darbība]]></translate></item>
+	<item v="popUp_body_text_32"><translate><![CDATA[Ir reizes, kad fotoaparātam jābūt darba kārtībā nekavējoties. TZ1 ir gatavs darbam 0,95 sekundes pēc ieslēgšanas.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_33"><translate><![CDATA[Vērojiet]]></translate></item>
+	<item v="popUp_subtitle_33"><translate><![CDATA[atspulgi]]></translate></item>
+	<item v="popUp_body_text_33"><translate><![CDATA[Izmantojot atspulgus, iespējams panākt interesantas kompozīcijas. Ūdens uz ielas, automašīnu logi un stikla fasādes – katrs no tiem spēj piešķirt atšķirīgu noskaņu.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_34"><translate><![CDATA[Precīzi portreti]]></translate></item>
+	<item v="popUp_subtitle_34"><translate><![CDATA[augsta jutība]]></translate></item>
+	<item v="popUp_body_text_34"><translate><![CDATA[Fotografējot kustīgu objektu, grūti izvairīties no neasa attēla. Izmantojot augstas jutības režīma noregulējumu, to iespējams mazināt. Aizvara ātrums tiek efektīvi palielināts līdz maksimālam, radot skaidrus, asus attēlus.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_34_0"><translate><![CDATA[Bez paaugstinātas jutības]]></translate></item>
+	<!-- new --><item v="popUp_caption_34_1"><translate><![CDATA[Ar paaugstinātu jutību]]></translate></item>
+	
+	<item v="popUp_hotspot_text_35"><translate><![CDATA[Leica DC objektīvs]]></translate></item>
+	<item v="popUp_subtitle_35"><translate><![CDATA[Leica DC objektīvs]]></translate></item>
+	<item v="popUp_body_text_35"><translate><![CDATA[Modelī TZ1 izmantotais izslavētais Leica DC objektīvs rada attēlus ar izteiksmīgām detaļām un vērā ņemamu piesātinājumu.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_36"><translate><![CDATA[Fokusējiet]]></translate></item>
+	<item v="popUp_subtitle_36"><translate><![CDATA[AF papildu apgaismojums]]></translate></item>
+	<item v="popUp_body_text_36"><translate><![CDATA[Vāja apgaismojuma apstākļi parasti nozīmē neprecīsu automātisko fokusēšanu. Izmantojot automātiskās fokusēšanas papildu apgaismojumu, fokusēšanas precizitāte tiek uzlabota.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_37"><translate><![CDATA[Atvainojiet!]]></translate></item>
+	<item v="popUp_subtitle_37"><translate><![CDATA[vienkāršais režīms]]></translate></item>
+	<item v="popUp_body_text_37"><translate><![CDATA[Vienkāršajā darbības režīmā visi noregulējums tiek veiktu automātiski, kas ļauj iegūt lieliskus attēlus pat ja iepriekš nekad neesat fotoaparātu lietojis. Vienkārši pavērsiet objektīvu pret objektu un piespiediet aizvara taustiņu.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_38"><translate><![CDATA[Liels šķidro kristālu ekrāns]]></translate></item>
+	<item v="popUp_subtitle_38"><translate><![CDATA[Liels šķidro kristālu ekrāns]]></translate></item>
+	<item v="popUp_body_text_38"><translate><![CDATA[Lielais šķidro kristālu ekrāns ļauj apskatīt fotoattēlu uzreiz pēc nofotografēšanas. 2,5’’ izmērs un 207,000 attēla elementu, augstas izšķirtspējas šķidro kristālu ekrāns ļuaj bez grūtībām saskatīt arī tekstu un mazus sīkattēlu.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_39"><translate><![CDATA[Mijkrēslis]]></translate></item>
+	<item v="popUp_subtitle_39"><translate><![CDATA[izmantojiet gaismu]]></translate></item>
+	<item v="popUp_body_text_39"><translate><![CDATA[Diena sāk krēslot un gaismas iegūst pavisam citu nokrāsu. To sauc par mijkrēsli. Fotografējot šādā apgaismojumā, fotogrāfijas iegūst negaidītas krāsu nianses…]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_40"><translate><![CDATA[Ātra fokusēšana]]></translate></item>
+	<item v="popUp_subtitle_40"><translate><![CDATA[ātra automātiska fokusēšana]]></translate></item>
+	<item v="popUp_body_text_40"><translate><![CDATA[Izvēlieties kādu no automātiskās fokusēšanas režīmiem: punktu, viena punkta, trīs punktu vai deviņu punktu režīmu, - atkarībā no fotografējamā kadra.Tas ikreiz nodrošina ātru, ērtu un precīzu procesu.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_40_0"><translate><![CDATA[9-punktu]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_1"><translate><![CDATA[3-punktu]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_2"><translate><![CDATA[1-punktu]]></translate></item>
+	<!-- new --><item v="popUp_caption_40_3"><translate><![CDATA[1-Vieta]]></translate></item>
+	
+	<item v="popUp_hotspot_text_41"><translate><![CDATA[Nakts cienītājs]]></translate></item>
+	<item v="popUp_subtitle_41"><translate><![CDATA[nakts portreta režīms]]></translate></item>
+	<item v="popUp_body_text_41"><translate><![CDATA[Zibspuldzes pielietojums naktī ļauj novērst kadra esošo apgaismojumu. Zemāks aizvara ātrums, kas panākts apvienojot O.I.S tehnoloģiju ar zibspuldzi, ļauj fotokamerai uzņemt vairāk gaismas. Nakts portreta režīmā iespējams noķert īsto noskaņu.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_42"><translate><![CDATA[Spilgts šķidro kristālu ekrāns]]></translate></item>
+	<item v="popUp_subtitle_42"><translate><![CDATA[spilgts šķidro kristālu ekrāns]]></translate></item>
+	<item v="popUp_body_text_42"><translate><![CDATA[Saulainā dienā skatīšanās ekrānā var sagādāt grūtības. Atliek vien piespiest Power LCD taustiņu, un ekrāns kļūst par 40% spilgtāks.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_43"><translate><![CDATA[Pludmales dzīve]]></translate></item>
+	<item v="popUp_subtitle_43"><translate><![CDATA[pludmales režīms]]></translate></item>
+	<item v="popUp_body_text_43"><translate><![CDATA[Vienā mirklī varat ierakstīt piecus secīgus kadrus, trīs kadrus sekundē parastajā režīmā. Modelim TZ1 ir arī neierobežots secīgu kadru ierakstīšanas režīms, kamēr SD atmiņas kartē vairs nav vietas.]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_0"><translate><![CDATA[Bez pludmales režīma]]></translate></item>
+	<!-- new --><item v="popUp_caption_43_1"><translate><![CDATA[Ar pludmales režīmu]]></translate></item>
+
+	<item v="popUp_hotspot_text_44"><translate><![CDATA[Notveriet mirkli]]></translate></item>
+	<item v="popUp_subtitle_44"><translate><![CDATA[mega secīgu attēlu ierakstīšana]]></translate></item>
+	<item v="popUp_body_text_44"><translate><![CDATA[Vienā mirklī varat ierakstīt piecus secīgus kadrus, trīs kadrus sekundē parastajā režīmā. Modelim TZ1 ir arī neierobežots secīgu kadru ierakstīšanas režīms, kamēr SD atmiņas kartē vairs nav vietas.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_44_0"><translate><![CDATA[Kadrs 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_1"><translate><![CDATA[Kadrs 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_2"><translate><![CDATA[Kadrs 3]]></translate></item>
+	<!-- new --><item v="popUp_caption_44_3"><translate><![CDATA[Kadrs 4]]></translate></item>
+	
+
+
+	<item v="popUp_hotspot_text_45"><translate><![CDATA[Abstraktā domāšana]]></translate></item>
+	<item v="popUp_subtitle_45"><translate><![CDATA[atšķirīgs skatu punkts]]></translate></item>
+	<item v="popUp_body_text_45"><translate><![CDATA[Paveroties uz lietām atšķirīgi, iespējams izvilināt ineresantas lietas.Eksperimentējiet ar uzņēmumiem, un izveidojiet viena objekta kolāžu no dažādiem elementiem.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_45_0"><translate><![CDATA[Skats 1]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_1"><translate><![CDATA[Skats 2]]></translate></item>
+	<!-- new --><item v="popUp_caption_45_2"><translate><![CDATA[Skats 3]]></translate></item>
+
+	<item v="popUp_hotspot_text_46"><translate><![CDATA[Priekšplāns pret fonu]]></translate></item>
+	<item v="popUp_subtitle_46"><translate><![CDATA[kompozīcija]]></translate></item>
+	<item v="popUp_body_text_46"><translate><![CDATA[Pretstatot priekšplāna un fona elementus iespējams panākt interesantu kompozīciju.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_47"><translate><![CDATA[Abstrakta transfokācija]]></translate></item>
+	<item v="popUp_subtitle_47"><translate><![CDATA[abstrakcija]]></translate></item>
+	<item v="popUp_body_text_47"><translate><![CDATA[Liela transfokācijas ātruma izmantošana ļauj uzņēmumus fotokamerā apgriezt un izveidot abstrauktas detaļas.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_48"><translate><![CDATA[Vēlas pēcpusdienas gaisma]]></translate></item>
+	<item v="popUp_subtitle_48"><translate><![CDATA[vēlā gaisma]]></translate></item>
+	<item v="popUp_body_text_48"><translate><![CDATA[Skaidras dienas pēcpusdienas gaisma ir piesātināti zila, kas spēj piešķirt jūsu attēlam siltu noskaņu.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_49"><translate><![CDATA[Redzēt gaismu]]></translate></item>
+	<item v="popUp_subtitle_49"><translate><![CDATA[mērīšana]]></translate></item>
+	<item v="popUp_body_text_49"><translate><![CDATA[Kā priekšrocību varat izmantot īpašu gaismas avotu. Izmantojot punkta mērīšanu, lai noteiktu biroju ēkas atstaroto gaismu, var panākt atšķirīga veida attēlus.]]></translate></item>	
+	
+
+
+	<item v="popUp_hotspot_text_50"><translate><![CDATA[Ceļojiet viegli]]></translate></item>
+	<item v="popUp_subtitle_50"><translate><![CDATA[kompakts dizains]]></translate></item>
+	<item v="popUp_body_text_50"><translate><![CDATA[Pateicoties modeļa TZ1 stilīgajam un kompaktajam dizainam, tas ērti guļ kabatā.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_51"><translate><![CDATA[Mazais spēkavīrs]]></translate></item>
+	<item v="popUp_subtitle_51"><translate><![CDATA[augsta transfokācija]]></translate></item>
+	<item v="popUp_body_text_51"><translate><![CDATA[Jaudīgais 10-kārtīgais optiskais palielinājums, kas līdzvērtīgs 35 mm kinokameras 35 līdz 350 mm objektīvam, ir ievietots ārkārtīgi kompaktā fotokamerā.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_51_0"><translate><![CDATA[1 X palielinājums]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_1"><translate><![CDATA[2 X palielinājums]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_2"><translate><![CDATA[5 X palielinājums]]></translate></item>
+	<!-- new --><item v="popUp_caption_51_3"><translate><![CDATA[10 X palielinājums]]></translate></item>
+	
+	<item v="popUp_hotspot_text_52"><translate><![CDATA[Attēli ar mainītu palielinājumu]]></translate></item>
+	<item v="popUp_subtitle_52"><translate><![CDATA[O.I.S. liels palielinājums]]></translate></item>
+	<item v="popUp_body_text_52"><translate><![CDATA[Fotografējot ar strauji mainīgu palielinājumu, tiek akcentēta ikviena fotokameras kustība. O.I.S  tehnoloģija ('optical image stabilisation’ – attēla optiskā stabilizēšana) ļauj nofotografēt attēlus, strauji mainot objektīva fokusa attālumu, pie tam neietekmējot attēlu asumu.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_52_0"><translate><![CDATA[bez O.I.S.]]></translate></item>
+	<!-- new --><item v="popUp_caption_52_1"><translate><![CDATA[ar O.I.S.]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_53"><translate><![CDATA[Skatieties platekrānā]]></translate></item>
+	<item v="popUp_subtitle_53"><translate><![CDATA[attēla formāti]]></translate></item>
+	<item v="popUp_body_text_53"><translate><![CDATA[Fotoattēlus iespējams uzņemt platekrāna 16:9 formātā. Pēc tam ievietojiet SD atmiņas karti ar kartes kontaktligzdu aprīkotā televizorā, lai skatītu attēlus nevainojamā platekrāna izmērā.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_54"><translate><![CDATA[Perfekta izteiksme]]></translate></item>
+	<item v="popUp_subtitle_54"><translate><![CDATA[Perfekta izteiksme]]></translate></item>
+	<item v="popUp_body_text_54"><translate><![CDATA[Izmantojot zibspuldzi, parasti iegūstam sarkanas acis. Noregulējot zibspuldzei sarkano acu novēršanas efektu, kā problēmas risinājumu iegūstam divus īsus uzplaiksnījumus.]]></translate></item>	
+	<!-- new --><item v="popUp_caption_54_0"><translate><![CDATA[Bez automātiskās sarkano acu efekta samazināšanas]]></translate></item>
+	<!-- new --><item v="popUp_caption_54_1"><translate><![CDATA[Ar automātisku sarkano acu efekta samazināšanu]]></translate></item>
+
+	<item v="popUp_hotspot_text_55"><translate><![CDATA[Datumu secībā]]></translate></item>
+	<item v="popUp_subtitle_55"><translate><![CDATA[kalendāra rādījumi]]></translate></item>
+	<item v="popUp_body_text_55"><translate><![CDATA[TZ1 spēj sakārtot attēlus to uzņemšanas dienu secība. Tas ir īpaši noderīgi, kad jāsakārto liels daudzums attēlu.]]></translate></item>	
+
+
+
+
+
+	<!-- F1 -->
+
+	<item v="popUp_hotspot_text_56"><translate><![CDATA[Radoša fokusēšana]]></translate></item>
+	<item v="popUp_subtitle_56"><translate><![CDATA[lauka dziļums]]></translate></item>
+	<item v="popUp_body_text_56"><translate><![CDATA[Lauka dziļums ir zona, ko veido asākais fokusētais punkts pirms, aiz un apkārt objektam. 12-kārtīgā transfokācija ļauj viegli panākt nelielu lauka dziļumu. To var izmantot kā apzinātu stilistisku triku ar vienu precīzi fokusētu elementu.]]></translate></item>	
+	
+	<item v="popUp_hotspot_text_57"><translate><![CDATA[Izsmalcināts dizains]]></translate></item>
+	<item v="popUp_subtitle_57"><translate><![CDATA[dizains]]></translate></item>
+	<item v="popUp_body_text_57"><translate><![CDATA[Taustiņi uz ērti satveramā korpusa izvietoti visoptimālakajās vietās. Arī elektroniskais skatu meklētājs un šķidro kristālu ekrāns izvietoti skatiena līnijā, lai atšķirības komponējot kadru būtu minimālas.]]></translate></item>	
+<!-- new 22-03-2006 --><item v="popUp_caption_57_0"><translate><![CDATA[Taustiņu]]></translate></item>
+	
+	<item v="popUp_hotspot_text_58"><translate><![CDATA[Precīzi tuvplāni]]></translate></item>
+	<item v="popUp_subtitle_58"><translate><![CDATA[O.I.S. makro]]></translate></item>
+	<item v="popUp_body_text_58"><translate><![CDATA[Lai uzņemtu sīkus, preīzus tuvplānus, fotokamerai jābūt pilnīgi nekustīgai. O.I.S tehnoloģija (‘attēla optiskā stabilizēšana’) ļauj uzņemt neizplūdušus attēlus atrodoties tik tuvu, cik vien vēlaties.]]></translate></item>	
+<!-- new --><item v="popUp_caption_58_0"><translate><![CDATA[ar O.I.S.]]></translate></item>
+<!-- new --><item v="popUp_caption_58_1"><translate><![CDATA[bez O.I.S.]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_59"><translate><![CDATA[Spēcīga pretgaisma]]></translate></item>
+	<item v="popUp_subtitle_59"><translate><![CDATA[pretgaismas izlīdzināšana]]></translate></item>
+	<item v="popUp_body_text_59"><translate><![CDATA[Spēcīga pretgaisma, piemēram, tieša saules gaisma, var radīt nevēlamus fotografēšanas apstākļus.To var novērst ar pretgaismas izlīdzināšanu, vienkāršajā režīmā piespiežot augšējo pārvietošanās taustiņu.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_60"><translate><![CDATA[Ērts režīmu izvēles disks]]></translate></item>
+	<item v="popUp_subtitle_60"><translate><![CDATA[režīmu izvēles disks]]></translate></item>
+	<item v="popUp_body_text_60"><translate><![CDATA[Režīmu iuzvēles disks ļauj elastīgi pielāgot režīmu esošajai videi. Ir pieejama programmēta automātiskā ekspozīcija, diafragmas, diafragmas prioritātes automātiskā ekspozīcija, aizvara prioritātes automātiskā ekspozīcija, režīmu regulēšana ar roku, vienkāršais, makro, kustīgu attēlu, skatu režīms, kā arī noskatīšanās režīms.]]></translate></item>	
+<!-- new --><item v="popUp_caption_60_0"><translate><![CDATA[Režīmu izvēles disks]]></translate></item>
+
+	<item v="popUp_hotspot_text_61"><translate><![CDATA[Asi tuvplāni]]></translate></item>
+	<item v="popUp_subtitle_61"><translate><![CDATA[O.I.S. makro]]></translate></item>
+	<item v="popUp_body_text_61"><translate><![CDATA[Lai uzņemtu sīku, asus tuvplānus, fotokamerai jābūt pilnīgi nekustīgai. O.I.S tehnoloģija (‘attēla optiskā stabilizēšana’) ļauj uzņemt neizplūdušus attēlus atrodoties tik tuvu, cik vien vēlaties.]]></translate></item>	
+<!-- new --><item v="popUp_caption_61_0"><translate><![CDATA[ar O.I.S.]]></translate></item>
+<!-- new --><item v="popUp_caption_61_1"><translate><![CDATA[bez O.I.S.]]></translate></item>
+
+
+
+	<item v="popUp_hotspot_text_62"><translate><![CDATA[Baltās krāsas līdzsvars]]></translate></item>
+	<item v="popUp_subtitle_62"><translate><![CDATA[Baltās krāsas līdzsvars]]></translate></item>
+	<item v="popUp_body_text_62"><translate><![CDATA[Atšķirīgiem gaismas avotiem ir atšķirīga nokrāsa, kas padara nedabīgu attēla nokrāsu. Garāžu izgaismojums veicinās attēla zaļu nokrāsu, bet noregulējot automātisku baltās krāsas līdzsvaru, fotokamera pielāgosies jaunajai apgaismojuma situācijai.]]></translate></item>	
+<!-- new --><item v="popUp_caption_62_0"><translate><![CDATA[Baltās krāsas līdzsvars]]></translate></item>
+<!-- new --><item v="popUp_caption_62_1"><translate><![CDATA[]]></translate></item>
+
+	<item v="popUp_hotspot_text_63"><translate><![CDATA[Slikts apgaismojums]]></translate></item>
+	<item v="popUp_subtitle_63"><translate><![CDATA[O.I.S. iekštelpās]]></translate></item>
+	<item v="popUp_body_text_63"><translate><![CDATA[Zibspuldzes pielietojums iekštelpās var padarīt nedabiski gaišu priekšplānu un pārāk tumšu fonu. O.I.S tehnoloģija ('attēla optiskā stabilizēšana') ļauj uzņemt lieliskus kadrus bez zibspuldzes.]]></translate></item>	
+<!-- new --><item v="popUp_caption_63_0"><translate><![CDATA[FLASH REŽĪMS IZSLĒGTS]]></translate></item>
+<!-- new --><item v="popUp_caption_63_1"><translate><![CDATA[FLASH REŽĪMS IESLĒGTS]]></translate></item>
+
+	<item v="popUp_hotspot_text_64"><translate><![CDATA[Secīgu attēlu ierakstīšanas režīms]]></translate></item>
+	<item v="popUp_subtitle_64"><translate><![CDATA[Secīgu attēlu ierakstīšanas režīms]]></translate></item>
+	<item v="popUp_body_text_64"><translate><![CDATA[Vienā mirklī varat ierakstīt līdz 13 secīgiem kadriem, trīs kadrus sekundē parastajā režīmā. Modelim FZ7 ir arī neierobežots secīgu kadru ierakstīšanas režīms, - kamēr SD atmiņas kartē vairs nav vietas.]]></translate></item>	
+<!-- new --><item v="popUp_caption_64_0"><translate><![CDATA[Kadrs 1]]></translate></item>
+<!-- new --><item v="popUp_caption_64_1"><translate><![CDATA[Kadrs 2]]></translate></item>
+<!-- new --><item v="popUp_caption_64_2"><translate><![CDATA[Kadrs 3]]></translate></item>
+<!-- new --><item v="popUp_caption_64_3"><translate><![CDATA[Kadrs 4]]></translate></item>
+
+	<item v="popUp_hotspot_text_65"><translate><![CDATA[Plaša skatu punkta šķidro kristālu ekrāns]]></translate></item>
+	<item v="popUp_subtitle_65"><translate><![CDATA[Plaša skatu punkta šķidro kristālu ekrāns]]></translate></item>
+	<item v="popUp_body_text_65"><translate><![CDATA[Plaša skatu punkta fotografēšanas funkcija atvieglo šķidro kristālu ekrāna vērošanu brīžos, kad fotografējat, turat fotokameru paceltu augstu virs pūļa.]]></translate></item>	
+
+
+
+	<item v="popUp_hotspot_text_66"><translate><![CDATA[Liels aizvara ātrums]]></translate></item>
+	<item v="popUp_subtitle_66"><translate><![CDATA[Liels aizvara ātrums]]></translate></item>
+	<item v="popUp_body_text_66"><translate><![CDATA[Fotografējot ātri kustošus objektus, piemēram, Pirmās formulas sacensības, kur automašīnu ātrums ir 200 m/s, ir nepieciešams liels aizvara ātrums, lai fotogrāfijā varētu apturēt automašīnas kustību.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_67"><translate><![CDATA[Panoramēšana]]></translate></item>
+	<item v="popUp_subtitle_67"><translate><![CDATA[panoramēšanas režīms]]></translate></item>
+	<item v="popUp_body_text_67"><translate><![CDATA[Panoramējot fotokamera seko objektam, kustoties vienā virzienā, piemēram, ar automašīnu. Objekts ir fokusēts, bet fons ir izplūdis. Panoramēšanas režīms noregulē lēnu aizvara ātrumu, tā panākot šo ātruma izjūtu.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_68"><translate><![CDATA[Liels palielinājums]]></translate></item>
+	<item v="popUp_subtitle_68"><translate><![CDATA[Liels palielinājums]]></translate></item>
+	<item v="popUp_body_text_68"><translate><![CDATA[Modelim FZ7 ir Leica DC objektīvs ar vērā ņemamu 12-kārtīgu optisko palielinājumu, kas līdzvērtīgs 35 mm kinokameras 36 līdz 432 mm objektīvam Tik jaudīga optiskā palielinājuma kinokamera būtu tik liela un smaga, ka ar vienu roku to noturēt nevarētu.]]></translate></item>	
+<!-- new --><item v="popUp_caption_68_0"><translate><![CDATA[1X palielinājums]]></translate></item>
+<!-- new --><item v="popUp_caption_68_1"><translate><![CDATA[6X palielinājums]]></translate></item>
+<!-- new --><item v="popUp_caption_68_2"><translate><![CDATA[12X palielinājums]]></translate></item>
+<!-- new --><item v="popUp_caption_68_3"><translate><![CDATA[16.5X papildu palielinājums]]></translate></item>
+
+	<item v="popUp_hotspot_text_69"><translate><![CDATA[Ātra aizvara atlaišana]]></translate></item>
+	<item v="popUp_subtitle_69"><translate><![CDATA[Ātra aizvara atlaišana]]></translate></item>
+	<item v="popUp_body_text_69"><translate><![CDATA[Modelim FZ7 ir sevišķi ātra reakcija, atlaišanas laika kavēšana ir samazināta līdz 0,008 sekundēm. Fotografēt ikreiz varat ātri, ērti un precīzi.]]></translate></item>	
+<!-- new --><item v="popUp_caption_69_0"><translate><![CDATA[0.0008 S]]></translate></item>
+<!-- new --><item v="popUp_caption_69_1"><translate><![CDATA[0.0016 S]]></translate></item>
+<!-- new --><item v="popUp_caption_69_2"><translate><![CDATA[0.0024 S]]></translate></item>
+<!-- new --><item v="popUp_caption_69_3"><translate><![CDATA[0.0032 S]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_70"><translate><![CDATA[Atspulgi]]></translate></item>
+	<item v="popUp_subtitle_70"><translate><![CDATA[radošais gars]]></translate></item>
+	<item v="popUp_body_text_70"><translate><![CDATA[Atspulgi ļauj izveidot interesantas kompozīcijas. Ūdens uz ielas, automašīnu logi un stikla fasādes – katrs no tiem spēj piešķirt atšķirīgu noskaņu.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_71"><translate><![CDATA[Fokusēšana ar roku]]></translate></item>
+	<item v="popUp_subtitle_71"><translate><![CDATA[Fokusēšana ar roku]]></translate></item>
+	<item v="popUp_body_text_71"><translate><![CDATA[Fotokameras aizmugurē esošā vadības svira ‘ļauj ātri, ērti un precīzi fokusēt ar roku. Varat izmantot arī fokusēšanas ar roku atbalsta funkciju, kas ļauj noregulēt nevainojamu fokusu, palielinot šķidro kristālu ekrāna attēla centrālo daļu.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_72"><translate><![CDATA[Ērti lietojama vadības svira]]></translate></item>
+	<item v="popUp_subtitle_72"><translate><![CDATA[palēnināta aizvara ātruma regulēšana ar vadības sviru]]></translate></item>
+	<item v="popUp_body_text_72"><translate><![CDATA[Kadrējot šķidro kristālu ekrānā, vienlaicīgi ar vadības sviru varat noregulēt diafragmu, aizvara ātrumu un fokusu.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_73"><translate><![CDATA[Leica DC objektīvs]]></translate></item>
+	<item v="popUp_subtitle_73"><translate><![CDATA[Leica DC objektīvs]]></translate></item>
+	<item v="popUp_body_text_73"><translate><![CDATA[Izcilos attēlos objektīvam ir izšķiroša nozīme. Leica Camera AG ražo pasaulslavenus objektīvus jau kopš 1913.gada. Šo objektīvu pielietojums ļauj panākt izteiksmīgas detaļas un atzīstamu dziļumu.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_74"><translate><![CDATA[Sporta režīms]]></translate></item>
+	<item v="popUp_subtitle_74"><translate><![CDATA[Sporta režīms]]></translate></item>
+	<item v="popUp_body_text_74"><translate><![CDATA[Šajā režīmā tiek izmantots lielāks aizvara ātrums un diafragma tiek noregulēta automātiski, lai varētu koncentrēt uzmanību fotografēšanai, piespiežot aizvara taustiņu īstajā brīdī.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_75"><translate><![CDATA[Abstrakcija]]></translate></item>
+	<item v="popUp_subtitle_75"><translate><![CDATA[radošais gars]]></translate></item>
+	<item v="popUp_body_text_75"><translate><![CDATA[Izmantojot FZ7 augsto palielināšanas spēju, no trasi norobežojošo riepu joslas tika izveidots abstrakts attēls. Savietojot attēlus tik cieši kā šeit, ir iespējams panākt interesantus un neparastus attēlus.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_76"><translate><![CDATA[Spilgts šķidro kristālu ekrāns]]></translate></item>
+	<item v="popUp_subtitle_76"><translate><![CDATA[Spilgts šķidro kristālu ekrāns]]></translate></item>
+	<item v="popUp_body_text_76"><translate><![CDATA[Modelim FZ78 raksturīgs 2.5’’ augstas izšķirtspējas šķidro kristālu ekrāns ar elektronisko funkciju. Pieskarieties Power LCD taustiņam un ekrāns kļūst par apmēram 40% spilgtāks, saulainās dienās ļaujot labāk saskatīt rādījumus ekrānā.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_77"><translate><![CDATA[Automātiskā ekspozīcija]]></translate></item>
+	<item v="popUp_subtitle_77"><translate><![CDATA[programmētas automātiskās ekspozīcijas režīms]]></translate></item>
+	<item v="popUp_body_text_77"><translate><![CDATA[Programmētas automātiskās ekspozīcijas režīms automātiski nosaka optimāko jums nepieciešamo diafragmas lielumu un aizvara ātrumu. Varat izmantot programmas pārvietošanu, lai saglabātu to pašu ekspozīciju, tai pat laikā mainot aizvara ātrumu un diafragmas noregulējumu.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_78"><translate><![CDATA[Cits skatu punkts]]></translate></item>
+	<item v="popUp_subtitle_78"><translate><![CDATA[radošais gars]]></translate></item>
+	<item v="popUp_body_text_78"><translate><![CDATA[Dažreiz ir patiešām vērts paskatīties uz lietām no citas puses. Centrālās tribīnes sēdvietu izstiepšana tālumā rada pavisam citu perspektīvu.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_79"><translate><![CDATA[Liels palielinājums]]></translate></item>
+	<item v="popUp_subtitle_79"><translate><![CDATA[Liels palielinājums]]></translate></item>
+	<item v="popUp_body_text_79"><translate><![CDATA[Pie 3 mega attēla elementiem, objektīva palielinājuma koeficientu var paplašināt līdz pat 16.5x papildu optiskās transfokācijas funkcijai, ar minimāliem kropļojumiem, apzināti izmantojot CCD centrālo daļu.]]></translate></item>	
+<!-- new --><item v="popUp_caption_79_0"><translate><![CDATA[1X palielinājums]]></translate></item>
+<!-- new --><item v="popUp_caption_79_1"><translate><![CDATA[6X palielinājums]]></translate></item>
+<!-- new --><item v="popUp_caption_79_2"><translate><![CDATA[12X palielinājums]]></translate></item>
+<!-- new --><item v="popUp_caption_79_3"><translate><![CDATA[16.5X papildu palielinājums]]></translate></item>
+
+
+	<item v="popUp_hotspot_text_80"><translate><![CDATA[Liels šķidro kristālu ekrāns]]></translate></item>
+	<item v="popUp_subtitle_80"><translate><![CDATA[Liels šķidro kristālu ekrāns]]></translate></item>
+	<item v="popUp_body_text_80"><translate><![CDATA[Lielais šķidro kristālu ekrāns ļauj pārbaudīt fokusu, kadrēt un izmantot citas funkcijas, piemēram, 25 sīkattēlu rādījumu un kalendāra rādījumu, bez grūtībām, nesasprindzinot acis.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_81"><translate><![CDATA[Noskatīšanās]]></translate></item>
+	<item v="popUp_subtitle_81"><translate><![CDATA[atskaņošanas režīms]]></translate></item>
+	<item v="popUp_body_text_81"><translate><![CDATA[Fotouzņēmumu noskatīšanās ir patiesa bauda un tas ir vienkārši. Izvēlieties diapozitīvu režīmu, 1, 9 vai 25 logu rādījumu vai kalendāro režīmu, kad konkrētā datumā uzņemti kadri tiek rādīti sīkattēlu režīmā.]]></translate></item>
+	
+	
+	
+	<item v="popUp_hotspot_text_82"><translate><![CDATA[12-kārtīgs optiskais palielinājums]]></translate></item>
+	<item v="popUp_subtitle_82"><translate><![CDATA[augsta transfokācija]]></translate></item>
+	<item v="popUp_body_text_82"><translate><![CDATA[Modelim FZ7 ir Leica DC objektīvs ar vērā ņemamu 12-kārtīgu optisko palielinājumu, kas līdzvērtīgs 35 mm kinokameras 36 līdz 432 mm objektīvam Tik jaudīga optiskā palielinājuma kinokamera būtu tik liela un smaga, ka ar vienu roku to noturēt nevarētu.]]></translate></item>	
+<!-- new --><item v="popUp_caption_82_0"><translate><![CDATA[1X palielinājums]]></translate></item>
+<!-- new --><item v="popUp_caption_82_1"><translate><![CDATA[6X palielinājums]]></translate></item>
+<!-- new --><item v="popUp_caption_82_2"><translate><![CDATA[12X palielinājums]]></translate></item>
+<!-- new --><item v="popUp_caption_82_3"><translate><![CDATA[16.5X papildu palielinājums]]></translate></item>
+	
+	<item v="popUp_hotspot_text_83"><translate><![CDATA[Ātra automātiska fokusēšana]]></translate></item>
+	<item v="popUp_subtitle_83"><translate><![CDATA[ātra automātiskā fokusēšana]]></translate></item>
+	<item v="popUp_body_text_83"><translate><![CDATA[FZ7 piedāvā vairākus automātiskās fokusēšanas režīmus – vietas, 1-punkta (parasta vai liela ātruma), 3-punktu liela ātruma un 9-punktu. Varat arī izmantot automātiskās fokusēšanas papildu apgaismojumu, lai sliktos apgaismojuma apstākļos varētu ērtāk fokusēt.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_84"><translate><![CDATA[Ainava]]></translate></item>
+	<item v="popUp_subtitle_84"><translate><![CDATA[skatu režīms]]></translate></item>
+	<item v="popUp_body_text_84"><translate><![CDATA[Skatu režīmā fotokamera pārsvarā fokusē attālus objektus. Tas ļauj uzņemt plašas ainavas.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_85"><translate><![CDATA[Saulriets]]></translate></item>
+	<item v="popUp_subtitle_85"><translate><![CDATA[režīma regulēšana ar roku]]></translate></item>
+	<item v="popUp_body_text_85"><translate><![CDATA[Šajā fotografēšanas režīmā režīmu izvēles disks jāregulē ar roku un, lai varētu izlīdzināt pret objektīvu vērsto tiešo saules gaismu, tiek noregulēta augsta diafragmas vērtība. Ar ieslēgtu optisko attēla stabilizēšanu (O.I.S), tiek iegūts lielisks attēls.]]></translate></item>	
+<!-- new --><item v="popUp_caption_85_0"><translate><![CDATA[]]></translate></item>
+	
+	
+	<item v="popUp_hotspot_text_86"><translate><![CDATA[Ērti lietojama vadības svira]]></translate></item>
+	<item v="popUp_subtitle_86"><translate><![CDATA[ērti lietojama vadības svira]]></translate></item>
+	<item v="popUp_body_text_86"><translate><![CDATA[Piespiediet un turiet piespiestu vadības sviru, un uzreiz arī varat mainīt baltās krāsas līdzsvaru, ISO jutību, atēla izmēru un attēla kvalitāti, - nav nepieciešams pārslēgties izvēlņu rādījumu režīmā.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_87"><translate><![CDATA[Objektīva aizsegs]]></translate></item>
+	<item v="popUp_subtitle_87"><translate><![CDATA[papildu piederumi]]></translate></item>
+	<item v="popUp_body_text_87"><translate><![CDATA[Ļoti spilgtos fotografēšanas apstākļos, uzliekot objektīva aizsegu, var novērst pārlieka gaismas daudzuma ietekmi uz objektīvu.]]></translate></item>	
+
+	<item v="popUp_hotspot_text_88"><translate><![CDATA[Liels palielinājums]]></translate></item>
+	<item v="popUp_subtitle_88"><translate><![CDATA[augsta transfokācija]]></translate></item>
+	<item v="popUp_body_text_88"><translate><![CDATA[Modelim FZ7 ir Leica DC objektīvs ar vērā ņemamu 12-kārtīgu optisko palielinājumu, kas līdzvērtīgs 35 mm kinokameras 36 līdz 432 mm objektīvam Tik jaudīga optiskā palielinājuma kinokamera būtu tik liela un smaga, ka ar vienu roku to noturēt nevarētu.]]></translate></item>	
+<!-- new --><item v="popUp_caption_88_0"><translate><![CDATA[1X palielinājums]]></translate></item>
+<!-- new --><item v="popUp_caption_88_1"><translate><![CDATA[6X palielinājums]]></translate></item>
+<!-- new --><item v="popUp_caption_88_2"><translate><![CDATA[12X palielinājums]]></translate></item>
+<!-- new --><item v="popUp_caption_88_3"><translate><![CDATA[16.5X papildu palielinājums]]></translate></item>
+
+	<item v="popUp_hotspot_text_89"><translate><![CDATA[Vēlas pēcpusdienas gaisma]]></translate></item>
+	<item v="popUp_subtitle_89"><translate><![CDATA[radošais gars]]></translate></item>
+	<item v="popUp_body_text_89"><translate><![CDATA[Šis attēls tika uzņemts velā pēcpusdienā saulei atrodoties tieši aiz mašīnas. Lielās saules daudzuma, kas tika vērsts pret objektīvu, rezultātā, attēlā automašīnas vietā redzams tikai tās siluets uz asfalta svelmes vizošā gaismā.]]></translate></item>			
+
+
+
+	<!-- Key technology pop ups -->
+	<item v="popUp_tech_subtitle_0"><translate><![CDATA[Optiskā attēla stabilizēšana]]></translate></item>
+	<item v="popUp_tech_body_text_0"><translate><![CDATA[MEGA O.I.S. notušē roku satricinājumu, ļaujot panākt ievērojami skaidrāku, asākus uzņēmumus pat tādās situācijās, kur izplūdušas kontūras ir raksturīga problēma. Lumix uzlabotā MEGA O.I.S. satricinājuma notušēšana, nosaka izcilus standartus digitālo fotokameru darbībā. Pacelieties līdz līmenim, kur attēla kvalitāti nemēra tikai ar attēla elementu skaitu vai objektīva tehnisko raksturojumu.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_1"><translate><![CDATA[Leica DC objektīvs]]></translate></item>
+	<item v="popUp_tech_body_text_1"><translate><![CDATA[Katra no šīm uzlabotajām objektīvu sistēmām ietver vairākus asfēriskus objektīvus, lai kompensētu sfērisko aberāciju. Bez tam abos objektīva virsmai tiek pielietots vairākkārtējs pārklāšanas process, lai novērstu aizsvīšanu, kas rodas uzliesmojuma un pēcattēla rezultātā.
+
+* Leica ir Leica Microsystems IR GmbH reģistrēta preču zīme.]]></translate></item>			
+
+	<item v="popUp_tech_subtitle_2"><translate><![CDATA[Venus Engine Plus, II un III]]></translate></item>
+	<item v="popUp_tech_body_text_2"><translate><![CDATA[Visas Venus Engine attēla apstrādes tehnoloģijas panāk augstāku reakcijas ātrumu un uzlabotu 50% diagonālo izšķirtspēju nevainojama attēla iegūšanai. Venus Engine II un III palielina vertikālo izšķirtspēju vēl par apmēram 10% un uzlabotu pareizu krāsu aberāciju, kas parasti vērojama liela palielinājuma uzņēmumos. Venus Engine Plus un III ir uzlabota enerģijas efektivitāte.]]></translate></item>			
+
+
+</root>
